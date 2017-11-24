@@ -1,0 +1,19 @@
+<templateSet group="user">
+  <template name="t" value="@Test" shortcut="ENTER" description="inset test annotation" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="pt" value="@Test&#10;public void should$text$() {&#10;    $END$&#10;}&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="mn" value="final String methodName = &quot;$methodName$&quot;;" description="generate String with method name" toReformat="false" toShortenFQNames="true">
+    <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

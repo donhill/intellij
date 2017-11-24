@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>o*.xml</mask>
+      <mask>om*.xml</mask>
+      <mask>om.*.xml</mask>
+      <mask>om.x*.xml</mask>
+      <mask>om.xm*.xml</mask>
+      <mask>om.xml*.xml</mask>
+      <mask>om.xml.xml</mask>
+      <mask>om.xmlxml</mask>
+      <mask>om.xmlml</mask>
+      <mask>om.xmll</mask>
+      <mask>om.xml</mask>
+      <mask>om.xm</mask>
+      <mask>om.x</mask>
+      <mask>om.</mask>
+      <mask>om</mask>
+      <mask>o</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
+    </recentFileMasks>
+  </component>
+</application>

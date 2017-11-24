@@ -1,0 +1,13 @@
+<templateSet group="plain">
+  <template name="tm" value="@Test&#10;public void when$END$() {&#10;    &#10;}" description="public void test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="ms" value="System.currentTimeMillis();" description="current milliseconds" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
