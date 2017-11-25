@@ -455,6 +455,12 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/data/filter/RTMarketPhaseFilter.java" timestamp="1510933500774">
         <mark key="[" line="16" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/driver/java/net/gemlogic/towapp/fragments/TruckListFragment.kt" timestamp="1511632415905">
+        <mark key="[" line="107" column="46" />
+        <mark key="]" line="107" column="41" />
+        <mark key="^" line="107" column="41" />
+        <mark key="." line="107" column="41" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-news-parent/service-news/src/main/java/com/morningstar/news/utils/newsserivce/NewsServiceDataSourceImpl.java" timestamp="1504112217863">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -555,7 +561,7 @@
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511628885944">
+      <file name="/Dummy.txt" timestamp="1511631366033">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -779,13 +785,13 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdW4gb25FcnJvcihlOiBUaHJvd2FibGUpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -794,7 +800,7 @@
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3513,10 +3519,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wbGV0ZWQgLT5kZWJ1Zygib25Db21wbGV0ZWQoKSIpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgb3ZlcnJpZGUgZnVuIG9uU3RhcnQoKSB7CgogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
