@@ -238,6 +238,15 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/driver/java/net/gemlogic/towapp/presenters/MainDriverPresenterImpl.kt" timestamp="1511629081259">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="31" />
+        <mark key="^" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/driver/java/net/gemlogic/towapp/presenters/IncidentDetailPresenterImpl.kt" timestamp="1511629105614">
+        <mark key="[" line="58" column="84" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/aem-iip-dc-foundations-parent/foundations-test/pom.xml" timestamp="1500998824704">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -380,6 +389,11 @@
         <mark key="]" line="108" column="0" />
         <mark key="^" line="105" column="78" />
         <mark key="." line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/OperatorImageUtil.kt" timestamp="1511629964119">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1510940166692">
         <mark key="[" line="49" column="49" />
@@ -541,7 +555,7 @@
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511381065702">
+      <file name="/Dummy.txt" timestamp="1511628885944">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -768,19 +782,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdW4gb25FcnJvcihlOiBUaHJvd2FibGUpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Bcmd1bWVudE1hdGNoZXJzLnNhbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvdmVycmlkZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLm51bGxWYWx1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLmVxdWFsVG87Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3499,13 +3513,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db21wYXJhdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wbGV0ZWQgLT5kZWJ1Zygib25Db21wbGV0ZWQoKSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRQcmljZUF0dHJpYnV0ZXModmFuZ3VhcmRSZWFsVGltZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRQcmljZUF0dHJpYnV0ZXModmFuZ3VhcmREZWxheWVkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>)</text>
@@ -3521,12 +3535,10 @@
       <last-replace>add</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Criteria()</entry>
-        <entry>new Criteria</entry>
         <entry>new Logic</entry>
         <entry>sure</entry>
         <entry>===</entry>
@@ -3549,8 +3561,6 @@
         <entry>put</entry>
       </history-search>
       <history-cmd>
-        <entry>121</entry>
-        <entry>299</entry>
         <entry>241</entry>
         <entry>42</entry>
         <entry>200</entry>
