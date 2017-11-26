@@ -162,8 +162,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/id_service_goog_ibm_2_feeds.json" timestamp="1510934836707">
-        <mark key="[" line="31" column="9" />
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/services/MyFirebaseInstanceIdService.kt" timestamp="1511710174997">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/id_service_goog.json" timestamp="1510936684517">
         <mark key="[" line="19" column="9" />
@@ -194,9 +196,6 @@
         <mark key="[" line="78" column="20" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceBurstImpl.java" timestamp="1510938594220">
-        <mark key="[" line="49" column="12" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-email-template-parent/service-email-template/pom.xml" timestamp="1504025697841">
         <mark key="[" line="92" column="34" />
@@ -244,8 +243,11 @@
         <mark key="^" line="31" column="31" />
         <mark key="." line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/src/driver/java/net/gemlogic/towapp/presenters/IncidentDetailPresenterImpl.kt" timestamp="1511629105614">
-        <mark key="[" line="58" column="84" />
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/driver/java/net/gemlogic/towapp/presenters/IncidentDetailPresenterImpl.kt" timestamp="1511710622187">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/aem-iip-dc-foundations-parent/foundations-test/pom.xml" timestamp="1500998824704">
         <mark key="[" line="8" column="0" />
@@ -341,6 +343,12 @@
         <mark key="]" line="340" column="0" />
         <mark key="." line="340" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/main/java/net/gemlogic/towapp/presenters/VerifyPinPresenterImpl.kt" timestamp="1511709971471">
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-security-identifier-parent/service-security-identifier-api/src/main/java/com/morningstar/servlets/securityidentifier/SecurityIdentifierServlet.java" timestamp="1505770710171">
         <mark key="[" line="66" column="62" />
         <mark key="]" line="66" column="0" />
@@ -380,9 +388,6 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_goog_ibm_vanguard_feeds.json" timestamp="1510938868110">
-        <mark key="[" line="98" column="7" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceImpl2.java" timestamp="1510934315859">
         <mark key="[" line="108" column="0" />
@@ -452,14 +457,11 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/data/filter/RTMarketPhaseFilter.java" timestamp="1510933500774">
-        <mark key="[" line="16" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/src/driver/java/net/gemlogic/towapp/fragments/TruckListFragment.kt" timestamp="1511709477691">
-        <mark key="[" line="117" column="17" />
-        <mark key="]" line="117" column="20" />
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/driver/java/net/gemlogic/towapp/fragments/TruckListFragment.kt" timestamp="1511709831465">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
         <mark key="^" line="117" column="20" />
-        <mark key="." line="117" column="20" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-news-parent/service-news/src/main/java/com/morningstar/news/utils/newsserivce/NewsServiceDataSourceImpl.java" timestamp="1504112217863">
         <mark key="[" line="36" column="0" />
@@ -538,9 +540,6 @@
         <mark key="." line="71" column="24" />
         <mark key="^" line="71" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_goog_ibm_2_feeds.json" timestamp="1510934759537">
-        <mark key="[" line="53" column="18" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-news-parent/service-news/src/main/java/com/morningstar/news/impl/NewsServiceImpl.java" timestamp="1503939967620">
         <mark key="[" line="190" column="32" />
         <mark key="]" line="19" column="0" />
@@ -561,7 +560,7 @@
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511709481875">
+      <file name="/Dummy.txt" timestamp="1511710709905">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -609,13 +608,15 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/data/filter/RTExchangeActivityTimeFilter.java" timestamp="1510933686621">
-        <mark key="[" line="22" column="45" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/sqlengine/sqlmart/ScreeningQuery.java" timestamp="1498237235198">
         <mark key="[" line="251" column="0" />
         <mark key="]" line="251" column="0" />
         <mark key="." line="251" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/main/java/net/gemlogic/towapp/presenters/MapPresenterImpl.kt" timestamp="1511709696656">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/pom.xml" timestamp="1503950959080">
         <mark key="[" line="63" column="8" />
@@ -770,13 +771,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sorted</text>
+        <text encoding="base64">b2JqZWN0IDogU3Vic2NyaWJlcjxCb29sZWFuPigpIHs=</text>
       </register>
       <register name="/" type="4">
         <text>put</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRQcmljZUF0dHJpYnV0ZXModmFuZ3VhcmRSZWFsVGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZygiUmVzdWx0cyBmb3IgcmVtYXJrcyA6IiArIHJlc3VsdCEhKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -785,22 +786,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3LmFkZGVkUmVtYXJrcyhyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZygiUmVzdWx0cyBmb3IgcmVtYXJrcyA6IiArIHJlc3VsdCEhKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbk5leHQocmVzdWx0OiBCb29sZWFuPykgewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3519,13 +3520,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgb3ZlcnJpZGUgZnVuIG9uU3RhcnQoKSB7CgogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>)</text>
