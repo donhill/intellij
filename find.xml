@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>om.*.xml</mask>
-      <mask>om.x*.xml</mask>
-      <mask>om.xm*.xml</mask>
-      <mask>om.xml*.xml</mask>
       <mask>om.xml.xml</mask>
       <mask>om.xmlxml</mask>
       <mask>om.xmlml</mask>
@@ -31,10 +27,14 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.ky</mask>
-      <mask>*.k</mask>
       <mask>*.kt</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*.x,</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
