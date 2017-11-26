@@ -279,6 +279,12 @@
         <mark key="]" line="243" column="0" />
         <mark key="." line="243" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/presenters/ProviderPresenterImpl.kt" timestamp="1511711690730">
+        <mark key="[" line="61" column="27" />
+        <mark key="]" line="61" column="11" />
+        <mark key="." line="61" column="11" />
+        <mark key="^" line="61" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-ui-web/src/main/java/com/morningstar/web/filter/mdc/ThrottleFilter.java" timestamp="1505685423303">
         <mark key="[" line="32" column="19" />
         <mark key="]" line="32" column="19" />
@@ -302,6 +308,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/presenters/RegisterPhonePresenterImpl.kt" timestamp="1511711721600">
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="27" />
+        <mark key="." line="64" column="27" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-security-quotes-parent/service-security-quotes/src/main/java/com/morningstar/securityquotes/impl/SecurityQuotesServiceImpl.java" timestamp="1506451440145">
         <mark key="[" line="156" column="0" />
@@ -560,7 +571,7 @@
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511710709905">
+      <file name="/Dummy.txt" timestamp="1511711713922">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -607,6 +618,11 @@
         <mark key="[" line="4" column="51" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/fragments/DriverIncidentsListFragment.kt" timestamp="1511710965268">
+        <mark key="]" line="185" column="0" />
+        <mark key="^" line="184" column="15" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/sqlengine/sqlmart/ScreeningQuery.java" timestamp="1498237235198">
         <mark key="[" line="251" column="0" />
@@ -750,8 +766,8 @@
       <register name="a" type="4">
         <text>final String methodName = &quot;getResourceResolverWithReadAccess&quot;;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b2JqZWN0IDogU3Vic2NyaWJlcjxSZWdpc3RlclBob25lU3RhdHVzPigpIHs=</text>
       </register>
       <register name="d" type="4">
         <text>MOCK_API_USERID</text>
@@ -771,7 +787,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2JqZWN0IDogU3Vic2NyaWJlcjxCb29sZWFuPigpIHs=</text>
+        <text encoding="base64">b2JqZWN0IDogU3Vic2NyaWJlcjxSZWdpc3RlclBob25lU3RhdHVzPigpIHs=</text>
       </register>
       <register name="/" type="4">
         <text>put</text>
@@ -786,22 +802,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3LmFkZGVkUmVtYXJrcyhyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1ZygiUmVzdWx0cyBmb3IgcmVtYXJrcyA6IiArIHJlc3VsdCEhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZShJbmNpZGVudERldGFpbFByZXNlbnRlckltcGwuVEFHLCBlLmxvY2FsaXplZE1lc3NhZ2UpCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbk5leHQocmVzdWx0OiBCb29sZWFuPykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1biBvbkVycm9yKGU6IFRocm93YWJsZSkgewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3520,13 +3536,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG92ZXJyaWRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uTmV4dChyZXN1bHQ6IFN0cmluZykgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>)</text>
