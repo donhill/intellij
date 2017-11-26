@@ -390,8 +390,8 @@
         <mark key="^" line="105" column="78" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/OperatorImageUtil.kt" timestamp="1511629964119">
-        <mark key="[" line="103" column="0" />
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/OperatorImageUtil.kt" timestamp="1511709504368">
+        <mark key="[" line="102" column="24" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
@@ -455,11 +455,11 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/data/filter/RTMarketPhaseFilter.java" timestamp="1510933500774">
         <mark key="[" line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/src/driver/java/net/gemlogic/towapp/fragments/TruckListFragment.kt" timestamp="1511633596040">
-        <mark key="[" line="107" column="46" />
-        <mark key="]" line="107" column="41" />
-        <mark key="^" line="107" column="41" />
-        <mark key="." line="107" column="41" />
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/driver/java/net/gemlogic/towapp/fragments/TruckListFragment.kt" timestamp="1511709477691">
+        <mark key="[" line="117" column="17" />
+        <mark key="]" line="117" column="20" />
+        <mark key="^" line="117" column="20" />
+        <mark key="." line="117" column="20" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-news-parent/service-news/src/main/java/com/morningstar/news/utils/newsserivce/NewsServiceDataSourceImpl.java" timestamp="1504112217863">
         <mark key="[" line="36" column="0" />
@@ -561,7 +561,7 @@
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511631366033">
+      <file name="/Dummy.txt" timestamp="1511709481875">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -785,22 +785,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3519,13 +3519,13 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgb3ZlcnJpZGUgZnVuIG9uU3RhcnQoKSB7CgogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>)</text>
