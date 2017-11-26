@@ -100,9 +100,9 @@
         <mark key="^" line="72" column="36" />
         <mark key="." line="72" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/presenters/IncidentDetailPresenterImpl.kt" timestamp="1511712586100">
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/presenters/IncidentDetailPresenterImpl.kt" timestamp="1511716177857">
         <mark key="'" line="103" column="0" />
-        <mark key="[" line="149" column="14" />
+        <mark key="[" line="145" column="23" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
@@ -168,8 +168,11 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/build.gradle" timestamp="1511715606358">
-        <mark key="[" line="7" column="32" />
+      <file name="$USER_HOME$/projects/android/tow_app/app/build.gradle" timestamp="1511716943718">
+        <mark key="[" line="70" column="12" />
+        <mark key="]" line="76" column="33" />
+        <mark key="^" line="76" column="33" />
+        <mark key="." line="76" column="33" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/oswald/src/main/resources/ddl/marts.sql" timestamp="1494880288382">
         <mark key="[" line="225" column="14" />
@@ -186,10 +189,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/services/MyFirebaseInstanceIdService.kt" timestamp="1511710174997">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/services/MyFirebaseInstanceIdService.kt" timestamp="1511715864295">
+        <mark key="[" line="39" column="59" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/id_service_goog.json" timestamp="1510936684517">
         <mark key="[" line="19" column="9" />
@@ -245,6 +248,11 @@
         <mark key="[" line="88" column="21" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow_app/gradle.properties" timestamp="1511716676652">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/main/java/com/morningstar/servlets/impl/GetUserDiscussionImpl.java" timestamp="1505755613052">
         <mark key="[" line="35" column="0" />
@@ -313,11 +321,11 @@
         <mark key="]" line="243" column="0" />
         <mark key="." line="243" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/presenters/ProviderPresenterImpl.kt" timestamp="1511711690730">
-        <mark key="[" line="61" column="27" />
-        <mark key="]" line="61" column="11" />
-        <mark key="." line="61" column="11" />
-        <mark key="^" line="61" column="11" />
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/presenters/ProviderPresenterImpl.kt" timestamp="1511716399708">
+        <mark key="[" line="50" column="79" />
+        <mark key="]" line="50" column="68" />
+        <mark key="." line="50" column="68" />
+        <mark key="^" line="50" column="68" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-ui-web/src/main/java/com/morningstar/web/filter/mdc/ThrottleFilter.java" timestamp="1505685423303">
         <mark key="[" line="32" column="19" />
@@ -339,10 +347,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/presenters/RegisterPhonePresenterImpl.kt" timestamp="1511711855634">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/presenters/RegisterPhonePresenterImpl.kt" timestamp="1511715844337">
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="66" column="93" />
+        <mark key="." line="66" column="93" />
+        <mark key="^" line="66" column="93" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-security-quotes-parent/service-security-quotes/src/main/java/com/morningstar/securityquotes/impl/SecurityQuotesServiceImpl.java" timestamp="1506451440145">
         <mark key="[" line="156" column="0" />
@@ -384,10 +393,10 @@
         <mark key="]" line="340" column="0" />
         <mark key="." line="340" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/rest/TowingRestClient.kt" timestamp="1511713112626">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/rest/TowingRestClient.kt" timestamp="1511716462552">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow_app/app/src/main/java/net/gemlogic/towapp/presenters/VerifyPinPresenterImpl.kt" timestamp="1511709971471">
         <mark key="[" line="40" column="18" />
@@ -425,11 +434,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/wizards/RegistrationProviderWizard.kt" timestamp="1511713036935">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="^" line="216" column="0" />
-        <mark key="." line="219" column="0" />
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/wizards/RegistrationProviderWizard.kt" timestamp="1511716479235">
+        <mark key="[" line="147" column="37" />
+        <mark key="]" line="196" column="0" />
+        <mark key="^" line="193" column="0" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/main/java/com/morningstar/v2/tags/GetCanonicalURLTag.java" timestamp="1506545737001">
         <mark key="[" line="22" column="0" />
@@ -486,9 +495,9 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/fragments/OperatorDriverMapFragment.kt" timestamp="1511712717231">
-        <mark key="[" line="469" column="22" />
-        <mark key="]" line="469" column="0" />
-        <mark key="." line="469" column="0" />
+        <mark key="[" line="470" column="22" />
+        <mark key="]" line="470" column="0" />
+        <mark key="." line="470" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/main/java/com/morningstar/servlets/impl/UserLoginImpl.java" timestamp="1505423731017">
         <mark key="[" line="2" column="0" />
@@ -514,12 +523,6 @@
         <mark key="[" line="168" column="99" />
         <mark key="]" line="170" column="0" />
         <mark key="." line="170" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/MainPresenterImpl.kt" timestamp="1511713611342">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="159" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2-design/src/content/META-INF/vault/filter.xml" timestamp="1508276941764">
         <mark key="[" line="70" column="0" />
@@ -668,10 +671,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/fragments/DriverIncidentsListFragment.kt" timestamp="1511710965268">
-        <mark key="]" line="185" column="0" />
-        <mark key="^" line="184" column="15" />
-        <mark key="." line="185" column="0" />
+      <file name="$USER_HOME$/projects/android/tow_app/app/src/truck/java/net/gemlogic/towapp/fragments/DriverIncidentsListFragment.kt" timestamp="1511716145006">
+        <mark key="[" line="206" column="20" />
+        <mark key="]" line="206" column="40" />
+        <mark key="^" line="206" column="40" />
+        <mark key="." line="206" column="40" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/sqlengine/sqlmart/ScreeningQuery.java" timestamp="1498237235198">
         <mark key="[" line="251" column="0" />
@@ -816,7 +820,7 @@
         <text>final String methodName = &quot;getResourceResolverWithReadAccess&quot;;</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk5hbWUgImFscGhhLSR7dmVyc2lvbkNvZGV9Igo=</text>
       </register>
       <register name="d" type="4">
         <text>MOCK_API_USERID</text>
@@ -836,28 +840,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>Log</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
       </register>
-      <register name="0" type="4">
-        <text>Timber.e(TAG, e.localizedMessage)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk5hbWUgImFscGhhLSR7dmVyc2lvbkNvZGV9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JnLmdyYWRsZS5qdm1hcmdzPS1YbXg0NjA4TQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZShlcnJvciwgIkZpbGUgdXBsb2FkIGVycm9yIiwgZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5nZW1sb2dpYy50b3dhcHAucHJlc2VudGVycy5JbmNpZGVudERldGFpbFByZXNlbnRlckltcGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -866,7 +870,7 @@
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3585,13 +3589,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uTmV4dCh0cnVja3M6IExpc3Q8VHJ1Y2s+KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>)</text>
