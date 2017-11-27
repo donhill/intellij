@@ -5,16 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*java" />
     <recentFileMasks>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>o*.xml</mask>
-      <mask>om*.xml</mask>
       <mask>om.*.xml</mask>
       <mask>om.x*.xml</mask>
       <mask>om.xm*.xml</mask>
@@ -36,6 +28,15 @@
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*j</mask>
+      <mask>*ja</mask>
+      <mask>*java</mask>
     </recentFileMasks>
   </component>
 </application>
