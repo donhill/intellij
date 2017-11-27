@@ -13,7 +13,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-category-return-parent/service-category-return/src/main/java/com/morningstar/categoryreturn/impl/CategoryReturnServiceImpl.java" timestamp="1511818014185" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-parent/ux-web-design/src/content/jcr_root/apps/morningstar/osgiConfig/config.publish.dev/org.apache.sling.commons.log.LogManager.factory.config-com.morningstar.common.service.util.UUIDHelper.xml" timestamp="1505147698536">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -58,7 +57,6 @@
       <file name="find.xml" timestamp="1511822275893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" timestamp="1511801270446" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/data/filter/RTContractDateFilter.java" timestamp="1510083583778">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -117,10 +115,10 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/barometer-service 2/src/main/java/com/morningstar/barometerservice/SampleController.kt" timestamp="1511821769896">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/barometer-service 2/src/main/java/com/morningstar/barometerservice/SampleController.kt" timestamp="1511823142968">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/aem-iip-dc-foundations-parent/foundations-test-service/pom.xml" timestamp="1500998842586">
         <mark key="[" line="8" column="0" />
@@ -148,7 +146,6 @@
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-membership-parent/service-user-membership/src/main/java/com/morningstar/user/membership/config/impl/UserMembershipServiceConfigurationImpl.java" timestamp="1511808245101" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/FeedComparator.java" timestamp="1511391208514">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -159,7 +156,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/barometer/impl/BarometerServiceImpl.java" timestamp="1511809025941" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/PostSubscriptionsServiceImpl.java" timestamp="1505756380860">
         <mark key="[" line="70" column="130" />
         <mark key="]" line="80" column="0" />
@@ -193,7 +189,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/ConnectionTimeoutUtil.java" timestamp="1511800837352" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/test/java/com/morningstar/servlets/subscription/impl/PostSubscriptionsRequestResponseSample.java" timestamp="1505419230623">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -204,7 +199,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-parent/ux-web-design/src/content/jcr_root/apps/morningstar/osgiConfig/config.publish/com.morningstar.database.datasource.impl.JdbcEncryptedPoolService-sqlserver.resrch3.morningstar.com.CurrentData.xml" timestamp="1511807134672" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-membership-parent/service-user-membership/pom.xml" timestamp="1504020936125">
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
@@ -396,6 +390,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/barometer-service 2/src/main/java/com/morningstar/barometerservice/BarometerServiceApplication.kt" timestamp="1511823027527" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/main/java/com/morningstar/v2/tags/GetCanonicalURLTag.java" timestamp="1506545737001">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -421,7 +416,6 @@
         <mark key="." line="61" column="8" />
         <mark key="^" line="61" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/fairmarketvalue/config/impl/FairMarketValueServiceConfigurationImpl.java" timestamp="1511806968243" />
       <file name="$USER_HOME$/projects/morningstar/oswald/src/test/java/com/morningstar/dataapi/common/util/UserCreationHelper.java" timestamp="1498078866131">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -753,7 +747,7 @@
         <text>final String methodName = &quot;getResourceResolverWithReadAccess&quot;;</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="d" type="4">
         <text>MOCK_API_USERID</text>
@@ -782,28 +776,28 @@
         <text encoding="base64">ICAgICAgICBhZGRQcmljZUF0dHJpYnV0ZXModmFuZ3VhcmRSZWFsVGltZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5NZWRpYVR5cGUK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICA8Y29tcGlsZXJQbHVnaW5zPgogICAgICAgICAgICAgICAgPHBsdWdpbj5zcHJpbmc8L3BsdWdpbj4KICAgICAgICAgICAgPC9jb21waWxlclBsdWdpbnM+</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS4qOwo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9ARW5hYmxlQXV0b0NvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS4qOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvaGVsbG8td29ybGQiKQo=</text>
+        <text encoding="base64">Ly9ARW5hYmxlQXV0b0NvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3522,13 +3516,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLio7Cg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvaGVsbG8td29ybGQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC4qOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLio7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC4qOwo=</text>
       </register>
       <register name="y" type="4">
         <text>)</text>
@@ -3548,8 +3542,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Criteria()</entry>
-        <entry>new Criteria</entry>
         <entry>new Logic</entry>
         <entry>sure</entry>
         <entry>===</entry>
@@ -3572,8 +3564,6 @@
         <entry>put</entry>
       </history-search>
       <history-cmd>
-        <entry>121</entry>
-        <entry>299</entry>
         <entry>241</entry>
         <entry>42</entry>
         <entry>200</entry>
