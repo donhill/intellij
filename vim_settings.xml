@@ -28,6 +28,7 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/fairmarketvalue/impl/FairMarketValueServiceImpl.java" timestamp="1511889619057" />
       <file name="$USER_HOME$/projects/scala/fpinscala/exercises/src/main/scala/Scratch.scala" timestamp="1495817603910">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -156,6 +157,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/barometer/impl/BarometerServiceImpl.java" timestamp="1511889572321">
+        <mark key="'" line="129" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/PostSubscriptionsServiceImpl.java" timestamp="1505756380860">
         <mark key="[" line="70" column="130" />
         <mark key="]" line="80" column="0" />
@@ -176,6 +180,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer-api/src/main/java/com/morningstar/servlets/markets/fairmarketvalue/FairMarketValueServlet.java" timestamp="1511889738788" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/id_service_goog_ibm_2_feeds.json" timestamp="1510934836707">
         <mark key="[" line="31" column="9" />
       </file>
@@ -366,6 +371,7 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer-api/src/main/java/com/morningstar/servlets/markets/barometer/MarketBarometerServlet.java" timestamp="1511888772211" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/iip-services-parent/iip-services-config/subscription-service/tomcat/conf/context.xml" timestamp="1506025620007">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -556,7 +562,7 @@
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511886468982">
+      <file name="/Dummy.txt" timestamp="1511889777735">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -642,7 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="509" column="0" filename="$USER_HOME$/projects/morningstar/oswald/config/config.properties" />
       <jump line="71" column="10" filename="$USER_HOME$/projects/morningstar/oswald/config/config.properties" />
       <jump line="72" column="11" filename="$USER_HOME$/projects/morningstar/oswald/config/config.properties" />
       <jump line="73" column="10" filename="$USER_HOME$/projects/morningstar/oswald/config/config.properties" />
@@ -742,6 +747,7 @@
       <jump line="96" column="0" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/RealtimeParser.java" />
       <jump line="117" column="48" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/RealtimeParser.java" />
       <jump line="174" column="26" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/RealtimeParser.java" />
+      <jump line="129" column="50" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/barometer/impl/BarometerServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -771,7 +777,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>&quot;);</text>
+        <text encoding="base64">XDxlaGNhY2hlU2VydmljZUF0b21pY1JlZmVyZW5jZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvYmplY3RNYXBwZXIuY29uZmlndXJlKERlc2VyaWFsaXphdGlvbkZlYXR1cmUuRkFJTF9PTl9VTktOT1dOX1BST1BFUlRJRVMsIGZhbHNlKTsK</text>
@@ -3533,9 +3539,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;);</last-search>
+      <last-search encoding="base64">XDxlaGNhY2hlU2VydmljZUF0b21pY1JlZmVyZW5jZVw+</last-search>
       <last-offset />
-      <last-pattern>&quot;);</last-pattern>
+      <last-pattern encoding="base64">XDxlaGNhY2hlU2VydmljZUF0b21pY1JlZmVyZW5jZVw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>&quot;);</last-substitute>
       <last-dir>1</last-dir>
@@ -3570,6 +3576,7 @@
         <entry>,\\n</entry>
         <entry>,</entry>
         <entry>&quot;);</entry>
+        <entry encoding="base64">XDxlaGNhY2hlU2VydmljZUF0b21pY1JlZmVyZW5jZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>241</entry>
