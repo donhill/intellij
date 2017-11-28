@@ -212,11 +212,11 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceBurstImpl.java" timestamp="1510938594220">
         <mark key="[" line="49" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/RealtimeParser.java" timestamp="1511803649959">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="135" column="55" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/RealtimeParser.java" timestamp="1511887268877">
+        <mark key="'" line="117" column="26" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-email-template-parent/service-email-template/pom.xml" timestamp="1504025697841">
         <mark key="[" line="92" column="34" />
@@ -556,7 +556,7 @@
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511809424648">
+      <file name="/Dummy.txt" timestamp="1511886468982">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -591,7 +591,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/data/filter/RTDataNameMappingFilter.java" timestamp="1510864450106">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/data/filter/RTDataNameMappingFilter.java" timestamp="1511886503313">
         <mark key="[" line="39" column="52" />
         <mark key="]" line="39" column="52" />
         <mark key="^" line="38" column="8" />
@@ -635,20 +635,13 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1511820582959">
+      <file name="/fragment.java" timestamp="1511886102102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="194" filename="$USER_HOME$/projects/morningstar/oswald/config/config.properties" />
-      <jump line="152" column="8" filename="$USER_HOME$/projects/morningstar/oswald/config/config.properties" />
-      <jump line="153" column="8" filename="$USER_HOME$/projects/morningstar/oswald/config/config.properties" />
-      <jump line="186" column="12" filename="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/sqlengine/entities/core/ParameterDateResolver.java" />
-      <jump line="796" column="50" filename="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/portfolio/gateway/PortfolioDaoImpl.java" />
-      <jump line="201" column="28" filename="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/sqlengine/entities/core/queryinfo/SQLMartQueryDataInfo.java" />
-      <jump line="90" column="110" filename="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/sqlengine/sqlmart/combineduniverse/CombinedUniverseDataQueryConverter.java" />
       <jump line="509" column="0" filename="$USER_HOME$/projects/morningstar/oswald/config/config.properties" />
       <jump line="71" column="10" filename="$USER_HOME$/projects/morningstar/oswald/config/config.properties" />
       <jump line="72" column="11" filename="$USER_HOME$/projects/morningstar/oswald/config/config.properties" />
@@ -742,13 +735,20 @@
       <jump line="419" column="0" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" />
       <jump line="149" column="0" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" />
       <jump line="41" column="0" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/RealtimeParser.java" />
+      <jump line="15" column="1" filename="$USER_HOME$/projects/morningstar/phoenix/barometer-service 2/src/test/java/com/morningstar/barometerservice/BarometerServiceApplicationTests.kt" />
+      <jump line="136" column="63" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/RealtimeParser.java" />
+      <jump line="137" column="41" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/RealtimeParser.java" />
+      <jump line="11" column="44" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/RealtimeParser.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/RealtimeParser.java" />
+      <jump line="117" column="48" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/RealtimeParser.java" />
+      <jump line="174" column="26" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/RealtimeParser.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>final String methodName = &quot;getResourceResolverWithReadAccess&quot;;</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyB2b2x1bWU7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>MOCK_API_USERID</text>
@@ -768,37 +768,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new ObjectMapper()</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>put</text>
+        <text>&quot;);</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRQcmljZUF0dHJpYnV0ZXModmFuZ3VhcmRSZWFsVGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RNYXBwZXIuY29uZmlndXJlKERlc2VyaWFsaXphdGlvbkZlYXR1cmUuRkFJTF9PTl9VTktOT1dOX1BST1BFUlRJRVMsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyB2b2x1bWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlCg==</text>
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoIkQ3NzQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5NZWRpYVR5cGUK</text>
+        <text encoding="base64">MTQ5LjEuR09PRyZKU09OU2hvcnQiOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICA8Y29tcGlsZXJQbHVnaW5zPgogICAgICAgICAgICAgICAgPHBsdWdpbj5zcHJpbmc8L3BsdWdpbj4KICAgICAgICAgICAgPC9jb21waWxlclBsdWdpbnM+</text>
+      <register name="4" type="2">
+        <text encoding="base64">RDc3MCZpbnN0cnVtZW50PTEyNi4xLkdPT0cpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS4qOwo=</text>
+        <text encoding="base64">RDc3NykK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9ARW5hYmxlQXV0b0NvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">RDkzNSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3517,29 +3517,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvaGVsbG8td29ybGQiKQo=</text>
+        <text encoding="base64">RDc3NikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLio7Cg==</text>
+        <text encoding="base64">RDc3NSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC4qOwo=</text>
+        <text encoding="base64">RDkzNCkK</text>
       </register>
       <register name="y" type="4">
         <text>)</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text encoding="base64">JzwsJz4lcy8iKTsvOy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>put</last-search>
+      <last-search>&quot;);</last-search>
       <last-offset />
-      <last-pattern>put</last-pattern>
-      <last-replace>add</last-replace>
-      <last-substitute>put</last-substitute>
+      <last-pattern>&quot;);</last-pattern>
+      <last-replace>;</last-replace>
+      <last-substitute>&quot;);</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -3563,6 +3563,13 @@
         <entry>\</entry>
         <entry>mapMap</entry>
         <entry>put</entry>
+        <entry>mapper</entry>
+        <entry>dataPointNameMapper\.put</entry>
+        <entry>dataPointNameMapper\.put(</entry>
+        <entry>,\n</entry>
+        <entry>,\\n</entry>
+        <entry>,</entry>
+        <entry>&quot;);</entry>
       </history-search>
       <history-cmd>
         <entry>241</entry>
@@ -3585,6 +3592,16 @@
         <entry encoding="base64">JzwsJz5zL21hcE1hcC9rZXlzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3B1dC9hZGQ=</entry>
         <entry>nohlsearch</entry>
+        <entry>/dataPointNameMapper\.put</entry>
+        <entry>/dataPointNameMapper\.put(</entry>
+        <entry>%s//@JsonProperty(&quot;/g</entry>
+        <entry>%s//@JsonProperty(/g</entry>
+        <entry encoding="base64">JzwsJz4lcy8sLykvZw==</entry>
+        <entry encoding="base64">JzwsJz4lcy8sXG4vKS9n</entry>
+        <entry encoding="base64">JzwsJz4lcy8sXFxuLykvZw==</entry>
+        <entry encoding="base64">JzwsJz4lcy8sLylcbi9n</entry>
+        <entry encoding="base64">JzwsJz4lcy8sLylcci9n</entry>
+        <entry encoding="base64">JzwsJz4lcy8iKTsvOy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
