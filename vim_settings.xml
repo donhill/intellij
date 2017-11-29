@@ -10,49 +10,13 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/fairmarketvalue/impl/FairMarketValueServiceImpl.java" timestamp="1511889619057" />
-      <file name="$USER_HOME$/projects/morningstar/phoenix/barometer-service 2/src/main/java/hello/SampleController.java" timestamp="1511820152009">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="2" />
-        <mark key="^" line="12" column="2" />
-        <mark key="." line="12" column="2" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-service/src/main/java/com/morningstar/common/service/config/impl/ServiceConfigurationImpl.java" timestamp="1511977045432" />
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/utils/Resources.java" timestamp="1510940449593">
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="34" column="25" />
-        <mark key="." line="34" column="25" />
-        <mark key="^" line="34" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/DateHelper.java" timestamp="1510930687064">
-        <mark key="[" line="70" column="46" />
-        <mark key="]" line="72" column="36" />
-        <mark key="^" line="72" column="36" />
-        <mark key="." line="72" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/SupportedDateFormat.java" timestamp="1511196637384">
-        <mark key="[" line="27" column="55" />
-        <mark key="]" line="31" column="26" />
-        <mark key="." line="31" column="26" />
-        <mark key="^" line="31" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/JarvisConfig.xml" timestamp="1510948477525">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="45" />
-        <mark key="^" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/database/datasource/DataSourceName.java" timestamp="1511974785552" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-id-service-parent/service-id-service/src/main/java/com/morningstar/idservice/config/impl/IDServiceConfigurationImpl.java" timestamp="1511975449276" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/barometer/impl/BarometerServiceImpl.java" timestamp="1511889572321">
         <mark key="'" line="129" column="50" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer-api/src/main/java/com/morningstar/servlets/markets/fairmarketvalue/FairMarketValueServlet.java" timestamp="1511889738788" />
-      <file name="$USER_HOME$/projects/morningstar/phoenix/barometer-service 2/pom.xml" timestamp="1511883649345">
-        <mark key="[" line="54" column="64" />
-        <mark key="]" line="59" column="33" />
-        <mark key="." line="59" column="33" />
-        <mark key="^" line="59" column="33" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-sitemap-parent/service-sitemap/src/main/java/com/morningstar/sitemap/impl/parser/SecurityParser.java" timestamp="1511978932349" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/DefaultRealTimeService.java" timestamp="1511801228642">
         <mark key="'" line="261" column="20" />
@@ -70,40 +34,16 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer-api/src/main/java/com/morningstar/servlets/markets/barometer/MarketBarometerServlet.java" timestamp="1511888772211" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/barometer-service 2/src/main/java/com/morningstar/barometerservice/BarometerServiceApplication.kt" timestamp="1511823027527" />
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceImpl2.java" timestamp="1510934315859">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="105" column="78" />
-        <mark key="." line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1510940166692">
-        <mark key="[" line="49" column="49" />
-        <mark key="]" line="61" column="8" />
-        <mark key="." line="61" column="8" />
-        <mark key="^" line="61" column="8" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/fairmarketvalue/config/impl/FairMarketValueServiceConfigurationImpl.java" timestamp="1511891740974" />
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/pom.xml" timestamp="1511196814343">
-        <mark key="[" line="106" column="24" />
-        <mark key="]" line="196" column="0" />
-        <mark key="." line="196" column="0" />
-        <mark key="^" line="196" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityResource.java" timestamp="1510864831653">
-        <mark key="[" line="96" column="125" />
-        <mark key="]" line="96" column="104" />
-        <mark key="^" line="96" column="104" />
-        <mark key="." line="96" column="104" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1511987125320">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1511989332034">
         <mark key="'" line="148" column="0" />
-        <mark key="[" line="366" column="104" />
-        <mark key="]" line="385" column="0" />
-        <mark key="." line="385" column="0" />
+        <mark key="[" line="375" column="43" />
+        <mark key="]" line="386" column="0" />
+        <mark key="." line="386" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-category-return-parent/service-category-return-api/src/main/java/com/morningstar/servlets/categoryreturn/CategoryReturnServlet.java" timestamp="1511974741550" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-security-identifier-parent/service-security-identifier/src/main/java/com/morningstar/securityidentifier/impl/SecurityIdentifierServiceImpl.java" timestamp="1511975586448" />
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1511986695113">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1511988990445">
         <mark key="[" line="156" column="85" />
         <mark key="]" line="31" column="30" />
         <mark key="^" line="31" column="30" />
@@ -117,6 +57,12 @@
         <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-sitemap-parent/service-sitemap/src/main/java/com/morningstar/sitemap/impl/SitemapServiceImpl.java" timestamp="1511976908008" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/data/filter/RTDataNameMappingFilter.java" timestamp="1511886503313">
+        <mark key="[" line="39" column="52" />
+        <mark key="]" line="39" column="52" />
+        <mark key="^" line="38" column="8" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-security-quotes-parent/service-security-quotes/src/main/java/com/morningstar/securityquotes/config/impl/SecurityQuotesServiceConfigurationImpl.java" timestamp="1511898208417" />
     </filemarks>
     <jumps>
@@ -226,7 +172,7 @@
         <text>final String methodName = &quot;getResourceResolverWithReadAccess&quot;;</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB2b2x1bWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGVEZWxheWVkLnB1dChQRVJDRU5UX0NIQU5HRSwgMS45KTsK</text>
       </register>
       <register name="d" type="4">
         <text>MOCK_API_USERID</text>
@@ -255,28 +201,28 @@
         <text encoding="base64">ICAgICAgICBvYmplY3RNYXBwZXIuY29uZmlndXJlKERlc2VyaWFsaXphdGlvbkZlYXR1cmUuRkFJTF9PTl9VTktOT1dOX1BST1BFUlRJRVMsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB2b2x1bWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGVEZWxheWVkLnB1dChQRVJDRU5UX0NIQU5HRSwgMS45KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoIkQ3NzQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGVEZWxheWVkLnB1dChQUklDRV9DSEFOR0UsIDEwLjApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTQ5LjEuR09PRyZKU09OU2hvcnQiOwo=</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGVEZWxheWVkLnB1dChMQVNUX1BSSUNFLCA5Mi4xKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RDc3MCZpbnN0cnVtZW50PTEyNi4xLkdPT0cpCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyB2b2x1bWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RDc3NykK</text>
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoIkQ3NzQiKQo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RDkzNSkK</text>
+        <text encoding="base64">MTQ5LjEuR09PRyZKU09OU2hvcnQiOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2995,13 +2941,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RDc3NikK</text>
+        <text encoding="base64">RDc3MCZpbnN0cnVtZW50PTEyNi4xLkdPT0cpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RDc3NSkK</text>
+        <text encoding="base64">RDc3NykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RDkzNCkK</text>
+        <text encoding="base64">RDkzNSkK</text>
       </register>
       <register name="y" type="4">
         <text>)</text>
