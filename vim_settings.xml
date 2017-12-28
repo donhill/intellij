@@ -12,10 +12,10 @@
       <file name="/a.dummy" timestamp="1514321087797">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/Barometer.java" timestamp="1513973003942">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/Barometer.java" timestamp="1514475070974">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeSecurityInfoRepository.java" timestamp="1514320024783">
         <mark key="[" line="7" column="0" />
@@ -153,6 +153,9 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/foo/PersistanceConfig.java" timestamp="1513788134587">
         <mark key="[" line="34" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/ResearchControllerTestFixture.java" timestamp="1514475162398">
+        <mark key="[" line="50" column="50" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/ResearchControllerTestIT.java" timestamp="1514329033002">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -175,7 +178,7 @@
       <file name="/HTML File.txt.ft" timestamp="1514409188531">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514412187273">
+      <file name="/Dummy.txt" timestamp="1514475155771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/ServiceHealthResource.java" timestamp="1513897467794">
