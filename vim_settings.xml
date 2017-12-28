@@ -12,10 +12,11 @@
       <file name="/a.dummy" timestamp="1514321087797">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/Barometer.java" timestamp="1514475070974">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/Barometer.java" timestamp="1514478482629">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeSecurityInfoRepository.java" timestamp="1514320024783">
         <mark key="[" line="7" column="0" />
@@ -98,7 +99,7 @@
         <mark key="[" line="30" column="14" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/apiv2/src/main/java/com/morningstar/dataapi/api/responders/ListResponder.java" timestamp="1514412126330" />
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityTypeItem.java" timestamp="1513973062365">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityTypeItem.java" timestamp="1514478871967">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
@@ -178,10 +179,10 @@
       <file name="/HTML File.txt.ft" timestamp="1514409188531">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514475155771">
+      <file name="/Dummy.txt" timestamp="1514479013668">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/oswald/src/test/resources/mockup/metadb/PUBLIC.InstrumentDimensionMain.data.xml" timestamp="1514475982457" />
+      <file name="$USER_HOME$/projects/morningstar/oswald/src/test/resources/mockup/metadb/PUBLIC.InstrumentDimensionMain.data.xml" timestamp="1514478438896" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/ServiceHealthResource.java" timestamp="1513897467794">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="53" />
@@ -221,6 +222,12 @@
         <mark key="]" line="17" column="526" />
         <mark key="^" line="17" column="526" />
         <mark key="." line="17" column="526" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeBarometerRepository.java" timestamp="1514478511020">
+        <mark key="[" line="17" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/CategoryPercent.java" timestamp="1514478824695">
+        <mark key="[" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/config/SpringWebAppInitializer.java" timestamp="1514398264315">
         <mark key="[" line="8" column="0" />
