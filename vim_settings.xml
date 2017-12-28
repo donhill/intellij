@@ -181,6 +181,7 @@
       <file name="/Dummy.txt" timestamp="1514475155771">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/oswald/src/test/resources/mockup/metadb/PUBLIC.InstrumentDimensionMain.data.xml" timestamp="1514475982457" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/ServiceHealthResource.java" timestamp="1513897467794">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="53" />
@@ -312,6 +313,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
