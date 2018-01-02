@@ -13,10 +13,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/Barometer.java" timestamp="1514509554938">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="20" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeSecurityInfoRepository.java" timestamp="1514320024783">
         <mark key="[" line="7" column="0" />
@@ -187,7 +187,6 @@
         <mark key="^" line="10" column="58" />
         <mark key="." line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-parent/ux-web-design/src/content/jcr_root/apps/morningstar/osgiConfig/config.publish/com.morningstar.web.filter.CorsFilter.config" timestamp="1514921531462" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchController.java" timestamp="1514474309689">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
