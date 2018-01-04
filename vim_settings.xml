@@ -12,12 +12,12 @@
       <file name="/a.dummy" timestamp="1515019212152">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/Barometer.java" timestamp="1515003232746">
-        <mark key="'" line="109" column="44" />
-        <mark key="[" line="109" column="44" />
-        <mark key="]" line="109" column="44" />
-        <mark key="^" line="109" column="44" />
-        <mark key="." line="109" column="44" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/Barometer.java" timestamp="1515090678945">
+        <mark key="'" line="139" column="44" />
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="139" column="44" />
+        <mark key="^" line="139" column="44" />
+        <mark key="." line="139" column="44" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
@@ -45,17 +45,28 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/EnvResolvingPropertySourceTest.java" timestamp="1515006083032">
         <mark key="[" line="24" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/ResearchControllerTestFixture.java" timestamp="1514927803886">
-        <mark key="[" line="50" column="50" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/ResearchControllerTestFixture.java" timestamp="1515092056542">
+        <mark key="[" line="63" column="14" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/DataSourceConfigTest.java" timestamp="1514410758104">
         <mark key="[" line="25" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/ResearchControllerTestIT.java" timestamp="1515092008073">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/webapp/WEB-INF/web.xml" timestamp="1513792845016">
         <mark key="[" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchController.java" timestamp="1515017397045">
-        <mark key="[" line="43" column="45" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchController.java" timestamp="1515090456145">
+        <mark key="[" line="24" column="93" />
+        <mark key="]" line="24" column="93" />
+        <mark key="." line="24" column="93" />
+        <mark key="^" line="35" column="78" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeCategoryRepository.java" timestamp="1515005798794">
         <mark key="[" line="12" column="5" />
@@ -81,11 +92,31 @@
       <file name="/Dummy.txt" timestamp="1515083408209">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/TestJpaCallsToStoreProceduresTestIT.java" timestamp="1515090428354">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/ResearchBarometerRepository.java" timestamp="1515090633130">
+        <mark key="[" line="10" column="77" />
+      </file>
       <file name="/String concat (+)" timestamp="1515001691862">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/MyWebAppInitializer.java" timestamp="1513795888865">
         <mark key="[" line="22" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/services/DefaultResearchService.java" timestamp="1515091874456">
+        <mark key="[" line="41" column="58" />
+        <mark key="]" line="43" column="74" />
+        <mark key="^" line="43" column="74" />
+        <mark key="." line="43" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/ResearchControllerTest.java" timestamp="1515090863918">
+        <mark key="[" line="16" column="74" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/SecurityCategory.java" timestamp="1515016510155">
         <mark key="[" line="32" column="35" />
@@ -96,7 +127,7 @@
       <file name="/StringBuilder (JDK 1.5)" timestamp="1515001691875">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeBarometerRepository.java" timestamp="1514478511020">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeBarometerRepository.java" timestamp="1515090237910">
         <mark key="[" line="17" column="48" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/pom.xml" timestamp="1515005224844">
@@ -116,6 +147,9 @@
       </file>
       <file name="/Groovy: String concat (+)" timestamp="1515001691893">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/NotFoundException.java" timestamp="1515089849142">
+        <mark key="[" line="5" column="88" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/config/PropertyResolverImpl.java" timestamp="1515083681588">
         <mark key="[" line="47" column="12" />
@@ -142,10 +176,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICArICdcJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>basePackages</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>google</text>
@@ -154,31 +188,31 @@
         <text encoding="base64">ICAgICAgICBkYXRhU291cmNlLnNldE1pbklkbGUoZW52LmdldFJlcXVpcmVkUHJvcGVydHkoImRiLm1pbklkbGUiLCBJbnRlZ2VyLmNsYXNzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICArICdcJycK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICArICdcJycK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCB5ZWFycygpIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCB0ZXN0QmFyb21ldGVyNDA0KCkgdGhyb3dzIEV4Y2VwdGlvbiB7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBAVGVzdAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IFN0cmluZyBwZXJmb3JtYW5jZUlkID0gImZvbyI7CiAgICBSZXN1bHRBY3Rpb25zIGFjdGlvbiA9CiAgICAgICAgbXZjLnBlcmZvcm0oCiAgICAgICAgICAgIGdldChVUkxfQkFST01FVEVSX1RFTVBMQVRFLCBwZXJmb3JtYW5jZUlkKQogICAgICAgICAgICAgICAgLmhlYWRlcigiQ29udGVudC10eXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkKICAgICAgICAgICAgLmFuZEV4cGVjdChzdGF0dXMoKS5pc05vdEZvdW5kKCkpOwogIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBNb2NrTXZjIG1vY2tNdmM7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZEV4cGVjdChqc29uUGF0aCgiJFswXS5kYWlseVJldHVybjEzV2VlayIpLmV4aXN0cygpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZEV4cGVjdChqc29uUGF0aCgiJFswXS5kYWlseVJldHVybjE1NldlZWsiKS5leGlzdHMoKSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZEV4cGVjdChqc29uUGF0aCgiJFswXS5wZXJmb3JtYW5jZUlkIikudmFsdWUocGVyZm9ybWFuY2VJZCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBjYXRlZ29yeSgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZEV4cGVjdChqc29uUGF0aCgiJFswXS5zZWN1cml0eUlkIikuZXhpc3RzKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>27</text>
@@ -208,7 +242,7 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
