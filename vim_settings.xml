@@ -19,6 +19,12 @@
         <mark key="^" line="109" column="44" />
         <mark key="." line="109" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/apiv2/src/main/java/com/morningstar/dataapi/api/config/ApiWebConfig.java" timestamp="1514408411112">
         <mark key="[" line="78" column="2" />
       </file>
@@ -27,6 +33,11 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/SecurityUtil.java" timestamp="1513789915747">
         <mark key="[" line="78" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/PropertyPlaceholderConfigurerTest.java" timestamp="1515084430649">
+        <mark key="]" line="58" column="13" />
+        <mark key="^" line="58" column="13" />
+        <mark key="." line="58" column="13" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/foo/PersistanceConfig.java" timestamp="1513788134587">
         <mark key="[" line="34" column="21" />
@@ -66,7 +77,8 @@
       <file name="/ToStringBuilder (Apache commons-lang)" timestamp="1515001691878">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514921537543">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/DataSourceTestConfig.java" timestamp="1515084305675" />
+      <file name="/Dummy.txt" timestamp="1515083408209">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/String concat (+)" timestamp="1515001691862">
@@ -105,11 +117,17 @@
       <file name="/Groovy: String concat (+)" timestamp="1515001691893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/config/PropertyResolverImpl.java" timestamp="1515081937074">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/config/PropertyResolverImpl.java" timestamp="1515083681588">
         <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="3" />
+        <mark key="^" line="47" column="3" />
+        <mark key="." line="47" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1515081779549">
+      <file name="/fragment.java" timestamp="1515084636283">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="/MoreObjects.toStringHelper (Guava 18+)" timestamp="1515001691889">
         <mark key="[" line="0" column="0" />
