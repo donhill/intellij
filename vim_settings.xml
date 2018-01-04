@@ -62,11 +62,11 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/webapp/WEB-INF/web.xml" timestamp="1513792845016">
         <mark key="[" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchController.java" timestamp="1515090456145">
-        <mark key="[" line="24" column="93" />
-        <mark key="]" line="24" column="93" />
-        <mark key="." line="24" column="93" />
-        <mark key="^" line="35" column="78" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchController.java" timestamp="1515093116731">
+        <mark key="[" line="58" column="11" />
+        <mark key="]" line="52" column="35" />
+        <mark key="." line="52" column="35" />
+        <mark key="^" line="52" column="35" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeCategoryRepository.java" timestamp="1515005798794">
         <mark key="[" line="12" column="5" />
@@ -157,7 +157,7 @@
         <mark key="^" line="47" column="3" />
         <mark key="." line="47" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1515084636283">
+      <file name="/fragment.java" timestamp="1515093195564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
