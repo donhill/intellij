@@ -3,10 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1515019212152">
+      <file name="/a.dummy" timestamp="1515600777556">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/apiv2/src/main/java/com/morningstar/dataapi/api/interceptor/AppInterceptor.java" timestamp="1515540797027" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/RequestFilter.java" timestamp="1515600671881">
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="^" line="44" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeSecurityInfoRepository.java" timestamp="1515431441819">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -20,9 +25,6 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/DataSourceConfigTest.java" timestamp="1514410758104">
         <mark key="[" line="25" column="46" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/webapp/WEB-INF/web.xml" timestamp="1513792845016">
-        <mark key="[" line="10" column="55" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeCategoryRepository.java" timestamp="1515170930757">
         <mark key="[" line="17" column="48" />
@@ -77,7 +79,7 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/log4j2.xml" timestamp="1515540057869">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/log4j2.xml" timestamp="1515603598319">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="24" />
         <mark key="^" line="18" column="24" />
@@ -96,9 +98,9 @@
         <mark key="." line="28" column="39" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/WebConfig.java" timestamp="1515542732102">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/SecurityUtil.java" timestamp="1513789915747">
         <mark key="[" line="78" column="5" />
@@ -108,6 +110,11 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/EnvResolvingPropertySourceTest.java" timestamp="1515006083032">
         <mark key="[" line="24" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/LoggingFilter.java" timestamp="1515603281721">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/ResearchControllerTestFixture.java" timestamp="1515430318214">
         <mark key="[" line="70" column="38" />
@@ -119,8 +126,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/AppInterceptor.java" timestamp="1515544411406">
-        <mark key="[" line="21" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/AppInterceptor.java" timestamp="1515616862861">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="56" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="18" column="46" />
@@ -146,6 +154,7 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/log4j2-test.xml" timestamp="1515540173838">
         <mark key="[" line="26" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/apiv2/src/test/java/com/morningstar/dataapi/api/interceptor/AppInterceptorIT.java" timestamp="1515697560134" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/MyWebAppInitializer.java" timestamp="1513795888865">
         <mark key="[" line="22" column="30" />
       </file>
@@ -153,9 +162,6 @@
         <mark key="[" line="41" column="9" />
         <mark key="]" line="41" column="9" />
         <mark key="." line="41" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/filters/RequestFilter.java" timestamp="1515543241005">
-        <mark key="[" line="17" column="91" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/PerformanceIdValidator.java" timestamp="1515426623609">
         <mark key="[" line="7" column="68" />
@@ -211,7 +217,7 @@
         <mark key="^" line="47" column="3" />
         <mark key="." line="47" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1515454300051">
+      <file name="/fragment.java" timestamp="1515603096697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="15" />
@@ -231,49 +237,50 @@
       <jump line="54" column="42" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/CategoryPercent.java" />
       <jump line="80" column="0" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/TestJpaCallsToStoreProceduresTestIT.java" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityInfo.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/AppInterceptor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>getPathInfo</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBhdHRlcm5MYXlvdXQgcCA9IFBhdHRlcm5MYXlvdXQubmV3QnVpbGRlcigpLndpdGhQYXR0ZXJuKCIlZHt5eXl5LU1NLWRkIEhIOm1tOnNzLFNTU30gJXAgWyV0XSB4LXJlcXVlc3QtaWQ9JVh7eC1yZXF1ZXN0LWlkfSBwcm9kdWN0LWNvZGU9JVh7cHJvZHVjdF9jb2RlfSBhcGktdmVyc2lvbj0lWHthcGlfdmVyc2lvbn0gc2VjdXJpdHk9JVh7c2VjdXJpdHl9ICVKQ3szNn0gJUpNICVKTCAlbXNnJXhFeCVuIikuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJyZXNwb25zZS1zdGF0dXMtY29kZT17fSByZXF1ZXN0LXVybD17fSwgcmVzcG9uc2UtZWxhcHNlZC10aW1lPXt9bXMiLCB3cmFwcGVyLmdldFN0YXR1cygpLCByZXEuZ2V0UGF0aEluZm8oKSwgZWxhcHNlZFRpbWUpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBOT19QQVRIID0gIm5vdFBhdGgiOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGxvZyhzdy5nZXRCdWZmZXIoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBOT1RfRk9VTkQgPSAibm90Rm91bmQiOwo=</text>
+        <text encoding="base64">Ly8gICAgZmlsdGVyQ29uZmlnLmdldFNlcnZsZXRDb250ZXh0KCkuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIExvZyB0aGUgcmVzdWx0aW5nIHN0cmluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQVBJX0RPQyA9ICJhcGktZG9jcyI7Cg==</text>
+        <text encoding="base64">Ly8gICAgICBMT0dHRVIuaW5mbygicmVzcG9uc2UtZWxhcHNlZC10aW1lPXt9bXMiLCBlbGFwc2VkVGltZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJyZXF1ZXN0LXVybD17fSIsIHJlcXVlc3RVcmwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgTURDLnB1dCgicmVxdWVzdF9pZCIsICJyZXF1ZXN0X2lkPVwiIityZXF1ZXN0SWQrIlwiICIpOwo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgTURDLmNsZWFyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5zZXRBdHRyaWJ1dGUoUkVRVUVTVElEX0tFWSwgcmVxdWVzdElkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHBvcHVsYXRlIHRoZSBtYXBwZWQgZGlhZ25vc3RpYyBjb250ZXh0LCBzbyBsb2cgbWVzc2FnZXMgd2lsbCBoYXZlIHRoZXNlIHZhbHVlcy4K</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>27</text>
+        <text>56</text>
       </register>
     </registers>
     <search>
@@ -295,6 +302,8 @@
         <entry>456</entry>
         <entry>w</entry>
         <entry>27</entry>
+        <entry>82</entry>
+        <entry>56</entry>
       </history-cmd>
       <history-expr />
       <history-input />

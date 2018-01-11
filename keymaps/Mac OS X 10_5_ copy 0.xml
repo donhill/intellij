@@ -5,6 +5,9 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="ActivateSpringToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
