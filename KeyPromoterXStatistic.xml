@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>17</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -70,6 +70,30 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'SecurityQuoteExchangeConverterTestIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'whenWeMakingAReque...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'whenWeMakingAReque...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SecurityQuoteExchangeConverterTest.whenWeMakingARequestWithNullTimeNonNullTimeFeedShouldBeReturned'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SecurityQuoteExchangeConverterTest.whenWeMakingARequestWithNullTimeNonNullTimeFeedShouldBeReturned'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -94,7 +118,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
