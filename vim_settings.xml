@@ -53,7 +53,6 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/DateHelper.java" timestamp="1515795898414" />
       <file name="/String concat (+)" timestamp="1515001691862">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,10 +61,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1515798239524">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1516058054702">
+        <mark key="[" line="181" column="20" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="/StringBuffer" timestamp="1515001691871">
         <mark key="[" line="0" column="0" />
@@ -131,10 +130,10 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1515887255189">
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="0" />
-        <mark key="." line="279" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1516057723810">
+        <mark key="[" line="204" column="7" />
+        <mark key="]" line="278" column="0" />
+        <mark key="." line="278" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/ResearchControllerTestIT.java" timestamp="1515092008073">
         <mark key="[" line="12" column="0" />
@@ -199,7 +198,11 @@
         <mark key="]" line="65" column="247" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/data/filter/RTDataNameMappingFilter.java" timestamp="1515792812685" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/data/filter/RTDataNameMappingFilter.java" timestamp="1516057662171">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="/StringBuilder (JDK 1.5)" timestamp="1515001691875">
         <mark key="[" line="0" column="0" />
       </file>
@@ -269,7 +272,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0VGhhdFZhbHVlQ29waWVkRnJvbVJlYWxUaW1lKHF1b3RlTWFwRm9yRXhjaGFuZ2UpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>existingTime</text>
@@ -281,31 +284,31 @@
         <text encoding="base64">ICAgIGFzc2VydFRoYXQoU3RyaW5nLnZhbHVlT2YocXVvdGVNYXBGb3JNdWx0aXBsZUV4Y2hhbmdlLmdldCgiVkZJTlgiKS5nZXQoInZvbHVtZSIpKSwgaXMoIjk5OTk5OTkiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0VGhhdFZhbHVlQ29waWVkRnJvbVJlYWxUaW1lKHF1b3RlTWFwRm9yRXhjaGFuZ2UpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0VGhhdFJlc3BvbnNlRG9lc250SGF2ZUtleWxhc3RFeGNoYW5nZVVwZGF0ZVRpbWUocXVvdGVNYXBGb3JFeGNoYW5nZSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0VGhhdChxdW90ZU1hcEZvckV4Y2hhbmdlLnNpemUoKSwgaXMoMSkpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgQFRlc3QKICBASWdub3JlCiAgcHVibGljIHZvaWQgd2hlbkhhc09uZUlkTGV0UmVhbFRpbWVTeXN0ZW1EZXRlcm1pbmVUaGVHcmVhdGVzdFZhbHVlT2xkRnVuY3Rpb25hbGl0eSgpCiAgICAgIHRocm93cyBFeGNlcHRpb24gewoKICAgIE1hcDxTdHJpbmcsIE1hcDxTdHJpbmcsIE9iamVjdD4+IHNlY0luZm8gPSBjb252LmdldFNlY3VyaXR5SW5mbygpOwogICAgYXNzZXJ0VGhhdChzZWNJbmZvLnNpemUoKSwgaXMoKDEpKSk7CgogICAgYXNzZXJ0VGhhdChjb252LmdldFF1b3RlTWFwKCkuc2l6ZSgpLCBpcygxKSk7CiAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIChkYXRhUG9pbnROYW1lTWFwcGVyID09IG51bGwpIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VGhhdFZhbHVlQ29waWVkRnJvbVJlYWxUaW1lKHF1b3RlTWFwRm9yRXhjaGFuZ2UpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VGhhdFJlc3BvbnNlRG9lc250SGF2ZUtleWxhc3RFeGNoYW5nZVVwZGF0ZVRpbWUocXVvdGVNYXBGb3JFeGNoYW5nZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGVNYXBGb3JFeGNoYW5nZS5nZXQoIklCTSIpLCBpcyhzYW1lSW5zdGFuY2UodGFyZ2V0LmdldExlZnQoKSkpKTsK</text>
+        <text encoding="base64">Ly8gICAgYXNzZXJ0VGhhdChxdW90ZU1hcEZvckV4Y2hhbmdlLnNpemUoKSwgaXMoMSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXRSZXNwb25zZURvZXNudEhhdmVLZXlsYXN0RXhjaGFuZ2VVcGRhdGVUaW1lKHF1b3RlTWFwRm9yTXVsdGlwbGVFeGNoYW5nZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGVNYXBGb3JNdWx0aXBsZUV4Y2hhbmdlLmdldCgiR09PR0wiKSwgaXMoc2FtZUluc3RhbmNlKGdvb2dsZS5nZXRMZWZ0KCkpKSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgQFRlc3QKICBASWdub3JlCiAgcHVibGljIHZvaWQgd2hlbkhhc09uZUlkTGV0UmVhbFRpbWVTeXN0ZW1EZXRlcm1pbmVUaGVHcmVhdGVzdFZhbHVlT2xkRnVuY3Rpb25hbGl0eSgpCiAgICAgIHRocm93cyBFeGNlcHRpb24gewoKICAgIE1hcDxTdHJpbmcsIE1hcDxTdHJpbmcsIE9iamVjdD4+IHNlY0luZm8gPSBjb252LmdldFNlY3VyaXR5SW5mbygpOwogICAgYXNzZXJ0VGhhdChzZWNJbmZvLnNpemUoKSwgaXMoKDEpKSk7CgogICAgYXNzZXJ0VGhhdChjb252LmdldFF1b3RlTWFwKCkuc2l6ZSgpLCBpcygxKSk7CiAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGVNYXBGb3JNdWx0aXBsZUV4Y2hhbmdlLmdldCgiVkZJTlgiKSwgaXMoc2FtZUluc3RhbmNlKHZhbmd1YXJkLmdldExlZnQoKSkpKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGVNYXBGb3JFeGNoYW5nZS5nZXQoIklCTSIpLCBpcyhzYW1lSW5zdGFuY2UodGFyZ2V0LmdldExlZnQoKSkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>56</text>
