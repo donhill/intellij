@@ -162,7 +162,7 @@
       <file name="/HTML File.txt.ft" timestamp="1514409188531">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515796106283">
+      <file name="/Dummy.txt" timestamp="1516139330731">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/TestLogger.java" timestamp="1515452213646">
@@ -311,7 +311,7 @@
         <text encoding="base64">ICBATW9jawo=</text>
       </register>
       <register name=":" type="4">
-        <text>56</text>
+        <text>58</text>
       </register>
     </registers>
     <search>
@@ -335,6 +335,8 @@
         <entry>27</entry>
         <entry>82</entry>
         <entry>56</entry>
+        <entry>152</entry>
+        <entry>58</entry>
       </history-cmd>
       <history-expr />
       <history-input />
