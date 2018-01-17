@@ -1,0 +1,11 @@
+<application>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="e0364eb7-5d9a-4d83-825b-140a8da1163b" baseUri="https://msstash.morningstar.com/" />
+      <instance uuid="1c01ec19-073a-4aeb-92be-a6f436e9cf39" baseUri="https://msstash.morningstar.com/" />
+    </instances>
+    <lookup>
+      <record scheme="https" hostname="msstash.morningstar.com" port="-1" path="/" uuid="1c01ec19-073a-4aeb-92be-a6f436e9cf39" />
+    </lookup>
+  </component>
+</application>
