@@ -1,10 +1,14 @@
 <application>
   <component name="UISettings">
+    <option name="ACTIVATE_RIGHT_EDITOR_ON_CLOSE" value="true" />
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="2" />
     <option name="FONT_FACE" value="Source Sans Pro" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="15" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="REUSE_NOT_MODIFIED_TABS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
 </application>
