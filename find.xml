@@ -6,8 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>om.x</mask>
-      <mask>om.</mask>
       <mask>om</mask>
       <mask>o</mask>
       <mask>p</mask>
@@ -24,18 +22,20 @@
       <mask>*jav</mask>
       <mask>*ja</mask>
       <mask>*j</mask>
-      <mask>*.jav</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.con</mask>
       <mask>*.conf</mask>
       <mask>*.config</mask>
       <mask>.config</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.kt</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
