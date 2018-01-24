@@ -6,6 +6,7 @@
       <file name="/a.dummy" timestamp="1515796181556">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-api/src/main/java/com/morningstar/servlets/rest/ResponseBuilder.java" timestamp="1516827820658" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/RequestFilter.java" timestamp="1515600671881">
         <mark key="[" line="44" column="24" />
         <mark key="]" line="44" column="25" />
@@ -26,9 +27,22 @@
       <file name="/ToStringBuilder (Apache commons-lang 3)" timestamp="1515001691882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-editorial-parent/service-editorial-api/src/main/java/com/morningstar/servlets/editorial/LineupPresetServlet.java" timestamp="1516302004697" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/PropertyPlaceholderConfigurerTest.java" timestamp="1516379993770">
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="70" column="43" />
+        <mark key="." line="70" column="43" />
+        <mark key="^" line="70" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/application_test.properties" timestamp="1516380594300">
+        <mark key="[" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/DataSourceConfigTest.java" timestamp="1514410758104">
         <mark key="[" line="25" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/test/java/com/components/articlelineup/ArticleLinkTest.java" timestamp="1516738041951">
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeCategoryRepository.java" timestamp="1515170930757">
         <mark key="[" line="17" column="48" />
@@ -48,7 +62,6 @@
         <mark key="." line="125" column="35" />
         <mark key="^" line="125" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-security-identifier-parent/service-security-identifier/src/main/java/com/morningstar/securityidentifier/model/SecurityIdentifier.java" timestamp="1516311442847" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/ResearchBarometerRepository.java" timestamp="1515185300416">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="30" />
@@ -83,6 +96,12 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_vanguard_exchangeActivityTimeLabel_null.json" timestamp="1516140746232">
         <mark key="[" line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-build/pom.xml" timestamp="1516821709490">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/LogAppender.java" timestamp="1515451549572">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="20" column="21" />
@@ -101,30 +120,39 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityTypeItem.java" timestamp="1515003572606">
         <mark key="[" line="70" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-monitoring-parent/service-monitoring-content/src/content/jcr_root/apps/morningstar-monitoring/osgiConfig/config.publish/mstar.ret.monitor.Cluster.config" timestamp="1516312587450" />
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-monitoring-parent/service-monitoring/src/main/java/com/morningstar/monitoring/cluster/config/impl/ClusterHealthServiceConfigImpl.java" timestamp="1516312557665" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
         <mark key="]" line="28" column="39" />
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/HttpUtil.java" timestamp="1516744325907" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/WebConfig.java" timestamp="1515542732102">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/application.properties" timestamp="1516299936637" />
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-editorial-parent/service-editorial/src/main/java/com/morningstar/editorial/headline/databuilder/impl/CMSDataBuilder.java" timestamp="1516302423436" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/application.properties" timestamp="1516380353080">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/portfolio/servlet/PortfolioXrayServlet.java" timestamp="1516834158512">
+        <mark key="[" line="51" column="46" />
+        <mark key="]" line="61" column="71" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="51" column="68" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/SecurityUtil.java" timestamp="1513789915747">
         <mark key="[" line="78" column="5" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/foo/PersistanceConfig.java" timestamp="1513788134587">
         <mark key="[" line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-group-administration-parent/service-group-administration-api/pom.xml" timestamp="1516300635918" />
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/EnvResolvingPropertySourceTest.java" timestamp="1515006083032">
-        <mark key="[" line="24" column="49" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/EnvResolvingPropertySourceTest.java" timestamp="1516380734269">
+        <mark key="[" line="39" column="88" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/LoggingFilter.java" timestamp="1515603281721">
         <mark key="[" line="64" column="0" />
@@ -147,13 +175,18 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/config/PropertyHelper.java" timestamp="1516379919056">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchController.java" timestamp="1515429466594">
         <mark key="[" line="64" column="56" />
         <mark key="]" line="64" column="35" />
         <mark key="." line="64" column="35" />
         <mark key="^" line="64" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1516204151775">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1516402363464">
         <mark key="[" line="199" column="94" />
         <mark key="]" line="199" column="94" />
         <mark key="." line="199" column="94" />
@@ -162,10 +195,11 @@
       <file name="/HTML File.txt.ft" timestamp="1514409188531">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-adobe-marketing-cloud-parent/service-adobe-marketing-cloud/src/main/java/com/morningstar/marketingcloud/impl/MarketingCloudServiceImpl.java" timestamp="1516301746332" />
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-monitoring-parent/service-monitoring/src/main/java/com/morningstar/monitoring/cluster/servlets/ClusterInstanceStatsServlet.java" timestamp="1516312356805" />
-      <file name="/Dummy.txt" timestamp="1516312566499">
+      <file name="/Dummy.txt" timestamp="1516814723039">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/TestLogger.java" timestamp="1515452213646">
         <mark key="[" line="39" column="11" />
@@ -176,6 +210,9 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/log4j2-test.xml" timestamp="1515540173838">
         <mark key="[" line="26" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-build/README.md" timestamp="1516814496901">
+        <mark key="[" line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/MyWebAppInitializer.java" timestamp="1513795888865">
         <mark key="[" line="22" column="30" />
       </file>
@@ -184,7 +221,6 @@
         <mark key="]" line="41" column="9" />
         <mark key="." line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-editorial-parent/service-editorial/src/main/java/com/morningstar/editorial/fixedlist/FixedListDataWrapper.java" timestamp="1516307304696" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/PerformanceIdValidator.java" timestamp="1515426623609">
         <mark key="[" line="7" column="68" />
         <mark key="]" line="19" column="0" />
@@ -230,6 +266,11 @@
       <file name="/Groovy: String concat (+)" timestamp="1515001691893">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/main/java/com/morningstar/v2/components/articles/utils/ArticlesUtil.java" timestamp="1516737659822">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/NotFoundException.java" timestamp="1515089849142">
         <mark key="[" line="5" column="88" />
       </file>
@@ -274,44 +315,44 @@
       <jump line="35" column="4" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/JarvisConfig.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmVzcG9uc2Uuc2V0SGVhZGVyKCJ4LXJlcXVlc3QtaWQiLCBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Id</text>
+        <text>tokenService.get().getOauthToken()</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBFWENIQU5HRV9EQVRFX1RJTUVfTlVMTF9CT1RIX0ZFRURTID0gIlRoZSBleGNoYW5nZURhdGVUaW1lIGZyb20gUmVhbFRpbWUgYW5kIERlbGF5ZWQgZmVlZCBhcmUgYm90aCBudWxsIjsK</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uc2Uuc2V0SGVhZGVyKCJ4LXJlcXVlc3QtaWQiLCBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBwZXJmb3JtYWFuY2VJZCA9IGV4aXN0aW5nUXVvdGVGcm9tUmVzdWx0cy5nZXQoUEVSRk9STkEpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y2F0Y2ggKFBIWEV4Y2VwdGlvbiBlKSB7CiAgICAgIGludCBzdGF0dXNDb2RlID0gZS5nZXRTdGF0dXNDb2RlKCk7CiAgICAgIFN0cmluZyBtZXNzYWdlID0gZS5nZXRNZXNzYWdlKCk7CiAgICAgIGxvZ0J1aWxkZXIKICAgICAgICAgIC5hZGQoInN0YXR1c0NvZGUiLCAiIiArIHN0YXR1c0NvZGUpCiAgICAgICAgICAuYWRkKCJpc3N1ZSIsIG1lc3NhZ2UpCiAgICAgICAgICAuY3JlYXRlRXJyb3JMb2coIkZhaWx1cmUgdG8gb2J0YWluIGFjY2VzcyB0b2tlbiBmcm9tIGRlcGVuZGVuY3kuIiwgZSk7CiAgICAgIHJlc3BvbnNlLnNldFN0YXR1cyg1MDApOwogICAgICAKICAgICAgcmV0dXJuICJmb28iOwogICAgfSA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTU1ERFlZX0lOX1NMQVNIX0hIX01NX0FNUE1fVFopCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuZGF0ZUZyb21TdHJpbmcoU3RyaW5nLnZhbHVlT2YobmV4dFF1b3RlRnJvbVJlc3BvbnNlLmdldChFWENIQU5HRV9BQ1RJVklUWV9USU1FX0xBQkVMKSksCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERhdGVIZWxwZXIK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5yZWdleC5QYXR0ZXJuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTU1ERFlZX0lOX1NMQVNIX0hIX01NX0FNUE1fVFopCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5yZWdleC5NYXRjaGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuZGF0ZUZyb21TdHJpbmcoU3RyaW5nLnZhbHVlT2YobmV3RGF0ZSksCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLmlzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlSGVscGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTU1ERFlZX0lOX1NMQVNIX0hIX01NX0FNUE1fVFopCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>58</text>
