@@ -6,7 +6,6 @@
       <file name="/a.dummy" timestamp="1515796181556">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-api/src/main/java/com/morningstar/servlets/rest/ResponseBuilder.java" timestamp="1516827820658" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/RequestFilter.java" timestamp="1515600671881">
         <mark key="[" line="44" column="24" />
         <mark key="]" line="44" column="25" />
@@ -56,10 +55,10 @@
       <file name="/ToStringBuilder (Apache commons-lang)" timestamp="1515001691878">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityInfo.java" timestamp="1515431942103">
-        <mark key="[" line="125" column="35" />
-        <mark key="]" line="125" column="35" />
-        <mark key="." line="125" column="35" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityInfo.java" timestamp="1516922014952">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="5" />
+        <mark key="." line="29" column="0" />
         <mark key="^" line="125" column="35" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/ResearchBarometerRepository.java" timestamp="1515185300416">
@@ -120,19 +119,21 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityTypeItem.java" timestamp="1515003572606">
         <mark key="[" line="70" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/JdbcPasswordUtil.java" timestamp="1516921559523">
+        <mark key="[" line="16" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
         <mark key="]" line="28" column="39" />
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/HttpUtil.java" timestamp="1516744325907" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/WebConfig.java" timestamp="1515542732102">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/application.properties" timestamp="1516380353080">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/application.properties" timestamp="1516921501142">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -180,7 +181,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchController.java" timestamp="1515429466594">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchController.java" timestamp="1516921803423">
         <mark key="[" line="64" column="56" />
         <mark key="]" line="64" column="35" />
         <mark key="." line="64" column="35" />
@@ -316,7 +317,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2Uuc2V0SGVhZGVyKCJ4LXJlcXVlc3QtaWQiLCBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICBASWQK</text>
       </register>
       <register name="-" type="4">
         <text>tokenService.get().getOauthToken()</text>
@@ -327,26 +328,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmVzcG9uc2Uuc2V0SGVhZGVyKCJ4LXJlcXVlc3QtaWQiLCBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBASWQK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">Y2F0Y2ggKFBIWEV4Y2VwdGlvbiBlKSB7CiAgICAgIGludCBzdGF0dXNDb2RlID0gZS5nZXRTdGF0dXNDb2RlKCk7CiAgICAgIFN0cmluZyBtZXNzYWdlID0gZS5nZXRNZXNzYWdlKCk7CiAgICAgIGxvZ0J1aWxkZXIKICAgICAgICAgIC5hZGQoInN0YXR1c0NvZGUiLCAiIiArIHN0YXR1c0NvZGUpCiAgICAgICAgICAuYWRkKCJpc3N1ZSIsIG1lc3NhZ2UpCiAgICAgICAgICAuY3JlYXRlRXJyb3JMb2coIkZhaWx1cmUgdG8gb2J0YWluIGFjY2VzcyB0b2tlbiBmcm9tIGRlcGVuZGVuY3kuIiwgZSk7CiAgICAgIHJlc3BvbnNlLnNldFN0YXR1cyg1MDApOwogICAgICAKICAgICAgcmV0dXJuICJmb28iOwogICAgfSA=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5yZWdleC5QYXR0ZXJuOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5yZWdleC5NYXRjaGVyOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLmlzOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLmlzOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
