@@ -220,7 +220,8 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/MyWebAppInitializer.java" timestamp="1513795888865">
         <mark key="[" line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/services/DefaultResearchService.java" timestamp="1516305167870">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/services/DefaultResearchService.java" timestamp="1517431445871">
+        <mark key="'" line="55" column="29" />
         <mark key="[" line="41" column="9" />
         <mark key="]" line="41" column="9" />
         <mark key="." line="41" column="9" />
@@ -322,6 +323,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/AppInterceptor.java" />
       <jump line="35" column="4" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/JarvisConfig.xml" />
       <jump line="53" column="30" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/portfolio/servlet/PortfolioXrayServlet.java" />
+      <jump line="55" column="29" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/services/DefaultResearchService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -364,7 +366,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>58</text>
+        <text>57</text>
       </register>
     </registers>
     <search>
@@ -390,6 +392,7 @@
         <entry>56</entry>
         <entry>152</entry>
         <entry>58</entry>
+        <entry>57</entry>
       </history-cmd>
       <history-expr />
       <history-input />
