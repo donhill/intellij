@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'iip-services-parent'" />
+    <option name="defaultScopeName" value="Project 'iip-services-parent'" />
+    <option name="SEARCH_SCOPE" value="Project 'iip-services-parent'" />
     <recentFileMasks>
       <mask>om.x</mask>
       <mask>om.</mask>
