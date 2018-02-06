@@ -99,6 +99,12 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/aem-iip-dc-docker/README.md" timestamp="1517940151781">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="63" />
+        <mark key="^" line="11" column="63" />
+        <mark key="." line="11" column="63" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ExceptionProcessor.java" timestamp="1515172199992">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="18" column="0" />
@@ -192,7 +198,7 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLmlzOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>234</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -212,7 +218,6 @@
         <entry>40</entry>
         <entry>256</entry>
         <entry>456</entry>
-        <entry>w</entry>
         <entry>27</entry>
         <entry>82</entry>
         <entry>56</entry>
@@ -221,6 +226,7 @@
         <entry>57</entry>
         <entry>73</entry>
         <entry>234</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
