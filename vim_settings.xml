@@ -51,6 +51,12 @@
         <mark key="^" line="44" column="102" />
         <mark key="." line="44" column="102" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/Test.java" timestamp="1517944260512">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="11" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityInfo.java" timestamp="1516922014952">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="5" />
@@ -158,8 +164,8 @@
       <jump line="55" column="29" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/services/DefaultResearchService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KiBgYGAgQ09OVEFJTkVSIElECiAgICAgIDRjM2VkZGQ4NGViNSAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIHNlY29uZHMgIiArIGRhdGUuZ2V0U2Vjb25kKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -168,34 +174,34 @@
         <text>google</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2Uuc2V0SGVhZGVyKCJ4LXJlcXVlc3QtaWQiLCBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIHNlY29uZHMgIiArIGRhdGUuZ2V0U2Vjb25kKCkpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZvcigpCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">KiBgYGAgQ09OVEFJTkVSIElECiAgICAgIDRjM2VkZGQ4NGViNSAg</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FjaGUuCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBASWQK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Y2F0Y2ggKFBIWEV4Y2VwdGlvbiBlKSB7CiAgICAgIGludCBzdGF0dXNDb2RlID0gZS5nZXRTdGF0dXNDb2RlKCk7CiAgICAgIFN0cmluZyBtZXNzYWdlID0gZS5nZXRNZXNzYWdlKCk7CiAgICAgIGxvZ0J1aWxkZXIKICAgICAgICAgIC5hZGQoInN0YXR1c0NvZGUiLCAiIiArIHN0YXR1c0NvZGUpCiAgICAgICAgICAuYWRkKCJpc3N1ZSIsIG1lc3NhZ2UpCiAgICAgICAgICAuY3JlYXRlRXJyb3JMb2coIkZhaWx1cmUgdG8gb2J0YWluIGFjY2VzcyB0b2tlbiBmcm9tIGRlcGVuZGVuY3kuIiwgZSk7CiAgICAgIHJlc3BvbnNlLnNldFN0YXR1cyg1MDApOwogICAgICAKICAgICAgcmV0dXJuICJmb28iOwogICAgfSA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5yZWdleC5QYXR0ZXJuOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5yZWdleC5NYXRjaGVyOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLmlzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5yZWdleC5NYXRjaGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
