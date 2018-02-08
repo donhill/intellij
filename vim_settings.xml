@@ -47,15 +47,21 @@
         <mark key="." line="70" column="43" />
         <mark key="^" line="70" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-id-service-parent/service-id-service/src/test/java/com/morningstar/idservice/impl/IDServiceImplTest.java" timestamp="1518123225736">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="95" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/GetPromotionsServiceImpl.java" timestamp="1518111081116">
         <mark key="'" line="86" column="8" />
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" timestamp="1518117972299">
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" timestamp="1518123128466">
         <mark key="'" line="281" column="38" />
-        <mark key="[" line="87" column="4" />
+        <mark key="[" line="84" column="11" />
         <mark key="]" line="69" column="12" />
         <mark key="." line="69" column="12" />
         <mark key="^" line="69" column="12" />
@@ -299,11 +305,11 @@
       <jump line="412" column="19" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/test/java/com/morningstar/util/WebClientUtilTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTU0xDb250ZXh0IHNzbENvbnRleHQgPSBtb2NrKFNTTENvbnRleHQuY2xhc3MpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>CloseableHttpClient</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
@@ -311,32 +317,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwYXRjaC5zZXRFbnRpdHkobmV3IEJ5dGVBcnJheUVudGl0eShFbmNvZGluZ1V0aWxzLmdldEJ5dGVzKHJlcXVlc3RCb2R5RGF0YSwgInV0Zi04IikpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTU0xDb250ZXh0IHNzbENvbnRleHQgPSBtb2NrKFNTTENvbnRleHQuY2xhc3MpOwo=</text>
+      <register name="1" type="4">
+        <text>til w = PowerMockito.mock(WebClientUtil.class);
+/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICBTdHJpbmdFbnRpdHkgcmVxdWVzdFBhcmFtcyA9IG5ldyBTdHJpbmdFbnRpdHkocmVxdWVzdE9iamVjdC50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBAUHJlcGFyZUZvclRlc3QoV2ViQ2xpZW50VXRpbC5jbGFzcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Ly8gICAgICAgIG1vY2tTdGF0aWMoV2ViQ2xpZW50VXRpbC5jbGFzcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgdHJ5IHsK</text>
+        <text encoding="base64">Ly8gICAgICAgIFBvd2VyTW9ja2l0by5kb1JldHVybihudWxsKS53aGVuKFdlYkNsaWVudFV0aWwsICJjcmVhdGVIdHRwQ2xpZW50UG9vbCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIENsb3NlYWJsZUh0dHBDbGllbnQgY2xpZW50ID0gUG93ZXJNb2NraXRvLm1vY2soQ2xvc2VhYmxlSHR0cENsaWVudC5jbGFzcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICB0aHJvdyBuZXcgVXNlclNlcnZpY2VVbgo=</text>
+        <text encoding="base64">ICAgICAgICBTU0xDb250ZXh0IHNzbENvbnRleHQgPSBtb2NrKFNTTENvbnRleHQuY2xhc3MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgLmNyZWF0ZUVycm9yTG9nKCJGYWlsZWQgdG8gcG9zdCBVc2VyIFN1YnNjcmlwdGlvbnMuIiwgZSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICBTdHJpbmdFbnRpdHkgcmVxdWVzdFBhcmFtcyA9IG5ldyBTdHJpbmdFbnRpdHkocmVxdWVzdE9iamVjdC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgLmFkZChDdXN0b21Mb2dDb25zdGFudHMuVVNFUklELCB1c2VySWQpCg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICBQSFhfTE9HX0hFTFBFUl9GQUNUT1JZLmxvZ0J1aWxkZXIoKQo=</text>
+        <text encoding="base64">Ly8gICAgdHJ5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>63</text>
