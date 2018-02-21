@@ -22,15 +22,17 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/servlets/StatusCheckServlet.java" timestamp="1519249097610">
         <mark key="[" line="70" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/main/java/com/morningstar/servlets/subscription/impl/AbandonSubscriptionEmailImpl.java" timestamp="1519249642679">
-        <mark key="[" line="114" column="14" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/main/java/com/morningstar/servlets/subscription/impl/AbandonSubscriptionEmailImpl.java" timestamp="1519251992309">
+        <mark key="[" line="115" column="69" />
+        <mark key="]" line="115" column="69" />
+        <mark key="." line="115" column="69" />
+        <mark key="^" line="115" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/pricing/servlets/PricingAbandonmentServlet.java" timestamp="1519248609535">
-        <mark key="[" line="78" column="20" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/pricing/servlets/PricingAbandonmentServlet.java" timestamp="1519251948260">
+        <mark key="[" line="80" column="66" />
+        <mark key="]" line="80" column="45" />
+        <mark key="." line="80" column="45" />
+        <mark key="^" line="80" column="45" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/RequestFilter.java" timestamp="1515600671881">
         <mark key="[" line="44" column="24" />
@@ -152,11 +154,10 @@
         <mark key="^" line="4" column="51" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/test/java/com/morningstar/v2/components/dtm/GetDTMConfigTagTest.java" timestamp="1519247401791">
-        <mark key="[" line="260" column="71" />
-        <mark key="]" line="260" column="71" />
-        <mark key="." line="260" column="71" />
-        <mark key="^" line="260" column="71" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/test/java/com/morningstar/v2/components/dtm/GetDTMConfigTagTest.java" timestamp="1519252286455">
+        <mark key="[" line="312" column="175" />
+        <mark key="]" line="313" column="0" />
+        <mark key="." line="313" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/pom.xml" timestamp="1515005224844">
         <mark key="[" line="10" column="17" />
@@ -199,11 +200,11 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/ParserHelper.java" timestamp="1519250004698">
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="60" column="37" />
-        <mark key="." line="60" column="37" />
-        <mark key="^" line="60" column="37" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/ParserHelper.java" timestamp="1519252495616">
+        <mark key="[" line="112" column="61" />
+        <mark key="]" line="128" column="9" />
+        <mark key="." line="128" column="9" />
+        <mark key="^" line="128" column="9" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
@@ -233,10 +234,11 @@
         <mark key="." line="89" column="74" />
         <mark key="^" line="89" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/pricing/services/model/PricingSpecificationTest.java" timestamp="1519249548499">
-        <mark key="[" line="39" column="41" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/pricing/services/model/PricingSpecificationTest.java" timestamp="1519251916365">
+        <mark key="[" line="40" column="56" />
+        <mark key="]" line="40" column="56" />
+        <mark key="." line="40" column="56" />
+        <mark key="^" line="40" column="56" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/test/java/com/morningstar/v2/tags/GetPricingTermsTagTest.java" timestamp="1519239626909">
         <mark key="[" line="148" column="32" />
@@ -297,19 +299,13 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/test/java/com/morningstar/servlets/subscription/impl/AbandonSubscriptionEmailImplTest.java" timestamp="1519247592195">
-        <mark key="'" line="320" column="0" />
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="320" column="0" />
-        <mark key="." line="320" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-monitoring-parent/service-monitoring/src/test/java/com/morningstar/monitoring/cluster/snapshots/impl/RemotelySurfacedSnapshotProviderTest.java" timestamp="1518455145603">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="49" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/main/java/com/morningstar/v2/components/dtm/GetDTMConfigTag.java" timestamp="1519249705237">
-        <mark key="[" line="51" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/main/java/com/morningstar/v2/components/dtm/GetDTMConfigTag.java" timestamp="1519252111484">
+        <mark key="[" line="51" column="84" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
@@ -449,10 +445,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBPYmplY3RXcml0ZXIgSlNPTl9XUklURVIgPSBuZXcgT2JqZWN0TWFwcGVyKCkud3JpdGVyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>objectMapper</text>
+        <text>createConfiguredObjectMapper</text>
       </register>
       <register name="/" type="4">
         <text>Patch</text>
@@ -461,34 +457,34 @@
         <text encoding="base64">ICBASWdub3JlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBPYmplY3RXcml0ZXIgSlNPTl9XUklURVIgPSBuZXcgT2JqZWN0TWFwcGVyKCkud3JpdGVyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgIGVuX3VzTm9kZS5wdXQoSkNSX0NPTlRFTlRfRFRNX1BST1BFUlRZX0tFWSwgRU5fVU5ERVJTQ09SRV9VU19KU19MSUJSQVJZKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIGVuX3VzTm9kZS5wdXQoSkNSX0NPTlRFTlRfQ1VMVFVSRV9LRVksICJlbl91cyIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9UHJpY2luZ1NwZWNpZmljYXRpb24uY2xhc3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9UHJpY2luZ1NwZWNpZmljYXRpb24uY2xhc3MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE9iamVjdFdyaXRlciB3cml0ZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCkud3JpdGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHB1YmxpYyBpbnQgY29tcGFyZVRvKE9iamVjdCBvKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRkT2JqZWN0TWFwcGVyIG9iamVjdE1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
