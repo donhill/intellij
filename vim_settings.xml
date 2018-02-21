@@ -8,6 +8,7 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/config/SubscriptionServiceMVCConfig.java" timestamp="1519244976362" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-caching-parent/service-caching/src/main/java/com/morningstar/cache/core/impl/EhcacheServiceImpl.java" timestamp="1518201659932">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -104,6 +105,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionServiceControllerTest.java" timestamp="1519245222907">
+        <mark key="[" line="292" column="28" />
+        <mark key="]" line="289" column="7" />
+        <mark key="." line="289" column="7" />
+        <mark key="^" line="289" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityInfo.java" timestamp="1516922014952">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="5" />
@@ -185,8 +192,8 @@
         <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/metadata/entities/validation/ValidationError.java" timestamp="1519238767512" />
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/ParserHelper.java" timestamp="1519239142602">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/ParserHelper.java" timestamp="1519245205671">
+        <mark key="[" line="19" column="74" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
@@ -254,7 +261,7 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/portfolio/PortfolioXrayServletTest.java" timestamp="1519239273932">
         <mark key="[" line="65" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519239610367">
+      <file name="/Dummy.txt" timestamp="1519245005313">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -406,7 +413,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>mapper</text>
@@ -418,34 +425,34 @@
         <text encoding="base64">ICBASWdub3JlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE9iamVjdE1hcHBlciBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVHlwZVJlZmVyZW5jZSB0eXBlUmVmZXJlbmNlID0gCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIE9iamVjdE1hcHBlciBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgSmF2YVR5cGUgdHlwZSA9IG9iamVjdE1hcHBlci5nZXRUeXBlRmFjdG9yeSgpLmNvbnN0cnVjdENvbGxlY3Rpb25UeXBlKExpc3QuY2xhc3MsIGNsYXp6KTsK</text>
+        <text encoding="base64">ICAgICAgVHlwZVJlZmVyZW5jZSB0eXBlUmVmZXJlbmNlID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgSmF2YVR5cGUgdHlwZSA9IG9iamVjdE1hcHBlci5nZXRUeXBlRmFjdG9yeSgpLmNvbnN0cnVjdENvbGxlY3Rpb25UeXBlKExpc3QuY2xhc3MsIGNsYXp6KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci4K</text>
+        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5kYXRhYXBpLm9zd2FsZC5leGNlcHRpb25zLkludmFsaWREYXRhUmVxdWVzdEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXNwb25zZVN0YXR1czsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5kYXRhYXBpLm9zd2FsZC5leGNlcHRpb25zLkludmFsaWREYXRhUmVxdWVzdEV4Y2VwdGlvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
