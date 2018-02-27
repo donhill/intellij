@@ -13,9 +13,6 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/servlets/StatusCheckServlet.java" timestamp="1519422422608">
-        <mark key="[" line="71" column="11" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/main/java/com/morningstar/servlets/subscription/impl/AbandonSubscriptionEmailImpl.java" timestamp="1519253385323">
         <mark key="[" line="116" column="21" />
         <mark key="]" line="120" column="12" />
@@ -66,10 +63,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" timestamp="1518820989425">
-        <mark key="[" line="80" column="1" />
-        <mark key="]" line="80" column="1" />
-        <mark key="." line="80" column="1" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" timestamp="1519690366166">
+        <mark key="[" line="68" column="61" />
+        <mark key="]" line="74" column="25" />
+        <mark key="." line="74" column="25" />
+        <mark key="^" line="74" column="25" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/pricing/services/impl/PricingServiceImplTest.java" timestamp="1519248682932">
         <mark key="[" line="327" column="26" />
@@ -236,6 +234,9 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/restassured-automation-api-testing/src/test/resources/config.local.properties" timestamp="1519669711887">
+        <mark key="[" line="2" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1516146657406">
         <mark key="[" line="308" column="10" />
         <mark key="]" line="308" column="60" />
@@ -284,7 +285,7 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/portfolio/PortfolioXrayServletTest.java" timestamp="1519239273932">
         <mark key="[" line="65" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519403422129">
+      <file name="/Dummy.txt" timestamp="1519669356574">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -306,10 +307,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/servlets/StatusCheckServletTest.java" timestamp="1519248737355">
-        <mark key="[" line="96" column="83" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/servlets/StatusCheckServletTest.java" timestamp="1519679349495">
+        <mark key="[" line="92" column="52" />
+        <mark key="]" line="92" column="53" />
+        <mark key="." line="92" column="53" />
+        <mark key="^" line="92" column="53" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/main/java/com/morningstar/servlets/impl/GetUserDiscussionImpl.java" timestamp="1518203590864">
         <mark key="[" line="65" column="0" />
@@ -372,10 +374,6 @@
         <mark key="^" line="31" column="67" />
         <mark key="." line="31" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/main/java/com/morningstar/v2/tags/GetPricingTermsTag.java" timestamp="1519249730923">
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-news-parent/service-news/src/main/java/com/morningstar/news/utils/newsserivce/NewsServiceQueryUrl.java" timestamp="1518202394885">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -397,13 +395,14 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient-osgi/4.4.1/httpclient-osgi-4.4.1.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1519679457387" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/config/PropertyResolverImpl.java" timestamp="1515083681588">
         <mark key="[" line="47" column="12" />
         <mark key="]" line="47" column="3" />
         <mark key="^" line="47" column="3" />
         <mark key="." line="47" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1519422451777">
+      <file name="/fragment.java" timestamp="1519669356589">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -450,10 +449,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>Patch</text>
