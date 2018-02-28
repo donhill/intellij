@@ -31,8 +31,10 @@
         <mark key="." line="44" column="25" />
         <mark key="^" line="44" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/services/impl/StatusCheckServiceImpl.java" timestamp="1519691500734">
-        <mark key="[" line="129" column="9" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/services/impl/StatusCheckServiceImpl.java" timestamp="1519835161224">
+        <mark key="[" line="126" column="90" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/portfolio/impl/PortfolioAccessTokenServiceImpl.java" timestamp="1519691527013">
         <mark key="[" line="73" column="71" />
@@ -188,7 +190,6 @@
         <mark key="]" line="75" column="13" />
         <mark key="." line="75" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/GetUserDetailServiceImpl.java" timestamp="1519691586888" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/LogAppender.java" timestamp="1515451549572">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="20" column="21" />
@@ -255,7 +256,6 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/config/impl/UserServiceConfigurationImpl.java" timestamp="1519768688500" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1516146657406">
         <mark key="[" line="308" column="10" />
         <mark key="]" line="308" column="60" />
@@ -290,7 +290,6 @@
         <mark key="." line="199" column="94" />
         <mark key="^" line="199" column="94" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.1/httpcore-4.4.1.jar!/org/apache/http/util/EntityUtils.class" timestamp="1519691295414" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-test/src/main/java/com/morningstar/servlets/TestBase.java" timestamp="1519403411870">
         <mark key="[" line="53" column="28" />
         <mark key="]" line="52" column="31" />
@@ -416,7 +415,6 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient-osgi/4.4.1/httpclient-osgi-4.4.1.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1519679457387" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/config/PropertyResolverImpl.java" timestamp="1515083681588">
         <mark key="[" line="47" column="12" />
         <mark key="]" line="47" column="3" />
@@ -470,7 +468,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImF2YWlsYWJsZSAyMjIgcG9vbCAiICsgY20uZ2V0VG90YWxTdGF0cygpKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IFN5c3RlbS5vdXQucHJpbnRsbigiYXZhaWxhYmxlIDExMSBwb29sICIgKyBjbS5nZXRUb3RhbFN0YXRzKCkpOw==</text>
@@ -482,34 +480,34 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYXZhaWxhYmxlIDExMSBwb29sICIgKyBjbS5nZXRUb3RhbFN0YXRzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImF2YWlsYWJsZSAyMjIgcG9vbCAiICsgY20uZ2V0VG90YWxTdGF0cygpKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIHByaXZhdGUgc3RhdGljIFBvb2xpbmdIdHRwQ2xpZW50Q29ubmVjdGlvbk1hbmFnZXIgY20gPSBuZXcgUG9vbGluZ0h0dHBDbGllbnRDb25uZWN0aW9uTWFuYWdlcigpOwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNtLm1heAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHByaXZhdGUgTGlzdDxTdHJpbmc+IGh0dHBFbmRQb2ludFN0YXR1c2VzKGZpbmFsIFN0cmluZyByZXF1ZXN0SWQpIHsKCiAgICBmaW5hbCBTdHJpbmcgbWV0aG9kTmFtZSA9ICJodHRwRW5kUG9pbnRTdGF0dXNlcyI7CgogICAgTGlzdDxTdHJpbmc+IGVuZHBvaW50U3RhdHVzZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICBmb3IgKGZpbmFsIE1hcC5FbnRyeTxTdHJpbmcsIFN0cmluZz4gZW50cnkgOiBkZXBlbmRlbmN5VVJMc1RvSGVhZGVycy5nZXQoKS5lbnRyeVNldCgpKSB7CgogICAgICBmaW5hbCBTdHJpbmcgdXJsID0gZW50cnkuZ2V0S2V5KCk7CiAgICAgIGZpbmFsIE1hcDxTdHJpbmcsIFN0cmluZz4gaGVhZGVyTmFtZVZhbHVlTWFwID0gY29udmVydEhlYWRlcnNUb01hcChlbnRyeS5nZXRWYWx1ZSgpKTsKCiAgICAgIExPR19GQUNUT1JZCiAgICAgICAgICAubG9nQnVpbGRlcigpCiAgICAgICAgICAuY3JlYXRlSW5mb0xvZyhtZXRob2ROYW1lLCAiVGVzdGluZyB0aGUgc3RhdHVzIG9mICIgKyB1cmwpOwoKICAgICAgU3RyaW5nIGVuZHBvaW50T2sgPSB1cmwgKyAiOiIgKyAiT0siOwogICAgICBTdHJpbmcgZW5kUG9pbnRGYWlsZWQgPSB1cmwgKyAiOiIgKyAiTk9UIE9LIjsKCiAgICAgIExPR19GQUNUT1JZCiAgICAgICAgICAubG9nQnVpbGRlcigpCiAgICAgICAgICAuY3JlYXRlSW5mb0xvZyhtZXRob2ROYW1lLCAiVGVzdGluZyB0aGUgc3RhdHVzIG9mICIgKyB1cmwpOwoKICAgICAgdHJ5IChmaW5hbCBDbG9zZWFibGVIdHRwUmVzcG9uc2UgcmVzcG9uc2UgPSBXZWJDbGllbnRVdGlsLmV4ZWN1dGVSZXF1ZXN0KHVybCwKICAgICAgICAgIEh0dHBNZXRob2QuR0VULCBoZWFkZXJOYW1lVmFsdWVNYXApKSB7CiAgICAgICAgZmluYWwgU3RhdHVzTGluZSBzdGF0dXNMaW5lID0gcmVzcG9uc2UuZ2V0U3RhdHVzTGluZSgpOwogICAgICAgIGZpbmFsIEh0dHBFbnRpdHkgcmVzcG9uc2VFbnRpdHkgPSByZXNwb25zZS5nZXRFbnRpdHkoKTsKICAgICAgICBpZiAoIShzdGF0dXNMaW5lLmdldFN0YXR1c0NvZGUoKSA9PSAyMDAgJiYgaXNWYWxpZFJlc3BvbnNlSWZKYXJ2aXModXJsLAogICAgICAgICAgICBJT1V0aWxzLnRvU3RyaW5nKHJlc3BvbnNlRW50aXR5LmdldENvbnRlbnQoKSkpKSkgewogICAgICAgICAgTE9HX0ZBQ1RPUlkKICAgICAgICAgICAgICAubG9nQnVpbGRlcigpCiAgICAgICAgICAgICAgLmFkZChTdGF0dXNDaGVja0NvbnN0YW50cy5SRVFVRVNUX0lELCByZXF1ZXN0SWQpCiAgICAgICAgICAgICAgLmNyZWF0ZUVycm9yTG9nKG1ldGhvZE5hbWUsICJTdGF0dXMgQ2hlY2sgRmFpbGVkIGZvciB1cmwgOiIgKyB1cmwpOwogICAgICAgICAgZW5kcG9pbnRPayA9IGVuZFBvaW50RmFpbGVkOwogICAgICAgIH0KICAgICAgICBFbnRpdHlVdGlscy5jb25zdW1lKHJlc3BvbnNlLmdldEVudGl0eSgpKTsKICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICBMT0dfRkFDVE9SWQogICAgICAgICAgICAubG9nQnVpbGRlcigpCiAgICAgICAgICAgIC5hZGQoU3RhdHVzQ2hlY2tDb25zdGFudHMuUkVRVUVTVF9JRCwgcmVxdWVzdElkKQogICAgICAgICAgICAuY3JlYXRlRXJyb3JMb2coIkV4Y2VwdGlvbiBvY2N1cnJlZCB3aGlsZSBjYWxsaW5nOiIgKyB1cmwsIGUpOwogICAgICAgIGVuZHBvaW50T2sgPSBlbmRQb2ludEZhaWxlZDsKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXM=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQXZhaWxhYmxlIGNvbm5lY3Rpb25zIDoiICsgY2xpZW50Lik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImF2YWlsYWJsZSAyMjIgcG9vbCAiICsgY20uZ2V0VG90YWxTdGF0cygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2VGcm9tQXBpCg==</text>
+        <text encoding="base64">Ly8gIHByaXZhdGUgc3RhdGljIFBvb2xpbmdIdHRwQ2xpZW50Q29ubmVjdGlvbk1hbmFnZXIgY20gPSBuZXcgUG9vbGluZ0h0dHBDbGllbnRDb25uZWN0aW9uTWFuYWdlcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBJTlZBTElEX0RQUygiNDAwMDAyIiwgIkludmFsaWQgcGFyYW1ldGVyIHZhbHVlIGZvciBkYXRhIHBvaW50cyIpLAo=</text>
+        <text encoding="base64">ICAgIGNtLm1heAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5PYmplY3RNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQXZhaWxhYmxlIGNvbm5lY3Rpb25zIDoiICsgY2xpZW50Lik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uc2VGcm9tQXBpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuX3VzLgo=</text>
+        <text encoding="base64">ICBJTlZBTElEX0RQUygiNDAwMDAyIiwgIkludmFsaWQgcGFyYW1ldGVyIHZhbHVlIGZvciBkYXRhIHBvaW50cyIpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
