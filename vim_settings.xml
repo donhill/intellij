@@ -301,7 +301,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519771814496">
+      <file name="/Dummy.txt" timestamp="1519928304946">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -420,6 +420,9 @@
         <mark key="]" line="47" column="3" />
         <mark key="^" line="47" column="3" />
         <mark key="." line="47" column="3" />
+      </file>
+      <file name="/fragment.java" timestamp="1519928304957">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2-design/src/content/jcr_root/apps/system/config/com.morningstar.v2.auth.UIMTokenAuthenticationHandler.config" timestamp="1519768461735">
         <mark key="[" line="0" column="63" />
