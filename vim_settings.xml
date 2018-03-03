@@ -211,6 +211,13 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/PostSubscriptionsServiceImpl.java" timestamp="1519691228001">
         <mark key="[" line="97" column="89" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/pom.xml" timestamp="1520033333430">
+        <mark key="'" line="213" column="53" />
+        <mark key="[" line="319" column="65" />
+        <mark key="]" line="361" column="43" />
+        <mark key="." line="361" column="43" />
+        <mark key="^" line="361" column="43" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/ParserHelper.java" timestamp="1519416826663">
         <mark key="[" line="79" column="18" />
         <mark key="]" line="118" column="51" />
@@ -256,6 +263,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-parent/pom.xml" timestamp="1520029628826">
+        <mark key="[" line="551" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/restassured-automation-api-testing/src/test/resources/config.local.properties" timestamp="1520005759410">
+        <mark key="[" line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1516146657406">
         <mark key="[" line="308" column="10" />
         <mark key="]" line="308" column="60" />
@@ -290,6 +303,11 @@
         <mark key="." line="199" column="94" />
         <mark key="^" line="199" column="94" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/pom.xml" timestamp="1520023381833">
+        <mark key="[" line="395" column="36" />
+        <mark key="]" line="435" column="0" />
+        <mark key="." line="435" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-test/src/main/java/com/morningstar/servlets/TestBase.java" timestamp="1519403411870">
         <mark key="[" line="53" column="28" />
         <mark key="]" line="52" column="31" />
@@ -301,7 +319,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519928304946">
+      <file name="/Dummy.txt" timestamp="1520031919152">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -314,8 +332,11 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/restassured-automation-api-testing/src/test/resources/config.dev.properties" timestamp="1519944128075">
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/restassured-automation-api-testing/src/test/resources/config.dev.properties" timestamp="1520010954540">
         <mark key="[" line="2" column="26" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-monitoring-parent/service-monitoring/src/test/java/com/morningstar/monitoring/cluster/snapshots/impl/RemotelySurfacedSnapshotProviderTest.java" timestamp="1518455145603">
         <mark key="[" line="62" column="0" />
@@ -343,6 +364,12 @@
         <mark key="]" line="96" column="29" />
         <mark key="^" line="96" column="29" />
         <mark key="." line="96" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/oswald/pom.xml" timestamp="1520033090334">
+        <mark key="[" line="716" column="51" />
+        <mark key="]" line="738" column="0" />
+        <mark key="." line="738" column="0" />
+        <mark key="^" line="738" column="16" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/filters/RequestFilterTest.java" timestamp="1515529123459">
         <mark key="[" line="79" column="13" />
@@ -424,7 +451,7 @@
         <mark key="^" line="47" column="3" />
         <mark key="." line="47" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1519928304957">
+      <file name="/fragment.java" timestamp="1520006059087">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2-design/src/content/jcr_root/apps/system/config/com.morningstar.v2.auth.UIMTokenAuthenticationHandler.config" timestamp="1519768461735">
@@ -471,10 +498,11 @@
       <jump line="86" column="40" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" />
       <jump line="278" column="21" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" />
       <jump line="0" column="2" filename="/Dummy.txt" />
+      <jump line="199" column="53" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">CQkJCQk8YXJnTGluZT4ke2p2bS5wYXJhbWV0ZXJzfSBAe3N1cmVmaXJlQXJnTGluZX08L2FyZ0xpbmU+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IFN5c3RlbS5vdXQucHJpbnRsbigiYXZhaWxhYmxlIDExMSBwb29sICIgKyBjbS5nZXRUb3RhbFN0YXRzKCkpOw==</text>
@@ -483,37 +511,37 @@
         <text encoding="base64">XDxqc3BcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYXZhaWxhYmxlIDExMSBwb29sICIgKyBjbS5nZXRUb3RhbFN0YXRzKCkpOwo=</text>
+        <text encoding="base64">CQkJCQk8YXJnTGluZT4ke2p2bS5wYXJhbWV0ZXJzfSBAe3N1cmVmaXJlQXJnTGluZX08L2FyZ0xpbmU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">CQkJPC9wcm9wZXJ0aWVzPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">CQkJCTx0ZXN0Lmxpc3RlbmVycz5vcmcuc29uYXIuamF2YS5qYWNvY28uSlVuaXRMaXN0ZW5lciw8L3Rlc3QubGlzdGVuZXJzPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHByaXZhdGUgTGlzdDxTdHJpbmc+IGh0dHBFbmRQb2ludFN0YXR1c2VzKGZpbmFsIFN0cmluZyByZXF1ZXN0SWQpIHsKCiAgICBmaW5hbCBTdHJpbmcgbWV0aG9kTmFtZSA9ICJodHRwRW5kUG9pbnRTdGF0dXNlcyI7CgogICAgTGlzdDxTdHJpbmc+IGVuZHBvaW50U3RhdHVzZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICBmb3IgKGZpbmFsIE1hcC5FbnRyeTxTdHJpbmcsIFN0cmluZz4gZW50cnkgOiBkZXBlbmRlbmN5VVJMc1RvSGVhZGVycy5nZXQoKS5lbnRyeVNldCgpKSB7CgogICAgICBmaW5hbCBTdHJpbmcgdXJsID0gZW50cnkuZ2V0S2V5KCk7CiAgICAgIGZpbmFsIE1hcDxTdHJpbmcsIFN0cmluZz4gaGVhZGVyTmFtZVZhbHVlTWFwID0gY29udmVydEhlYWRlcnNUb01hcChlbnRyeS5nZXRWYWx1ZSgpKTsKCiAgICAgIExPR19GQUNUT1JZCiAgICAgICAgICAubG9nQnVpbGRlcigpCiAgICAgICAgICAuY3JlYXRlSW5mb0xvZyhtZXRob2ROYW1lLCAiVGVzdGluZyB0aGUgc3RhdHVzIG9mICIgKyB1cmwpOwoKICAgICAgU3RyaW5nIGVuZHBvaW50T2sgPSB1cmwgKyAiOiIgKyAiT0siOwogICAgICBTdHJpbmcgZW5kUG9pbnRGYWlsZWQgPSB1cmwgKyAiOiIgKyAiTk9UIE9LIjsKCiAgICAgIExPR19GQUNUT1JZCiAgICAgICAgICAubG9nQnVpbGRlcigpCiAgICAgICAgICAuY3JlYXRlSW5mb0xvZyhtZXRob2ROYW1lLCAiVGVzdGluZyB0aGUgc3RhdHVzIG9mICIgKyB1cmwpOwoKICAgICAgdHJ5IChmaW5hbCBDbG9zZWFibGVIdHRwUmVzcG9uc2UgcmVzcG9uc2UgPSBXZWJDbGllbnRVdGlsLmV4ZWN1dGVSZXF1ZXN0KHVybCwKICAgICAgICAgIEh0dHBNZXRob2QuR0VULCBoZWFkZXJOYW1lVmFsdWVNYXApKSB7CiAgICAgICAgZmluYWwgU3RhdHVzTGluZSBzdGF0dXNMaW5lID0gcmVzcG9uc2UuZ2V0U3RhdHVzTGluZSgpOwogICAgICAgIGZpbmFsIEh0dHBFbnRpdHkgcmVzcG9uc2VFbnRpdHkgPSByZXNwb25zZS5nZXRFbnRpdHkoKTsKICAgICAgICBpZiAoIShzdGF0dXNMaW5lLmdldFN0YXR1c0NvZGUoKSA9PSAyMDAgJiYgaXNWYWxpZFJlc3BvbnNlSWZKYXJ2aXModXJsLAogICAgICAgICAgICBJT1V0aWxzLnRvU3RyaW5nKHJlc3BvbnNlRW50aXR5LmdldENvbnRlbnQoKSkpKSkgewogICAgICAgICAgTE9HX0ZBQ1RPUlkKICAgICAgICAgICAgICAubG9nQnVpbGRlcigpCiAgICAgICAgICAgICAgLmFkZChTdGF0dXNDaGVja0NvbnN0YW50cy5SRVFVRVNUX0lELCByZXF1ZXN0SWQpCiAgICAgICAgICAgICAgLmNyZWF0ZUVycm9yTG9nKG1ldGhvZE5hbWUsICJTdGF0dXMgQ2hlY2sgRmFpbGVkIGZvciB1cmwgOiIgKyB1cmwpOwogICAgICAgICAgZW5kcG9pbnRPayA9IGVuZFBvaW50RmFpbGVkOwogICAgICAgIH0KICAgICAgICBFbnRpdHlVdGlscy5jb25zdW1lKHJlc3BvbnNlLmdldEVudGl0eSgpKTsKICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICBMT0dfRkFDVE9SWQogICAgICAgICAgICAubG9nQnVpbGRlcigpCiAgICAgICAgICAgIC5hZGQoU3RhdHVzQ2hlY2tDb25zdGFudHMuUkVRVUVTVF9JRCwgcmVxdWVzdElkKQogICAgICAgICAgICAuY3JlYXRlRXJyb3JMb2coIkV4Y2VwdGlvbiBvY2N1cnJlZCB3aGlsZSBjYWxsaW5nOiIgKyB1cmwsIGUpOwogICAgICAgIGVuZHBvaW50T2sgPSBlbmRQb2ludEZhaWxlZDsKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXM=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJPHByb3BlcnRpZXM+Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImF2YWlsYWJsZSAyMjIgcG9vbCAiICsgY20uZ2V0VG90YWxTdGF0cygpKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPmNvbS5teXNlbWEubWF2ZW48L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5tYXZlbi1hcHQtcGx1Z2luPC9hcnRpZmFjdElkPgoJCQkJPHZlcnNpb24+MS4wPC92ZXJzaW9uPgoJCQkJPGV4ZWN1dGlvbnM+CgkJCQkJPGV4ZWN1dGlvbj4KCQkJCQkJPGdvYWxzPgoJCQkJCQkJPGdvYWw+cHJvY2VzczwvZ29hbD4KCQkJCQkJPC9nb2Fscz4KCQkJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJCQk8b3V0cHV0RGlyZWN0b3J5PnRhcmdldC9nZW5lcmF0ZWQtc291cmNlcy9qYXZhPC9vdXRwdXREaXJlY3Rvcnk+CgkJCQkJCQk8cHJvY2Vzc29yPmNvbS5xdWVyeWRzbC5hcHQuanBhLkpQQUFubm90YXRpb25Qcm9jZXNzb3I8L3Byb2Nlc3Nvcj4KCQkJCQkJPC9jb25maWd1cmF0aW9uPgoJCQkJCTwvZXhlY3V0aW9uPgoJCQkJPC9leGVjdXRpb25zPgoJCQk8L3BsdWdpbj4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gIHByaXZhdGUgc3RhdGljIFBvb2xpbmdIdHRwQ2xpZW50Q29ubmVjdGlvbk1hbmFnZXIgY20gPSBuZXcgUG9vbGluZ0h0dHBDbGllbnRDb25uZWN0aW9uTWFuYWdlcigpOwo=</text>
+        <text encoding="base64">CQkJCQk8L3N5c3RlbVByb3BlcnR5VmFyaWFibGVzPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNtLm1heAo=</text>
+        <text encoding="base64">CQkJCQkJPG1zdGFyX21lc3NhZ2luZ19yZWdpb24+Y2hpPC9tc3Rhcl9tZXNzYWdpbmdfcmVnaW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQXZhaWxhYmxlIGNvbm5lY3Rpb25zIDoiICsgY2xpZW50Lik7Cg==</text>
+        <text encoding="base64">CQkJCQkJPG1zdGFyX21lc3NhZ2luZ19lbnY+ZGV2Y2xvdWQ8L21zdGFyX21lc3NhZ2luZ19lbnY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2VGcm9tQXBpCg==</text>
+        <text encoding="base64">CQkJCQkJPG1zdGFyX3JlZ2lvbj5jaGk8L21zdGFyX3JlZ2lvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBJTlZBTElEX0RQUygiNDAwMDAyIiwgIkludmFsaWQgcGFyYW1ldGVyIHZhbHVlIGZvciBkYXRhIHBvaW50cyIpLAo=</text>
+        <text encoding="base64">CQkJCQkJPG1zdGFyX2Vudmlyb25tZW50PiR7bXN0YXJfZW52aXJvbm1lbnR9PC9tc3Rhcl9lbnZpcm9ubWVudD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
