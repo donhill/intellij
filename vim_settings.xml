@@ -226,8 +226,10 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/register_phone_fragment.xml" timestamp="1520381920541">
-        <mark key="[" line="37" column="24" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/register_phone_fragment.xml" timestamp="1520383270778">
+        <mark key="[" line="38" column="40" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/servlets/StatusCheckServletTest.java" timestamp="1517946324826">
         <mark key="[" line="158" column="20" />
@@ -271,6 +273,9 @@
         <mark key="^" line="17" column="29" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegisterPhoneFragment.kt" timestamp="1520383049032">
+        <mark key="[" line="71" column="80" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_vanguard.json" timestamp="1515795946604">
         <mark key="[" line="42" column="30" />
         <mark key="]" line="41" column="23" />
@@ -308,8 +313,8 @@
       <jump line="252" column="25" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Boolean</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Boolean</text>
@@ -321,31 +326,31 @@
         <text encoding="base64">Y2xhc3MgUmF0aW5nUmVzdWx0KHZhbCByZXN1bHQgOkJvb2xlYW4pIHt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0TWF4Q29ublRvdGFsKDUwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9jayhDbG9zZWFibGVIdHRwQ2xpZW50LmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAuc2V0TWF4Q29ublRvdGFsKDUwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9jayhDbG9zZWFibGVIdHRwQ2xpZW50LmNsYXNzKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5vZk51bGxhYmxlKHJlcXVlc3QuZ2V0SGVhZGVyKEhFQURFUl9SRVFVRVNUX0lEKSkub3JFbHNlKFN0cmluZy52YWx1ZU9mKFVVSUQucmFuZG9tVVVJRCgpKSk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBPcHRpb25hbC5vZk51bGxhYmxlKHJlcXVlc3QuZ2V0SGVhZGVyKEhFQURFUl9SRVFVRVNUX0lEKSkub3JFbHNlKFN0cmluZy52YWx1ZU9mKFVVSUQucmFuZG9tVVVJRCgpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
         <text>63</text>
