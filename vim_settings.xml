@@ -50,6 +50,14 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/adapters/truck/ServiceRequestAdapter.kt" timestamp="1520348634416">
         <mark key="[" line="76" column="52" />
       </file>
+      <file name="/Kotlin Console" timestamp="1520382343065">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/presenters/RegisterPhonePresenterImpl.kt" timestamp="1520382430112">
+        <mark key="[" line="62" column="46" />
+      </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/MainPresenterImpl.kt" timestamp="1520292603156">
         <mark key="[" line="59" column="42" />
         <mark key="]" line="58" column="32" />
@@ -217,6 +225,9 @@
         <mark key="]" line="39" column="10" />
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/register_phone_fragment.xml" timestamp="1520381920541">
+        <mark key="[" line="37" column="24" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/servlets/StatusCheckServletTest.java" timestamp="1517946324826">
         <mark key="[" line="158" column="20" />
