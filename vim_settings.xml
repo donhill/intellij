@@ -26,8 +26,8 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/fastlane/Fastfile" timestamp="1520441187184">
-        <mark key="[" line="22" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/fastlane/Fastfile" timestamp="1520442597590">
+        <mark key="[" line="19" column="51" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
@@ -165,6 +165,7 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/google_play_service_user.json" timestamp="1520442637014" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/log4j2.xml" timestamp="1515603598319">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="24" />
