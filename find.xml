@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>om</mask>
-      <mask>o</mask>
       <mask>p</mask>
       <mask>po</mask>
       <mask>pom</mask>
@@ -34,6 +32,8 @@
       <mask>*.k</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*IT*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
