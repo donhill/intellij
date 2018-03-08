@@ -84,12 +84,6 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" timestamp="1519776641216">
-        <mark key="'" line="278" column="21" />
-        <mark key="[" line="408" column="6" />
-        <mark key="]" line="285" column="0" />
-        <mark key="." line="285" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/proxy/impl/ProxyServiceImpl.java" timestamp="1519693559345">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -294,6 +288,9 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/restassured-automation-api-testing/src/test/resources/config.local.properties" timestamp="1520005759410">
         <mark key="[" line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/pom.xml" timestamp="1520462185935">
+        <mark key="[" line="178" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1516146657406">
         <mark key="[" line="308" column="10" />
         <mark key="]" line="308" column="60" />
@@ -344,7 +341,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520369495320">
+      <file name="/Dummy.txt" timestamp="1520462271649">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -407,7 +404,7 @@
         <mark key="^" line="96" column="29" />
         <mark key="." line="96" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/oswald/pom.xml" timestamp="1520285917271">
+      <file name="$USER_HOME$/projects/morningstar/oswald/pom.xml" timestamp="1520462408688">
         <mark key="'" line="717" column="53" />
         <mark key="[" line="716" column="51" />
         <mark key="]" line="738" column="0" />
@@ -434,6 +431,11 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/UpdateUserDetailServiceImpl.java" timestamp="1519691258251">
         <mark key="[" line="91" column="89" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/pom.xml" timestamp="1520462400477">
+        <mark key="[" line="297" column="61" />
+        <mark key="]" line="319" column="0" />
+        <mark key="." line="319" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeBarometerRepository.java" timestamp="1515430505302">
         <mark key="[" line="28" column="10" />
@@ -563,58 +565,59 @@
       <jump line="25" column="314" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-parent/pom.xml" />
       <jump line="26" column="30" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-parent/pom.xml" />
       <jump line="27" column="506" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-parent/pom.xml" />
+      <jump line="226" column="0" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L3BsdWdpbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7amFjb2NvLW1hdmVuLXBsdWdpbi52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>jvm</text>
+        <text encoding="base64">PDw=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+CgkJCTxwbHVnaW4+CgkJCQk8Z3JvdXBJZD5vcmcuc29uYXJzb3VyY2Uuc2Nhbm5lci5tYXZlbjwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNvbmFyLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+CgkJCTxwbHVnaW4+CgkJCQk8Z3JvdXBJZD5vcmcuamFjb2NvPC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+amFjb2NvLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L3BsdWdpbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7amFjb2NvLW1hdmVuLXBsdWdpbi52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZXhlY3V0aW9ucz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9leGVjdXRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9leGVjdXRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGV4ZWN1dGlvbnM+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvdXRwdXREaXJlY3Rvcnk+JHtwcm9qZWN0LnJlcG9ydGluZy5vdXRwdXREaXJlY3Rvcnl9L2phY29jby11dDwvb3V0cHV0RGlyZWN0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gU2V0cyB0aGUgb3V0cHV0IGRpcmVjdG9yeSBmb3IgdGhlIGNvZGUgY292ZXJhZ2UgcmVwb3J0LiAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkYXRhRmlsZT4ke3Byb2plY3QuYnVpbGQuZGlyZWN0b3J5fS9jb3ZlcmFnZS1yZXBvcnRzL2phY29jby11dC5leGVjPC9kYXRhRmlsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHBoYXNlPnZlcmlmeTwvcGhhc2U+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gU2V0cyB0aGUgcGF0aCB0byB0aGUgZmlsZSB3aGljaCBjb250YWlucyB0aGUgZXhlY3V0aW9uIGRhdGEuIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnNvbmFyPC9nb2FsPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>179</text>
+        <text>181</text>
       </register>
     </registers>
     <search>
-      <last-search>jvm</last-search>
+      <last-search encoding="base64">PDw=</last-search>
       <last-offset />
-      <last-pattern>jvm</last-pattern>
+      <last-pattern encoding="base64">PDw=</last-pattern>
       <last-replace />
       <last-substitute>google</last-substitute>
       <last-dir>1</last-dir>
@@ -631,10 +634,10 @@
         <entry>jaco</entry>
         <entry>plugin</entry>
         <entry>jvm</entry>
+        <entry>==</entry>
+        <entry encoding="base64">PDw=</entry>
       </history-search>
       <history-cmd>
-        <entry>63</entry>
-        <entry>31</entry>
         <entry>136</entry>
         <entry>71</entry>
         <entry>91</entry>
@@ -653,6 +656,8 @@
         <entry>w</entry>
         <entry>351</entry>
         <entry>179</entry>
+        <entry>228</entry>
+        <entry>181</entry>
       </history-cmd>
       <history-expr />
       <history-input />
