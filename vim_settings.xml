@@ -313,11 +313,11 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegisterPhoneFragment.kt" timestamp="1520383049032">
         <mark key="[" line="71" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/.circleci/config.yaml" timestamp="1520616054477">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
+      <file name="$USER_HOME$/projects/android/tow-user/.circleci/config.yaml" timestamp="1520616857274">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_vanguard.json" timestamp="1515795946604">
         <mark key="[" line="42" column="30" />
