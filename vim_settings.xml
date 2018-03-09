@@ -313,8 +313,11 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegisterPhoneFragment.kt" timestamp="1520383049032">
         <mark key="[" line="71" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/.circleci/config.yaml" timestamp="1520607866027">
+      <file name="$USER_HOME$/projects/android/tow-user/.circleci/config.yaml" timestamp="1520616054477">
         <mark key="[" line="24" column="20" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+        <mark key="." line="11" column="6" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_vanguard.json" timestamp="1515795946604">
         <mark key="[" line="42" column="30" />
@@ -393,7 +396,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2YWx1ZT0iNmZkYzI1OTdjN2E1NTM3ZjUwZGQ4NzRlNzI0NTc0NzE1ZDYzMjcyNCIgLz4K</text>
       </register>
       <register name=":" type="4">
-        <text>63</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -421,8 +424,8 @@
         <entry>57</entry>
         <entry>73</entry>
         <entry>234</entry>
-        <entry>w</entry>
         <entry>63</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
