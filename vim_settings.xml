@@ -317,11 +317,10 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegisterPhoneFragment.kt" timestamp="1520383049032">
         <mark key="[" line="71" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/.circleci/config.yaml" timestamp="1520616857274">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="5" column="30" />
-        <mark key="^" line="5" column="30" />
-        <mark key="." line="5" column="30" />
+      <file name="$USER_HOME$/projects/android/tow-user/.circleci/config.yaml" timestamp="1520638963250">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_vanguard.json" timestamp="1515795946604">
         <mark key="[" line="42" column="30" />
@@ -362,7 +361,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNyYXNobHl0aWNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Boolean</text>
@@ -374,31 +373,33 @@
         <text encoding="base64">Y2xhc3MgUmF0aW5nUmVzdWx0KHZhbCByZXN1bHQgOkJvb2xlYW4pIHt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNyYXNobHl0aWNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmZhYnJpYy5zZGsuYW5kcm9pZC5GYWJyaWMK</text>
+        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBlY2hvIHkgfCBhbmRyb2lkIHVwZGF0ZSBzZGsgLS1uby11aSAtLWFsbCAtLWZpbHRlciBidWlsZC10b29scy0yNi4wLjIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2YWx1ZT0iNmZkYzI1OTdjN2E1NTM3ZjUwZGQ4NzRlNzI0NTc0NzE1ZDYzMjcyNCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIHkgfCBhbmRyb2lkIHVwZGF0ZSBzZGsgLS1uby11aSAtLWFsbCAtLWZpbHRlciB0b29scyxwbGF0Zm9ybS10b29scyxleHRyYS1nb29nbGUtbTJyZXBvc2l0b3J5LGV4dHJhLWdvb2dsZS1nb29nbGVfcGxheV9zZXJ2aWNlcyxleHRyYS1hbmRyb2lkLXN1cHBvcnQsYW5kcm9pZC0yNQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJpby5mYWJyaWMuQXBpS2V5Igo=</text>
+        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBzZGttYW5hZ2VyIC0tdXBkYXRlICYmIHllcyB8IHNka21hbmFnZXIgLS1saWNlbnNlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhCg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnaW8uZmFicmljJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5nZW1sb2dpYy50b3dhcHAubW9kZWxzLlRydWNrCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmZhYnJpYy5zZGsuYW5kcm9pZC5GYWJyaWMK</text>
+      <register name="8" type="4">
+        <text>- run:
+        name: Accept Licenses
+        command: yes | $ANDROID_HOME/tools/bin/sdkmanager &quot;build-tools;26.0.2&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2YWx1ZT0iNmZkYzI1OTdjN2E1NTM3ZjUwZGQ4NzRlNzI0NTc0NzE1ZDYzMjcyNCIgLz4K</text>
+        <text encoding="base64">ICAgIGNyYXNobHl0aWNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
