@@ -107,6 +107,10 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="125" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1520618933877">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="36" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/android/tow-user/fastlane/Appfile" timestamp="1520441383289">
         <mark key="[" line="0" column="16" />
       </file>
@@ -354,6 +358,7 @@
       <jump line="55" column="29" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/services/DefaultResearchService.java" />
       <jump line="250" column="36" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" />
       <jump line="252" column="25" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" />
+      <jump line="9" column="4" filename="$USER_HOME$/projects/android/tow-user/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -363,7 +368,7 @@
         <text>Boolean</text>
       </register>
       <register name="/" type="4">
-        <text>google</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgUmF0aW5nUmVzdWx0KHZhbCByZXN1bHQgOkJvb2xlYW4pIHt9Cg==</text>
@@ -400,16 +405,18 @@
       </register>
     </registers>
     <search>
-      <last-search>google</last-search>
-      <last-pattern>google</last-pattern>
+      <last-search>build</last-search>
+      <last-offset />
+      <last-pattern>build</last-pattern>
       <last-replace />
       <last-substitute>google</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>google</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dvb2dsZQ==</entry>
