@@ -596,10 +596,11 @@
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/validation/ValidationBean.java" timestamp="1520631624584">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/validation/ValidationBean.java" timestamp="1520633807742">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="^" line="135" column="21" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_vanguard.json" timestamp="1515795946604">
         <mark key="[" line="42" column="30" />
@@ -681,7 +682,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiVmFsaWRhdGluZyB0aGUgQ3VzdG9tZXIgRW50aXR5IHBhc3NlZCBpbiByZXF1ZXN0LiIpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>SubscriptionServiceException::new</text>
@@ -693,34 +694,34 @@
         <text encoding="base64">PHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+CgkJCTxwbHVnaW4+CgkJCQk8Z3JvdXBJZD5vcmcuc29uYXJzb3VyY2Uuc2Nhbm5lci5tYXZlbjwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNvbmFyLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+CgkJCTxwbHVnaW4+CgkJCQk8Z3JvdXBJZD5vcmcuamFjb2NvPC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+amFjb2NvLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiVmFsaWRhdGluZyB0aGUgQ3VzdG9tZXIgRW50aXR5IHBhc3NlZCBpbiByZXF1ZXN0LiIpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5nZXRMb2dnZXIoKS5hZGQoIkN1c3RvbWVySWQiLCBjdXN0b21lcklkKS5jcmVhdGVEZWJ1Z0xvZyhuZXcgT2JqZWN0KCkge30sCg==</text>
+        <text encoding="base64">ICAgIGlmIChncm91cCAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZm9yIChDbGFzcyBncm91cCA6IGdyb3VwKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdC5hZGRNZXNzYWdlKHZhbGlkYXRlU3Vic2NyaXB0aW9ucyhjdXN0b21lci5nZXRTdWJzY3JpcHRpb25zKCkpLmdldE1lc3NhZ2VzKCkpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChncm91cCAhPSBudWxsICYmIGdyb3VwLmxlbmd0aCA+IDApIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ3JvdXAuaXNJbnRlcmZhY2UoKSAmJiBncm91cC5pc0Fzc2lnbmFibGVGcm9tKFN1YnNjcmlwdGlvbkdyb3VwLmNsYXNzKSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChDbGFzcyBncm91cCA6IGdyb3Vwcykgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>181</text>
