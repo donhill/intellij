@@ -213,8 +213,8 @@
         <mark key="^" line="308" column="60" />
         <mark key="." line="308" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/AndroidManifest.xml" timestamp="1520440665504">
-        <mark key="[" line="48" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/AndroidManifest.xml" timestamp="1520606292902">
+        <mark key="[" line="14" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
@@ -230,8 +230,8 @@
         <mark key="." line="199" column="94" />
         <mark key="^" line="199" column="94" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/AndroidManifest.xml" timestamp="1520440760336">
-        <mark key="[" line="43" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/AndroidManifest.xml" timestamp="1520606307087">
+        <mark key="[" line="14" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
@@ -256,6 +256,12 @@
         <mark key="[" line="38" column="40" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/activities/SplashActivity.kt" timestamp="1520606431212">
+        <mark key="[" line="54" column="3" />
+        <mark key="]" line="54" column="3" />
+        <mark key="^" line="54" column="3" />
+        <mark key="." line="54" column="3" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/servlets/StatusCheckServletTest.java" timestamp="1517946324826">
         <mark key="[" line="158" column="20" />
