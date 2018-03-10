@@ -26,8 +26,8 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/fastlane/Fastfile" timestamp="1520640440646">
-        <mark key="[" line="19" column="17" />
+      <file name="$USER_HOME$/projects/android/tow-user/fastlane/Fastfile" timestamp="1520700487193">
+        <mark key="[" line="34" column="39" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
@@ -113,9 +113,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="125" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1520698706876">
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1520700674550">
         <mark key="'" line="6" column="32" />
-        <mark key="[" line="26" column="28" />
+        <mark key="[" line="67" column="26" />
+        <mark key="]" line="67" column="25" />
+        <mark key="." line="67" column="25" />
+        <mark key="^" line="67" column="25" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/fastlane/Appfile" timestamp="1520699210175">
         <mark key="[" line="0" column="15" />
