@@ -26,10 +26,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/fastlane/Fastfile" timestamp="1520701890544">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/fastlane/Fastfile" timestamp="1520704758597">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="35" column="2" />
+        <mark key="." line="35" column="2" />
+        <mark key="^" line="41" column="25" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/portfolio/impl/PortfolioAccessTokenServiceImpl.java" timestamp="1518036062176">
         <mark key="[" line="2" column="0" />
@@ -113,14 +114,14 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="125" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1520702304927">
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1520704302763">
         <mark key="'" line="6" column="32" />
-        <mark key="[" line="40" column="27" />
+        <mark key="[" line="73" column="26" />
         <mark key="]" line="67" column="25" />
         <mark key="." line="67" column="25" />
         <mark key="^" line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/fastlane/Appfile" timestamp="1520699210175">
+      <file name="$USER_HOME$/projects/android/tow-user/fastlane/Appfile" timestamp="1520704275755">
         <mark key="[" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/ResearchBarometerRepository.java" timestamp="1515185300416">
@@ -371,8 +372,8 @@
       <jump line="6" column="32" filename="$USER_HOME$/projects/android/tow-user/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAjIHNoICJ5b3VyX3NjcmlwdC5zaCIKICAgICMgWW91IGNhbiBhbHNvIHVzZSBvdGhlciBiZXRhIHRlc3Rpbmcgc2VydmljZXMgaGVyZQ==</text>
       </register>
       <register name="-" type="4">
         <text>Boolean</text>
@@ -383,32 +384,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgUmF0aW5nUmVzdWx0KHZhbCByZXN1bHQgOkJvb2xlYW4pIHt9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAjIHNoICJ5b3VyX3NjcmlwdC5zaCIKICAgICMgWW91IGNhbiBhbHNvIHVzZSBvdGhlciBiZXRhIHRlc3Rpbmcgc2VydmljZXMgaGVyZQ==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IC0gcnVuOgogICAgICAgICAgbmFtZTogSW5zdGFsbCBmYXN0bGFuZQogICAgICAgICAgY29tbWFuZDogZ2VtIGluc3RhbGwgYnVuZGxlciAmJiBidW5kbGUgdXBkYXRl</text>
+        <text encoding="base64">aW5jcmVtZW50X3ZlcnNpb25fY29kZQogICAgZ3JhZGxlKHRhc2s6ICdhc3NlbWJsZURyaXZlcicsIGJ1aWxkX3R5cGU6ICdSZWxlYXNlJykKICAgIHVwbG9hZF90b19wbGF5X3N0b3JlKHRyYWNrOiAnYmV0YScpCiAgICBzbGFjayhtZXNzYWdlOiAnU3VjY2Vzc2Z1bGx5IGRpc3RyaWJ1dGVkIGEgbmV3IGJldGEgYnVpbGQnKQogICAgI3BpbG90KGFwazogIi9Vc2Vycy9kaGlsbC9wcm9qZWN0cy9hbmRyb2lkL3Rvdy11c2VyL2FwcC9idWlsZC9vdXRwdXRzL2Fway9kcml2ZXIvcmVsZWFzZS90b3ctYXBwLWRyaXZlci1yZWxlYXNlLmFwayIpCiAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcnJpZGU6Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IC0gcnVuOgogICAgICAgICAgbmFtZTogSW5zdGFsbCBmYXN0bGFuZQogICAgICAgICAgY29tbWFuZDogZ2VtIGluc3RhbGwgYnVuZGxlciAmJiBidW5kbGUgdXBkYXRl</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY2llczoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb3ZlcnJpZGU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBlY2hvIHkgfCBhbmRyb2lkIHVwZGF0ZSBzZGsgLS1uby11aSAtLWFsbCAtLWZpbHRlciBidWlsZC10b29scy0yNi4wLjIK</text>
+        <text encoding="base64">ICAgIGRlcGVuZGVuY2llczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIHkgfCBhbmRyb2lkIHVwZGF0ZSBzZGsgLS1uby11aSAtLWFsbCAtLWZpbHRlciB0b29scyxwbGF0Zm9ybS10b29scyxleHRyYS1nb29nbGUtbTJyZXBvc2l0b3J5LGV4dHJhLWdvb2dsZS1nb29nbGVfcGxheV9zZXJ2aWNlcyxleHRyYS1hbmRyb2lkLXN1cHBvcnQsYW5kcm9pZC0yNQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBzZGttYW5hZ2VyIC0tdXBkYXRlICYmIHllcyB8IHNka21hbmFnZXIgLS1saWNlbnNlcwo=</text>
+        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBlY2hvIHkgfCBhbmRyb2lkIHVwZGF0ZSBzZGsgLS1uby11aSAtLWFsbCAtLWZpbHRlciBidWlsZC10b29scy0yNi4wLjIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
