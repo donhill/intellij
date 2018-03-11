@@ -26,11 +26,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/fastlane/Fastfile" timestamp="1520704758597">
-        <mark key="[" line="41" column="27" />
+      <file name="$USER_HOME$/projects/android/tow-user/fastlane/Fastfile" timestamp="1520779552411">
+        <mark key="[" line="44" column="68" />
         <mark key="]" line="35" column="2" />
         <mark key="." line="35" column="2" />
-        <mark key="^" line="41" column="25" />
+        <mark key="^" line="42" column="25" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/portfolio/impl/PortfolioAccessTokenServiceImpl.java" timestamp="1518036062176">
         <mark key="[" line="2" column="0" />
@@ -114,7 +114,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="125" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1520704302763">
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1520779732806">
         <mark key="'" line="6" column="32" />
         <mark key="[" line="73" column="26" />
         <mark key="]" line="67" column="25" />
@@ -271,11 +271,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/activities/SplashActivity.kt" timestamp="1520606431212">
-        <mark key="[" line="54" column="3" />
-        <mark key="]" line="54" column="3" />
-        <mark key="^" line="54" column="3" />
-        <mark key="." line="54" column="3" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/activities/SplashActivity.kt" timestamp="1520779464924">
+        <mark key="[" line="44" column="3" />
+        <mark key="]" line="44" column="3" />
+        <mark key="^" line="44" column="3" />
+        <mark key="." line="44" column="3" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/servlets/StatusCheckServletTest.java" timestamp="1517946324826">
         <mark key="[" line="158" column="20" />
