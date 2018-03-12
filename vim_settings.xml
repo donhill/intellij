@@ -112,7 +112,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="125" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1520781076241">
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1520867820278">
         <mark key="'" line="6" column="32" />
         <mark key="[" line="73" column="26" />
         <mark key="]" line="67" column="25" />
@@ -274,6 +274,12 @@
         <mark key="]" line="44" column="3" />
         <mark key="^" line="44" column="3" />
         <mark key="." line="44" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/build.gradle" timestamp="1520869471655">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="39" column="14" />
+        <mark key="^" line="39" column="14" />
+        <mark key="." line="39" column="14" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/servlets/StatusCheckServletTest.java" timestamp="1517946324826">
         <mark key="[" line="158" column="20" />
