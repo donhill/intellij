@@ -97,11 +97,11 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-gla-parent/service-gla-content/pom.xml" timestamp="1520948228836">
         <mark key="[" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/SubsServiceUtil.java" timestamp="1520875009147">
-        <mark key="[" line="122" column="76" />
-        <mark key="]" line="88" column="53" />
-        <mark key="." line="88" column="53" />
-        <mark key="^" line="88" column="53" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/SubsServiceUtil.java" timestamp="1521043255450">
+        <mark key="[" line="93" column="42" />
+        <mark key="]" line="93" column="31" />
+        <mark key="." line="93" column="31" />
+        <mark key="^" line="93" column="31" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-service/src/main/java/com/morningstar/common/service/impl/HttpRequestorExecutorService.java" timestamp="1520953969038">
         <mark key="[" line="9" column="26" />
@@ -348,6 +348,9 @@
         <mark key="[" line="64" column="24" />
         <mark key="]" line="64" column="24" />
         <mark key="." line="64" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImpl.java" timestamp="1521042452226">
+        <mark key="[" line="126" column="34" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/test/java/com/morningstar/v2/tags/GetPricingTermsTagTest.java" timestamp="1519239626909">
         <mark key="[" line="148" column="32" />
