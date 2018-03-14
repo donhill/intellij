@@ -97,11 +97,10 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-gla-parent/service-gla-content/pom.xml" timestamp="1520948228836">
         <mark key="[" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/SubsServiceUtil.java" timestamp="1521043255450">
-        <mark key="[" line="93" column="42" />
-        <mark key="]" line="93" column="31" />
-        <mark key="." line="93" column="31" />
-        <mark key="^" line="93" column="31" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/SubsServiceUtil.java" timestamp="1521058847110">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-service/src/main/java/com/morningstar/common/service/impl/HttpRequestorExecutorService.java" timestamp="1520953969038">
         <mark key="[" line="9" column="26" />
@@ -151,6 +150,7 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-api/src/main/java/com/morningstar/servlets/RESTApiServlet.java" timestamp="1521058397745" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-autocomplete-parent/service-autocomplete/src/main/java/com/morningstar/autocomplete/impl/AutocompleteServiceImpl.java" timestamp="1520956613576">
         <mark key="[" line="87" column="21" />
         <mark key="]" line="87" column="21" />
@@ -349,11 +349,11 @@
         <mark key="]" line="64" column="24" />
         <mark key="." line="64" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImpl.java" timestamp="1521044855125">
-        <mark key="[" line="138" column="34" />
-        <mark key="]" line="529" column="100" />
-        <mark key="^" line="529" column="100" />
-        <mark key="." line="529" column="100" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImpl.java" timestamp="1521059422172">
+        <mark key="[" line="293" column="8" />
+        <mark key="]" line="139" column="48" />
+        <mark key="." line="139" column="48" />
+        <mark key="^" line="139" column="48" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/test/java/com/morningstar/v2/tags/GetPricingTermsTagTest.java" timestamp="1519239626909">
         <mark key="[" line="148" column="32" />
@@ -613,10 +613,10 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-api/src/main/java/com/morningstar/servlets/filters/RequestMdcFilter.java" timestamp="1520955543136">
-        <mark key="[" line="33" column="47" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-api/src/main/java/com/morningstar/servlets/filters/RequestMdcFilter.java" timestamp="1521058043569">
+        <mark key="[" line="40" column="70" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-id-service-parent/service-id-service/src/main/java/com/morningstar/idservice/impl/IDServiceImpl.java" timestamp="1520956235913">
         <mark key="[" line="187" column="28" />
@@ -1079,47 +1079,47 @@
       <jump line="153" column="0" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/test/java/com/morningstar/barometer/impl/BarometerServiceImplTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
+      <register name="&quot;" type="4">
+        <text>codeInfoResult</text>
       </register>
       <register name="-" type="4">
-        <text>DefaultCloseableHttpExecutor</text>
+        <text>codeInfoResult</text>
       </register>
       <register name="/" type="4">
         <text>Ignore</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBmaW5hbCBBdG9taWNSZWZlcmVuY2U8Q29va2llU2VydmljZT4gY29va2llU2VydmljZSA9IG5ldyBBdG9taWNSZWZlcmVuY2U8PigpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHJpdmF0ZSBSZXNwb25zZUVudGl0eTxTdHJpbmc+IGNoZWNrVHJhbnNhY3Rpb25BbmRTb3VyY2VBbmRQcm9tb3Rpb25Db2Rlc0FyZVZhbGlkKAogICAgICBTZXJ2aWNlUmVzdWx0PENvZGVJbmZvT21haGE+IGNvZGVJbmZvUmVzdWx0LCBTZXJ2aWNlUmVzdWx0PFRyYW5zYWN0aW9uSGlzdG9yeU9tYWhhPiB0cmFuc2FjdGlvblJlc3VsdCwgU3RyaW5nIHJlcXVlc3RJZCwKICAgICAgU3RyaW5nIGN1c3RvbWVyR3VpZCwgU3RyaW5nIHN1YnNjcmlwdGlvbklkKSB7CiAgICBpZiAoIWNvZGVJbmZvUmVzdWx0LmlzU3VjY2Vzc2Z1bCgpKSB7CiAgICAgIExPR0dFUi5nZXRMb2dnZXIoKS5hZGQoUkVRVUVTVF9JRCwgcmVxdWVzdElkKS5hZGQoVVNFUl9JRCwgY3VzdG9tZXJHdWlkKQogICAgICAgICAgLmFkZCgiU3Vic2NyaXB0aW9uSWQiLCBzdWJzY3JpcHRpb25JZCkuY3JlYXRlRXJyb3JMb2cobmV3IE9iamVjdCgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAiSW52YWxpZCBTb3VyY2VDb2RlIG9yIHByb21vQ29kZSBmb3VuZCBpbiB0aGUgb21haGEgZGF0YWJhc2UuIik7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5vayhnZXRVbnN1Y2Nlc3NmdWxSZXNwb25zZShjb2RlSW5mb1Jlc3VsdCwgcmVxdWVzdElkLCBjdXN0b21lckd1aWQpKTsKCiAgICB9CgogICAgaWYgKCF0cmFuc2FjdGlvblJlc3VsdC5pc1N1Y2Nlc3NmdWwoKSkgewogICAgICBMT0dHRVIuZ2V0TG9nZ2VyKCkuYWRkKFJFUVVFU1RfSUQsIHJlcXVlc3RJZCkuYWRkKFVTRVJfSUQsIGN1c3RvbWVyR3VpZCkKICAgICAgICAgIC5hZGQoIlN1YnNjcmlwdGlvbklkIiwgc3Vic2NyaXB0aW9uSWQpLmNyZWF0ZUVycm9yTG9nKG5ldyBPYmplY3QoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgIkludmFsaWQgVHJhbnNhY3Rpb25hbCBSZXN1bHQuIik7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5vayhnZXRVbnN1Y2Nlc3NmdWxSZXNwb25zZShjb2RlSW5mb1Jlc3VsdCwgcmVxdWVzdElkLCBjdXN0b21lckd1aWQpKTsKICAgIH0KICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5vayhudWxsKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5Lm9rKGdldFVuc3VjY2Vzc2Z1bFJlc3BvbnNlKGNvZGVJbmZvUmVzdWx0LCByZXF1ZXN0SWQsIGN1c3RvbWVyR3VpZCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJJbnZhbGlkIFNvdXJjZUNvZGUgb3IgcHJvbW9Db2RlIGZvdW5kIGluIHRoZSBvbWFoYSBkYXRhYmFzZS4iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5hZGQoIlN1YnNjcmlwdGlvbklkIiwgc3Vic2NyaXB0aW9uSWQpLmNyZWF0ZUVycm9yTG9nKG5ldyBPYmplY3QoKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgTE9HR0VSLmdldExvZ2dlcigpLmFkZChSRVFVRVNUX0lELCByZXF1ZXN0SWQpLmFkZChVU0VSX0lELCBjdXN0b21lckd1aWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3dzIElPRXhjZXB0aW9uIHsK</text>
+        <text encoding="base64">ICAgIGlmICghY29kZUluZm9SZXN1bHQuaXNTdWNjZXNzZnVsKCkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>132</text>
