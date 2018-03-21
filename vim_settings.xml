@@ -179,12 +179,12 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-adobe-marketing-cloud-parent/service-adobe-marketing-cloud/src/main/java/com/morningstar/marketingcloud/GatewayUtils.java" timestamp="1517506381364">
         <mark key="[" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1520554116781">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1521666609069">
+        <mark key="[" line="460" column="0" />
+        <mark key="]" line="454" column="28" />
+        <mark key="." line="454" column="28" />
+        <mark key="^" line="454" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/release/java/net/gemlogic/towapp/extentions/Logger.kt" timestamp="1521661358974" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/PostSubscriptionsServiceImpl.java" timestamp="1518047919212">
         <mark key="[" line="84" column="72" />
         <mark key="]" line="128" column="0" />
@@ -201,6 +201,11 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/debug/java/net/gemlogic/towapp/extentions/Fragment.kt" timestamp="1521666299436">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/bff/impl/BackendForFrontendServiceRepository.java" timestamp="1518024078656">
         <mark key="[" line="29" column="55" />
@@ -264,7 +269,6 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/debug/java/net/gemlogic/towapp/extentions/Logger.kt" timestamp="1521661793457" />
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/register_phone_fragment.xml" timestamp="1520383270778">
         <mark key="[" line="38" column="40" />
         <mark key="]" line="38" column="0" />
@@ -307,6 +311,7 @@
         <mark key="^" line="79" column="12" />
         <mark key="." line="79" column="12" />
       </file>
+      <file name="kotlinDecompiled/Logger.decompiled.java" timestamp="1521666766205" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/UpdateUserDetailServiceImpl.java" timestamp="1518049655280">
         <mark key="[" line="73" column="55" />
         <mark key="]" line="78" column="0" />
@@ -383,7 +388,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgQkFTRV9VUkwgPSAiaHR0cHM6Ly9hcGktdGVzdC5yZXNxdWUudXMvYXBpL3YxLyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Boolean</text>
@@ -394,32 +399,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgQkFTRV9VUkwgPSAiaHR0cHM6Ly9hcGktdGVzdC5yZXNxdWUudXMvYXBpL3YxLyIK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAjIHNoICJ5b3VyX3NjcmlwdC5zaCIKICAgICMgWW91IGNhbiBhbHNvIHVzZSBvdGhlciBiZXRhIHRlc3Rpbmcgc2VydmljZXMgaGVyZQ==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">aW5jcmVtZW50X3ZlcnNpb25fY29kZQogICAgZ3JhZGxlKHRhc2s6ICdhc3NlbWJsZURyaXZlcicsIGJ1aWxkX3R5cGU6ICdSZWxlYXNlJykKICAgIHVwbG9hZF90b19wbGF5X3N0b3JlKHRyYWNrOiAnYmV0YScpCiAgICBzbGFjayhtZXNzYWdlOiAnU3VjY2Vzc2Z1bGx5IGRpc3RyaWJ1dGVkIGEgbmV3IGJldGEgYnVpbGQnKQogICAgI3BpbG90KGFwazogIi9Vc2Vycy9kaGlsbC9wcm9qZWN0cy9hbmRyb2lkL3Rvdy11c2VyL2FwcC9idWlsZC9vdXRwdXRzL2Fway9kcml2ZXIvcmVsZWFzZS90b3ctYXBwLWRyaXZlci1yZWxlYXNlLmFwayIpCiAgICA=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IC0gcnVuOgogICAgICAgICAgbmFtZTogSW5zdGFsbCBmYXN0bGFuZQogICAgICAgICAgY29tbWFuZDogZ2VtIGluc3RhbGwgYnVuZGxlciAmJiBidW5kbGUgdXBkYXRl</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcnJpZGU6Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY2llczoK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kOiBlY2hvIHkgfCBhbmRyb2lkIHVwZGF0ZSBzZGsgLS1uby11aSAtLWFsbCAtLWZpbHRlciBidWlsZC10b29scy0yNi4wLjIK</text>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGRkY29tcGFuaW9uIG9iamVjdCBTdHJpbmcgewo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ClN0cmluZyAtPiB7CiAgICBmdW5jIGZ1bgp9</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAjIHNoICJ5b3VyX3NjcmlwdC5zaCIKICAgICMgWW91IGNhbiBhbHNvIHVzZSBvdGhlciBiZXRhIHRlc3Rpbmcgc2VydmljZXMgaGVyZQ==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">aW5jcmVtZW50X3ZlcnNpb25fY29kZQogICAgZ3JhZGxlKHRhc2s6ICdhc3NlbWJsZURyaXZlcicsIGJ1aWxkX3R5cGU6ICdSZWxlYXNlJykKICAgIHVwbG9hZF90b19wbGF5X3N0b3JlKHRyYWNrOiAnYmV0YScpCiAgICBzbGFjayhtZXNzYWdlOiAnU3VjY2Vzc2Z1bGx5IGRpc3RyaWJ1dGVkIGEgbmV3IGJldGEgYnVpbGQnKQogICAgI3BpbG90KGFwazogIi9Vc2Vycy9kaGlsbC9wcm9qZWN0cy9hbmRyb2lkL3Rvdy11c2VyL2FwcC9idWlsZC9vdXRwdXRzL2Fway9kcml2ZXIvcmVsZWFzZS90b3ctYXBwLWRyaXZlci1yZWxlYXNlLmFwayIpCiAgICA=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IC0gcnVuOgogICAgICAgICAgbmFtZTogSW5zdGFsbCBmYXN0bGFuZQogICAgICAgICAgY29tbWFuZDogZ2VtIGluc3RhbGwgYnVuZGxlciAmJiBidW5kbGUgdXBkYXRl</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
