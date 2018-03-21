@@ -867,6 +867,11 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/iip-services-parent/iip-services-subscription/pom.xml" timestamp="1520269139689">
         <mark key="[" line="179" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/pom.xml" timestamp="1521650117917">
+        <mark key="]" line="230" column="16" />
+        <mark key="." line="230" column="16" />
+        <mark key="^" line="230" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-test-service/src/main/java/com/morningstar/ServiceTestBase.java" timestamp="1520955750810">
         <mark key="[" line="23" column="39" />
       </file>
@@ -1074,7 +1079,7 @@
         <mark key="^" line="152" column="6" />
         <mark key="." line="152" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/pom.xml" timestamp="1521643582652">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/pom.xml" timestamp="1521649991447">
         <mark key="[" line="320" column="31" />
         <mark key="]" line="320" column="42" />
         <mark key="." line="320" column="42" />
@@ -1201,7 +1206,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJyZWFraXQK</text>
+        <text encoding="base64">ICAgIDxqYWNvY28tbWF2ZW4tcGx1Z2luLnZlcnNpb24+MC44LjA8L2phY29jby1tYXZlbi1wbHVnaW4udmVyc2lvbj4K</text>
       </register>
       <register name="-" type="4">
         <text>RequestValidationException</text>
@@ -1213,34 +1218,34 @@
         <text encoding="base64">ICAgIGFzc2VydFRydWUobWVzc2FnZS5nZXRDb2RlKCksIGlzKCIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJyZWFraXQK</text>
+        <text encoding="base64">ICAgIDxqYWNvY28tbWF2ZW4tcGx1Z2luLnZlcnNpb24+MC44LjA8L2phY29jby1tYXZlbi1wbHVnaW4udmVyc2lvbj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Tk9TT05BUgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxtYXZlbi1zdXJlZmlyZS1wbHVnaW4udmVyc2lvbj4yLjE5PC9tYXZlbi1zdXJlZmlyZS1wbHVnaW4udmVyc2lvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvanZtLmRlYnVnPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLURjb20uc3VuLm1hbmFnZW1lbnQuam14cmVtb3RlLnNzbD1mYWxzZSAtRGNvbS5zdW4ubWFuYWdlbWVudC5qbXhyZW1vdGUucG9ydD05MDExCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE9iamVjdCBpcyhTdHJpbmcgcykgewo=</text>
+        <text encoding="base64">ICAgICAgLURjb20uc3VuLm1hbmFnZW1lbnQuam14cmVtb3RlLmF1dGhlbnRpY2F0ZT1mYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgICAgLURjb20uc3VuLm1hbmFnZW1lbnQuam14cmVtb3RlLmxvY2FsLm9ubHk9ZmFsc2UgLURqYXZhLnJtaS5zZXJ2ZXIuaG9zdG5hbWU9MTI3LjAuMC4xCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgIDxqdm0uZGVidWc+LVhYOitVbmxvY2tDb21tZXJjaWFsRmVhdHVyZXMgLVhYOitGbGlnaHRSZWNvcmRlciAtRGNvbS5zdW4ubWFuYWdlbWVudC5qbXhyZW1vdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgIDxzb25hci5qYWNvY28ucmVwb3J0UGF0aHM+dGFyZ2V0L2NvdmVyYWdlLXJlcG9ydHMvamFjb2NvLXV0LmV4ZWM8L3NvbmFyLmphY29jby5yZXBvcnRQYXRocz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgIDxzb25hci5keW5hbWljQW5hbHlzaXM+cmV1c2VSZXBvcnRzPC9zb25hci5keW5hbWljQW5hbHlzaXM+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
