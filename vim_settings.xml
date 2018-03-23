@@ -48,11 +48,10 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImplTest.java" timestamp="1521582751010">
-        <mark key="[" line="598" column="0" />
-        <mark key="]" line="598" column="0" />
-        <mark key="." line="598" column="0" />
-        <mark key="^" line="600" column="15" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImplTest.java" timestamp="1521833486770">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="44" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/proxy/impl/ProxyServiceImpl.java" timestamp="1519693559345">
         <mark key="[" line="77" column="0" />
@@ -71,8 +70,11 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-common/pom.xml" timestamp="1520525723927">
-        <mark key="[" line="65" column="21" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-common/pom.xml" timestamp="1521841262760">
+        <mark key="[" line="43" column="44" />
+        <mark key="]" line="43" column="42" />
+        <mark key="^" line="43" column="42" />
+        <mark key="." line="43" column="42" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityInfo.java" timestamp="1516922014952">
         <mark key="[" line="18" column="0" />
@@ -109,7 +111,6 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-service/src/main/java/com/morningstar/common/service/impl/HttpRequestorExecutorService.java" timestamp="1520953969038">
         <mark key="[" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/resources/service.properties" timestamp="1521736473310" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
         <mark key="]" line="28" column="39" />
@@ -325,8 +326,8 @@
         <mark key="]" line="76" column="13" />
         <mark key="." line="76" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1521755408478">
-        <mark key="[" line="361" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1521842167386">
+        <mark key="[" line="90" column="50" />
         <mark key="]" line="361" column="0" />
         <mark key="." line="361" column="0" />
       </file>
@@ -380,6 +381,12 @@
         <mark key="]" line="64" column="24" />
         <mark key="." line="64" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImpl.java" timestamp="1521831454880">
+        <mark key="[" line="152" column="124" />
+        <mark key="]" line="152" column="128" />
+        <mark key="^" line="152" column="128" />
+        <mark key="." line="152" column="128" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/test/java/com/morningstar/v2/tags/GetPricingTermsTagTest.java" timestamp="1519239626909">
         <mark key="[" line="148" column="32" />
         <mark key="]" line="148" column="0" />
@@ -419,9 +426,10 @@
         <mark key="." line="52" column="31" />
         <mark key="^" line="52" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521736410762">
+      <file name="/Dummy.txt" timestamp="1521841239367">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/SubscriptionDAOImpl.java" timestamp="1521840347921" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/restassured-automation-api-testing/src/test/resources/config.dev.properties" timestamp="1520010954540">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="10" column="0" />
@@ -501,7 +509,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/validation/ValidationBean.java" timestamp="1521147154559">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/validation/ValidationBean.java" timestamp="1521837885516">
         <mark key="[" line="162" column="34" />
         <mark key="]" line="139" column="74" />
         <mark key="^" line="139" column="74" />
@@ -513,7 +521,7 @@
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1521570502955">
+      <file name="/fragment.java" timestamp="1521831961315">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -618,23 +626,31 @@
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/PaymentechResponse.java" timestamp="1521150457157">
         <mark key="[" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/dao/impl/SubscriptionDAOImplTest.java" timestamp="1521841284809">
+        <mark key="'" line="43" column="55" />
+        <mark key="[" line="175" column="29" />
+        <mark key="]" line="132" column="37" />
+        <mark key="." line="132" column="37" />
+        <mark key="^" line="132" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/subscription/service/impl/CustomerEligiblityForTrialsServiceImpl.java" timestamp="1520959251129">
         <mark key="[" line="37" column="52" />
         <mark key="]" line="94" column="80" />
         <mark key="^" line="94" column="78" />
         <mark key="." line="94" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Customer.java" timestamp="1521751217152">
-        <mark key="'" line="24" column="94" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Customer.java" timestamp="1521832854836">
+        <mark key="'" line="25" column="94" />
+        <mark key="[" line="100" column="2" />
+        <mark key="]" line="100" column="40" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="99" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/ServiceResult.java" timestamp="1521755511973">
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="13" />
-        <mark key="^" line="155" column="12" />
-        <mark key="." line="165" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/ServiceResult.java" timestamp="1521841977794">
+        <mark key="[" line="149" column="51" />
+        <mark key="]" line="149" column="50" />
+        <mark key="." line="149" column="50" />
+        <mark key="^" line="149" column="50" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-security-quotes-parent/service-security-quotes/pom.xml" timestamp="1520899077221">
         <mark key="[" line="7" column="21" />
@@ -669,17 +685,24 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-markets-authorization-parent/pom.xml" timestamp="1520948610794">
         <mark key="[" line="12" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/util/JacksonViewUtil.kt" timestamp="1521832128188">
+        <mark key="[" line="11" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/bff/impl/BackendForFrontendServiceRepository.java" timestamp="1519691446120">
         <mark key="[" line="40" column="80" />
         <mark key="]" line="70" column="28" />
         <mark key="." line="70" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/filter/CustomerPropertyFilter.java" timestamp="1521735040158" />
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/CustomerServiceImplTests.java" timestamp="1520630401549">
         <mark key="[" line="466" column="46" />
         <mark key="]" line="244" column="88" />
         <mark key="^" line="244" column="86" />
         <mark key="." line="244" column="88" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/pom.xml" timestamp="1521837297995">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-monitoring-parent/service-monitoring/pom.xml" timestamp="1520948848253">
         <mark key="[" line="5" column="20" />
@@ -763,10 +786,11 @@
         <mark key="." line="420" column="17" />
         <mark key="^" line="420" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/dao/impl/SubscriptionDAOImpl.java" timestamp="1520621864142">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/dao/impl/SubscriptionDAOImpl.java" timestamp="1521840250085">
+        <mark key="[" line="137" column="62" />
+        <mark key="]" line="137" column="61" />
+        <mark key="." line="137" column="61" />
+        <mark key="^" line="137" column="61" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeBarometerRepository.java" timestamp="1515430505302">
         <mark key="[" line="28" column="10" />
@@ -910,12 +934,13 @@
         <mark key="]" line="315" column="0" />
         <mark key="." line="315" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/response/CustomerView.java" timestamp="1521737635287">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/response/CustomerView.java" timestamp="1521831708984">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionServiceImpl.java" timestamp="1521490167008">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionServiceImpl.java" timestamp="1521824802997">
         <mark key="[" line="131" column="79" />
         <mark key="]" line="131" column="73" />
         <mark key="^" line="131" column="73" />
@@ -956,10 +981,10 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-service/pom.xml" timestamp="1520953939499">
         <mark key="[" line="105" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/CustomerEntity.java" timestamp="1521217652380">
-        <mark key="[" line="6" column="93" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/CustomerEntity.java" timestamp="1521825566249">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-id-service-parent/service-id-service/pom.xml" timestamp="1520898374999">
         <mark key="[" line="5" column="21" />
@@ -989,12 +1014,6 @@
         <mark key="]" line="5" column="20" />
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" timestamp="1521755789280">
-        <mark key="[" line="542" column="19" />
-        <mark key="]" line="542" column="136" />
-        <mark key="." line="542" column="136" />
-        <mark key="^" line="542" column="136" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/cache/services/EhCacheServiceImpl.java" timestamp="1517598890393">
         <mark key="[" line="65" column="0" />
@@ -1028,10 +1047,10 @@
         <mark key="^" line="308" column="60" />
         <mark key="." line="308" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/exception/GlobalControllerExceptionHandlerTest.java" timestamp="1521481114281">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/exception/GlobalControllerExceptionHandlerTest.java" timestamp="1521838211353">
+        <mark key="[" line="110" column="7" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-adobe-marketing-cloud-parent/pom.xml" timestamp="1520949467823">
         <mark key="[" line="12" column="21" />
@@ -1076,17 +1095,18 @@
         <mark key="." line="122" column="40" />
         <mark key="^" line="122" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/util/SubsServiceUtilTest.java" timestamp="1521755883353">
-        <mark key="[" line="116" column="131" />
-        <mark key="]" line="116" column="129" />
-        <mark key="^" line="116" column="129" />
-        <mark key="." line="116" column="129" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/util/SubsServiceUtilTest.java" timestamp="1521820568686">
+        <mark key="[" line="151" column="19" />
+        <mark key="]" line="153" column="32" />
+        <mark key="^" line="153" column="32" />
+        <mark key="." line="153" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/pom.xml" timestamp="1521652491387">
-        <mark key="[" line="320" column="31" />
-        <mark key="]" line="320" column="42" />
-        <mark key="." line="320" column="42" />
-        <mark key="^" line="320" column="42" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/pom.xml" timestamp="1521841401741">
+        <mark key="'" line="24" column="30" />
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="325" column="42" />
+        <mark key="." line="325" column="42" />
+        <mark key="^" line="325" column="42" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/PaymentServiceImplTest.java" timestamp="1520628076223">
         <mark key="[" line="424" column="68" />
@@ -1207,58 +1227,63 @@
       <jump line="18" column="0" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/ServiceResults.java" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceControllerTest.java" />
       <jump line="24" column="94" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Customer.java" />
+      <jump line="132" column="37" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/dao/impl/SubscriptionDAOImplTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/dao/impl/SubscriptionDAOImplTest.java" />
+      <jump line="42" column="33" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/dao/impl/SubscriptionDAOImplTest.java" />
+      <jump line="43" column="55" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/dao/impl/SubscriptionDAOImplTest.java" />
+      <jump line="24" column="30" filename="$USER_HOME$/projects/morningstar/iip-services-parent/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeShtb2NrU2ltcGxlSmRiY0NhbGwpLmV4ZWN1dGUoY2FwdHVyZVNxbFBhcmFtZXRlcnMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>JacksonViewUtil</text>
       </register>
       <register name="/" type="4">
-        <text>basic</text>
+        <text>lint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEN1c3RvbWVyRW50aXR5IHJlc3VsdCA9IFN1YnNTZXJ2aWNlVXRpbC5zZXJpYWxpemVDdXN0b21lcldpdGhQYXJ0c0ZpbHRlcihzZXJ2aWNlUmVzdWx0LmdldERhdGEoKS5vckVsc2UobmV3IEN1c3RvbWVyKCkpLCB0cnVlKTsK</text>
+        <text encoding="base64">ICBASnNvblZpZXcoQ3VzdG9tZXJWaWV3LkludGVybmFsLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgIHZlcmlmeShtb2NrU2ltcGxlSmRiY0NhbGwpLmV4ZWN1dGUoY2FwdHVyZVNxbFBhcmFtZXRlcnMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAoTGlzdDxTdWJzY3JpcHRpb25PbWFoYT4pIHJldHVybkRhdGEuZ2V0KCJyZXN1bHRzIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHN1YnNjcmlwdGlvblJlc3VsdC5nZXRIdHRwU3RhdHVzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5jb2xsZWN0KHRvTGlzdCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eTw+KHJlc3BvbnNlVGV4dCwgc3Vic2NyaXB0aW9uUmVzdWx0LmdldEhlYWRlcnMoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgIC5tYXAoU3Vic2NyaXB0aW9uT21haGEuY2xhc3M6OmNhc3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5maWx0ZXIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5zdHJlYW0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c291cmNlPnNyYy9tYWluL2tvdGxpbjwvc291cmNlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c291cmNlPnNyYy90ZXN0L2tvdGxpbjwvc291cmNlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>7</text>
       </register>
     </registers>
     <search>
-      <last-search>basic</last-search>
+      <last-search>lint</last-search>
       <last-offset />
-      <last-pattern>basic</last-pattern>
+      <last-pattern>lint</last-pattern>
       <last-replace />
       <last-substitute>google</last-substitute>
       <last-dir>1</last-dir>
@@ -1266,7 +1291,6 @@
     </search>
     <history>
       <history-search>
-        <entry>google</entry>
         <entry>Web</entry>
         <entry>Patch</entry>
         <entry encoding="base64">XDxqc3BcPg==</entry>
@@ -1285,9 +1309,10 @@
         <entry>Ignore</entry>
         <entry>Basic</entry>
         <entry>basic</entry>
+        <entry>class</entry>
+        <entry>lint</entry>
       </history-search>
       <history-cmd>
-        <entry>118</entry>
         <entry>153</entry>
         <entry>64</entry>
         <entry>84</entry>
@@ -1307,6 +1332,7 @@
         <entry>132</entry>
         <entry>30</entry>
         <entry>reg</entry>
+        <entry>7</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1329,6 +1355,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
