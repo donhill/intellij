@@ -133,11 +133,11 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/RequestValidationException.java" timestamp="1522102895175">
-        <mark key="[" line="26" column="56" />
-        <mark key="]" line="16" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/RequestValidationException.java" timestamp="1522165127028">
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="10" column="42" />
-        <mark key="." line="16" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/exception/APIResponseCode.java" timestamp="1519238564963">
         <mark key="[" line="43" column="5" />
@@ -338,10 +338,10 @@
         <mark key="]" line="76" column="13" />
         <mark key="." line="76" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1522103272006">
-        <mark key="[" line="100" column="84" />
-        <mark key="]" line="171" column="38" />
-        <mark key="." line="171" column="38" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1522166461354">
+        <mark key="[" line="251" column="36" />
+        <mark key="]" line="251" column="99" />
+        <mark key="." line="251" column="0" />
         <mark key="^" line="171" column="38" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/CustomerServiceImpl.java" timestamp="1522093934240">
@@ -635,7 +635,6 @@
         <mark key="]" line="103" column="15" />
         <mark key="." line="103" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/apiv2/pom.xml" timestamp="1522078387214" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-gla-parent/pom.xml" timestamp="1520948129893">
         <mark key="[" line="12" column="21" />
       </file>
@@ -662,7 +661,6 @@
         <mark key="^" line="95" column="31" />
         <mark key="." line="95" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/ServiceResult.java" timestamp="1522095453289" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-security-quotes-parent/service-security-quotes/pom.xml" timestamp="1520899077221">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="20" />
@@ -1026,7 +1024,7 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" timestamp="1522103183299">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" timestamp="1522165876342">
         <mark key="'" line="622" column="92" />
         <mark key="[" line="345" column="131" />
         <mark key="]" line="336" column="44" />
@@ -1154,8 +1152,8 @@
         <mark key="]" line="66" column="24" />
         <mark key="." line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/GlobalControllerExceptionHandler.java" timestamp="1522103311822">
-        <mark key="[" line="115" column="38" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/GlobalControllerExceptionHandler.java" timestamp="1522165099914">
+        <mark key="[" line="117" column="72" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ExceptionProcessor.java" timestamp="1515172199992">
         <mark key="[" line="20" column="29" />
@@ -1252,16 +1250,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgIFNlcnZpY2VSZXN1bHQ8Q3VzdG9tZXJFbnRpdHk+IGVudGl0eVNlcnZpY2VSZXN1bHQgPSBjdXN0b21lclJlc3VsdC50byhuZXcgU2VydmljZVJlc3VsdDw+KCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>new Customer()</text>
+        <text>false)</text>
       </register>
       <register name="/" type="4">
         <text>lint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBASnNvblZpZXcoQ3VzdG9tZXJWaWV3LlN1bW1hcnkuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIFNlcnZpY2VSZXN1bHQ8Q3VzdG9tZXJFbnRpdHk+IGVudGl0eVNlcnZpY2VSZXN1bHQgPSBjdXN0b21lclJlc3VsdC50byhuZXcgU2VydmljZVJlc3VsdDw+KCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
@@ -1330,8 +1328,6 @@
         <entry>lint</entry>
       </history-search>
       <history-cmd>
-        <entry>153</entry>
-        <entry>64</entry>
         <entry>84</entry>
         <entry>23</entry>
         <entry>58</entry>
@@ -1350,6 +1346,8 @@
         <entry>30</entry>
         <entry>reg</entry>
         <entry>7</entry>
+        <entry>b1</entry>
+        <entry>ls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
