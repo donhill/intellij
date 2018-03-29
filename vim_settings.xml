@@ -298,10 +298,10 @@
         <mark key="]" line="76" column="13" />
         <mark key="." line="76" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1522348851052">
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1522351895418">
+        <mark key="[" line="115" column="54" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/CustomerServiceImpl.java" timestamp="1522178707567">
         <mark key="[" line="178" column="19" />
@@ -599,14 +599,14 @@
         <mark key="^" line="94" column="78" />
         <mark key="." line="94" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Customer.java" timestamp="1522259360103">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Customer.java" timestamp="1522351797435">
         <mark key="'" line="25" column="94" />
-        <mark key="[" line="75" column="27" />
+        <mark key="[" line="24" column="0" />
         <mark key="]" line="65" column="40" />
         <mark key="^" line="62" column="2" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/ServiceResult.java" timestamp="1522349299201">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/ServiceResult.java" timestamp="1522351833122">
         <mark key="[" line="187" column="36" />
         <mark key="]" line="185" column="38" />
         <mark key="." line="185" column="38" />
@@ -939,7 +939,7 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" timestamp="1522349896954">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" timestamp="1522351284635">
         <mark key="'" line="243" column="24" />
         <mark key="[" line="547" column="11" />
         <mark key="]" line="547" column="11" />
@@ -1141,7 +1141,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRvKG5ldyBTZXJ2aWNlUmVzdWx0PD4oKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmV3IFNlcnZpY2VSZXN1bHQ8Pigp</text>
@@ -1153,34 +1153,34 @@
         <text encoding="base64">ICAgICAgICAgIC8vYnlwYXNzIHRydXN0ZWQgY2VydGlmY2F0ZSBjaGVjayBmb3IgY2xpZW50IGNlcnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRvKG5ldyBTZXJ2aWNlUmVzdWx0PD4oKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9jdXN0b21lcnMve2N1c3RvbWVyVG9rZW59IiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQsCiAgICAgIHByb2R1Y2VzID0gTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVkFMVUUpCiAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICJHZXQgQ3VzdG9tZXIgSW5mby4iLCBub3RlcyA9ICIiLCByZXNwb25zZSA9IEN1c3RvbWVyLmNsYXNzKQogIEBKc29uVmlldyhDdXN0b21lclZpZXcuU3VtbWFyeURldGFpbEN1c3RvbWVyLmNsYXNzKQogIHB1YmxpYyBSZXNwb25zZUVudGl0eTxTZXJ2aWNlUmVzdWx0PEN1c3RvbWVyRW50aXR5Pj4gZ2V0Q3VzdG9tZXJWaWV3QWxsKAogICAgICBAQXBpUGFyYW0oIkN1c3RvbWVyIFRva2VuIEdVSUQiKSBAUGF0aFZhcmlhYmxlKCJjdXN0b21lclRva2VuIikgU3RyaW5nIHVzZXJJZCwKICAgICAgQEFwaVBhcmFtKHZhbHVlID0gIm11bHRpcGxlIHZhbHVlIHNlcGFyYXRlZCBieSB0aGUgJywnIikgQFJlcXVlc3RQYXJhbSgKICAgICAgICAgIHJlcXVpcmVkID0gZmFsc2UpIFN0cmluZyBwYXJ0cykKICAgICAgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICBTZXJ2aWNlUmVzdWx0PEN1c3RvbWVyPiBjdXN0b21lclJlc3VsdDsKCiAgICAvL3RvZG86ICBtYXAgcGFydHMKICAgIExpc3Q8U3RyaW5nPiBwYXJ0TGlzdCA9IFN1YnNTZXJ2aWNlVXRpbC5wYXJzZVBhcnRzKHBhcnRzKTsKICAgIFZhbGlkYXRpb25SZXN1bHQgdmFsaWRhdGlvblJlc3VsdCA9IHZhbGlkYXRpb25CZWFuLnZhbGlkYXRlUGFydHNQYXJhbWV0ZXIocGFydExpc3QpOwoKICAgIGlmICh2YWxpZGF0aW9uUmVzdWx0LmlzVmFsaWQoKSkgewogICAgICBjdXN0b21lclJlc3VsdCA9IGN1c3RvbWVyU2VydmljZS5nZXRDdXN0b21lcih1c2VySWQsIHBhcnRMaXN0KTsKICAgIH0gZWxzZSB7CiAgICAgIGN1c3RvbWVyUmVzdWx0ID0gbmV3IFNlcnZpY2VSZXN1bHQ8Pih2YWxpZGF0aW9uUmVzdWx0KTsKICAgIH0KCiAgICBTZXJ2aWNlUmVzdWx0PEN1c3RvbWVyRW50aXR5PiBjdXN0b21lckVudGl0eVNlcnZpY2VSZXN1bHQgPQogICAgICAgIGN1c3RvbWVyUmVzdWx0LnRvU2VydmljZVJlc3VsdChjdXN0b21lclJlc3VsdCkKICAgICAgICAgICAgLnRvKG5ldyBTZXJ2aWNlUmVzdWx0PD4oKSk7CgogICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5LnN0YXR1cyhjdXN0b21lckVudGl0eVNlcnZpY2VSZXN1bHQuZ2V0SHR0cFN0YXR1cygpKQogICAgICAgIC5oZWFkZXJzKGN1c3RvbWVyUmVzdWx0LmdldEhlYWRlcnMoKSkuYm9keShjdXN0b21lckVudGl0eVNlcnZpY2VSZXN1bHQpOwogIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgQ3VzdG9tZXJFbnRpdHkoY3VzdG9tZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIEN1c3RvbWVyRW50aXR5IHNlcmlhbGl6ZUN1c3RvbWVyV2l0aFBhcnRzRmlsdGVyKEN1c3RvbWVyIGN1c3RvbWVyKSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgQ3VzdG9tZXJFbnRpdHkoY3VzdG9tZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIEN1c3RvbWVyRW50aXR5IHNlcmlhbGl6ZUN1c3RvbWVyV2l0aFBhcnRzRmlsdGVyKEN1c3RvbWVyIGN1c3RvbWVyKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEN1c3RvbWVyRW50aXR5IGN1c3RvbWVyRW50aXR5ID0gU3Vic1NlcnZpY2VVdGlsLnNlcmlhbGl6ZUN1c3RvbWVyV2l0aFBhcnRzRmlsdGVyKHNlcnZpY2VSZXN1bHQuZ2V0RGF0YSgpLm9yRWxzZShuZXcgQ3VzdG9tZXIoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVudGl0eVNlcnZpY2VSZXN1bHQuc2V0RGF0YShjdXN0b21lckVudGl0eSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ID0gamFja3NvblZpZXdVdGlsLmZvclZpZXcoY3VzdG9tZXJFbnRpdHlTZXJ2aWNlUmVzdWx0LCBDdXN0b21lclZpZXcuVHJpYWxzLmNsYXNzKTsKICAgIG1vY2tNdmM=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEN1c3RvbWVyRW50aXR5IGN1c3RvbWVyRW50aXR5ID0gU3Vic1NlcnZpY2VVdGlsLnNlcmlhbGl6ZUN1c3RvbWVyV2l0aFBhcnRzRmlsdGVyKHNlcnZpY2VSZXN1bHQuZ2V0RGF0YSgpLm9yRWxzZShuZXcgQ3VzdG9tZXIoKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>7</text>
