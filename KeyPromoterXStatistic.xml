@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>615</Count>
+          <Count>616</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -406,7 +406,7 @@
           <IdeaActionID>UsageView.Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AemBffServiceApplication'">
