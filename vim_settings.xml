@@ -94,10 +94,10 @@
         <mark key="." line="149" column="3" />
       </file>
       <file name="/SubscriptionServiceController.java" timestamp="1522274108795" />
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/SubsServiceUtil.java" timestamp="1522278416732">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/SubsServiceUtil.java" timestamp="1522349357816">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Phone.java" timestamp="1522096489161">
         <mark key="[" line="17" column="0" />
@@ -298,10 +298,10 @@
         <mark key="]" line="76" column="13" />
         <mark key="." line="76" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1522277612821">
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="." line="274" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1522348851052">
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/CustomerServiceImpl.java" timestamp="1522178707567">
         <mark key="[" line="178" column="19" />
@@ -350,10 +350,10 @@
         <mark key="]" line="64" column="24" />
         <mark key="." line="64" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImpl.java" timestamp="1522348685952">
-        <mark key="[" line="313" column="78" />
-        <mark key="]" line="320" column="25" />
-        <mark key="." line="320" column="25" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImpl.java" timestamp="1522348746232">
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
         <mark key="^" line="320" column="25" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/test/java/com/morningstar/v2/tags/GetPricingTermsTagTest.java" timestamp="1519239626909">
@@ -378,8 +378,8 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/ServiceRequestExtension.kt" timestamp="1522277660578">
-        <mark key="[" line="7" column="95" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/ServiceRequestExtension.kt" timestamp="1522349326425">
+        <mark key="[" line="7" column="25" />
         <mark key="]" line="6" column="59" />
         <mark key="." line="6" column="59" />
         <mark key="^" line="6" column="59" />
@@ -606,8 +606,8 @@
         <mark key="^" line="62" column="2" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/ServiceResult.java" timestamp="1522277252999">
-        <mark key="[" line="185" column="94" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/ServiceResult.java" timestamp="1522349299201">
+        <mark key="[" line="187" column="36" />
         <mark key="]" line="185" column="38" />
         <mark key="." line="185" column="38" />
         <mark key="^" line="185" column="38" />
@@ -939,12 +939,11 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" timestamp="1522278315951">
-        <mark key="'" line="346" column="0" />
-        <mark key="[" line="338" column="79" />
-        <mark key="]" line="340" column="0" />
-        <mark key="^" line="346" column="0" />
-        <mark key="." line="340" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" timestamp="1522349896954">
+        <mark key="'" line="243" column="24" />
+        <mark key="[" line="547" column="11" />
+        <mark key="]" line="547" column="11" />
+        <mark key="." line="547" column="11" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/cache/services/EhCacheServiceImpl.java" timestamp="1517598890393">
         <mark key="[" line="65" column="0" />
@@ -1005,6 +1004,12 @@
         <mark key="]" line="122" column="40" />
         <mark key="." line="122" column="40" />
         <mark key="^" line="122" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/util/SubsServiceUtilTest.java" timestamp="1522349267582">
+        <mark key="'" line="191" column="56" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/PaymentServiceImplTest.java" timestamp="1522098112862">
         <mark key="[" line="20" column="0" />
@@ -1132,13 +1137,14 @@
       <jump line="501" column="4" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImplTest.java" />
       <jump line="283" column="135" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" />
       <jump line="349" column="0" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" />
+      <jump line="243" column="24" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CustomerEntity customerEntity =</text>
+        <text encoding="base64">bmV3IFNlcnZpY2VSZXN1bHQ8Pigp</text>
       </register>
       <register name="/" type="4">
         <text>lint</text>
@@ -1153,28 +1159,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjdXN0b21lckVudGl0eTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgQ3VzdG9tZXJFbnRpdHkoY3VzdG9tZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIEN1c3RvbWVyRW50aXR5IHNlcmlhbGl6ZUN1c3RvbWVyV2l0aFBhcnRzRmlsdGVyKEN1c3RvbWVyIGN1c3RvbWVyKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vdG9kbyA6cmVtb3ZlIHNhc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIEN1c3RvbWVyRW50aXR5IGN1c3RvbWVyRW50aXR5ID0gU3Vic1NlcnZpY2VVdGlsLnNlcmlhbGl6ZUN1c3RvbWVyV2l0aFBhcnRzRmlsdGVyKHNlcnZpY2VSZXN1bHQuZ2V0RGF0YSgpLm9yRWxzZShuZXcgQ3VzdG9tZXIoKSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDYWxlbmRhci5nZXRJbnN0YW5jZSgpLmdldFRpbWUoKTsK</text>
+        <text encoding="base64">ICAgIGVudGl0eVNlcnZpY2VSZXN1bHQuc2V0RGF0YShjdXN0b21lckVudGl0eSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIERhdGUgZ2V0Q3VycmVudERhdGUoKSB7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ID0gamFja3NvblZpZXdVdGlsLmZvclZpZXcoY3VzdG9tZXJFbnRpdHlTZXJ2aWNlUmVzdWx0LCBDdXN0b21lclZpZXcuVHJpYWxzLmNsYXNzKTsKICAgIG1vY2tNdmM=</text>
       </register>
       <register name=":" type="4">
         <text>7</text>
