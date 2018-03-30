@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-search-v2-parent/service-search-v2/pom.xml" timestamp="1520949348526">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-markets-authorization-parent/service-markets-authorization/pom.xml" timestamp="1520948619282">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-caching-parent/service-caching/src/main/java/com/morningstar/cache/core/impl/EhcacheServiceImpl.java" timestamp="1518201659932">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -23,6 +35,12 @@
         <mark key="." line="80" column="35" />
         <mark key="^" line="80" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/RequestFilter.java" timestamp="1515600671881">
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="^" line="44" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/PaymentServiceImpl.java" timestamp="1522268238034">
         <mark key="[" line="300" column="84" />
         <mark key="]" line="277" column="98" />
@@ -39,6 +57,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-editorial-parent/pom.xml" timestamp="1520949121526">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/GetPromotionsServiceImpl.java" timestamp="1520949900184">
         <mark key="[" line="87" column="46" />
@@ -62,478 +86,6 @@
         <mark key="]" line="8" column="18" />
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-adobe-marketing-cloud-parent/service-adobe-marketing-cloud/pom.xml" timestamp="1520949578521">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-common/pom.xml" timestamp="1521841262760">
-        <mark key="[" line="43" column="44" />
-        <mark key="]" line="43" column="42" />
-        <mark key="^" line="43" column="42" />
-        <mark key="." line="43" column="42" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityInfo.java" timestamp="1516922014952">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="5" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="125" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-screen-parent/pom.xml" timestamp="1520948989270">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/services/SystemInformationServiceTest.java" timestamp="1520972759575">
-        <mark key="[" line="42" column="70" />
-        <mark key="]" line="149" column="3" />
-        <mark key="^" line="149" column="3" />
-        <mark key="." line="149" column="3" />
-      </file>
-      <file name="/SubscriptionServiceController.java" timestamp="1522274108795" />
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/SubsServiceUtil.java" timestamp="1522349357816">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Phone.java" timestamp="1522096489161">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="28" column="39" />
-        <mark key="^" line="28" column="39" />
-        <mark key="." line="28" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/HttpUtil.java" timestamp="1521731991674">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/ConnectionTimeoutUtil.java" timestamp="1519776210185">
-        <mark key="[" line="19" column="50" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/RequestValidationException.java" timestamp="1522165127028">
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="8" column="42" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/exception/APIResponseCode.java" timestamp="1519238564963">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="43" column="4" />
-        <mark key="^" line="43" column="4" />
-        <mark key="." line="43" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionServiceImpl.java" timestamp="1520536934395">
-        <mark key="[" line="607" column="0" />
-        <mark key="]" line="607" column="0" />
-        <mark key="." line="607" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchController.java" timestamp="1516921803423">
-        <mark key="[" line="64" column="56" />
-        <mark key="]" line="64" column="35" />
-        <mark key="." line="64" column="35" />
-        <mark key="^" line="64" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/TestLogger.java" timestamp="1515452213646">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="39" column="10" />
-        <mark key="." line="39" column="10" />
-        <mark key="^" line="39" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-autocomplete-parent/service-autocomplete/src/main/java/com/morningstar/autocomplete/impl/AutocompleteServiceImpl.java" timestamp="1520956613576">
-        <mark key="[" line="87" column="21" />
-        <mark key="]" line="87" column="21" />
-        <mark key="." line="87" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-screen-parent/service-screen/pom.xml" timestamp="1520948996971">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/servlets/StatusCheckServletTest.java" timestamp="1519679349495">
-        <mark key="[" line="92" column="52" />
-        <mark key="]" line="92" column="53" />
-        <mark key="." line="92" column="53" />
-        <mark key="^" line="92" column="53" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/main/java/com/morningstar/servlets/impl/GetUserDiscussionImpl.java" timestamp="1519767638090">
-        <mark key="[" line="54" column="85" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-commodity-summary-parent/pom.xml" timestamp="1520949273269">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-api/src/test/java/com/morningstar/servlets/rest/ErrorResponseTest.java" timestamp="1519402957624">
-        <mark key="[" line="96" column="30" />
-        <mark key="]" line="96" column="29" />
-        <mark key="^" line="96" column="29" />
-        <mark key="." line="96" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2-api/src/test/java/com/morningstar/v2/servlets/PromotionServletTest.java" timestamp="1518563895538">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="67" />
-        <mark key="^" line="31" column="67" />
-        <mark key="." line="31" column="67" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/SubsServiceUtil.java" timestamp="1520536887319">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/subscription/service/impl/SubscriptionServiceBase.java" timestamp="1520953006820">
-        <mark key="[" line="37" column="51" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="30" column="31" />
-        <mark key="^" line="30" column="31" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/AemBffServiceApplication.kt" timestamp="1521483847398">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/services/impl/StatusCheckServiceImpl.java" timestamp="1519835161224">
-        <mark key="[" line="126" column="90" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/portfolio/impl/PortfolioAccessTokenServiceImpl.java" timestamp="1519691527013">
-        <mark key="[" line="73" column="71" />
-        <mark key="]" line="64" column="33" />
-        <mark key="^" line="64" column="33" />
-        <mark key="." line="64" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/userservice/impl/GetPromotionsServiceImplTest.java" timestamp="1520972617533">
-        <mark key="[" line="43" column="70" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/PatchSubscriptionServiceImpl.java" timestamp="1520949831993">
-        <mark key="[" line="76" column="46" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-security-quotes-parent/service-security-quotes/src/main/java/com/morningstar/securityquotes/impl/SecurityQuotesServiceImpl.java" timestamp="1520956417966">
-        <mark key="[" line="79" column="21" />
-        <mark key="]" line="79" column="21" />
-        <mark key="." line="79" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-portfolio-parent/service-portfolio/src/main/java/com/morningstar/portfolio/holding/impl/HoldingServiceImpl.java" timestamp="1520956814146">
-        <mark key="[" line="87" column="21" />
-        <mark key="]" line="87" column="21" />
-        <mark key="." line="87" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/PropertyPlaceholderConfigurerTest.java" timestamp="1516379993770">
-        <mark key="[" line="62" column="42" />
-        <mark key="]" line="70" column="43" />
-        <mark key="." line="70" column="43" />
-        <mark key="^" line="70" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-dowjonesnews-parent/pom.xml" timestamp="1520949198422">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/pricing/services/impl/PricingServiceImplTest.java" timestamp="1519248682932">
-        <mark key="[" line="327" column="26" />
-        <mark key="]" line="327" column="0" />
-        <mark key="." line="327" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/userservice/domain/OfferPromotionTest.java" timestamp="1519240117531">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/CustomersController.java" timestamp="1521131571797">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-membership-parent/service-user-membership-api/pom.xml" timestamp="1520948349851">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/pricing/services/model/PricingResponseItemTest.java" timestamp="1519249513268">
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-gla-parent/service-gla-deploy/pom.xml" timestamp="1520948238818">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" timestamp="1521490688143">
-        <mark key="[" line="96" column="88" />
-        <mark key="]" line="97" column="3" />
-        <mark key="^" line="97" column="3" />
-        <mark key="." line="97" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-build/pom.xml" timestamp="1520972186620">
-        <mark key="[" line="237" column="23" />
-        <mark key="]" line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/UpdateUserOptionsServiceImpl.java" timestamp="1520949991275">
-        <mark key="[" line="69" column="60" />
-        <mark key="]" line="76" column="13" />
-        <mark key="." line="76" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1522351895418">
-        <mark key="[" line="115" column="54" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/CustomerServiceImpl.java" timestamp="1522178707567">
-        <mark key="[" line="178" column="19" />
-        <mark key="]" line="178" column="18" />
-        <mark key="^" line="178" column="18" />
-        <mark key="." line="178" column="18" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/LogAppender.java" timestamp="1515451549572">
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="21" />
-        <mark key="^" line="20" column="21" />
-        <mark key="." line="20" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/log4j2.xml" timestamp="1515603598319">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/test/java/com/morningstar/servlets/subscription/impl/PatchSubscriptionsImplTest.java" timestamp="1518204365361">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-autocomplete-parent/pom.xml" timestamp="1520948911141">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/dao/impl/UIMIdentityAPIDaoImplTest.java" timestamp="1520630767797">
-        <mark key="[" line="221" column="62" />
-        <mark key="]" line="221" column="24" />
-        <mark key="^" line="221" column="24" />
-        <mark key="." line="221" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/portfolio/servlet/PortfolioXrayServlet.java" timestamp="1519249467112">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="56" column="22" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/GetUserInfoServiceImpl.java" timestamp="1520959365335">
-        <mark key="[" line="64" column="24" />
-        <mark key="]" line="64" column="24" />
-        <mark key="." line="64" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImpl.java" timestamp="1522348746232">
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="320" column="0" />
-        <mark key="." line="320" column="0" />
-        <mark key="^" line="320" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/test/java/com/morningstar/v2/tags/GetPricingTermsTagTest.java" timestamp="1519239626909">
-        <mark key="[" line="148" column="32" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-screen-parent/service-screen/src/main/java/com/morningstar/screen/monitor/jmx/impl/ScreenServiceMBeanImpl.java" timestamp="1520956664966">
-        <mark key="[" line="89" column="19" />
-        <mark key="]" line="89" column="19" />
-        <mark key="." line="89" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-parent/pom.xml" timestamp="1520536335171">
-        <mark key="[" line="255" column="35" />
-        <mark key="]" line="252" column="0" />
-        <mark key="^" line="252" column="24" />
-        <mark key="." line="252" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-autocomplete-parent/service-autocomplete/pom.xml" timestamp="1520948918673">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/ServiceRequestExtension.kt" timestamp="1522349326425">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="6" column="59" />
-        <mark key="." line="6" column="59" />
-        <mark key="^" line="6" column="59" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1516402363464">
-        <mark key="[" line="199" column="94" />
-        <mark key="]" line="199" column="94" />
-        <mark key="." line="199" column="94" />
-        <mark key="^" line="199" column="94" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/pom.xml" timestamp="1520950603699">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="382" column="0" />
-        <mark key="." line="382" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-test/src/main/java/com/morningstar/servlets/TestBase.java" timestamp="1519403411870">
-        <mark key="[" line="53" column="28" />
-        <mark key="]" line="52" column="31" />
-        <mark key="." line="52" column="31" />
-        <mark key="^" line="52" column="31" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1522274163985">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/restassured-automation-api-testing/src/test/resources/config.dev.properties" timestamp="1520010954540">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-commodity-summary-parent/service-commodity-summary/src/main/java/com/morningstar/commoditysummary/impl/CommoditySummaryServiceImpl.java" timestamp="1520958838352">
-        <mark key="[" line="54" column="28" />
-        <mark key="]" line="54" column="28" />
-        <mark key="." line="54" column="28" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/SubscriptionBySubscriptionIdService.java" timestamp="1521217449077">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="43" />
-        <mark key="^" line="16" column="43" />
-        <mark key="." line="16" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/iip-services-parent/pom.xml" timestamp="1520536099094">
-        <mark key="[" line="294" column="31" />
-        <mark key="]" line="337" column="0" />
-        <mark key="." line="337" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-editorial-parent/service-editorial/src/main/java/com/morningstar/editorial/headline/databuilder/impl/BuilderHelper.java" timestamp="1520958121103">
-        <mark key="[" line="171" column="15" />
-        <mark key="]" line="171" column="15" />
-        <mark key="." line="171" column="15" />
-        <mark key="^" line="171" column="38" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/controllers/valuation/ValuationController.kt" timestamp="1521483891818">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="14" column="102" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-portfolio-parent/service-portfolio/src/main/java/com/morningstar/portfolio/impl/PortfolioServiceImpl.java" timestamp="1520956791690">
-        <mark key="[" line="140" column="15" />
-        <mark key="]" line="140" column="15" />
-        <mark key="." line="140" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/filters/RequestFilterTest.java" timestamp="1515529123459">
-        <mark key="[" line="79" column="13" />
-        <mark key="]" line="79" column="12" />
-        <mark key="^" line="79" column="12" />
-        <mark key="." line="79" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/UpdateUserDetailServiceImpl.java" timestamp="1520959652553">
-        <mark key="[" line="83" column="50" />
-        <mark key="]" line="83" column="45" />
-        <mark key="^" line="83" column="45" />
-        <mark key="." line="83" column="45" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-cef-parent/pom.xml" timestamp="1520949053247">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/kotlin/com/morningstar/accountlinking/AccountLinkingKotlinServlet.kt" timestamp="1521066320814">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-dowjonesnews-parent/service-dowjonesnews/src/main/java/com/morningstar/dowjonesnews/impl/DowJonesNewsServiceImpl.java" timestamp="1520958264777">
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="66" column="28" />
-        <mark key="." line="66" column="28" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-ffrd-summary-parent/service-ffrd-summary/pom.xml" timestamp="1520949645457">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebRequest.java" timestamp="1519750226803">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/validation/ValidationBean.java" timestamp="1521837885516">
-        <mark key="[" line="162" column="34" />
-        <mark key="]" line="139" column="74" />
-        <mark key="^" line="139" column="74" />
-        <mark key="." line="139" column="74" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_vanguard.json" timestamp="1515795946604">
-        <mark key="[" line="42" column="30" />
-        <mark key="]" line="41" column="23" />
-        <mark key="." line="41" column="23" />
-        <mark key="^" line="41" column="23" />
-      </file>
-      <file name="/fragment.java" timestamp="1522278239949">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/rps2/service/impl/UserPortFolioSettingsServiceImpl.java" timestamp="1520959295703">
-        <mark key="[" line="86" column="15" />
-        <mark key="]" line="86" column="15" />
-        <mark key="." line="86" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/SSLClientHttpRequestFactory.java" timestamp="1522277969352">
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-search-v2-parent/service-search-v2/pom.xml" timestamp="1520949348526">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-markets-authorization-parent/service-markets-authorization/pom.xml" timestamp="1520948619282">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/RequestFilter.java" timestamp="1515600671881">
-        <mark key="[" line="44" column="24" />
-        <mark key="]" line="44" column="25" />
-        <mark key="." line="44" column="25" />
-        <mark key="^" line="44" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-editorial-parent/pom.xml" timestamp="1520949121526">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceControllerTest.java" timestamp="1521491396697">
         <mark key="[" line="122" column="0" />
@@ -560,6 +112,18 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-adobe-marketing-cloud-parent/service-adobe-marketing-cloud/pom.xml" timestamp="1520949578521">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-common/pom.xml" timestamp="1521841262760">
+        <mark key="[" line="43" column="44" />
+        <mark key="]" line="43" column="42" />
+        <mark key="^" line="43" column="42" />
+        <mark key="." line="43" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/SubscriptionService.java" timestamp="1521214413277">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="20" column="15" />
@@ -582,6 +146,18 @@
         <mark key="]" line="309" column="0" />
         <mark key="." line="309" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityInfo.java" timestamp="1516922014952">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="125" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-screen-parent/pom.xml" timestamp="1520948989270">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/ResearchBarometerRepository.java" timestamp="1515185300416">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="30" />
@@ -592,6 +168,12 @@
         <mark key="[" line="103" column="15" />
         <mark key="]" line="103" column="15" />
         <mark key="." line="103" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/services/SystemInformationServiceTest.java" timestamp="1520972759575">
+        <mark key="[" line="42" column="70" />
+        <mark key="]" line="149" column="3" />
+        <mark key="^" line="149" column="3" />
+        <mark key="." line="149" column="3" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/subscription/service/impl/CustomerEligiblityForTrialsServiceImpl.java" timestamp="1520959251129">
         <mark key="[" line="37" column="52" />
@@ -618,6 +200,11 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/SubsServiceUtil.java" timestamp="1522349357816">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-ffrd-summary-parent/service-ffrd-summary/src/main/java/com/morningstar/ffrdsummary/impl/FFRDSummaryServiceImpl.java" timestamp="1520959208066">
         <mark key="[" line="200" column="14" />
         <mark key="]" line="200" column="28" />
@@ -630,6 +217,17 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/JsonViewAdvise.java" timestamp="1522425541626">
+        <mark key="[" line="23" column="50" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Phone.java" timestamp="1522096489161">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/pom.xml" timestamp="1520949708656">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="20" />
@@ -639,16 +237,39 @@
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/annotation/EnumCheck.java" timestamp="1522273928257">
         <mark key="[" line="24" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/bff/impl/BackendForFrontendServiceRepository.java" timestamp="1519691446120">
         <mark key="[" line="40" column="80" />
         <mark key="]" line="70" column="28" />
         <mark key="." line="70" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/HttpUtil.java" timestamp="1521731991674">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/CustomerServiceImplTests.java" timestamp="1520630401549">
         <mark key="[" line="466" column="46" />
         <mark key="]" line="244" column="88" />
         <mark key="^" line="244" column="86" />
         <mark key="." line="244" column="88" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/ConnectionTimeoutUtil.java" timestamp="1519776210185">
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/RequestValidationException.java" timestamp="1522165127028">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/pom.xml" timestamp="1522101289053">
         <mark key="[" line="139" column="0" />
@@ -660,10 +281,27 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/exception/APIResponseCode.java" timestamp="1519238564963">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="43" column="4" />
+        <mark key="." line="43" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-api/src/main/java/com/morningstar/servlets/filters/RequestMdcFilter.java" timestamp="1521058043569">
         <mark key="[" line="40" column="70" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionServiceImpl.java" timestamp="1520536934395">
+        <mark key="[" line="607" column="0" />
+        <mark key="]" line="607" column="0" />
+        <mark key="." line="607" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchController.java" timestamp="1516921803423">
+        <mark key="[" line="64" column="56" />
+        <mark key="]" line="64" column="35" />
+        <mark key="." line="64" column="35" />
+        <mark key="^" line="64" column="35" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-id-service-parent/service-id-service/src/main/java/com/morningstar/idservice/impl/IDServiceImpl.java" timestamp="1520956235913">
         <mark key="[" line="187" column="28" />
@@ -681,6 +319,12 @@
         <mark key="]" line="120" column="15" />
         <mark key="." line="120" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/TestLogger.java" timestamp="1515452213646">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="10" />
+        <mark key="." line="39" column="10" />
+        <mark key="^" line="39" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-parent/pom.xml" timestamp="1520367565808">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="22" />
@@ -692,6 +336,11 @@
         <mark key="]" line="84" column="117" />
         <mark key="^" line="84" column="117" />
         <mark key="." line="84" column="117" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-autocomplete-parent/service-autocomplete/src/main/java/com/morningstar/autocomplete/impl/AutocompleteServiceImpl.java" timestamp="1520956613576">
+        <mark key="[" line="87" column="21" />
+        <mark key="]" line="87" column="21" />
+        <mark key="." line="87" column="21" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-monitoring-parent/service-monitoring/src/test/java/com/morningstar/monitoring/cluster/snapshots/impl/RemotelySurfacedSnapshotProviderTest.java" timestamp="1520972551634">
         <mark key="[" line="27" column="70" />
@@ -710,11 +359,40 @@
         <mark key="^" line="49" column="90" />
         <mark key="." line="49" column="90" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-screen-parent/service-screen/pom.xml" timestamp="1520948996971">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/servlets/StatusCheckServletTest.java" timestamp="1519679349495">
+        <mark key="[" line="92" column="52" />
+        <mark key="]" line="92" column="53" />
+        <mark key="." line="92" column="53" />
+        <mark key="^" line="92" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/main/java/com/morningstar/servlets/impl/GetUserDiscussionImpl.java" timestamp="1519767638090">
+        <mark key="[" line="54" column="85" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-commodity-summary-parent/pom.xml" timestamp="1520949273269">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionServiceControllerTest.java" timestamp="1520876806385">
         <mark key="[" line="638" column="84" />
         <mark key="]" line="638" column="68" />
         <mark key="^" line="638" column="68" />
         <mark key="." line="638" column="68" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-api/src/test/java/com/morningstar/servlets/rest/ErrorResponseTest.java" timestamp="1519402957624">
+        <mark key="[" line="96" column="30" />
+        <mark key="]" line="96" column="29" />
+        <mark key="^" line="96" column="29" />
+        <mark key="." line="96" column="29" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-api/src/main/java/com/morningstar/servlets/rest/ErrorResponse.java" timestamp="1519416930965">
         <mark key="[" line="77" column="32" />
@@ -756,10 +434,32 @@
         <mark key="^" line="130" column="29" />
         <mark key="." line="130" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2-api/src/test/java/com/morningstar/v2/servlets/PromotionServletTest.java" timestamp="1518563895538">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="67" />
+        <mark key="^" line="31" column="67" />
+        <mark key="." line="31" column="67" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/SubsServiceUtil.java" timestamp="1520536887319">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/subscription/service/impl/SubscriptionServiceBase.java" timestamp="1520953006820">
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="30" column="31" />
+        <mark key="^" line="30" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-news-parent/service-news/src/main/java/com/morningstar/news/utils/newsserivce/NewsServiceQueryUrl.java" timestamp="1518202394885">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/AemBffServiceApplication.kt" timestamp="1521483847398">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/config/PropertyResolverImpl.java" timestamp="1515083681588">
         <mark key="[" line="47" column="12" />
@@ -771,6 +471,43 @@
         <mark key="[" line="39" column="70" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/services/impl/StatusCheckServiceImpl.java" timestamp="1519835161224">
+        <mark key="[" line="126" column="90" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/portfolio/impl/PortfolioAccessTokenServiceImpl.java" timestamp="1519691527013">
+        <mark key="[" line="73" column="71" />
+        <mark key="]" line="64" column="33" />
+        <mark key="^" line="64" column="33" />
+        <mark key="." line="64" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/userservice/impl/GetPromotionsServiceImplTest.java" timestamp="1520972617533">
+        <mark key="[" line="43" column="70" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/PatchSubscriptionServiceImpl.java" timestamp="1520949831993">
+        <mark key="[" line="76" column="46" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-security-quotes-parent/service-security-quotes/src/main/java/com/morningstar/securityquotes/impl/SecurityQuotesServiceImpl.java" timestamp="1520956417966">
+        <mark key="[" line="79" column="21" />
+        <mark key="]" line="79" column="21" />
+        <mark key="." line="79" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-portfolio-parent/service-portfolio/src/main/java/com/morningstar/portfolio/holding/impl/HoldingServiceImpl.java" timestamp="1520956814146">
+        <mark key="[" line="87" column="21" />
+        <mark key="]" line="87" column="21" />
+        <mark key="." line="87" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/PropertyPlaceholderConfigurerTest.java" timestamp="1516379993770">
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="70" column="43" />
+        <mark key="." line="70" column="43" />
+        <mark key="^" line="70" column="43" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-monitoring-parent/service-monitoring/src/main/java/com/morningstar/monitoring/cluster/snapshots/impl/RemotelySurfacedSnapshotProvider.java" timestamp="1520956578866">
         <mark key="[" line="29" column="26" />
@@ -789,11 +526,32 @@
         <mark key="^" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-dowjonesnews-parent/pom.xml" timestamp="1520949198422">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-commodity-summary-parent/service-commodity-summary/pom.xml" timestamp="1520949280402">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="18" />
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/pricing/services/impl/PricingServiceImplTest.java" timestamp="1519248682932">
+        <mark key="[" line="327" column="26" />
+        <mark key="]" line="327" column="0" />
+        <mark key="." line="327" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/userservice/domain/OfferPromotionTest.java" timestamp="1519240117531">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/CustomersController.java" timestamp="1521131571797">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-search-v2-parent/service-search-v2/src/test/java/com/morningstar/search/provider/tag/TagSearchProviderImplTest.java" timestamp="1519248543897">
         <mark key="[" line="113" column="24" />
@@ -823,6 +581,17 @@
         <mark key="[" line="111" column="28" />
         <mark key="]" line="111" column="28" />
         <mark key="." line="111" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-membership-parent/service-user-membership-api/pom.xml" timestamp="1520948349851">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/pricing/services/model/PricingResponseItemTest.java" timestamp="1519249513268">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/pom.xml" timestamp="1521651447973">
         <mark key="[" line="117" column="27" />
@@ -869,6 +638,18 @@
         <mark key="." line="28" column="47" />
         <mark key="^" line="9" column="49" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-gla-parent/service-gla-deploy/pom.xml" timestamp="1520948238818">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" timestamp="1521490688143">
+        <mark key="[" line="96" column="88" />
+        <mark key="]" line="97" column="3" />
+        <mark key="^" line="97" column="3" />
+        <mark key="." line="97" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionServiceImpl.java" timestamp="1521824802997">
         <mark key="[" line="131" column="79" />
         <mark key="]" line="131" column="73" />
@@ -886,6 +667,17 @@
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="8" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-build/pom.xml" timestamp="1520972186620">
+        <mark key="[" line="237" column="23" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/UpdateUserOptionsServiceImpl.java" timestamp="1520949991275">
+        <mark key="[" line="69" column="60" />
+        <mark key="]" line="76" column="13" />
+        <mark key="." line="76" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/aem-iip-dc-docker/README.md" timestamp="1517940151781">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="11" column="63" />
@@ -898,11 +690,40 @@
         <mark key="." line="307" column="58" />
         <mark key="^" line="307" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1522425354860">
+        <mark key="[" line="115" column="54" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionServiceImplTest.java" timestamp="1522098127173">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="176" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/CustomerServiceImpl.java" timestamp="1522178707567">
+        <mark key="[" line="178" column="19" />
+        <mark key="]" line="178" column="18" />
+        <mark key="^" line="178" column="18" />
+        <mark key="." line="178" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/LogAppender.java" timestamp="1515451549572">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="21" />
+        <mark key="^" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/log4j2.xml" timestamp="1515603598319">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/test/java/com/morningstar/servlets/subscription/impl/PatchSubscriptionsImplTest.java" timestamp="1518204365361">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/CustomerEntity.java" timestamp="1522185174141">
         <mark key="[" line="12" column="68" />
@@ -910,11 +731,23 @@
         <mark key="." line="12" column="101" />
         <mark key="^" line="12" column="101" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-autocomplete-parent/pom.xml" timestamp="1520948911141">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-id-service-parent/service-id-service/pom.xml" timestamp="1520898374999">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="20" />
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/dao/impl/UIMIdentityAPIDaoImplTest.java" timestamp="1520630767797">
+        <mark key="[" line="221" column="62" />
+        <mark key="]" line="221" column="24" />
+        <mark key="^" line="221" column="24" />
+        <mark key="." line="221" column="24" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/ParserHelper.java" timestamp="1519416826663">
         <mark key="[" line="79" column="18" />
@@ -956,11 +789,50 @@
         <mark key="^" line="366" column="9" />
         <mark key="." line="366" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/portfolio/servlet/PortfolioXrayServlet.java" timestamp="1519249467112">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="56" column="22" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/services/impl/StatusCheckServiceImplTest.java" timestamp="1520972650306">
         <mark key="[" line="44" column="70" />
         <mark key="]" line="91" column="74" />
         <mark key="." line="91" column="74" />
         <mark key="^" line="91" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/GetUserInfoServiceImpl.java" timestamp="1520959365335">
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="64" column="24" />
+        <mark key="." line="64" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImpl.java" timestamp="1522348746232">
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
+        <mark key="^" line="320" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/test/java/com/morningstar/v2/tags/GetPricingTermsTagTest.java" timestamp="1519239626909">
+        <mark key="[" line="148" column="32" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-screen-parent/service-screen/src/main/java/com/morningstar/screen/monitor/jmx/impl/ScreenServiceMBeanImpl.java" timestamp="1520956664966">
+        <mark key="[" line="89" column="19" />
+        <mark key="]" line="89" column="19" />
+        <mark key="." line="89" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-parent/pom.xml" timestamp="1520536335171">
+        <mark key="[" line="255" column="35" />
+        <mark key="]" line="252" column="0" />
+        <mark key="^" line="252" column="24" />
+        <mark key="." line="252" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-autocomplete-parent/service-autocomplete/pom.xml" timestamp="1520948918673">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1516146657406">
         <mark key="[" line="308" column="10" />
@@ -968,15 +840,69 @@
         <mark key="^" line="308" column="60" />
         <mark key="." line="308" column="60" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/ServiceRequestExtension.kt" timestamp="1522349326425">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="6" column="59" />
+        <mark key="." line="6" column="59" />
+        <mark key="^" line="6" column="59" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1516402363464">
+        <mark key="[" line="199" column="94" />
+        <mark key="]" line="199" column="94" />
+        <mark key="." line="199" column="94" />
+        <mark key="^" line="199" column="94" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/pom.xml" timestamp="1520950603699">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="382" column="0" />
+        <mark key="." line="382" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-test/src/main/java/com/morningstar/servlets/TestBase.java" timestamp="1519403411870">
+        <mark key="[" line="53" column="28" />
+        <mark key="]" line="52" column="31" />
+        <mark key="." line="52" column="31" />
+        <mark key="^" line="52" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/exception/ApiResponseCode.java" timestamp="1519416084346">
         <mark key="[" line="47" column="23" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1522274163985">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/restassured-automation-api-testing/src/test/resources/config.dev.properties" timestamp="1520010954540">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/pom.xml" timestamp="1521068215178">
         <mark key="[" line="255" column="57" />
         <mark key="]" line="249" column="0" />
         <mark key="." line="249" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-commodity-summary-parent/service-commodity-summary/src/main/java/com/morningstar/commoditysummary/impl/CommoditySummaryServiceImpl.java" timestamp="1520958838352">
+        <mark key="[" line="54" column="28" />
+        <mark key="]" line="54" column="28" />
+        <mark key="." line="54" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/SubscriptionBySubscriptionIdService.java" timestamp="1521217449077">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="43" />
+        <mark key="^" line="16" column="43" />
+        <mark key="." line="16" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/iip-services-parent/pom.xml" timestamp="1520536099094">
+        <mark key="[" line="294" column="31" />
+        <mark key="]" line="337" column="0" />
+        <mark key="." line="337" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-editorial-parent/service-editorial/src/main/java/com/morningstar/editorial/headline/databuilder/impl/BuilderHelper.java" timestamp="1520958121103">
+        <mark key="[" line="171" column="15" />
+        <mark key="]" line="171" column="15" />
+        <mark key="." line="171" column="15" />
+        <mark key="^" line="171" column="38" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2/src/main/java/com/morningstar/v2/components/dtm/GetDTMConfigTag.java" timestamp="1519252111484">
         <mark key="[" line="51" column="84" />
@@ -988,16 +914,39 @@
         <mark key="]" line="362" column="30" />
         <mark key="." line="362" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/controllers/valuation/ValuationController.kt" timestamp="1521483891818">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="14" column="102" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-ffrd-summary-parent/pom.xml" timestamp="1520949639292">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-portfolio-parent/service-portfolio/src/main/java/com/morningstar/portfolio/impl/PortfolioServiceImpl.java" timestamp="1520956791690">
+        <mark key="[" line="140" column="15" />
+        <mark key="]" line="140" column="15" />
+        <mark key="." line="140" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/filters/RequestFilterTest.java" timestamp="1515529123459">
+        <mark key="[" line="79" column="13" />
+        <mark key="]" line="79" column="12" />
+        <mark key="^" line="79" column="12" />
+        <mark key="." line="79" column="12" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/exception/APIException.java" timestamp="1519238817868">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="20" />
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/UpdateUserDetailServiceImpl.java" timestamp="1520959652553">
+        <mark key="[" line="83" column="50" />
+        <mark key="]" line="83" column="45" />
+        <mark key="^" line="83" column="45" />
+        <mark key="." line="83" column="45" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-gla-parent/service-gla/src/main/java/com/morningstar/gla/impl/GLAServiceImpl.java" timestamp="1520956289284">
         <mark key="[" line="122" column="26" />
@@ -1011,11 +960,28 @@
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-cef-parent/pom.xml" timestamp="1520949053247">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/kotlin/com/morningstar/accountlinking/AccountLinkingKotlinServlet.kt" timestamp="1521066320814">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/PaymentServiceImplTest.java" timestamp="1522098112862">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="425" column="66" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-dowjonesnews-parent/service-dowjonesnews/src/main/java/com/morningstar/dowjonesnews/impl/DowJonesNewsServiceImpl.java" timestamp="1520958264777">
+        <mark key="[" line="66" column="28" />
+        <mark key="]" line="66" column="28" />
+        <mark key="." line="66" column="28" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/test/java/com/morningstar/servlets/impl/UpdateUserDetailImplTest.java" timestamp="1518204308724">
         <mark key="[" line="225" column="0" />
@@ -1028,10 +994,21 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-ffrd-summary-parent/service-ffrd-summary/pom.xml" timestamp="1520949645457">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/GetUserOptionsServiceImpl.java" timestamp="1520959424312">
         <mark key="[" line="66" column="24" />
         <mark key="]" line="66" column="24" />
         <mark key="." line="66" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebRequest.java" timestamp="1519750226803">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/GlobalControllerExceptionHandler.java" timestamp="1522275817059">
         <mark key="[" line="92" column="52" />
@@ -1043,6 +1020,34 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="17" column="29" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/validation/ValidationBean.java" timestamp="1521837885516">
+        <mark key="[" line="162" column="34" />
+        <mark key="]" line="139" column="74" />
+        <mark key="^" line="139" column="74" />
+        <mark key="." line="139" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_vanguard.json" timestamp="1515795946604">
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="41" column="23" />
+        <mark key="." line="41" column="23" />
+        <mark key="^" line="41" column="23" />
+      </file>
+      <file name="/fragment.java" timestamp="1522278239949">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/rps2/service/impl/UserPortFolioSettingsServiceImpl.java" timestamp="1520959295703">
+        <mark key="[" line="86" column="15" />
+        <mark key="]" line="86" column="15" />
+        <mark key="." line="86" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/SSLClientHttpRequestFactory.java" timestamp="1522277969352">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
     </filemarks>
     <jumps>
