@@ -217,11 +217,11 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/JsonViewAdvise.java" timestamp="1522769877360">
-        <mark key="[" line="56" column="27" />
-        <mark key="]" line="56" column="57" />
-        <mark key="^" line="55" column="26" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/JsonViewAdvise.java" timestamp="1522774729048">
+        <mark key="[" line="80" column="70" />
+        <mark key="]" line="77" column="15" />
+        <mark key="." line="77" column="15" />
+        <mark key="^" line="77" column="15" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Phone.java" timestamp="1522096489161">
         <mark key="[" line="17" column="0" />
@@ -467,11 +467,11 @@
         <mark key="^" line="47" column="3" />
         <mark key="." line="47" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/JsonViewBuilderTest.java" timestamp="1522769748319">
-        <mark key="[" line="39" column="78" />
-        <mark key="]" line="39" column="78" />
-        <mark key="^" line="39" column="50" />
-        <mark key="." line="39" column="78" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/JsonViewBuilderTest.java" timestamp="1522775028831">
+        <mark key="[" line="63" column="88" />
+        <mark key="]" line="63" column="75" />
+        <mark key="^" line="63" column="75" />
+        <mark key="." line="63" column="75" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/subscription/service/UserSurveyServiceImplTest.java" timestamp="1520972666437">
         <mark key="[" line="39" column="70" />
@@ -1148,7 +1148,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZpZXdzLnB1dChQQVJUU19PUFRJT05TLCBDdXN0b21lclZpZXcuU3VydmV5cy5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;options&quot;</text>
@@ -1168,26 +1168,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">IHsKICAgICAgdmlld3MucHV0KCJiYXNpYyIsIEN1c3RvbWVyVmlldy5jbGFzcyk7CiAgICAgIHZpZXdzLnB1dCgiYWRkcmVzcyIsIEN1c3RvbWVyVmlldy5BZGRyZXNzLmNsYXNzKTsKICAgICAgdmlld3MucHV0KCJwaG9uZSIsIEN1c3RvbWVyVmlldy5QaG9uZS5jbGFzcyk7CiAgICAgIHZpZXdzLnB1dCgib3B0aW9ucyIsIEN1c3RvbWVyVmlldy5PcHRpb25zLmNsYXNzKTsKICAgICAgdmlld3MucHV0KCJzdXJ2ZXlzIiwgQ3VzdG9tZXJWaWV3LlN1cnZleXMuY2xhc3MpOwogIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIEN1c3RvbWVyVmlldy5QaG9uZS5jbGFzczsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIEN1c3RvbWVyVmlldy5QaG9uZS5jbGFzczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>7</text>
