@@ -56,11 +56,10 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/presenters/RegisterPhonePresenterImpl.kt" timestamp="1520382430112">
         <mark key="[" line="62" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/MainPresenterImpl.kt" timestamp="1522876768083">
-        <mark key="[" line="109" column="28" />
-        <mark key="]" line="58" column="32" />
-        <mark key="^" line="58" column="32" />
-        <mark key="." line="58" column="32" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/MainPresenterImpl.kt" timestamp="1522878147930">
+        <mark key="[" line="89" column="48" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/GetPromotionsServiceImpl.java" timestamp="1518029444717">
         <mark key="[" line="86" column="78" />
@@ -387,7 +386,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYSA9IGxpc3RPCg==</text>
       </register>
       <register name="-" type="4">
         <text>Boolean</text>
@@ -399,31 +398,31 @@
         <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgQkFTRV9VUkwgPSAiaHR0cHM6Ly9hcGktdGVzdC5yZXNxdWUudXMvYXBpL3YxLyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYSA9IGxpc3RPCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ZGRkY29tcGFuaW9uIG9iamVjdCBTdHJpbmcgewo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ClN0cmluZyAtPiB7CiAgICBmdW5jIGZ1bgp9</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAjIHNoICJ5b3VyX3NjcmlwdC5zaCIKICAgICMgWW91IGNhbiBhbHNvIHVzZSBvdGhlciBiZXRhIHRlc3Rpbmcgc2VydmljZXMgaGVyZQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aW5jcmVtZW50X3ZlcnNpb25fY29kZQogICAgZ3JhZGxlKHRhc2s6ICdhc3NlbWJsZURyaXZlcicsIGJ1aWxkX3R5cGU6ICdSZWxlYXNlJykKICAgIHVwbG9hZF90b19wbGF5X3N0b3JlKHRyYWNrOiAnYmV0YScpCiAgICBzbGFjayhtZXNzYWdlOiAnU3VjY2Vzc2Z1bGx5IGRpc3RyaWJ1dGVkIGEgbmV3IGJldGEgYnVpbGQnKQogICAgI3BpbG90KGFwazogIi9Vc2Vycy9kaGlsbC9wcm9qZWN0cy9hbmRyb2lkL3Rvdy11c2VyL2FwcC9idWlsZC9vdXRwdXRzL2Fway9kcml2ZXIvcmVsZWFzZS90b3ctYXBwLWRyaXZlci1yZWxlYXNlLmFwayIpCiAgICA=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC0gcnVuOgogICAgICAgICAgbmFtZTogSW5zdGFsbCBmYXN0bGFuZQogICAgICAgICAgY29tbWFuZDogZ2VtIGluc3RhbGwgYnVuZGxlciAmJiBidW5kbGUgdXBkYXRl</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
