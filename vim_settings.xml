@@ -153,6 +153,10 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/port-dashboard/src/main/kotlin/com/morningstar/ii/HoldingsDetailController.kt" timestamp="1522879416278">
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-autocomplete-parent/service-autocomplete/src/main/java/com/morningstar/autocomplete/impl/AutocompleteServiceImpl.java" timestamp="1520956613576">
         <mark key="[" line="87" column="21" />
         <mark key="]" line="87" column="21" />
@@ -1158,7 +1162,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC51dGlsLklTTzg2MDFEYXRlRm9ybWF0Owo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>defaultDateFormat</text>
@@ -1170,7 +1174,7 @@
         <text encoding="base64">ICBASnNvblZpZXcoSW50ZXJuYWwuY2xhc3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC51dGlsLklTTzg2MDFEYXRlRm9ybWF0Owo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1179,25 +1183,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHREYXRlRm9ybWF0LnNldFRpbWVab25lKGRlZmF1bHRUaW1lWm9uZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGbHV4LnppcCgoamFydmlzUmVzcG9uc2UsICBkYXRhQXBpUmVzcG9uc2UpIC0+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERhdGVGb3JtYXQgID0gbmV3IElTTzg2MDFEYXRlRm9ybWF0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9iamVjdE1hcHBlckJ1aWxkZXIuZGF0ZUZvcm1hdChkZWZhdWx0RGF0ZUZvcm1hdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqYXJ2aXNSZXNwb25zZS56aXBXaXRoKGRhdGFBcGlSZXNwb25zZS4sCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEZhbHNlKGRhdGVGb3JtYXQuaXNDb2xvbkluY2x1ZGVkSW5UaW1lWm9uZSgpKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgeyBpdGVtRmx1eDEsIGl0ZW1GbHV4MiAtPiAiLVskaXRlbUZsdXgxJGl0ZW1GbHV4Ml0tIiB9KQogICAgICAgICAgICAgICAgLnN1YnNjcmliZSg/Pz8oeyBTeXN0ZW0ub3V0LnByaW50KCkgfSkp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRydWUoZGF0ZUZvcm1hdC5pc0NvbG9uSW5jbHVkZWRJblRpbWVab25lKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC51dGlsLklTTzg2MDFEYXRlRm9ybWF0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gIEBKc29uVmlldyhDdXN0b21lclZpZXcuSW50ZXJuYWwuY2xhc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>14</text>
