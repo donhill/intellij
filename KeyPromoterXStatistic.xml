@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'⌘K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare">
         <Item>
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
@@ -38,7 +46,7 @@
           <IdeaActionID>Git.CompareWithBranch</IdeaActionID>
           <ShortCut>'⌃⌘B'</ShortCut>
           <Description>Compare with Branch...</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -222,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>648</Count>
+          <Count>649</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -902,7 +910,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
