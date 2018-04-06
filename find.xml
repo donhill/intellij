@@ -1,43 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'iip-services-parent'" />
+    <option name="defaultScopeName" value="Project 'iip-services-parent'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
-      <mask>*xml</mask>
-      <mask>*xm</mask>
-      <mask>*x</mask>
-      <mask>*java</mask>
-      <mask>*jav</mask>
-      <mask>*ja</mask>
-      <mask>*j</mask>
-      <mask>*.c</mask>
-      <mask>*.co</mask>
-      <mask>*.con</mask>
-      <mask>*.conf</mask>
-      <mask>*.config</mask>
-      <mask>.config</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.kt</mask>
-      <mask>*.k</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>*IT*.java</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="Project 'iip-services-parent'" />
   </component>
 </application>
