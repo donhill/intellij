@@ -104,11 +104,10 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/port-dashboard/src/main/kotlin/com/morningstar/ii/HoldingsDetailController.kt" timestamp="1523026886833">
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="33" column="15" />
-        <mark key="." line="33" column="15" />
-        <mark key="^" line="33" column="15" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/port-dashboard/src/main/kotlin/com/morningstar/ii/HoldingsDetailController.kt" timestamp="1523030848839">
+        <mark key="[" line="31" column="7" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/port-dashboard/src/main/kotlin/com/morningstar/ii/impl/IntegrationService.kt" timestamp="1522775648397">
         <mark key="[" line="36" column="46" />
@@ -572,6 +571,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="11" column="36" />
       </file>
+      <file name="/fragment.kt" timestamp="1523030886534">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-dowjonesnews-parent/service-dowjonesnews/pom.xml" timestamp="1520949209690">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="20" />
@@ -798,44 +802,44 @@
       <jump line="355" column="25" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Lm1hcCB7IGpSZXNwb25zZSAtPiBqUmVzcG9uc2V9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoQ29uc3VtZXI8QW55PiB7IHByaW50KGl0KSB9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lm1hcCB7IGpSZXNwb25zZSAtPiBqUmVzcG9uc2V9</text>
+        <text>jarvisResponse</text>
       </register>
       <register name="/" type="4">
         <text>lint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGF0YUFwaVJlc3BvbnNlIDogRmx1eDxNdXRhYmxlTGlzdDxEYXRhQXBpUmVzcG9uc2U+PiA9IERhdGFBUElSZXNwb25zZU1hcHBlcigpLm1hcERhdGFBUElSZXNwb25zZShpbnRlZ3JhdGlvblNlcnZpY2UuZmV0Y2hGcm9tRGF0YUFQSShwZXJmSWRzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJlc3VsdCA9IGphcnZpc1Jlc3BvbnNlLm1lcmdlV2l0aCB7IGRhdGFBcGlSZXNwb25zZSB9ICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoQ29uc3VtZXI8QW55PiB7IHByaW50KGl0KSB9KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIH0K</text>
+        <text encoding="base64">ICAgICAgICApIHsgZGF0YSwgamFydmlzIC0+ICItWyRkYXRhJGphcnZpc10tIiB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIG8uY29tcGFyZVRvKHNvcnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gIHB1YmxpYyBpbnQgY29tcGFyZVRvKEBOb3ROdWxsIEludGVnZXIgbykgewo=</text>
+        <text encoding="base64">Ly8gIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIG8uY29tcGFyZVRvKHNvcnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIHB1YmxpYyBpbnQgY29tcGFyZVRvKEBOb3ROdWxsIEludGVnZXIgbykgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIEBPdmVycmlkZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgIFN0cmluZyBhbGxQYXJ0cyA9ICJiYXNpYyxhZGRyZXNzLHBob25lLG9wdGlvbnMsc3VydmV5cyxzdWJzIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
