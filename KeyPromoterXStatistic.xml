@@ -246,7 +246,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>672</Count>
+          <Count>673</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -262,7 +262,7 @@
           <IdeaActionID>UsageView.Exclude</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Exclude</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Full Screen">
