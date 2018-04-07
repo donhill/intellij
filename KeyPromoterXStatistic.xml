@@ -718,7 +718,7 @@
           <IdeaActionID>RunInspection</IdeaActionID>
           <ShortCut>'⌥⇧⌘I'</ShortCut>
           <Description>Run Inspection by Name...</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
