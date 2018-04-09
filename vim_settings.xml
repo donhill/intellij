@@ -636,12 +636,12 @@
         <mark key="^" line="560" column="13" />
         <mark key="." line="560" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" timestamp="1523305936469">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" timestamp="1523308913663">
         <mark key="'" line="63" column="93" />
-        <mark key="[" line="82" column="81" />
-        <mark key="]" line="113" column="11" />
-        <mark key="^" line="113" column="11" />
-        <mark key="." line="113" column="11" />
+        <mark key="[" line="83" column="87" />
+        <mark key="]" line="83" column="87" />
+        <mark key="^" line="83" column="86" />
+        <mark key="." line="83" column="87" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/pom.xml" timestamp="1515005224844">
         <mark key="[" line="10" column="17" />
@@ -1120,11 +1120,11 @@
       <jump line="206" column="30" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gIEBKc29uVmlldyhDdXN0b21lclZpZXcuU3VtbWFyeS5jbGFzcykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bmV3IFNlcnZpY2VSZXN1bHQ8Pigp</text>
       </register>
       <register name="-" type="4">
-        <text>CustomerView</text>
+        <text encoding="base64">bmV3IFNlcnZpY2VSZXN1bHQ8Pigp</text>
       </register>
       <register name="/" type="4">
         <text>\/options</text>
