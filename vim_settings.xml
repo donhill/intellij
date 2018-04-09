@@ -229,6 +229,7 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/filter/CustomerPropertyFilter.java" timestamp="1523286378021" />
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/CustomerServiceImplTests.java" timestamp="1520630401549">
         <mark key="[" line="467" column="46" />
         <mark key="]" line="244" column="88" />
@@ -596,13 +597,6 @@
         <mark key="]" line="7" column="20" />
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/exception/SubscriptionServiceExceptionTest.java" timestamp="1523208849552">
-        <mark key="'" line="40" column="116" />
-        <mark key="[" line="40" column="101" />
-        <mark key="]" line="40" column="116" />
-        <mark key="." line="40" column="116" />
-        <mark key="^" line="40" column="116" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/domain/paymentech/NewOrderResultTest.java" timestamp="1523281270849">
         <mark key="[" line="10" column="16" />
