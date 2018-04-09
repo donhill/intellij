@@ -70,6 +70,9 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/RestServiceTestConfig.java" timestamp="1523292154438">
+        <mark key="[" line="30" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-foundations-v2-parent/pom.xml" timestamp="1520367553187">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="18" />
@@ -664,7 +667,7 @@
         <mark key="." line="320" column="58" />
         <mark key="^" line="320" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523290082987">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523291436517">
         <mark key="[" line="95" column="93" />
         <mark key="]" line="96" column="46" />
         <mark key="." line="96" column="46" />
@@ -753,7 +756,12 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" timestamp="1523290143098" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" timestamp="1523292216975">
+        <mark key="[" line="81" column="4" />
+        <mark key="]" line="74" column="30" />
+        <mark key="^" line="74" column="30" />
+        <mark key="." line="74" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionServiceController.java" timestamp="1521131468029">
         <mark key="[" line="363" column="0" />
         <mark key="]" line="366" column="9" />
@@ -972,7 +980,7 @@
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/uim/UserObject.java" timestamp="1523039016059">
         <mark key="[" line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/validation/ValidationBean.java" timestamp="1523282591410">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/validation/ValidationBean.java" timestamp="1523291522445">
         <mark key="[" line="69" column="67" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -1093,7 +1101,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLmN1c3RvbWVyLmZpcnN0TmFtZSIpLnZhbHVlKCJNaWNoYWVsIikpCg==</text>
       </register>
       <register name="-" type="4">
         <text>ect</text>
@@ -1102,7 +1110,7 @@
         <text>lint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLmN1c3RvbWVyLmZpcnN0TmFtZSIpLnZhbHVlKCJNaWNoYWVsIikpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
