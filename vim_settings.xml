@@ -685,7 +685,7 @@
         <mark key="." line="320" column="58" />
         <mark key="^" line="320" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523306247975">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523307828264">
         <mark key="'" line="206" column="30" />
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -1127,7 +1127,7 @@
         <text>CustomerView</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">UmVzcG9uc2VFbnRpdHlcXDxDdXN0b21lcg==</text>
+        <text>\/options</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFZhbGlkYXRpb25SZXN1bHQgdmFsaWRhdGlvblJlc3VsdCA9IG5ldyBWYWxpZGF0aW9uUmVzdWx0KCk7Cg==</text>
@@ -1167,9 +1167,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">UmVzcG9uc2VFbnRpdHlcXDxDdXN0b21lcg==</last-search>
+      <last-search>\/options</last-search>
       <last-offset />
-      <last-pattern encoding="base64">UmVzcG9uc2VFbnRpdHlcXDxDdXN0b21lcg==</last-pattern>
+      <last-pattern>\/options</last-pattern>
       <last-replace />
       <last-substitute>lint</last-substitute>
       <last-dir>1</last-dir>
@@ -1177,7 +1177,6 @@
     </search>
     <history>
       <history-search>
-        <entry>==</entry>
         <entry encoding="base64">PDw=</entry>
         <entry>java.version</entry>
         <entry>jdk</entry>
@@ -1197,6 +1196,7 @@
         <entry encoding="base64">UmVzcG9uc2VFbnRpdHk8Q3VzdG9tZXI=</entry>
         <entry encoding="base64">UmVzcG9uc2VFbnRpdHlcPEN1c3RvbWVy</entry>
         <entry encoding="base64">UmVzcG9uc2VFbnRpdHlcXDxDdXN0b21lcg==</entry>
+        <entry>\/options</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
