@@ -661,12 +661,12 @@
         <mark key="." line="320" column="58" />
         <mark key="^" line="320" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523396814541">
-        <mark key="'" line="326" column="70" />
-        <mark key="[" line="212" column="97" />
-        <mark key="]" line="223" column="53" />
-        <mark key="." line="223" column="53" />
-        <mark key="^" line="223" column="53" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523452389197">
+        <mark key="'" line="207" column="30" />
+        <mark key="[" line="366" column="80" />
+        <mark key="]" line="366" column="78" />
+        <mark key="." line="366" column="78" />
+        <mark key="^" line="366" column="78" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/domain/CustomerEntityTest.java" timestamp="1523113703682">
         <mark key="[" line="10" column="16" />
@@ -1081,9 +1081,9 @@
       <jump line="640" column="56" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" />
       <jump line="212" column="94" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
       <jump line="223" column="53" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
-      <jump line="207" column="30" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
       <jump line="326" column="70" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
       <jump line="70" column="83" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" />
+      <jump line="207" column="30" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1093,7 +1093,7 @@
         <text>createSubscription</text>
       </register>
       <register name="/" type="4">
-        <text>POST</text>
+        <text>promotions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLmN1c3RvbWVyLnN1Y2Nlc3NmdWwiKS52YWx1ZSh0cnVlKSkK</text>
@@ -1133,9 +1133,9 @@
       </register>
     </registers>
     <search>
-      <last-search>POST</last-search>
+      <last-search>promotions</last-search>
       <last-offset />
-      <last-pattern>POST</last-pattern>
+      <last-pattern>promotions</last-pattern>
       <last-replace />
       <last-substitute>lint</last-substitute>
       <last-dir>1</last-dir>
@@ -1143,7 +1143,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jdk</entry>
         <entry>app</entry>
         <entry>WebCli</entry>
         <entry>getMarketBarometerDataTransformsBarometerDataFromTheBffService</entry>
@@ -1163,6 +1162,7 @@
         <entry>GET</entry>
         <entry>subscriptions</entry>
         <entry>POST</entry>
+        <entry>promotions</entry>
       </history-search>
       <history-cmd>
         <entry>351</entry>
