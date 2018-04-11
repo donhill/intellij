@@ -661,9 +661,9 @@
         <mark key="." line="320" column="58" />
         <mark key="^" line="320" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523472251629">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523478003829">
         <mark key="'" line="210" column="30" />
-        <mark key="[" line="55" column="0" />
+        <mark key="[" line="141" column="59" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="0" />
@@ -960,6 +960,9 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/GlobalControllerExceptionHandler.java" timestamp="1523477349366">
+        <mark key="[" line="57" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ExceptionProcessor.java" timestamp="1515172199992">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="18" column="0" />
@@ -1130,7 +1133,7 @@
         <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>150</text>
       </register>
     </registers>
     <search>
@@ -1166,7 +1169,6 @@
         <entry>promotions</entry>
       </history-search>
       <history-cmd>
-        <entry>351</entry>
         <entry>179</entry>
         <entry>228</entry>
         <entry>181</entry>
@@ -1186,6 +1188,7 @@
         <entry>190</entry>
         <entry>145</entry>
         <entry>w</entry>
+        <entry>150</entry>
       </history-cmd>
       <history-expr />
       <history-input />
