@@ -495,7 +495,6 @@
         <mark key="^" line="47" column="3" />
         <mark key="." line="47" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/validation/ValidationResult.java" timestamp="1523401131499" />
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/domain/DivisionTest.java" timestamp="1523113732964">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="3" />
@@ -701,8 +700,8 @@
         <mark key="." line="320" column="58" />
         <mark key="^" line="320" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523492530191">
-        <mark key="'" line="219" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523554629394">
+        <mark key="'" line="335" column="70" />
         <mark key="[" line="87" column="54" />
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
@@ -869,7 +868,6 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE.jar!/org/springframework/http/MediaType.class" timestamp="1523492199506" />
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/domain/omaha/SurveyOmahaTest.java" timestamp="1523201987986">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="28" />
@@ -1008,7 +1006,6 @@
         <mark key="^" line="40" column="67" />
         <mark key="." line="225" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/config/SubscriptionServiceMVCConfig.java" timestamp="1523479564256" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-ffrd-summary-parent/service-ffrd-summary/pom.xml" timestamp="1520949645457">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="20" />
@@ -1046,8 +1043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="10" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" />
-      <jump line="86" column="40" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" />
       <jump line="278" column="21" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" />
       <jump line="0" column="2" filename="/Dummy.txt" />
       <jump line="199" column="53" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/pom.xml" />
@@ -1146,6 +1141,8 @@
       <jump line="113" column="55" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" />
       <jump line="68" column="34" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" />
       <jump line="64" column="93" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" />
+      <jump line="220" column="4" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
+      <jump line="335" column="70" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1155,7 +1152,7 @@
         <text>createSubscription</text>
       </register>
       <register name="/" type="4">
-        <text>POST</text>
+        <text>NOT_ALLOW</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLmN1c3RvbWVyLnN1Y2Nlc3NmdWwiKS52YWx1ZSh0cnVlKSkK</text>
@@ -1191,13 +1188,13 @@
         <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>150</text>
+        <text>221</text>
       </register>
     </registers>
     <search>
-      <last-search>POST</last-search>
+      <last-search>NOT_ALLOW</last-search>
       <last-offset />
-      <last-pattern>POST</last-pattern>
+      <last-pattern>NOT_ALLOW</last-pattern>
       <last-replace />
       <last-substitute>lint</last-substitute>
       <last-dir>1</last-dir>
@@ -1205,7 +1202,6 @@
     </search>
     <history>
       <history-search>
-        <entry>app</entry>
         <entry>WebCli</entry>
         <entry>getMarketBarometerDataTransformsBarometerDataFromTheBffService</entry>
         <entry>Ignore</entry>
@@ -1225,9 +1221,9 @@
         <entry>subscriptions</entry>
         <entry>promotions</entry>
         <entry>POST</entry>
+        <entry>NOT_ALLOW</entry>
       </history-search>
       <history-cmd>
-        <entry>179</entry>
         <entry>228</entry>
         <entry>181</entry>
         <entry>94</entry>
@@ -1247,6 +1243,7 @@
         <entry>145</entry>
         <entry>w</entry>
         <entry>150</entry>
+        <entry>221</entry>
       </history-cmd>
       <history-expr />
       <history-input />
