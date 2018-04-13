@@ -898,6 +898,7 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
+      <file name="/ValidationBean.java" timestamp="1523583528096" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-editorial-parent/service-editorial/src/main/java/com/morningstar/editorial/headline/databuilder/impl/BuilderHelper.java" timestamp="1520958121103">
         <mark key="[" line="171" column="15" />
         <mark key="]" line="171" column="15" />
@@ -986,8 +987,8 @@
         <mark key="^" line="17" column="29" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/validation/ValidationBean.java" timestamp="1523400839733">
-        <mark key="[" line="69" column="67" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/validation/ValidationBean.java" timestamp="1523584096231">
+        <mark key="[" line="66" column="83" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
