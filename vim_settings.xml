@@ -330,7 +330,7 @@
         <mark key="^" line="84" column="117" />
         <mark key="." line="84" column="117" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Subscription.java" timestamp="1523482785142">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Subscription.java" timestamp="1523579891170">
         <mark key="[" line="427" column="54" />
         <mark key="]" line="427" column="31" />
         <mark key="." line="427" column="31" />
@@ -420,7 +420,7 @@
         <mark key="." line="420" column="17" />
         <mark key="^" line="420" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/dao/impl/SubscriptionDAOImpl.java" timestamp="1523479616478">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/dao/impl/SubscriptionDAOImpl.java" timestamp="1523580213550">
         <mark key="[" line="137" column="40" />
         <mark key="]" line="139" column="52" />
         <mark key="." line="139" column="52" />
@@ -667,8 +667,8 @@
         <mark key="." line="320" column="58" />
         <mark key="^" line="320" column="58" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523578227668">
-        <mark key="'" line="336" column="70" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523580574704">
+        <mark key="'" line="376" column="29" />
         <mark key="[" line="228" column="98" />
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
@@ -1005,8 +1005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="2" filename="/Dummy.txt" />
-      <jump line="199" column="53" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/pom.xml" />
       <jump line="364" column="20" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/pom.xml" />
       <jump line="717" column="53" filename="$USER_HOME$/projects/morningstar/oswald/pom.xml" />
       <jump line="360" column="21" filename="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/pom.xml" />
@@ -1074,7 +1072,6 @@
       <jump line="142" column="19" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
       <jump line="114" column="10" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" />
       <jump line="63" column="93" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" />
-      <jump line="376" column="59" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
       <jump line="122" column="9" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/JsonViewBuilderTest.java" />
       <jump line="94" column="86" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
       <jump line="324" column="70" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
@@ -1105,6 +1102,9 @@
       <jump line="220" column="4" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
       <jump line="335" column="70" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
       <jump line="131" column="49" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" />
+      <jump line="228" column="83" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
+      <jump line="336" column="49" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
+      <jump line="376" column="29" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1114,7 +1114,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>NOT_ALLOW</text>
+        <text>PATCH</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLm1lc3NhZ2VzWzBdLmNvZGUiKS52YWx1ZShSZXNwb25zZUNvZGUuTUVUSE9EX05PVF9BTExPV0VELmdldENvZGUoKSkpCg==</text>
@@ -1154,9 +1154,9 @@
       </register>
     </registers>
     <search>
-      <last-search>NOT_ALLOW</last-search>
+      <last-search>PATCH</last-search>
       <last-offset />
-      <last-pattern>NOT_ALLOW</last-pattern>
+      <last-pattern>PATCH</last-pattern>
       <last-replace />
       <last-substitute>lint</last-substitute>
       <last-dir>1</last-dir>
@@ -1172,7 +1172,6 @@
         <entry>class</entry>
         <entry>lint</entry>
         <entry>DELETE</entry>
-        <entry>PATCH</entry>
         <entry>payment</entry>
         <entry encoding="base64">UmVzcG9uc2VFbnRpdHk8Q3VzdG9tZXI=</entry>
         <entry encoding="base64">UmVzcG9uc2VFbnRpdHlcPEN1c3RvbWVy</entry>
@@ -1184,6 +1183,7 @@
         <entry>promotions</entry>
         <entry>POST</entry>
         <entry>NOT_ALLOW</entry>
+        <entry>PATCH</entry>
       </history-search>
       <history-cmd>
         <entry>228</entry>
