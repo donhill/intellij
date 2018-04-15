@@ -615,9 +615,9 @@
         <mark key="^" line="560" column="13" />
         <mark key="." line="560" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" timestamp="1523809893892">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" timestamp="1523818494329">
         <mark key="'" line="64" column="93" />
-        <mark key="[" line="91" column="53" />
+        <mark key="[" line="76" column="36" />
         <mark key="^" line="85" column="6" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/pom.xml" timestamp="1515005224844">
@@ -751,12 +751,12 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" timestamp="1523586779415">
-        <mark key="'" line="131" column="49" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-        <mark key="^" line="131" column="57" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/SubscriptionsControllerTest.java" timestamp="1523818924388">
+        <mark key="'" line="133" column="49" />
+        <mark key="[" line="178" column="83" />
+        <mark key="]" line="174" column="70" />
+        <mark key="." line="174" column="70" />
+        <mark key="^" line="174" column="70" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionServiceController.java" timestamp="1521131468029">
         <mark key="[" line="363" column="0" />
@@ -1102,7 +1102,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyLnNldFNhbHV0YXRpb24oInRvb2xvbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLmN1c3RvbWVyLnN1YnNjcmlwdGlvbnNbMF0udG90YWxBbW91bnQiKS5leGlzdHMoKSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -1111,7 +1111,7 @@
         <text>PATCH</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGhlYWRlcigpLnN0cmluZygiYWxsb3ciLCAiR0VULFBVVCxQQVRDSCIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLmN1c3RvbWVyLnN1YnNjcmlwdGlvbnNbMF0udG90YWxBbW91bnQiKS5leGlzdHMoKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGN1c3RvbWVyLnNldFNhbHV0YXRpb24oInRvb2xvbmciKTsK</text>
