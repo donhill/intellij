@@ -41,6 +41,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare With...">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Compare With...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare with Branch...">
         <Item>
           <IdeaActionID>Git.CompareWithBranch</IdeaActionID>
@@ -254,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>749</Count>
+          <Count>751</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -302,7 +310,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -774,7 +782,7 @@
           <IdeaActionID>RunInspection</IdeaActionID>
           <ShortCut>'⌥⇧⌘I'</ShortCut>
           <Description>Run Inspection by Name...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -1046,7 +1054,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
