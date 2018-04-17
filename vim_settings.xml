@@ -139,6 +139,7 @@
         <mark key="." line="64" column="35" />
         <mark key="^" line="64" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-usertracking-parent/service-usertracking-content/src/content/jcr_root/apps/morningstar-services/osgiConfig/config.author.qa/mstar.ret.Usertracking.config" timestamp="1523987535597" />
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/domain/uim/UserObjectTest.java" timestamp="1523281373831">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="3" />
@@ -243,7 +244,7 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-parent/ux-web-design/src/content/jcr_root/apps/morningstar/osgiConfig/config.publish.prod/com.morningstar.database.datasource.impl.JdbcEncryptedPoolService-sqlserver.usertracking.morningstar.com.UserTrackingData.xml" timestamp="1523910825826" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-parent/ux-web-design/src/content/jcr_root/apps/morningstar/osgiConfig/config.publish.prod/com.morningstar.database.datasource.impl.JdbcEncryptedPoolService-sqlserver.usertracking.morningstar.com.UserTrackingData.xml" timestamp="1523987623170" />
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/domain/omaha/TransactionHistoryOmahaTest.java" timestamp="1523202027677">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="8" column="1" />
@@ -385,7 +386,7 @@
         <mark key="." line="6" column="59" />
         <mark key="^" line="6" column="59" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/morningstar/iip/dc/foundations-base/4.13.0-SNAPSHOT/foundations-base-4.13.0-20180416.170129-103.jar!/com/morningstar/database/datasource/DataSourceName.class" timestamp="1523910770685" />
+      <file name="$MAVEN_REPOSITORY$/com/morningstar/iip/dc/foundations-base/4.13.0-SNAPSHOT/foundations-base-4.13.0-20180416.170129-103.jar!/com/morningstar/database/datasource/DataSourceName.class" timestamp="1523987604091" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1516402363464">
         <mark key="[" line="199" column="94" />
         <mark key="]" line="199" column="94" />
@@ -482,6 +483,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-usertracking-parent/service-usertracking/src/main/java/com/morningstar/usertracking/config/impl/UserTrackingConfigurationImpl.java" timestamp="1523987507758" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/RequestFilter.java" timestamp="1515600671881">
         <mark key="[" line="44" column="24" />
         <mark key="]" line="44" column="25" />
