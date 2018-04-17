@@ -109,6 +109,12 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/domain/mapper/SubscriptionMapperTest.java" timestamp="1523996292215">
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="3" />
+        <mark key="." line="53" column="3" />
+        <mark key="^" line="53" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
         <mark key="]" line="28" column="39" />
@@ -158,8 +164,11 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Subscription.java" timestamp="1523902212467">
-        <mark key="[" line="423" column="6" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Subscription.java" timestamp="1523996217294">
+        <mark key="[" line="150" column="33" />
+        <mark key="]" line="150" column="69" />
+        <mark key="^" line="149" column="29" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/port-dashboard/src/main/kotlin/com/morningstar/ii/impl/IntegrationService.kt" timestamp="1522775648397">
         <mark key="[" line="36" column="46" />
@@ -566,6 +575,12 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/mapper/SubscriptionMapper.java" timestamp="1523996778554">
+        <mark key="[" line="22" column="53" />
+        <mark key="]" line="22" column="55" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-ffrd-summary-parent/service-ffrd-summary/src/main/java/com/morningstar/ffrdsummary/impl/FFRDSummaryServiceImpl.java" timestamp="1520959208066">
         <mark key="[" line="200" column="14" />
         <mark key="]" line="200" column="28" />
@@ -702,7 +717,7 @@
         <mark key="." line="420" column="17" />
         <mark key="^" line="420" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/dao/impl/SubscriptionDAOImpl.java" timestamp="1523580213550">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/dao/impl/SubscriptionDAOImpl.java" timestamp="1523995164253">
         <mark key="[" line="137" column="40" />
         <mark key="]" line="139" column="52" />
         <mark key="." line="139" column="52" />
@@ -1115,7 +1130,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHRoaXMuc3Vic2NyaXB0aW9uRW5kRGF0ZVRpbWUgPSBzdWJzY3JpcHRpb25PbWFoYS5nZXRTdWJFbmREYXRlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>SubscriptionServiceException</text>
@@ -1124,7 +1139,7 @@
         <text>POST</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuYW5kRXhwZWN0KGpzb25QYXRoKCIkLmN1c3RvbWVyLnN1YnNjcmlwdGlvbnNbMF0udG90YWxBbW91bnQiKS5leGlzdHMoKSkK</text>
+        <text encoding="base64">ICAgIHRoaXMuc3Vic2NyaXB0aW9uRW5kRGF0ZVRpbWUgPSBzdWJzY3JpcHRpb25PbWFoYS5nZXRTdWJFbmREYXRlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
