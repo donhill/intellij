@@ -19,6 +19,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/pom.xml" timestamp="1524087790105" />
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Address.java" timestamp="1523381262197">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -51,13 +52,6 @@
         <mark key="[" line="330" column="0" />
         <mark key="]" line="330" column="0" />
         <mark key="." line="330" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImplTest.java" timestamp="1523901801849">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="281" column="19" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/pom.xml" timestamp="1523909879679">
         <mark key="[" line="74" column="21" />
@@ -135,13 +129,6 @@
         <mark key="[" line="87" column="46" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1523586828786">
-        <mark key="'" line="379" column="29" />
-        <mark key="[" line="225" column="38" />
-        <mark key="]" line="229" column="24" />
-        <mark key="." line="229" column="24" />
-        <mark key="^" line="229" column="24" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/GlobalControllerExceptionHandler.java" timestamp="1523900304110">
         <mark key="[" line="107" column="24" />
