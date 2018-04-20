@@ -58,8 +58,8 @@
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/MainPresenterImpl.kt" timestamp="1522878147930">
         <mark key="[" line="89" column="48" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/GetPromotionsServiceImpl.java" timestamp="1518029444717">
         <mark key="[" line="86" column="78" />
@@ -106,11 +106,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="125" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1522854417115">
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1524234013469">
         <mark key="'" line="6" column="32" />
-        <mark key="[" line="73" column="26" />
-        <mark key="]" line="67" column="25" />
-        <mark key="." line="67" column="25" />
+        <mark key="[" line="151" column="57" />
+        <mark key="]" line="152" column="57" />
+        <mark key="." line="152" column="0" />
         <mark key="^" line="67" column="25" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/fastlane/Appfile" timestamp="1520704275755">
@@ -178,11 +178,11 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-adobe-marketing-cloud-parent/service-adobe-marketing-cloud/src/main/java/com/morningstar/marketingcloud/GatewayUtils.java" timestamp="1517506381364">
         <mark key="[" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1521666609069">
-        <mark key="[" line="460" column="0" />
-        <mark key="]" line="454" column="28" />
-        <mark key="." line="454" column="28" />
-        <mark key="^" line="454" column="28" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1524233894341">
+        <mark key="[" line="47" column="45" />
+        <mark key="]" line="49" column="7" />
+        <mark key="." line="49" column="7" />
+        <mark key="^" line="49" column="7" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/PostSubscriptionsServiceImpl.java" timestamp="1518047919212">
         <mark key="[" line="84" column="72" />
@@ -386,7 +386,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYSA9IGxpc3RPCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ueWF5YW5kcm9pZDpMb2NhdGlvbk1hbmFnZXI6MS4xLjUnCg==</text>
       </register>
       <register name="-" type="4">
         <text>Boolean</text>
@@ -395,7 +395,7 @@
         <text>key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgQkFTRV9VUkwgPSAiaHR0cHM6Ly9hcGktdGVzdC5yZXNxdWUudXMvYXBpL3YxLyIK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20ueWF5YW5kcm9pZDpMb2NhdGlvbk1hbmFnZXI6MS4xLjUnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgYSA9IGxpc3RPCg==</text>
