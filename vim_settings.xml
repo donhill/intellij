@@ -6,6 +6,11 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-v2-parent/ux-web-v2-design/src/content/jcr_root/etc/designs/morningstar/v2/js/msiip/Data/UserTracking/UserTracking.js" timestamp="1524066014672" />
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/PaymentServiceImpl.java" timestamp="1524245328314" />
       <file name="/Subscription.java" timestamp="1524250414478" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/dao/impl/CustomerDAOImpl.java" timestamp="1524082453858">
+        <mark key="[" line="80" column="43" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="/fragment.kt" timestamp="1524249433778">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,11 +31,10 @@
         <mark key="." line="230" column="24" />
         <mark key="^" line="230" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/domain/mapper/SubscriptionMapperTest.java" timestamp="1524082105759">
-        <mark key="[" line="20" column="53" />
-        <mark key="]" line="71" column="32" />
-        <mark key="." line="71" column="32" />
-        <mark key="^" line="71" column="32" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/domain/mapper/SubscriptionMapperTest.java" timestamp="1524253903714">
+        <mark key="[" line="63" column="17" />
+        <mark key="]" line="63" column="17" />
+        <mark key="." line="63" column="17" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/pom.xml" timestamp="1524087790105" />
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/filter/CaseInsensitiveRequestFilter.java" timestamp="1524240003752" />
@@ -58,7 +62,7 @@
       <file name="/Dummy.txt" timestamp="1524239811650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Subscription.java" timestamp="1524250466423">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Subscription.java" timestamp="1524253878595">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
@@ -184,11 +188,11 @@
       <jump line="157" column="5" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdWJzY3JpcHRpb25TdGFydERhdGU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>futureTimeStamp</text>
       </register>
       <register name="-" type="4">
-        <text>START_DATE</text>
+        <text>futureTimeStamp</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
@@ -197,34 +201,34 @@
         <text encoding="base64">ICAgICAgICAgIC5hZGQoU1VCX1NUQVJUX0RBVEUsIFN0cmluZy52YWx1ZU9mKHN1YnNPbWFoYS5nZXRTdWJTdGFydERhdGUoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdWJzY3JpcHRpb25TdGFydERhdGU7Cg==</text>
+        <text encoding="base64">ICAgIHN1YnNjcmlwdGlvblN0YXJ0RGF0ZSA9IHN1YnNjcmlwdGlvblN0YXJ0LmdldFRpbWUoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHN1YnNjcmlwdGlvblN0YXJ0RGF0ZSA9IHN1YnNjcmlwdGlvblN0YXJ0LmdldFRpbWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHN1YnNjcmlwdGlvblN0YXJ0LnNldFRpbWVJbk1pbGxpcyhzdWJzY3JpcHRpb25TdGFydERhdGVUaW1lLmdldFRpbWUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhmdXR1cmVUaW1lU3RhbXAsIHN1YnNjcmlwdGlvbi5nZXRTdWJzY3JpcHRpb25TdGFydERhdGUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdWJzY3JpcHRpb25TdGFydERhdGU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>221</text>
