@@ -106,9 +106,9 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="125" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1524263424320">
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1524321695305">
         <mark key="'" line="6" column="32" />
-        <mark key="[" line="35" column="24" />
+        <mark key="[" line="6" column="32" />
         <mark key="]" line="35" column="28" />
         <mark key="." line="35" column="28" />
         <mark key="^" line="35" column="28" />
@@ -175,7 +175,6 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1524320537680" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/log4j2.xml" timestamp="1515603598319">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="24" />
