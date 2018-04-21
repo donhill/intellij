@@ -175,6 +175,7 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1524320537680" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/log4j2.xml" timestamp="1515603598319">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="24" />
@@ -257,7 +258,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524265517799">
+      <file name="/Dummy.txt" timestamp="1524320278511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -269,10 +270,10 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1520440767528">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1524320670178">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/register_phone_fragment.xml" timestamp="1520383270778">
         <mark key="[" line="38" column="40" />
@@ -392,7 +393,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5jb25maWd1cmF0aW9uLkxvY2F0aW9uQ29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBTbmFja2Jhci5tYWtlKG1haW5WaWV3LCAiT25SZXN1bWUiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpCg==</text>
       </register>
       <register name="-" type="4">
         <text>GP_SERVICES_CONNECTION_FAIL</text>
@@ -404,31 +405,31 @@
         <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLmRyYXdlcl9sYXlvdXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5jb25maWd1cmF0aW9uLkxvY2F0aW9uQ29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBTbmFja2Jhci5tYWtlKG1haW5WaWV3LCAiT25SZXN1bWUiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5iYXNlLkxvY2F0aW9uQmFzZUFjdGl2aXR5Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5nZW1sb2dpYy50b3dhcHAuUi5pZC5mYWIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9zY3JvbGxpbmcuKgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5jb25zdGFudHMuUHJvdmlkZXJUeXBlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5jb25zdGFudHMuRmFpbFR5cGUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5iYXNlLkxvY2F0aW9uQmFzZUFjdGl2aXR5Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5jb25maWd1cmF0aW9uLkxvY2F0aW9uQ29uZmlndXJhdGlvbgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5iYXNlLkxvY2F0aW9uQmFzZUFjdGl2aXR5Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG5ldC5nZW1sb2dpYy50b3dhcHAuUi5pZC5mYWIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5hY3Rpdml0eV9zY3JvbGxpbmcuKgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5jb25zdGFudHMuUHJvdmlkZXJUeXBlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5jb25zdGFudHMuRmFpbFR5cGUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5iYXNlLkxvY2F0aW9uQmFzZUFjdGl2aXR5Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5Mb2NhdGlvbkNvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55YXlhbmRyb2lkLmxvY2F0aW9ubWFuYWdlci5jb25maWd1cmF0aW9uLkxvY2F0aW9uQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
