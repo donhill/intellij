@@ -122,6 +122,9 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
+      <file name="/fragment.kt" timestamp="1524322419513">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/userservice/impl/PatchSubscriptionServiceImplTest.java" timestamp="1518047989745">
         <mark key="[" line="71" column="45" />
       </file>
@@ -174,6 +177,9 @@
         <mark key="]" line="20" column="21" />
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1524322961695">
+        <mark key="[" line="342" column="53" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/log4j2.xml" timestamp="1515603598319">
         <mark key="[" line="18" column="24" />
@@ -240,6 +246,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.theartofdev.edmodo/android-image-cropper/2.2.5/f3335926ce469aff5efb7d197faae10020b2db9a/android-image-cropper-2.2.5-sources.jar!/com/theartofdev/edmodo/cropper/CropImage.java" timestamp="1524322983188" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchController.java" timestamp="1516921803423">
         <mark key="[" line="64" column="56" />
         <mark key="]" line="64" column="35" />
@@ -269,10 +276,11 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1524320670178">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1524322856558">
+        <mark key="[" line="150" column="45" />
+        <mark key="]" line="150" column="45" />
+        <mark key="." line="150" column="45" />
+        <mark key="^" line="150" column="45" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/register_phone_fragment.xml" timestamp="1520383270778">
         <mark key="[" line="38" column="40" />
@@ -391,11 +399,11 @@
       <jump line="6" column="32" filename="$USER_HOME$/projects/android/tow-user/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTbmFja2Jhci5tYWtlKG1haW5WaWV3LCAiT25SZXN1bWUiLCBTbmFja2Jhci5MRU5HVEhfTE9ORykuc2hvdygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>RegistrationFragment</text>
       </register>
       <register name="-" type="4">
-        <text>GP_SERVICES_CONNECTION_FAIL</text>
+        <text>RegistrationFragment</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
@@ -478,6 +486,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
