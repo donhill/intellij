@@ -190,10 +190,10 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1524522639660">
-        <mark key="[" line="327" column="0" />
-        <mark key="]" line="327" column="0" />
-        <mark key="." line="327" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1524523986397">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/log4j2.xml" timestamp="1515603598319">
         <mark key="[" line="18" column="24" />
@@ -417,7 +417,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdG9yLigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>validate</text>
@@ -429,31 +429,31 @@
         <text encoding="base64">ICAgICAgICBzZXJ2aWNlTmFtZSA9PSAiRmxhdCBUaXJlIiAtPiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdG9yLigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdG9yLnZhbGlkYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdG9yLigpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdG9yLnZhbGlkYXRlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdG9yLnZhbGlkYXRlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodmFsaWRhdG9yLnZhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnRuX3NhdmVfcHJvZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodmFsaWRhdG9yLnZhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkFjdGl2aXR5UmVzdWx0KHJlcXVlc3RDb2RlLCByZXN1bHRDb2RlLCBkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnRuX3NhdmVfcHJvZmlsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnN0YXJ0KGNvbnRleHQhISwgdGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkFjdGl2aXR5UmVzdWx0KHJlcXVlc3RDb2RlLCByZXN1bHRDb2RlLCBkYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBDcm9wSW1hZ2UuYWN0aXZpdHkoKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnN0YXJ0KGNvbnRleHQhISwgdGhpcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
