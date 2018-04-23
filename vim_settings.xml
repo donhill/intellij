@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/subscription/service/UserSurveyServiceImplTest.java" timestamp="1518048111843">
@@ -113,12 +113,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="125" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1524325240514">
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1524502908774">
         <mark key="'" line="6" column="32" />
-        <mark key="[" line="158" column="68" />
-        <mark key="]" line="34" column="28" />
-        <mark key="." line="34" column="28" />
-        <mark key="^" line="34" column="28" />
+        <mark key="[" line="66" column="26" />
+        <mark key="]" line="66" column="25" />
+        <mark key="." line="66" column="25" />
+        <mark key="^" line="66" column="25" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/fastlane/Appfile" timestamp="1520704275755">
         <mark key="[" line="0" column="15" />
@@ -138,6 +138,11 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/debug/java/net/gemlogic/towapp/ioc/EndPoint.kt" timestamp="1521393559613">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="65" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/rest/ProviderService.kt" timestamp="1524502867511">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="24" />
+        <mark key="." line="33" column="24" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/pom.xml" timestamp="1515005224844">
         <mark key="[" line="10" column="17" />
@@ -409,17 +414,17 @@
       <jump line="2" column="0" filename="$USER_HOME$/projects/android/tow-user/app/proguard-rules.pro" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdG9yLnZhbGlkYXRlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>Flat Tire</text>
       </register>
       <register name="-" type="4">
-        <text>RegistrationFragment</text>
+        <text>Flat Tire</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdG9yLnZhbGlkYXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlTmFtZSA9PSAiRmxhdCBUaXJlIiAtPiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYodmFsaWRhdG9yLnZhbAo=</text>
