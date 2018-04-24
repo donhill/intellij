@@ -131,7 +131,7 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="/fragment.kt" timestamp="1524525122267">
+      <file name="/fragment.kt" timestamp="1524582998900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/userservice/impl/PatchSubscriptionServiceImplTest.java" timestamp="1518047989745">
@@ -195,7 +195,7 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1524582100105">
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1524583275958">
         <mark key="[" line="524" column="61" />
         <mark key="]" line="525" column="26" />
         <mark key="." line="525" column="26" />
@@ -360,6 +360,7 @@
         <mark key="^" line="28" column="35" />
         <mark key="." line="28" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/presenters/ProviderPresenterImpl.kt" timestamp="1524583338633" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebRequest.java" timestamp="1518041167868">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="23" column="0" />
