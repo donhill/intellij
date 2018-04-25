@@ -18,6 +18,9 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/PaymentServiceImpl.java" timestamp="1524673661424">
+        <mark key="[" line="186" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/util/FlagFtUtil.java" timestamp="1524592901871">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -48,10 +51,11 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/domain/PhoneTest.java" timestamp="1524593010044">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/domain/PhoneTest.java" timestamp="1524673258638">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+        <mark key="^" line="30" column="3" />
       </file>
       <file name="/fragment.kt" timestamp="1524249433778">
         <mark key="[" line="0" column="0" />
@@ -188,10 +192,10 @@
         <mark key="^" line="347" column="0" />
         <mark key="." line="347" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Option.java" timestamp="1524587873408">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Option.java" timestamp="1524673122310">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/CustomerServiceImplTests.java" timestamp="1524669768921">
         <mark key="[" line="548" column="69" />
@@ -221,6 +225,9 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/logger/SubscriptionsLogBuilder.java" timestamp="1524673473817">
+        <mark key="[" line="25" column="13" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Message.java" timestamp="1524587792858">
         <mark key="[" line="9" column="0" />
@@ -305,7 +312,7 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1524612423437">
+      <file name="/fragment.java" timestamp="1524673171236">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/JsonViewBuilderTest.java" timestamp="1524595162376">
@@ -419,7 +426,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPEN1c3RvbWVyRW50aXR5PiByZXNwb25zZSA9IHJlc3BvbnNlRW50aXR5LmdldERhdGEoKTsK</text>
+        <text encoding="base64">ICAgIC8vdGhpcyBpcyBuZWVkZWQgZm9yIGJlYW4gaW5zdGFudGlhdGlvbiBieSBzcHJpbmcK</text>
       </register>
       <register name="-" type="4">
         <text>getStatusCode</text>
@@ -431,7 +438,7 @@
         <text encoding="base64">ICAgICAgICAgIC5hZGQoU1VCX1NUQVJUX0RBVEUsIFN0cmluZy52YWx1ZU9mKHN1YnNPbWFoYS5nZXRTdWJTdGFydERhdGUoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPEN1c3RvbWVyRW50aXR5PiByZXNwb25zZSA9IHJlc3BvbnNlRW50aXR5LmdldERhdGEoKTsK</text>
+        <text encoding="base64">ICAgIC8vdGhpcyBpcyBuZWVkZWQgZm9yIGJlYW4gaW5zdGFudGlhdGlvbiBieSBzcHJpbmcK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -440,13 +447,13 @@
         <text encoding="base64">ICAgIE9wdGlvbmFsPEN1c3RvbWVyRW50aXR5PiByZXNwb25zZSA9IHJlc3BvbnNlRW50aXR5LmdldERhdGEoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNlcnZpY2VSZXN1bHQgcmVzcG9uc2UgPSAoU2VydmljZVJlc3VsdCkgcmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpOwo=</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPEN1c3RvbWVyRW50aXR5PiByZXNwb25zZSA9IHJlc3BvbnNlRW50aXR5LmdldERhdGEoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFNlcnZpY2VSZXN1bHQgcmVzcG9uc2UgPSAoU2VydmljZVJlc3VsdCkgcmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNlcnZpY2VSZXN1bHQgcmVzcG9uc2UgPSAoU2VydmljZVJlc3VsdCkgcmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIFNlcnZpY2VSZXN1bHQgcmVzcG9uc2UgPSAoU2VydmljZVJlc3VsdCkgcmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpOwo=</text>
@@ -455,10 +462,10 @@
         <text encoding="base64">ICAgIFNlcnZpY2VSZXN1bHQgcmVzcG9uc2UgPSAoU2VydmljZVJlc3VsdCkgcmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgU2VydmljZVJlc3VsdCByZXNwb25zZSA9IChTZXJ2aWNlUmVzdWx0KSByZXNwb25zZUVudGl0eS5nZXRCb2R5KCk7Cg==</text>
+        <text encoding="base64">ICAgIFNlcnZpY2VSZXN1bHQgcmVzcG9uc2UgPSAoU2VydmljZVJlc3VsdCkgcmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNlcnZpY2VSZXN1bHQgcmVzcG9uc2UgPSAoU2VydmljZVJlc3VsdCkgcmVzcG9uc2VFbnRpdHkuZ2V0Qm9keSgpOwo=</text>
+        <text encoding="base64">ICAgU2VydmljZVJlc3VsdCByZXNwb25zZSA9IChTZXJ2aWNlUmVzdWx0KSByZXNwb25zZUVudGl0eS5nZXRCb2R5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>548</text>
