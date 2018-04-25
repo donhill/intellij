@@ -92,9 +92,9 @@
         <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Customer.java" timestamp="1524677900911">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/ServiceResult.java" timestamp="1524591116635">
         <mark key="[" line="31" column="0" />
@@ -213,10 +213,10 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImpl.java" timestamp="1524612451097">
-        <mark key="'" line="611" column="0" />
-        <mark key="[" line="148" column="26" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+        <mark key="'" line="610" column="0" />
+        <mark key="[" line="147" column="26" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/validation/EnumCheckIntValidator.java" timestamp="1524591752672">
         <mark key="[" line="26" column="0" />
