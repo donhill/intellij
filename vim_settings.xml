@@ -38,12 +38,6 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionBySubscriptionIdServiceImplTest.java" timestamp="1524670439876">
-        <mark key="'" line="647" column="0" />
-        <mark key="[" line="544" column="40" />
-        <mark key="]" line="542" column="0" />
-        <mark key="." line="542" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/controller/RestServiceTestConfig.java" timestamp="1524592963039">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -71,11 +65,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/response/CustomerView.java" timestamp="1524611755959">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/service/impl/SubscriptionServiceImpl.java" timestamp="1524590606266">
         <mark key="'" line="319" column="0" />
@@ -248,7 +237,7 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524239811650">
+      <file name="/Dummy.txt" timestamp="1524671811351">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/domain/Subscription.java" timestamp="1524594392031">
