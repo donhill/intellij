@@ -221,7 +221,6 @@
         <mark key="^" line="128" column="1" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/models/InsuranceProvider.kt" timestamp="1524770248685" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
         <mark key="]" line="28" column="39" />
@@ -244,12 +243,12 @@
         <mark key="." line="29" column="55" />
         <mark key="^" line="29" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/rest/RestService.kt" timestamp="1524698369042">
-        <mark key="'" line="47" column="8" />
-        <mark key="[" line="77" column="9" />
-        <mark key="]" line="95" column="7" />
-        <mark key="^" line="94" column="1" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/rest/RestService.kt" timestamp="1524865051023">
+        <mark key="'" line="41" column="8" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="88" column="1" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/values/strings.xml" timestamp="1524698571367">
         <mark key="[" line="63" column="236" />
@@ -450,28 +449,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgIGZ1biByZWdpc3RyYXRpb24oQEJvZHkgZW50aXR5OiBJbmNpZGVudFJlcXVlc3QpOiBDYWxsPEluY2lkZW50UmVzcG9uc2U+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQT1NUKCJ0cnVjay9pbmNpZGVudCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9wdWxhdGVGaWVsZHMocHJvdmlkZXJJbmZvKQo=</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRUcnVja3MoQFF1ZXJ5KCJ0b2tlbiIpIGFjdGl2YXRpb25Db2RlOiBTdHJpbmcsIEBIZWFkZXIoImRldmljZS1pZCIpIGRldmljZUlkOiBTdHJpbmcsIEBRdWVyeSgibGF0aXR1ZGUiKSBsYXRpdHVkZTogRG91YmxlLCBAUXVlcnkoImxvbmdpdHVkZSIpIGxvbmdpdHVkZTogRG91YmxlLCBAUXVlcnkoInR5cGUiKSB0eXBlOiBTdHJpbmcpOiBDYWxsPExpc3Q8VHJ1Y2s+Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBHRVQoInRydWNrL3RydWNrcyIpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LnNldEltYWdlVVJJKHVyaSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LnNldEltYWdlVVJJKG51bGwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>112</text>
