@@ -26,10 +26,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/fastlane/Fastfile" timestamp="1520781959883">
-        <mark key="]" line="39" column="2" />
-        <mark key="." line="39" column="2" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/portfolio/impl/PortfolioAccessTokenServiceImpl.java" timestamp="1518036062176">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -134,6 +130,12 @@
       <file name="/fragment.kt" timestamp="1524663768119">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/operation-attache-api/src/test/kotlin/com/morningstar/ii/operationattache/news/repository/MyTest.kt" timestamp="1524775217661">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="46" column="31" />
+        <mark key="." line="46" column="31" />
+        <mark key="^" line="46" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/userservice/impl/PatchSubscriptionServiceImplTest.java" timestamp="1518047989745">
         <mark key="[" line="71" column="45" />
       </file>
@@ -141,6 +143,7 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="65" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/operation-attache-api/src/test/kotlin/com/morningstar/ii/operationattache/news/repository/NewsServiceRepositoryTest.kt" timestamp="1524774736450" />
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/OperatorImageUtil.kt" timestamp="1524582272936">
         <mark key="[" line="46" column="160" />
       </file>
@@ -428,43 +431,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZm91ciB0ZXN0IikK</text>
       </register>
       <register name="-" type="4">
-        <text>imageName: String</text>
+        <text>one</text>
       </register>
       <register name="/" type="4">
         <text>tows</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvdmlkZXJQcmVzZW50ZXIucmVzdW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiZm91ciB0ZXN0IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9wdWxhdGVGaWVsZHMocHJvdmlkZXJJbmZvKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJvZHkgPSBGaWxlVXRpbHMucmVhZEZpbGVUb1N0cmluZyhmaWxlLCBTdGFuZGFyZENoYXJzZXRzLlVURl84Lm5hbWUoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGZpbGUgPSBGaWxlKE5ld3NTZXJ2aWNlUmVzcG9uc2VUZXN0OjpjbGFzcy5qYXZhLmNsYXNzTG9hZGVyLmdldFJlc291cmNlKCJOZXdzU2VydmljZVJlc3BvbnNlLnhtbCIpLmZpbGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhRdWVyeVBhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LnNldEltYWdlVVJJKHVyaSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhRdWVyeVBhcmFtKCJ2ZW5kb3IiLCBXaXJlTW9jay5lcXVhbFRvKCJNb3JuaW5nc3RhcixCdXNpbmVzc3dpcmUsR2xvYmVOZXdzd2lyZSxCZW56aW5nYSxNYXJrZXRXYXRjaCIpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3LnNldEltYWdlVVJJKG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhRdWVyeVBhcmFtKCJzdGFydEF0IiwgV2lyZU1vY2suZXF1YWxUbygiMCIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhRdWVyeVBhcmFtKCJtYXhDb3VudCIsIFdpcmVNb2NrLmVxdWFsVG8oIjUwIikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaWNlbnNlSW1hZ2Uuc2V0SW1hZ2VVUkkodXJpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhRdWVyeVBhcmFtKCJkZXNjIiwgV2lyZU1vY2suZXF1YWxUbygiMSIpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhRdWVyeVBhcmFtKCJvcmRlckJ5IiwgV2lyZU1vY2suZXF1YWxUbygicHVibGljYXRpb25UaW1lIikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
