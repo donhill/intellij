@@ -115,12 +115,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="125" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1524502908774">
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1525097852174">
         <mark key="'" line="6" column="32" />
-        <mark key="[" line="66" column="26" />
-        <mark key="]" line="66" column="25" />
-        <mark key="." line="66" column="25" />
-        <mark key="^" line="66" column="25" />
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="72" column="25" />
+        <mark key="." line="72" column="25" />
+        <mark key="^" line="72" column="25" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/fastlane/Appfile" timestamp="1520704275755">
         <mark key="[" line="0" column="15" />
@@ -134,7 +134,7 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="/fragment.kt" timestamp="1524768311625">
+      <file name="/fragment.kt" timestamp="1525097588223">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/userservice/impl/PatchSubscriptionServiceImplTest.java" timestamp="1518047989745">
@@ -200,7 +200,7 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1525096348434">
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1525097589763">
         <mark key="[" line="507" column="34" />
         <mark key="]" line="508" column="17" />
         <mark key="." line="508" column="17" />
@@ -313,6 +313,11 @@
         <mark key="]" line="150" column="71" />
         <mark key="." line="150" column="71" />
         <mark key="^" line="150" column="71" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/fastlane/truck/en-US/changelogs/26.txt" timestamp="1525097890074">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/register_phone_fragment.xml" timestamp="1520383270778">
         <mark key="[" line="38" column="40" />
@@ -440,8 +445,8 @@
       <jump line="46" column="8" filename="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/rest/RestService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Calendar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dGVzdCBmb3IgdXBkYXRlcyBpbiBnb29nbGUgcGxheQo=</text>
       </register>
       <register name="-" type="4">
         <text>Calendar</text>
@@ -453,31 +458,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJvdmlkZXJQcmVzZW50ZXIucmVzdW1lKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdCBmb3IgdXBkYXRlcyBpbiBnb29nbGUgcGxheQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biByZWdpc3RyYXRpb24oQEJvZHkgZW50aXR5OiBJbmNpZGVudFJlcXVlc3QpOiBDYWxsPEluY2lkZW50UmVzcG9uc2U+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBQT1NUKCJ0cnVjay9pbmNpZGVudCIpCg==</text>
+        <text encoding="base64">ICAgIGZ1biByZWdpc3RyYXRpb24oQEJvZHkgZW50aXR5OiBJbmNpZGVudFJlcXVlc3QpOiBDYWxsPEluY2lkZW50UmVzcG9uc2U+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBQT1NUKCJ0cnVjay9pbmNpZGVudCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRUcnVja3MoQFF1ZXJ5KCJ0b2tlbiIpIGFjdGl2YXRpb25Db2RlOiBTdHJpbmcsIEBIZWFkZXIoImRldmljZS1pZCIpIGRldmljZUlkOiBTdHJpbmcsIEBRdWVyeSgibGF0aXR1ZGUiKSBsYXRpdHVkZTogRG91YmxlLCBAUXVlcnkoImxvbmdpdHVkZSIpIGxvbmdpdHVkZTogRG91YmxlLCBAUXVlcnkoInR5cGUiKSB0eXBlOiBTdHJpbmcpOiBDYWxsPExpc3Q8VHJ1Y2s+Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBHRVQoInRydWNrL3RydWNrcyIpCg==</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRUcnVja3MoQFF1ZXJ5KCJ0b2tlbiIpIGFjdGl2YXRpb25Db2RlOiBTdHJpbmcsIEBIZWFkZXIoImRldmljZS1pZCIpIGRldmljZUlkOiBTdHJpbmcsIEBRdWVyeSgibGF0aXR1ZGUiKSBsYXRpdHVkZTogRG91YmxlLCBAUXVlcnkoImxvbmdpdHVkZSIpIGxvbmdpdHVkZTogRG91YmxlLCBAUXVlcnkoInR5cGUiKSB0eXBlOiBTdHJpbmcpOiBDYWxsPExpc3Q8VHJ1Y2s+Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBHRVQoInRydWNrL3RydWNrcyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name=":" type="4">
         <text>112</text>
