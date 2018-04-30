@@ -178,10 +178,11 @@
         <mark key="." line="54" column="67" />
         <mark key="^" line="54" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/DefaultRealTimeService.java" timestamp="1525118225195">
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="." line="229" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/DefaultRealTimeService.java" timestamp="1525119392573">
+        <mark key="[" line="44" column="29" />
+        <mark key="]" line="47" column="33" />
+        <mark key="." line="47" column="33" />
+        <mark key="^" line="47" column="33" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/services/impl/StatusCheckServiceImpl.java" timestamp="1518024047035">
         <mark key="[" line="34" column="0" />
@@ -231,7 +232,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/dao/impl/CustomerDAOImpl.java" timestamp="1517600455274">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/dao/impl/CustomerDAOImpl.java" timestamp="1525119354214">
         <mark key="[" line="44" column="104" />
         <mark key="]" line="44" column="102" />
         <mark key="^" line="44" column="102" />
@@ -315,6 +316,11 @@
         <mark key="." line="45" column="38" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/portfolio/gateway/HttpRequestHandler.java" timestamp="1525110341264" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/serviceInterface/RealTimeQuoteService.java" timestamp="1525119254774">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/cache/EhcachePutAsynch.java" timestamp="1525117935284">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -364,11 +370,11 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1516402363464">
-        <mark key="[" line="199" column="94" />
-        <mark key="]" line="199" column="94" />
-        <mark key="." line="199" column="94" />
-        <mark key="^" line="199" column="94" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1525119720259">
+        <mark key="[" line="61" column="43" />
+        <mark key="]" line="201" column="94" />
+        <mark key="." line="201" column="94" />
+        <mark key="^" line="201" column="94" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_goog_ibm_2_feeds.json" timestamp="1525108577202">
         <mark key="[" line="12" column="22" />
@@ -444,7 +450,7 @@
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1525118097754">
+      <file name="/fragment.java" timestamp="1525119169877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="15" />
@@ -488,7 +494,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHQuc3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPFJlYWx0aW1lUmVzcG9uc2U+IGdldFF1b3RlKE1hcDxTdHJpbmcsIE1hcDxTdHJpbmcsIE9iamVjdD4+IHNlY3VyaXR5SW5mbykgdGhyb3dzIEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="-" type="4">
         <text>cloneMap</text>
@@ -500,31 +506,31 @@
         <text encoding="base64">CTxUIGV4dGVuZHMgTWFwPiB2b2lkIHB1dEFsbFNlcmlhbGl6YWJsZUFzeW5jKE1hcDxTdHJpbmcsIFQ+IGl0ZW1zLCBFaGNhY2hlUHV0Q2FsbGJhY2s8VD4gY2FsbGJhY2spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHQuc3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPFJlYWx0aW1lUmVzcG9uc2U+IGdldFF1b3RlKE1hcDxTdHJpbmcsIE1hcDxTdHJpbmcsIE9iamVjdD4+IHNlY3VyaXR5SW5mbykgdGhyb3dzIEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdmFsdWVzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBnZXRRdW90ZShzZWN1cml0eUluZm8pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdGhyb3dzIEV4Y2VwdGlvbiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvcihSZWFsdGltZVJlc3BvbnNlLk1vZGVsIG1vZGVsIDogbWFwcy5nZXRNb2RlbHMoKSkgewo=</text>
+        <text encoding="base64">ICBwdWJsaWMgT3B0aW9uYWw8UmVhbHRpbWVSZXNwb25zZT4gZ2V0UXVvdGUoTWFwPFN0cmluZywgTWFwPFN0cmluZywgT2JqZWN0Pj4gc2VjdXJpdHlJbmZvKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">ICAgIGlmICh1c2VDYWNoZSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
