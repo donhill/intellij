@@ -140,6 +140,12 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/userservice/impl/PatchSubscriptionServiceImplTest.java" timestamp="1518047989745">
         <mark key="[" line="71" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/test/java/net/gemlogic/towapp/models/ProviderParsingTest.kt" timestamp="1525096655945">
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="61" column="45" />
+        <mark key="^" line="61" column="45" />
+        <mark key="." line="61" column="45" />
+      </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/OperatorImageUtil.kt" timestamp="1524698144482">
         <mark key="[" line="119" column="19" />
       </file>
@@ -194,11 +200,11 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1524770131463">
-        <mark key="[" line="261" column="44" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
-        <mark key="^" line="249" column="12" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1525096348434">
+        <mark key="[" line="507" column="34" />
+        <mark key="]" line="508" column="17" />
+        <mark key="." line="508" column="17" />
+        <mark key="^" line="508" column="17" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/log4j2.xml" timestamp="1515603598319">
         <mark key="[" line="18" column="24" />
@@ -221,6 +227,7 @@
         <mark key="^" line="128" column="1" />
         <mark key="." line="128" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/models/InsuranceProvider.kt" timestamp="1525095996852" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
         <mark key="]" line="28" column="39" />
@@ -433,11 +440,11 @@
       <jump line="46" column="8" filename="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/rest/RestService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Calendar</text>
       </register>
       <register name="-" type="4">
-        <text>imageName: String</text>
+        <text>Calendar</text>
       </register>
       <register name="/" type="4">
         <text>tows</text>
