@@ -151,7 +151,7 @@
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceImpl2.java" timestamp="1524848006125">
         <mark key="[" line="112" column="73" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1524855920810" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1525106274011" />
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/OperatorImageUtil.kt" timestamp="1524582272936">
         <mark key="[" line="46" column="160" />
       </file>
@@ -232,12 +232,12 @@
         <mark key="^" line="128" column="1" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/model/RealtimeResponseTest.java" timestamp="1524859477121">
-        <mark key="'" line="25" column="41" />
-        <mark key="[" line="26" column="53" />
-        <mark key="]" line="26" column="53" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="25" column="52" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/model/RealtimeResponseTest.java" timestamp="1525106475978">
+        <mark key="'" line="26" column="41" />
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="29" column="10" />
+        <mark key="." line="29" column="10" />
+        <mark key="^" line="29" column="9" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
@@ -301,6 +301,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_goog_ibm_2_feeds.json" timestamp="1525106414838" />
       <file name="/Dummy.txt" timestamp="1524325226388">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -449,11 +450,11 @@
       <jump line="48" column="28" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/model/RealtimeResponse.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>realtimeResponse1</text>
       </register>
       <register name="-" type="4">
-        <text>Mapper</text>
+        <text>realtimeResponse1</text>
       </register>
       <register name="/" type="4">
         <text>tows</text>
