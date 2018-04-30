@@ -75,12 +75,12 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/OperatorImageUtil.kt" timestamp="1524582272936">
         <mark key="[" line="46" column="160" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/RealtimeResponse.java" timestamp="1525122558013">
-        <mark key="'" line="285" column="46" />
-        <mark key="[" line="299" column="0" />
-        <mark key="]" line="299" column="0" />
-        <mark key="." line="299" column="0" />
-        <mark key="^" line="295" column="7" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/RealtimeResponse.java" timestamp="1525123503978">
+        <mark key="'" line="287" column="46" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="301" column="0" />
+        <mark key="." line="301" column="0" />
+        <mark key="^" line="297" column="7" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-adobe-marketing-cloud-parent/service-adobe-marketing-cloud/src/main/java/com/morningstar/marketingcloud/GatewayUtils.java" timestamp="1517506381364">
         <mark key="[" line="26" column="13" />
@@ -385,11 +385,10 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1525122839626">
-        <mark key="[" line="187" column="72" />
-        <mark key="]" line="187" column="50" />
-        <mark key="^" line="187" column="50" />
-        <mark key="." line="187" column="50" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1525123635452">
+        <mark key="[" line="85" column="22" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_goog_ibm_2_feeds.json" timestamp="1525108577202">
         <mark key="[" line="12" column="22" />
@@ -511,7 +510,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>m</text>
@@ -520,34 +519,34 @@
         <text>tows</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxUIGV4dGVuZHMgTWFwPiB2b2lkIHB1dEFsbFNlcmlhbGl6YWJsZUFzeW5jKE1hcDxTdHJpbmcsIFQ+IGl0ZW1zLCBFaGNhY2hlUHV0Q2FsbGJhY2s8VD4gY2FsbGJhY2spOwo=</text>
+        <text encoding="base64">ICAgICAgICBleGlzdGluZ1F1b3RlRnJvbVJlc3VsdHMuc2V0RGF0ZU9mTGFzdFRyYWRlKG5leHRRdW90ZUZyb21SZXNwb25zZS5nZXREYXRlT2ZMYXN0VHJhZGUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBmb3IgKFN0cmluZyBpbnN0cnVtZW50SWQgOiBxdW90ZU1hcEZyb21SZXNwb25zZS5rZXlTZXQoKSkgewogICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG5leHRRdW90ZUluUmVzcG9uc2UgPSBxdW90ZU1hcEZyb21SZXNwb25zZS5nZXQoaW5zdHJ1bWVudElkKTsKICAgICAgU3RyaW5nIHRpY2tlciA9IFN0cmluZy52YWx1ZU9mKG5leHRRdW90ZUluUmVzcG9uc2UuZ2V0KEZJRUxEX1RJQ0tFUikpOwogICAgICBMT0dHRVIuZGVidWcoInByb2Nlc3NpbmcgcXVvdGUgaXMgIiArIGluc3RydW1lbnRJZCk7CiAgICAgIGlmIChxdW90ZVN0b3JlZEluUmVzdWx0SWZFeGlzdHMgIT0gbnVsbCkgewogICAgICAgIExPR0dFUi5kZWJ1ZygicXVvdGUgZXhpc3QgZm9yIHRpY2tlciAiICsgdGlja2VyKTsKICAgICAgICByZXBsYWNlUXVvdGVJZkRhdGVJc0FmdGVyUXVvdGVTdG9yZWRJblJlc3VsdHMobmV4dFF1b3RlSW5SZXNwb25zZSwKICAgICAgICAgICAgaW5zdHJ1bWVudElkLCBxdW90ZVN0b3JlZEluUmVzdWx0SWZFeGlzdHMpOwogICAgICB9IGVsc2UgewogICAgICAgIExPR0dFUi5kZWJ1ZygiYWRkaW5nIHF1b3RlIGZvciAiICsgdGlja2VyKTsKICAgICAgICBmaWx0ZXJlZFJlc3VsdC5wdXQodGlja2VyLCBuZXh0UXVvdGVJblJlc3BvbnNlKTsKICAgICAgfQogICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBxdW90ZS5yZW1vdmUoImxhc3RFeGNoYW5nZVVwZGF0ZVRpbWUiKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZm9yIChNYXA8U3RyaW5nLCBPYmplY3Q+IHF1b3RlIDogcXVvdGVzLnZhbHVlcygpKSB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dFF1b3RlRnJvbVJlc3BvbnNlLmdldChFWENIQU5HRV9BQ1RJVklUWV9USU1FX0xBQkVMKSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmlsdGVyLnBhcnNlKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGlzdGluZ1F1b3RlRnJvbVJlc3VsdHMucHV0KEVYQ0hBTkdFX0FDVElWSVRZX1RJTUVfTEFCRUwsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGEucHV0KCJleGNoYW5nZUFjdGl2aXR5VGltZUxhYmVsIiwgZXhjaGFuZ2VBY3Rpdml0eVRpbWVMYWJlbCk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBmb3IgKFN0cmluZyBpbnN0cnVtZW50SWQgOiBxdW90ZU1hcEZyb21SZXNwb25zZS5rZXlTZXQoKSkgewogICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG5leHRRdW90ZUluUmVzcG9uc2UgPSBxdW90ZU1hcEZyb21SZXNwb25zZS5nZXQoaW5zdHJ1bWVudElkKTsKICAgICAgU3RyaW5nIHRpY2tlciA9IFN0cmluZy52YWx1ZU9mKG5leHRRdW90ZUluUmVzcG9uc2UuZ2V0KEZJRUxEX1RJQ0tFUikpOwogICAgICBMT0dHRVIuZGVidWcoInByb2Nlc3NpbmcgcXVvdGUgaXMgIiArIGluc3RydW1lbnRJZCk7CiAgICAgIGlmIChxdW90ZVN0b3JlZEluUmVzdWx0SWZFeGlzdHMgIT0gbnVsbCkgewogICAgICAgIExPR0dFUi5kZWJ1ZygicXVvdGUgZXhpc3QgZm9yIHRpY2tlciAiICsgdGlja2VyKTsKICAgICAgICByZXBsYWNlUXVvdGVJZkRhdGVJc0FmdGVyUXVvdGVTdG9yZWRJblJlc3VsdHMobmV4dFF1b3RlSW5SZXNwb25zZSwKICAgICAgICAgICAgaW5zdHJ1bWVudElkLCBxdW90ZVN0b3JlZEluUmVzdWx0SWZFeGlzdHMpOwogICAgICB9IGVsc2UgewogICAgICAgIExPR0dFUi5kZWJ1ZygiYWRkaW5nIHF1b3RlIGZvciAiICsgdGlja2VyKTsKICAgICAgICBmaWx0ZXJlZFJlc3VsdC5wdXQodGlja2VyLCBuZXh0UXVvdGVJblJlc3BvbnNlKTsKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
