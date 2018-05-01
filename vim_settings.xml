@@ -74,12 +74,12 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/OperatorImageUtil.kt" timestamp="1524582272936">
         <mark key="[" line="46" column="160" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/RealtimeResponse.java" timestamp="1525195258467">
-        <mark key="'" line="287" column="46" />
-        <mark key="[" line="313" column="5" />
-        <mark key="]" line="312" column="5" />
-        <mark key="." line="312" column="5" />
-        <mark key="^" line="312" column="5" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/RealtimeResponse.java" timestamp="1525197915697">
+        <mark key="'" line="288" column="46" />
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+        <mark key="^" line="32" column="31" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-adobe-marketing-cloud-parent/service-adobe-marketing-cloud/src/main/java/com/morningstar/marketingcloud/GatewayUtils.java" timestamp="1517506381364">
         <mark key="[" line="26" column="13" />
@@ -375,11 +375,11 @@
         <mark key="]" line="55" column="10" />
         <mark key="." line="55" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1525196957770">
-        <mark key="[" line="692" column="76" />
-        <mark key="]" line="242" column="82" />
-        <mark key="." line="242" column="82" />
-        <mark key="^" line="242" column="82" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1525198287009">
+        <mark key="[" line="157" column="55" />
+        <mark key="]" line="191" column="53" />
+        <mark key="." line="191" column="53" />
+        <mark key="^" line="191" column="53" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/AndroidManifest.xml" timestamp="1520606292902">
         <mark key="[" line="14" column="0" />
@@ -464,7 +464,7 @@
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1525197055056">
+      <file name="/fragment.java" timestamp="1525197527515">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="15" />
@@ -508,44 +508,44 @@
       <jump line="273" column="46" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/RealtimeResponse.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGVNYXBGb3JNdWx0aXBsZUV4Y2hhbmdlLmdldCgiSUJNIiksIGlzKHNhbWVJbnN0YW5jZShpYm0uZ2V0TGVmdCgpKSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>createGoogleResponse().getRight()</text>
       </register>
       <register name="-" type="4">
-        <text>vfinx</text>
+        <text>createGoogleResponse().getRight()</text>
       </register>
       <register name="/" type="4">
         <text>tows</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQodmZpbngsIGlzKHNhbWUoY3JlYXRlVmFuR3VhcmRSZXNwb25zZSgpLmdldExlZnQoKSkpKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGUuZ2V0UHJpY2UoKSwgaXMobm90TnVsbFZhbHVlKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGVNYXBGb3JNdWx0aXBsZUV4Y2hhbmdlLmdldCgiSUJNIiksIGlzKHNhbWVJbnN0YW5jZShpYm0uZ2V0TGVmdCgpKSkpOwo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLnB1dCgiMTQ5LjEuR09PR0xFIiwgZGVsYXllZElzTW9zdFJlY2VudC5nZXRMZWZ0KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGVNYXBGb3JNdWx0aXBsZUV4Y2hhbmdlLmdldCgiR09PR0wiKSwgaXMoc2FtZUluc3RhbmNlKGdvb2dsZS5nZXRMZWZ0KCkpKSk7Cg==</text>
+        <text encoding="base64">ICAgIEhhc2hNYXA8U3RyaW5nLCBNYXA8U3RyaW5nLCBPYmplY3Q+PiByZXNwb25zZSA9IG5ldyBIYXNoTWFwPD4ocmVxdWVzdFNlY3VyaXR5SW5mbyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFkZERlbGF5ZWRQcmljZUF0dHJpYnV0ZXMoZ29vZ2xlRGVsYXllZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TW9kZWw+IG1vZGVscyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgIGFkZFJlYWx0aW1lRXhjaGFuZ2VEYXRlKGdvb2dsZVJlYWxUaW1lKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdmFuZ3VhcmREZWxheWVkID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgIGFkZFByaWNlQXR0cmlidXRlcyhnb29nbGVSZWFsVGltZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbmd1YXJkRGVsYXllZC5wdXQoImxhc3RFeGNoYW5nZVVwZGF0ZVRpbWUiLCB1cGRhdGVUaW1lKTsK</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcmVzdWx0ID0gcXVvdGVNYXBGb3JNdWx0aXBsZUV4Y2hhbmdlLmdldCgiR09PR0wiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbmd1YXJkRGVsYXllZC5wdXQoRVhDSEFOR0VfQUNUSVZJVFlfVElNRV9MQUJFTCwgIjExLzE2LzIwMTcgMDM6NTkgUE0gRVNUIik7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGUuY29udGFpbnNLZXkoUEVSQ0VOVF9DSEFOR0UpLCBpcyh0cnVlKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbmd1YXJkRGVsYXllZC5wdXQoInRpY2tlciIsIHRpY2tlcik7Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGUuY29udGFpbnNLZXkoUFJJQ0VfQ0hBTkdFKSwgaXModHJ1ZSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
