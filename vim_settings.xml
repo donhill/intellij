@@ -200,11 +200,11 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1525097589763">
-        <mark key="[" line="507" column="34" />
-        <mark key="]" line="508" column="17" />
-        <mark key="." line="508" column="17" />
-        <mark key="^" line="508" column="17" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1525186744598">
+        <mark key="[" line="390" column="67" />
+        <mark key="]" line="390" column="82" />
+        <mark key="." line="390" column="0" />
+        <mark key="^" line="389" column="55" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/log4j2.xml" timestamp="1515603598319">
         <mark key="[" line="18" column="24" />
@@ -227,7 +227,6 @@
         <mark key="^" line="128" column="1" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/models/InsuranceProvider.kt" timestamp="1525095996852" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
         <mark key="]" line="28" column="39" />
@@ -446,7 +445,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dGVzdCBmb3IgdXBkYXRlcyBpbiBnb29nbGUgcGxheQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm92aWRlckluZm8uaW5zdXJhbmNlUHJvdmlkZXIuZXhwaXJhdGlvbkRhdGUgPSBleHBpcmF0aW9uLnRleHQudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>Calendar</text>
@@ -455,7 +454,7 @@
         <text>tows</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvdmlkZXJQcmVzZW50ZXIucmVzdW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcm92aWRlckluZm8uaW5zdXJhbmNlUHJvdmlkZXIuZXhwaXJhdGlvbkRhdGUgPSBleHBpcmF0aW9uLnRleHQudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dGVzdCBmb3IgdXBkYXRlcyBpbiBnb29nbGUgcGxheQo=</text>
