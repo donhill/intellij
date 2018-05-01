@@ -268,7 +268,7 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/userservice/impl/PatchSubscriptionServiceImplTest.java" timestamp="1518047989745">
         <mark key="[" line="71" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1525191143616">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1525196662117">
         <mark key="[" line="222" column="30" />
         <mark key="]" line="222" column="30" />
         <mark key="^" line="222" column="46" />
@@ -375,11 +375,11 @@
         <mark key="]" line="55" column="10" />
         <mark key="." line="55" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1525196444735">
-        <mark key="[" line="632" column="3" />
-        <mark key="]" line="630" column="44" />
-        <mark key="." line="630" column="0" />
-        <mark key="^" line="622" column="3" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1525196957770">
+        <mark key="[" line="692" column="76" />
+        <mark key="]" line="242" column="82" />
+        <mark key="." line="242" column="82" />
+        <mark key="^" line="242" column="82" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/AndroidManifest.xml" timestamp="1520606292902">
         <mark key="[" line="14" column="0" />
@@ -396,7 +396,7 @@
         <mark key="]" line="26" column="30" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525195651555">
+      <file name="/Dummy.txt" timestamp="1525197055060">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -464,7 +464,7 @@
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1525195651551">
+      <file name="/fragment.java" timestamp="1525197055056">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="15" />
@@ -509,43 +509,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQYWlyLm9mKGlibURlbGF5ZWQsIGlibVJlYWxUaW1lKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGVNYXBGb3JNdWx0aXBsZUV4Y2hhbmdlLmdldCgiSUJNIiksIGlzKHNhbWVJbnN0YW5jZShpYm0uZ2V0TGVmdCgpKSkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>11/16/2017</text>
+        <text>vfinx</text>
       </register>
       <register name="/" type="4">
         <text>tows</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQYWlyLm9mKGlibURlbGF5ZWQsIGlibVJlYWxUaW1lKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodmZpbngsIGlzKHNhbWUoY3JlYXRlVmFuR3VhcmRSZXNwb25zZSgpLmdldExlZnQoKSkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGVNYXBGb3JNdWx0aXBsZUV4Y2hhbmdlLmdldCgiSUJNIiksIGlzKHNhbWVJbnN0YW5jZShpYm0uZ2V0TGVmdCgpKSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocXVvdGVNYXBGb3JNdWx0aXBsZUV4Y2hhbmdlLmdldCgiR09PR0wiKSwgaXMoc2FtZUluc3RhbmNlKGdvb2dsZS5nZXRMZWZ0KCkpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TW9kZWw+IG1vZGVscyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdmFuZ3VhcmREZWxheWVkID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbmd1YXJkRGVsYXllZC5wdXQoImxhc3RFeGNoYW5nZVVwZGF0ZVRpbWUiLCB1cGRhdGVUaW1lKTsK</text>
+        <text encoding="base64">ICAgIExpc3Q8TW9kZWw+IG1vZGVscyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbmd1YXJkRGVsYXllZC5wdXQoRVhDSEFOR0VfQUNUSVZJVFlfVElNRV9MQUJFTCwgIjExLzE2LzIwMTcgMDM6NTkgUE0gRVNUIik7Cg==</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gdmFuZ3VhcmREZWxheWVkID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbmd1YXJkRGVsYXllZC5wdXQoInRpY2tlciIsIHRpY2tlcik7Cg==</text>
+        <text encoding="base64">ICAgIHZhbmd1YXJkRGVsYXllZC5wdXQoImxhc3RFeGNoYW5nZVVwZGF0ZVRpbWUiLCB1cGRhdGVUaW1lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbmd1YXJkRGVsYXllZC5wdXQoImluc3RydW1lbnRJZCIsIGluc3RydW1lbnRJZCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhbmd1YXJkRGVsYXllZC5wdXQoRVhDSEFOR0VfQUNUSVZJVFlfVElNRV9MQUJFTCwgIjExLzE2LzIwMTcgMDM6NTkgUE0gRVNUIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsLmFic2VudCgpCg==</text>
+        <text encoding="base64">ICAgIHZhbmd1YXJkRGVsYXllZC5wdXQoInRpY2tlciIsIHRpY2tlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
