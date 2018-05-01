@@ -9,7 +9,6 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="107" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.6/jersey-guava-2.6.jar!/jersey/repackaged/com/google/common/base/Optional.class" timestamp="1525112110061" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-caching-parent/service-caching/src/main/java/com/morningstar/cache/core/impl/EhcacheServiceImpl.java" timestamp="1517946009766">
         <mark key="[" line="62" column="125" />
       </file>
@@ -125,7 +124,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/portfolio/gateway/AmsRequestHandler.java" timestamp="1525111787755" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/TestLogger.java" timestamp="1515452213646">
         <mark key="[" line="39" column="11" />
         <mark key="]" line="39" column="10" />
@@ -156,7 +154,6 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/portfolio/service/DependentAPIServiceImpl.java" timestamp="1525121840924" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeBarometerRepository.java" timestamp="1515430505302">
         <mark key="[" line="28" column="10" />
         <mark key="]" line="28" column="10" />
@@ -181,14 +178,12 @@
         <mark key="^" line="47" column="3" />
         <mark key="." line="47" column="3" />
       </file>
-      <file name="/DefaultRealTimeService.java" timestamp="1525113642526" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/subscription/service/UserSurveyServiceImplTest.java" timestamp="1518048111843">
         <mark key="[" line="54" column="52" />
         <mark key="]" line="54" column="67" />
         <mark key="." line="54" column="67" />
         <mark key="^" line="54" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/XmlHelper.java" timestamp="1525121780658" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/DefaultRealTimeService.java" timestamp="1525122359481">
         <mark key="[" line="44" column="29" />
         <mark key="]" line="47" column="33" />
@@ -217,7 +212,6 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/PatchSubscriptionServiceImpl.java" timestamp="1518026251263">
         <mark key="[" line="70" column="95" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/cache/EhcachePutSerializableAsynch.java" timestamp="1525117625347" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/PropertyPlaceholderConfigurerTest.java" timestamp="1516379993770">
         <mark key="[" line="62" column="42" />
         <mark key="]" line="70" column="43" />
@@ -270,15 +264,14 @@
         <mark key="." line="30" column="9" />
         <mark key="^" line="30" column="9" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.1/httpclient-4.3.1.jar!/org/apache/http/client/methods/HttpGet.class" timestamp="1525111605088" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/userservice/impl/PatchSubscriptionServiceImplTest.java" timestamp="1518047989745">
         <mark key="[" line="71" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1525124253534">
-        <mark key="[" line="262" column="58" />
-        <mark key="]" line="262" column="54" />
-        <mark key="^" line="262" column="54" />
-        <mark key="." line="262" column="54" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1525191143616">
+        <mark key="[" line="222" column="30" />
+        <mark key="]" line="222" column="30" />
+        <mark key="^" line="222" column="46" />
+        <mark key="." line="222" column="30" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/rest/ProviderService.kt" timestamp="1524502867511">
         <mark key="[" line="33" column="24" />
@@ -325,7 +318,6 @@
         <mark key="^" line="45" column="38" />
         <mark key="." line="45" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/portfolio/gateway/HttpRequestHandler.java" timestamp="1525110341264" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/serviceInterface/RealTimeQuoteService.java" timestamp="1525119254774">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -443,8 +435,6 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/data/filter/RTDataNameMappingFilter.java" timestamp="1524859379257" />
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/data/filter/RTExchangeActivityTimeFilter.java" timestamp="1525122326524" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebRequest.java" timestamp="1518041167868">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="23" column="0" />
@@ -518,10 +508,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>quote.values()</text>
+        <text>quoteMapForMultipleExchange.get(&quot;VFINX&quot;).get(&quot;currency&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>quote.values()</text>
+        <text>quoteMapForMultipleExchange.get(&quot;VFINX&quot;).get(&quot;currency&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>tows</text>
