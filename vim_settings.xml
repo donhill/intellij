@@ -74,9 +74,9 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/OperatorImageUtil.kt" timestamp="1524582272936">
         <mark key="[" line="46" column="160" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/RealtimeResponse.java" timestamp="1525197915697">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/RealtimeResponse.java" timestamp="1525203241143">
         <mark key="'" line="288" column="46" />
-        <mark key="[" line="32" column="36" />
+        <mark key="[" line="21" column="44" />
         <mark key="]" line="32" column="31" />
         <mark key="." line="32" column="31" />
         <mark key="^" line="32" column="31" />
@@ -179,17 +179,18 @@
         <mark key="^" line="47" column="3" />
         <mark key="." line="47" column="3" />
       </file>
+      <file name="/DefaultRealTimeService.java" timestamp="1525202873868" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/subscription/service/UserSurveyServiceImplTest.java" timestamp="1518048111843">
         <mark key="[" line="54" column="52" />
         <mark key="]" line="54" column="67" />
         <mark key="." line="54" column="67" />
         <mark key="^" line="54" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/DefaultRealTimeService.java" timestamp="1525122359481">
-        <mark key="[" line="44" column="29" />
-        <mark key="]" line="47" column="33" />
-        <mark key="." line="47" column="33" />
-        <mark key="^" line="47" column="33" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/DefaultRealTimeService.java" timestamp="1525203058933">
+        <mark key="[" line="279" column="52" />
+        <mark key="]" line="278" column="17" />
+        <mark key="." line="278" column="17" />
+        <mark key="^" line="278" column="17" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/services/impl/StatusCheckServiceImpl.java" timestamp="1518024047035">
         <mark key="[" line="34" column="0" />
@@ -346,10 +347,10 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/RealTimeRequestHandler.java" timestamp="1525113370514">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/RealTimeRequestHandler.java" timestamp="1525203199305">
+        <mark key="[" line="75" column="27" />
         <mark key="]" line="15" column="0" />
-        <mark key="^" line="67" column="42" />
+        <mark key="^" line="66" column="42" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/model/RealtimeResponseTest.java" timestamp="1525123846736">
@@ -374,12 +375,6 @@
         <mark key="[" line="55" column="10" />
         <mark key="]" line="55" column="10" />
         <mark key="." line="55" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTest.java" timestamp="1525200149536">
-        <mark key="[" line="81" column="35" />
-        <mark key="]" line="81" column="57" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="80" column="27" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/AndroidManifest.xml" timestamp="1520606292902">
         <mark key="[" line="14" column="0" />
@@ -509,40 +504,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFBhaXI8TW9kZWwsIE1vZGVsPiBpYm1SZXNwb25zZSA9IGNyZWF0ZUlibVJlc3BvbnNlKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5DaGFyc2V0czsK</text>
       </register>
       <register name="-" type="4">
-        <text>quoteMapForMultipleExchange</text>
+        <text>new URL(requestUrl).op</text>
       </register>
       <register name="/" type="4">
         <text>tows</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFBhaXI8TW9kZWwsIE1vZGVsPiBpYm1SZXNwb25zZSA9IGNyZWF0ZUlibVJlc3BvbnNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uLnNldENvbm5lY3RUaW1lb3V0KDIwMDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1vZGVsIGdvb2dsID0gZmluZE1vZGVsKCIiLCBxdW90ZU1hcEZvck11bHRpcGxlRXhjaGFuZ2UpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5DaGFyc2V0czsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1vZGVsIGdvb2dsID0gZmluZE1vZGVsKCIiLCBxdW90ZU1hcEZvck11bHRpcGxlRXhjaGFuZ2UpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5DaGFyc2V0czsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIE1vZGVsIGdvb2dsID0gZmluZE1vZGVsKCIiLCBxdW90ZU1hcEZvck11bHRpcGxlRXhjaGFuZ2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLnB1dCgiMTQ5LjEuSUJNIiwgaWJtLmdldFJpZ2h0KCkpOwo=</text>
+        <text encoding="base64">ICAgIE1vZGVsIGdvb2dsID0gZmluZE1vZGVsKCIiLCBxdW90ZU1hcEZvck11bHRpcGxlRXhjaGFuZ2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLnB1dCgiMTQ5LjEuR09PR0xFIiwgZ29vZ2xlLmdldFJpZ2h0KCkpOwo=</text>
+        <text encoding="base64">ICAgIE1vZGVsIGdvb2dsID0gZmluZE1vZGVsKCIiLCBxdW90ZU1hcEZvck11bHRpcGxlRXhjaGFuZ2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLnB1dCgiMjEuOC5WRklOWCIsIHZhbmd1YXJkLmdldFJpZ2h0KCkpOwo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLnB1dCgiMTQ5LjEuSUJNIiwgaWJtLmdldFJpZ2h0KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEhhc2hNYXA8U3RyaW5nLCBNYXA8U3RyaW5nLCBPYmplY3Q+PiByZXNwb25zZSA9IG5ldyBIYXNoTWFwPD4ocmVxdWVzdFNlY3VyaXR5SW5mbyk7Cg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLnB1dCgiMTQ5LjEuR09PR0xFIiwgZ29vZ2xlLmdldFJpZ2h0KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLnB1dCgiMTQ5LjEuR09PR0xFIiwgZGVsYXllZElzTW9zdFJlY2VudC5nZXRMZWZ0KCkpOwo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLnB1dCgiMjEuOC5WRklOWCIsIHZhbmd1YXJkLmdldFJpZ2h0KCkpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIEhhc2hNYXA8U3RyaW5nLCBNYXA8U3RyaW5nLCBPYmplY3Q+PiByZXNwb25zZSA9IG5ldyBIYXNoTWFwPD4ocmVxdWVzdFNlY3VyaXR5SW5mbyk7Cg==</text>
