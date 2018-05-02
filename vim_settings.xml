@@ -57,6 +57,12 @@
         <mark key="." line="190" column="0" />
         <mark key="^" line="172" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/operation-attache-api/src/main/kotlin/com/morningstar/ii/operationattache/news/NewsController.kt" timestamp="1525289597744">
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="23" column="28" />
+        <mark key="." line="23" column="28" />
+        <mark key="^" line="23" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityInfo.java" timestamp="1516922014952">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="5" />
@@ -104,6 +110,7 @@
         <mark key="^" line="128" column="1" />
         <mark key="." line="128" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/operation-attache-api/src/main/kotlin/com/morningstar/ii/operationattache/foundation/client/WebServiceClient.kt" timestamp="1525289637869" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
         <mark key="]" line="28" column="39" />
@@ -189,6 +196,12 @@
         <mark key="." line="54" column="67" />
         <mark key="^" line="54" column="67" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/DefaultRealTimeService.java" timestamp="1525290369265">
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="63" column="6" />
+        <mark key="^" line="63" column="6" />
+        <mark key="." line="63" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/services/impl/StatusCheckServiceImpl.java" timestamp="1518024047035">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -251,9 +264,9 @@
         <mark key="." line="30" column="9" />
         <mark key="^" line="30" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/service/InputStreamConnectionFactoryTest.java" timestamp="1525286065588">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/service/InputStreamConnectionFactoryTest.java" timestamp="1525290376283">
         <mark key="'" line="58" column="90" />
-        <mark key="[" line="32" column="83" />
+        <mark key="[" line="45" column="64" />
         <mark key="]" line="58" column="90" />
         <mark key="." line="58" column="90" />
         <mark key="^" line="58" column="90" />
@@ -301,6 +314,9 @@
         <mark key="]" line="55" column="87" />
         <mark key="^" line="55" column="86" />
         <mark key="." line="55" column="87" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/operation-attache-api/src/main/kotlin/com/morningstar/ii/operationattache/news/NewsService.kt" timestamp="1525289741821">
+        <mark key="[" line="46" column="45" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/RegisterPhoneFragment.kt" timestamp="1524264346527">
         <mark key="[" line="45" column="39" />
@@ -410,6 +426,7 @@
         <mark key="^" line="39" column="14" />
         <mark key="." line="39" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/operation-attache-api/src/main/kotlin/com/morningstar/ii/operationattache/foundation/log/Logger.kt" timestamp="1525289219489" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/utils/IdServiceHelperTest.java" timestamp="1525209187091">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
@@ -510,7 +527,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IEludHJhZGF5VGltZVNlcmllc1dyYXBwZXIgaW50cmFkYXlUaW1lU2VyaWVzV3JhcHBlcjs=</text>
@@ -522,31 +539,31 @@
         <text encoding="base64">ICAgIHVzZXJzLnB1dCgiUHJvZHVjdCIsICIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy9wYXJzZSBBY2NvdW50TGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy9wYXJzZSBwcm9kdWN0Q29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgUmVzcG9uc2VTdGF0dXNFeGNlcHRpb24oSHR0cFN0YXR1cy5CQURfUkVRVUVTVCwgZXhjZXB0aW9uLm1lc3NhZ2UsIGV4Y2VwdGlvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVudik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChleGNlcHRpb246IEV4Y2VwdGlvbikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlmIChkYXRlVGltZSAhPSBudWxsKSBEYXRlVGltZS5wYXJzZShkYXRlVGltZSkgZWxzZSBudWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgRW52UmVzb2x2aW5nUHJvcGVydHlTb3VyY2VUZXN0Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHZhbGlkYXRlRGF0ZVRpbWUoZGF0ZVRpbWU6IFN0cmluZz8pOiBEYXRlVGltZT8gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgLy9wYXJzZSBBY2NvdW50TGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>190</text>
