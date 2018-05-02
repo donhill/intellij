@@ -206,11 +206,11 @@
         <mark key="." line="60" column="12" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/PropertyPlaceholderConfigurerTest.java" timestamp="1525285826540">
-        <mark key="'" line="62" column="2" />
-        <mark key="[" line="80" column="62" />
-        <mark key="]" line="80" column="65" />
-        <mark key="." line="80" column="65" />
-        <mark key="^" line="80" column="65" />
+        <mark key="'" line="61" column="2" />
+        <mark key="[" line="79" column="62" />
+        <mark key="]" line="79" column="65" />
+        <mark key="." line="79" column="65" />
+        <mark key="^" line="79" column="65" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/InputStreamConnectionFactory.java" timestamp="1525285687115">
         <mark key="[" line="10" column="0" />
