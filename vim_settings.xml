@@ -340,7 +340,6 @@
         <mark key="^" line="39" column="14" />
         <mark key="." line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/values/colors.xml" timestamp="1525214573719" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/servlets/StatusCheckServletTest.java" timestamp="1517946324826">
         <mark key="[" line="158" column="20" />
       </file>
@@ -403,6 +402,7 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/rest/ProviderInfo.kt" timestamp="1525300885649" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_vanguard.json" timestamp="1515795946604">
         <mark key="[" line="42" column="30" />
         <mark key="]" line="41" column="23" />
