@@ -272,10 +272,12 @@
         <mark key="." line="58" column="90" />
         <mark key="^" line="58" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1525207752280">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1525366832781">
+        <mark key="'" line="41" column="44" />
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="41" column="44" />
+        <mark key="." line="41" column="44" />
+        <mark key="^" line="41" column="44" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/rest/ProviderService.kt" timestamp="1524502867511">
         <mark key="[" line="33" column="24" />
@@ -525,13 +527,14 @@
       <jump line="62" column="2" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/PropertyPlaceholderConfigurerTest.java" />
       <jump line="44" column="52" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/EnvResolvingPropertySourceTest.java" />
       <jump line="58" column="90" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/service/InputStreamConnectionFactoryTest.java" />
+      <jump line="41" column="44" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>&quot;http://localhost:8089&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEludHJhZGF5VGltZVNlcmllc1dyYXBwZXIgaW50cmFkYXlUaW1lU2VyaWVzV3JhcHBlcjs=</text>
+        <text>&quot;http://localhost:8089&quot;</text>
       </register>
       <register name="/" type="4">
         <text>tows</text>
