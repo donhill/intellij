@@ -49,6 +49,11 @@
         <mark key="]" line="60" column="12" />
         <mark key="." line="60" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/oreilly-kotlin-course/advanced/src/main/kotlin/com/hadihariri/kotlincourse/metaprogramming/KotlinReflection.kt" timestamp="1525467131445">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/PropertyPlaceholderConfigurerTest.java" timestamp="1525285826540">
         <mark key="'" line="61" column="2" />
         <mark key="[" line="79" column="62" />
@@ -160,6 +165,11 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/oreilly-kotlin-course/advanced/src/main/kotlin/com/hadihariri/kotlincourse/generics/Repository.kt" timestamp="1525466774815">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1525366832781">
         <mark key="'" line="41" column="44" />
@@ -285,6 +295,11 @@
         <mark key="]" line="67" column="44" />
         <mark key="." line="67" column="44" />
         <mark key="^" line="67" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/oreilly-kotlin-course/advanced/src/main/kotlin/com/hadihariri/kotlincourse/generics/Covariance.kt" timestamp="1525466785294">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
@@ -538,7 +553,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5hc3luYwo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0LktDbGFzcwo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;http://localhost:8089&quot;</text>
@@ -550,31 +565,31 @@
         <text encoding="base64">ICAgIHVzZXJzLnB1dCgiUHJvZHVjdCIsICIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5hc3luYwo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0LktDbGFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0LktDbGFzcwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL2RsLmJpbnRyYXkuY29tL2tvdGxpbi9rb3RsaW4tZWFwLTEuMSIKICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0Lm1lbWJlclByb3BlcnRpZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oYWRpaGFyaXJpLmtvdGxpbmNvdXJzZS5jbGFzc2VzLkN1c3RvbWVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oYWRpaGFyaXJpLmtvdGxpbmNvdXJzZS5jbGFzc2VzLkN1c3RvbWVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgUmVzcG9uc2VTdGF0dXNFeGNlcHRpb24oSHR0cFN0YXR1cy5CQURfUkVRVUVTVCwgZXhjZXB0aW9uLm1lc3NhZ2UsIGV4Y2VwdGlvbikK</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5hc3luYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChleGNlcHRpb246IEV4Y2VwdGlvbikgewo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlmIChkYXRlVGltZSAhPSBudWxsKSBEYXRlVGltZS5wYXJzZShkYXRlVGltZSkgZWxzZSBudWxsCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL2RsLmJpbnRyYXkuY29tL2tvdGxpbi9rb3RsaW4tZWFwLTEuMSIKICAgICAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>190</text>
