@@ -49,6 +49,7 @@
         <mark key="]" line="60" column="12" />
         <mark key="." line="60" column="12" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/rest/TowingRestClient.kt" timestamp="1525714432197" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/PropertyPlaceholderConfigurerTest.java" timestamp="1525285826540">
         <mark key="'" line="61" column="2" />
         <mark key="[" line="79" column="62" />
@@ -314,8 +315,6 @@
         <mark key="." line="29" column="55" />
         <mark key="^" line="29" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/rest/RestService.kt" timestamp="1525707536662" />
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/values/strings.xml" timestamp="1525633553016" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/services/impl/StatusCheckServiceImplTest.java" timestamp="1518048156952">
         <mark key="[" line="55" column="10" />
         <mark key="]" line="55" column="10" />
