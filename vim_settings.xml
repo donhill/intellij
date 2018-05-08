@@ -75,8 +75,8 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceImpl.java" timestamp="1525807905171">
-        <mark key="[" line="263" column="26" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceImpl.java" timestamp="1525810538010">
+        <mark key="[" line="345" column="55" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/IdServiceHelper.java" timestamp="1525209198846">
         <mark key="[" line="47" column="0" />
@@ -123,11 +123,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/SecurityId.java" timestamp="1525808493801">
-        <mark key="[" line="139" column="13" />
-        <mark key="]" line="17" column="55" />
-        <mark key="^" line="17" column="55" />
-        <mark key="." line="17" column="55" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/SecurityId.java" timestamp="1525812161432">
+        <mark key="'" line="142" column="5" />
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="140" column="21" />
+        <mark key="^" line="140" column="21" />
+        <mark key="." line="140" column="21" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
@@ -179,6 +180,7 @@
         <mark key="]" line="11" column="65" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceBurstImpl.java" timestamp="1525812410257" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/main/java/com/morningstar/servlets/impl/GetUserDiscussionImpl.java" timestamp="1518036024331">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -224,7 +226,7 @@
         <mark key="." line="54" column="67" />
         <mark key="^" line="54" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/XmlHelper.java" timestamp="1525808129080">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/XmlHelper.java" timestamp="1525810584535">
         <mark key="[" line="208" column="84" />
         <mark key="]" line="208" column="83" />
         <mark key="^" line="208" column="83" />
@@ -316,7 +318,7 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceImpl2.java" timestamp="1525805461980" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceImpl2.java" timestamp="1525812430834" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1525366832781">
         <mark key="'" line="41" column="44" />
         <mark key="[" line="48" column="20" />
@@ -362,9 +364,6 @@
         <mark key="]" line="55" column="87" />
         <mark key="^" line="55" column="86" />
         <mark key="." line="55" column="87" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/operation-attache-api/src/main/kotlin/com/morningstar/ii/operationattache/news/NewsService.kt" timestamp="1525289741821">
-        <mark key="[" line="46" column="45" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/RegisterPhoneFragment.kt" timestamp="1524264346527">
         <mark key="[" line="45" column="39" />
@@ -417,7 +416,8 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityResource.java" timestamp="1525807661634">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityResource.java" timestamp="1525812270887">
+        <mark key="'" line="76" column="4" />
         <mark key="[" line="107" column="37" />
         <mark key="]" line="109" column="30" />
         <mark key="." line="109" column="30" />
@@ -440,7 +440,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1525123635452">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1525812316608">
         <mark key="[" line="85" column="22" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
@@ -450,7 +450,7 @@
         <mark key="]" line="26" column="30" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525274914967">
+      <file name="/Dummy.txt" timestamp="1525809795808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -523,7 +523,7 @@
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1525805770118">
+      <file name="/fragment.java" timestamp="1525812551657">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="15" />
@@ -572,16 +572,18 @@
       <jump line="44" column="52" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/EnvResolvingPropertySourceTest.java" />
       <jump line="58" column="90" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/service/InputStreamConnectionFactoryTest.java" />
       <jump line="41" column="44" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" />
+      <jump line="76" column="4" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityResource.java" />
+      <jump line="142" column="5" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/SecurityId.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0Lm1lbWJlclByb3BlcnRpZXMK</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;http://localhost:8089&quot;</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>tows</text>
+        <text>quote</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVzZXJzLnB1dCgiUHJvZHVjdCIsICIiKTsK</text>
@@ -614,13 +616,13 @@
         <text encoding="base64">ICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cDovL2RsLmJpbnRyYXkuY29tL2tvdGxpbi9rb3RsaW4tZWFwLTEuMSIKICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
-        <text>190</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>tows</last-search>
+      <last-search>quote</last-search>
       <last-offset />
-      <last-pattern>tows</last-pattern>
+      <last-pattern>quote</last-pattern>
       <last-replace />
       <last-substitute>google</last-substitute>
       <last-dir>1</last-dir>
@@ -632,6 +634,7 @@
         <entry>build</entry>
         <entry>key</entry>
         <entry>tows</entry>
+        <entry>quote</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dvb2dsZQ==</entry>
@@ -647,9 +650,9 @@
         <entry>73</entry>
         <entry>234</entry>
         <entry>63</entry>
-        <entry>wq</entry>
         <entry>w</entry>
         <entry>190</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
