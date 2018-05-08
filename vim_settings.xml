@@ -154,6 +154,7 @@
         <mark key="." line="30" column="9" />
         <mark key="^" line="30" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceImpl.java" timestamp="1525799346137" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/service/InputStreamConnectionFactoryTest.java" timestamp="1525290376283">
         <mark key="'" line="58" column="90" />
         <mark key="[" line="45" column="64" />
@@ -260,7 +261,7 @@
         <mark key="]" line="202" column="0" />
         <mark key="." line="202" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IntradayQuote.java" timestamp="1525273869642">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IntradayQuote.java" timestamp="1525799030225">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
@@ -312,7 +313,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityResource.java" timestamp="1525797073974">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityResource.java" timestamp="1525799179638">
         <mark key="[" line="107" column="37" />
         <mark key="]" line="109" column="30" />
         <mark key="." line="109" column="30" />
