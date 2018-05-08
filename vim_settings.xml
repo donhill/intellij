@@ -61,7 +61,6 @@
         <mark key="." line="79" column="65" />
         <mark key="^" line="79" column="65" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/oswald/src/test/resources/mockup/list/list_id_list.json" timestamp="1525722287254" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/InputStreamConnectionFactory.java" timestamp="1525285687115">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -313,7 +312,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityResource.java" timestamp="1525123774134">
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityResource.java" timestamp="1525796534530">
         <mark key="[" line="107" column="37" />
         <mark key="]" line="109" column="30" />
         <mark key="." line="109" column="30" />
