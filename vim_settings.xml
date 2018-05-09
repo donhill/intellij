@@ -76,11 +76,11 @@
         <mark key="." line="11" column="30" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceImpl.java" timestamp="1525816127509">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="332" column="64" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="320" column="64" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/IdServiceHelper.java" timestamp="1525816225303">
         <mark key="[" line="40" column="92" />
@@ -129,11 +129,8 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/SecurityId.java" timestamp="1525812161432">
-        <mark key="'" line="142" column="5" />
+        <mark key="'" line="135" column="5" />
         <mark key="[" line="17" column="59" />
-        <mark key="]" line="140" column="21" />
-        <mark key="^" line="140" column="21" />
-        <mark key="." line="140" column="21" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
         <mark key="[" line="20" column="43" />
@@ -231,11 +228,11 @@
         <mark key="." line="54" column="67" />
         <mark key="^" line="54" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/XmlHelper.java" timestamp="1525810584535">
-        <mark key="[" line="208" column="84" />
-        <mark key="]" line="208" column="83" />
-        <mark key="^" line="208" column="83" />
-        <mark key="." line="208" column="83" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/XmlHelper.java" timestamp="1525873962447">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="209" column="83" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/DefaultRealTimeService.java" timestamp="1525290369265">
         <mark key="[" line="53" column="17" />
@@ -318,10 +315,10 @@
         <mark key="^" line="58" column="90" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/SecurityInformation.java" timestamp="1525808365633">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="31" />
-        <mark key="^" line="9" column="31" />
-        <mark key="." line="9" column="31" />
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceImpl2.java" timestamp="1525814104944" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" timestamp="1525366832781">
@@ -445,8 +442,8 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1525814004559">
-        <mark key="[" line="103" column="44" />
+      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1525873892694">
+        <mark key="[" line="70" column="2" />
         <mark key="]" line="103" column="44" />
         <mark key="." line="103" column="44" />
       </file>
@@ -455,7 +452,7 @@
         <mark key="]" line="26" column="30" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525809795808">
+      <file name="/Dummy.txt" timestamp="1525874090510">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -583,8 +580,8 @@
       <jump line="19" column="0" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IdServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -595,32 +592,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVzZXJzLnB1dCgiUHJvZHVjdCIsICIiKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHByaXZhdGUgU3RyaW5nIGJ1aWxkVXJsRm9ySWRTZXJ2aWNlUmVxdWVzdChTdHJpbmcgaWRTZXJ2aWNlUXVlcnlTdHJpbmcpIHsKCiAgICBDb2xsZWN0aW9uPFN0cmluZz4gZGF0YVBvdGlucyA9IElkU2VydmljZURhdGFOYW1lTWFwcGluZ0ZpbHRlci5nZXREYXRhUG9pbnRzKCk7CgogICAgU3RyaW5nIGVzY2FwZWRJZFNlcnZpY2VRdWVyeSA9IFNlY3VyaXR5VXRpbC5lbmNvZGVGb3JVUkwoaWRTZXJ2aWNlUXVlcnlTdHJpbmcpOwogICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoaWRTZXJ2aWNlVXJsLCBFWENMVURJTkdfREVBRF9TRUNVUklUSUVTLCBvcmcuYXBhY2hlLmNvbW1vbnMubGFuZzMuU3RyaW5nVXRpbHMKICAgICAgICAgICAgLmpvaW4oZGF0YVBvdGlucywgIiwiKSwKICAgICAgICBlc2NhcGVkSWRTZXJ2aWNlUXVlcnkpOwogIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0Lm1lbWJlclByb3BlcnRpZXMK</text>
+        <text encoding="base64">Ly9pbXBvcnQgb3JnLmpkb20ueHBhdGguWFBhdGg7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0LktDbGFzcwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHByaXZhdGUgU3RyaW5nIGJ1aWxkVXJsRm9ySWRTZXJ2aWNlUmVxdWVzdChTdHJpbmcgaWRTZXJ2aWNlUXVlcnlTdHJpbmcpIHsKCiAgICBDb2xsZWN0aW9uPFN0cmluZz4gZGF0YVBvdGlucyA9IElkU2VydmljZURhdGFOYW1lTWFwcGluZ0ZpbHRlci5nZXREYXRhUG9pbnRzKCk7CgogICAgU3RyaW5nIGVzY2FwZWRJZFNlcnZpY2VRdWVyeSA9IFNlY3VyaXR5VXRpbC5lbmNvZGVGb3JVUkwoaWRTZXJ2aWNlUXVlcnlTdHJpbmcpOwogICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoaWRTZXJ2aWNlVXJsLCBFWENMVURJTkdfREVBRF9TRUNVUklUSUVTLCBvcmcuYXBhY2hlLmNvbW1vbnMubGFuZzMuU3RyaW5nVXRpbHMKICAgICAgICAgICAgLmpvaW4oZGF0YVBvdGlucywgIiwiKSwKICAgICAgICBlc2NhcGVkSWRTZXJ2aWNlUXVlcnkpOwogIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0LktDbGFzcwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0Lm1lbWJlclByb3BlcnRpZXMK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0LktDbGFzcwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5oYWRpaGFyaXJpLmtvdGxpbmNvdXJzZS5jbGFzc2VzLkN1c3RvbWVyCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0LktDbGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5oYWRpaGFyaXJpLmtvdGxpbmNvdXJzZS5jbGFzc2VzLkN1c3RvbWVyCg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0Lm1lbWJlclByb3BlcnRpZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5hc3luYwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oYWRpaGFyaXJpLmtvdGxpbmNvdXJzZS5jbGFzc2VzLkN1c3RvbWVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oYWRpaGFyaXJpLmtvdGxpbmNvdXJzZS5jbGFzc2VzLkN1c3RvbWVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
