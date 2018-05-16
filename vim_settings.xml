@@ -137,11 +137,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="125" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1526412601932">
-        <mark key="[" line="72" column="26" />
-        <mark key="]" line="79" column="15" />
-        <mark key="^" line="79" column="15" />
-        <mark key="." line="79" column="15" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1526497456664">
+        <mark key="[" line="66" column="26" />
+        <mark key="]" line="40" column="25" />
+        <mark key="^" line="40" column="25" />
+        <mark key="." line="40" column="25" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/ResearchBarometerRepository.java" timestamp="1515185300416">
         <mark key="[" line="11" column="18" />
@@ -278,6 +278,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="66" column="42" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1526417540590">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/PostSubscriptionsServiceImpl.java" timestamp="1518047919212">
         <mark key="[" line="84" column="72" />
@@ -573,7 +576,7 @@
         <text encoding="base64">ICAgICAgLy9wYXJzZSBBY2NvdW50TGlzdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>190</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -607,8 +610,8 @@
         <entry>234</entry>
         <entry>63</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>190</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
