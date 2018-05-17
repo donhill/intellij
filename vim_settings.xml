@@ -137,8 +137,8 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="125" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1526497456664">
-        <mark key="[" line="66" column="26" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1526577426861">
+        <mark key="[" line="72" column="26" />
         <mark key="]" line="40" column="25" />
         <mark key="^" line="40" column="25" />
         <mark key="." line="40" column="25" />
@@ -251,10 +251,11 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1524664477060">
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1526577418151">
+        <mark key="[" line="507" column="45" />
+        <mark key="]" line="507" column="25" />
+        <mark key="." line="507" column="25" />
+        <mark key="^" line="507" column="25" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/IntradayQuote.java" timestamp="1525273869642">
         <mark key="[" line="151" column="0" />
@@ -536,8 +537,8 @@
       <jump line="41" column="44" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;http://localhost:8089&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;http://localhost:8089&quot;</text>
@@ -549,34 +550,34 @@
         <text encoding="base64">ICAgIHVzZXJzLnB1dCgiUHJvZHVjdCIsICIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FsLnRpbWUgPSAK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgUmVzcG9uc2VTdGF0dXNFeGNlcHRpb24oSHR0cFN0YXR1cy5CQURfUkVRVUVTVCwgZXhjZXB0aW9uLm1lc3NhZ2UsIGV4Y2VwdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChleGNlcHRpb246IEV4Y2VwdGlvbikgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlmIChkYXRlVGltZSAhPSBudWxsKSBEYXRlVGltZS5wYXJzZShkYXRlVGltZSkgZWxzZSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgUmVzcG9uc2VTdGF0dXNFeGNlcHRpb24oSHR0cFN0YXR1cy5CQURfUkVRVUVTVCwgZXhjZXB0aW9uLm1lc3NhZ2UsIGV4Y2VwdGlvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHZhbGlkYXRlRGF0ZVRpbWUoZGF0ZVRpbWU6IFN0cmluZz8pOiBEYXRlVGltZT8gewo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChleGNlcHRpb246IEV4Y2VwdGlvbikgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlmIChkYXRlVGltZSAhPSBudWxsKSBEYXRlVGltZS5wYXJzZShkYXRlVGltZSkgZWxzZSBudWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy9wYXJzZSBBY2NvdW50TGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>508</text>
       </register>
     </registers>
     <search>
@@ -612,6 +613,7 @@
         <entry>wq</entry>
         <entry>190</entry>
         <entry>w</entry>
+        <entry>508</entry>
       </history-cmd>
       <history-expr />
       <history-input />
