@@ -170,6 +170,11 @@
         <mark key="^" line="48" column="84" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/portfoliox/export/build.gradle" timestamp="1526665019217">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/test/java/com/morningstar/servlets/impl/GetUserDiscussionImplTest.java" timestamp="1518048442453">
         <mark key="[" line="62" column="39" />
         <mark key="]" line="63" column="0" />
@@ -260,11 +265,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/portfoliox/export/src/test/kotlin/Foo.kt" timestamp="1526664951124">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
+      <file name="$USER_HOME$/projects/morningstar/portfoliox/export/src/test/kotlin/Foo.kt" timestamp="1526666252303">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/dao/impl/CustomerDAOImpl.java" timestamp="1525119354214">
         <mark key="[" line="44" column="104" />
@@ -283,6 +287,9 @@
         <mark key="]" line="23" column="31" />
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="31" />
+      </file>
+      <file name="/fragment.kt" timestamp="1526665808906">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/operation-attache-api/src/test/kotlin/com/morningstar/ii/operationattache/news/repository/MyTest.kt" timestamp="1524835993320">
         <mark key="[" line="45" column="20" />
@@ -553,11 +560,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/morningstar/apiv2/src/test/java/com/morningstar/dataapi/api/controllers/PortfolioControllerIT.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>POST</text>
@@ -566,31 +573,31 @@
         <text encoding="base64">ICAgIHVzZXJzLnB1dCgiUHJvZHVjdCIsICIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgSW1wb3J0IHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgb3JnLmpkb20ueHBhdGguWFBhdGg7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRhID0gYXJyYXlPZjxTdHJpbmc+KCJJRCIsIk5BTUUiLCJBRERSRVNTIiwiQUdFIikK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHByaXZhdGUgU3RyaW5nIGJ1aWxkVXJsRm9ySWRTZXJ2aWNlUmVxdWVzdChTdHJpbmcgaWRTZXJ2aWNlUXVlcnlTdHJpbmcpIHsKCiAgICBDb2xsZWN0aW9uPFN0cmluZz4gZGF0YVBvdGlucyA9IElkU2VydmljZURhdGFOYW1lTWFwcGluZ0ZpbHRlci5nZXREYXRhUG9pbnRzKCk7CgogICAgU3RyaW5nIGVzY2FwZWRJZFNlcnZpY2VRdWVyeSA9IFNlY3VyaXR5VXRpbC5lbmNvZGVGb3JVUkwoaWRTZXJ2aWNlUXVlcnlTdHJpbmcpOwogICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoaWRTZXJ2aWNlVXJsLCBFWENMVURJTkdfREVBRF9TRUNVUklUSUVTLCBvcmcuYXBhY2hlLmNvbW1vbnMubGFuZzMuU3RyaW5nVXRpbHMKICAgICAgICAgICAgLmpvaW4oZGF0YVBvdGlucywgIiwiKSwKICAgICAgICBlc2NhcGVkSWRTZXJ2aWNlUXVlcnkpOwogIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">PC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0Lm1lbWJlclByb3BlcnRpZXMK</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjQuMDwvdmVyc2lvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0LktDbGFzcwo=</text>
+        <text encoding="base64">CTxhcnRpZmFjdElkPm9wZW5jc3Y8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0LktDbGFzcwo=</text>
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5vcGVuY3N2PC9ncm91cElkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0Lm1lbWJlclByb3BlcnRpZXMK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5oYWRpaGFyaXJpLmtvdGxpbmNvdXJzZS5jbGFzc2VzLkN1c3RvbWVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5oYWRpaGFyaXJpLmtvdGxpbmNvdXJzZS5jbGFzc2VzLkN1c3RvbWVyCg==</text>
+        <text encoding="base64">PC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
