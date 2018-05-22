@@ -404,7 +404,6 @@
         <mark key="." line="109" column="30" />
         <mark key="^" line="109" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/portfoliox/export/src/test/resources/export_accounts.csv" timestamp="1526672412290" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/services/impl/StatusCheckServiceImplTest.java" timestamp="1518048156952">
         <mark key="[" line="55" column="10" />
         <mark key="]" line="55" column="10" />
@@ -2549,7 +2548,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz4lcy86IFN0cmluZy8vZw==</text>
+        <text>92</text>
       </register>
     </registers>
     <search>
@@ -2575,7 +2574,6 @@
         <entry>: String</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2dvb2dsZQ==</entry>
         <entry>40</entry>
         <entry>256</entry>
         <entry>456</entry>
@@ -2595,6 +2593,7 @@
         <entry>31</entry>
         <entry encoding="base64">JzwsJz4lcy92YWwvL2c=</entry>
         <entry encoding="base64">JzwsJz4lcy86IFN0cmluZy8vZw==</entry>
+        <entry>92</entry>
       </history-cmd>
       <history-expr />
       <history-input />
