@@ -65,6 +65,14 @@
           <Count>73</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Convert Java File to Kotlin File">
+        <Item>
+          <IdeaActionID>ConvertJavaToKotlin</IdeaActionID>
+          <ShortCut>'⌥⇧⌘K'</ShortCut>
+          <Description>Convert Java File to Kotlin File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>910</Count>
+          <Count>917</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
