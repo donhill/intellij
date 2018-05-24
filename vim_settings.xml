@@ -58,9 +58,9 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-usertracking-parent/service-usertracking-api/src/main/java/com/morningstar/servlets/usertracking/TrackingServlet.java" timestamp="1527170479009" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/handlers.kt" timestamp="1527171661555">
-        <mark key="]" line="98" column="37" />
-        <mark key="." line="98" column="37" />
-        <mark key="^" line="98" column="37" />
+        <mark key="]" line="97" column="37" />
+        <mark key="." line="97" column="37" />
+        <mark key="^" line="97" column="37" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityInfo.java" timestamp="1516922014952">
         <mark key="[" line="18" column="0" />
@@ -142,6 +142,7 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
+      <file name="/Router.kt" timestamp="1527174115143" />
       <file name="$USER_HOME$/projects/android/tow-user/app/src/debug/java/net/gemlogic/towapp/extentions/Fragment.kt" timestamp="1521666299436">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -381,8 +382,11 @@
         <mark key="^" line="45" column="38" />
         <mark key="." line="45" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/Router.kt" timestamp="1527169123210">
-        <mark key="[" line="37" column="13" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/Router.kt" timestamp="1527174546295">
+        <mark key="[" line="64" column="5" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="41" column="16" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/serviceInterface/RealTimeQuoteService.java" timestamp="1525119254774">
         <mark key="[" line="10" column="0" />
@@ -602,7 +606,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhciB0aW1lem9uZW9mZnNldCA9ICIwIgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>paramMap[&quot;ext&quot;]</text>
@@ -614,25 +618,43 @@
         <text encoding="base64">ICAgIHVzZXJzLnB1dCgiUHJvZHVjdCIsICIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhciB0aW1lem9uZW9mZnNldCA9ICIwIgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaC5zZXREYXRlKCJFbnRlclRpbWUiLCBVc2VyVHJhY2tpbmdVdGlsLmdldEZvcm1hdGVkVGltZShjdXJyZW50VGltZSAtIHRkLCB0aW1lem9uZW9mZnNldCkpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>barometerHandler: BarometerHandler,
+                 securityInfoHandler: SecurityInfoHandler,
+                 securityTypeHandler: SecurityTypeHandler,
+                 categoryReturnHandler: CategoryReturnHandler</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text>(accept(APPLICATION_JSON) and &quot;/securities&quot;).nest {
+                GET(&quot;/{performanceId}/barometer&quot;, barometerHandler::findAll)
+                GET(&quot;/{performanceId}&quot;, securityInfoHandler::findAll)
+                GET(&quot;/category/{term}/{years}/{order}&quot;, securityTypeHandler::findAll) // month/1/ASC year/2/DESC
+            }
+            &quot;/securities&quot;.nest {
+                accept(TEXT_EVENT_STREAM).nest {
+                    GET(&quot;/{performanceId}/barometer&quot;, barometerHandler::findAll)
+                    GET(&quot;/{performanceId}&quot;, securityInfoHandler::findAsMono)
+                    GET(&quot;/{performanceId}&quot;, categoryReturnHandler::findAsMono)
+                    GET(&quot;/{performanceId}&quot;, securityTypeHandler::findAsMono)
+                }
+            }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudG9TdHJpbmcoKSkK</text>
+      <register name="5" type="4">
+        <text>barometerHandler: BarometerHandler,
+                 securityInfoHandler: SecurityInfoHandler,
+                 securityTypeHandler: SecurityTypeHandler,
+                 categoryReturnHandler: CategoryReturnHandler</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY3JlYXRlSW5mb0xvZyhTdHJpbmcuZm9ybWF0KCJleHQgdGltZSAlcyBtdXN0IGxhdGVyIGJlaGluZCBlbnQgdGltZSAlcyIsIHQxLCB0MCkpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhciB0aW1lem9uZW9mZnNldCA9ICIwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5kZWJ1ZyhMb2dFbnRyeQo=</text>
+        <text encoding="base64">ICAgICAgICBkaC5zZXREYXRlKCJFbnRlclRpbWUiLCBVc2VyVHJhY2tpbmdVdGlsLmdldEZvcm1hdGVkVGltZShjdXJyZW50VGltZSAtIHRkLCB0aW1lem9uZW9mZnNldCkpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2573,10 +2595,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRkIDwgMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGQgPSB0MSAtIHQwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>92</text>

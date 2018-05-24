@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>920</Count>
+          <Count>921</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -406,7 +406,7 @@
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Open Module Settings</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
