@@ -60,11 +60,10 @@
         <mark key="^" line="23" column="28" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-usertracking-parent/service-usertracking-api/src/main/java/com/morningstar/servlets/usertracking/TrackingServlet.java" timestamp="1527177839801" />
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/handlers.kt" timestamp="1527184583262">
-        <mark key="[" line="199" column="29" />
-        <mark key="]" line="199" column="28" />
-        <mark key="." line="199" column="28" />
-        <mark key="^" line="199" column="28" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/handlers.kt" timestamp="1527186166515">
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityInfo.java" timestamp="1516922014952">
         <mark key="[" line="18" column="0" />
@@ -636,7 +635,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgc2VydmljZSA9IHRoaXMudXNlclRyYWNraW5nU2VydmljZUF0b21pY1JlZmVyZW5jZS5nZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>UserTrackingUtil.parseInt(value)</text>
@@ -648,25 +647,25 @@
         <text encoding="base64">ICAgIHVzZXJzLnB1dCgiUHJvZHVjdCIsICIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgc2VydmljZSA9IHRoaXMudXNlclRyYWNraW5nU2VydmljZUF0b21pY1JlZmVyZW5jZS5nZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxQYXJhbWV0ZXJzLmFkZChTcWxQYXJhbWV0ZXIoVHlwZXMuREFURSwga2V5LCBEYXRlKHRpbWUpKSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxQYXJhbWV0ZXJzLmFkZChTcWxQYXJhbWV0ZXIoVHlwZXMuVkFSQ0hBUiwga2V5LCB0aW1lKSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxQYXJhbWV0ZXJzLmFkZChTcWxQYXJhbWV0ZXIoVHlwZXMuQk9PTEVBTiwga2V5LCBqYXZhLmxhbmcuQm9vbGVhbi5wYXJzZUJvb2xlYW4odmFsdWUpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcFsiY29va2llLSIgKyBjb29raWVbaV0ubmFtZS50cmltKCkudG9Mb3dlckNhc2UoKV0gPSBjb29raWVbaV0udmFsdWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpIGluIGNvb2tpZS5pbmRpY2VzKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2607,10 +2606,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzcWxQYXJhbWV0ZXJzLmFkZChTcWxQYXJhbWV0ZXIoVHlwZXMuSU5URUdFUiwga2V5LCBVc2VyVHJhY2tpbmdVdGlsLnBhcnNlSW50KHZhbHVlKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29va2llICE9IG51bGwpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwU3FsUGFyYW1ldGVyU291cmNlLmFkZFZhbHVlKGtleSwgdmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29va2llID0gcmVxLmNvb2tpZXMK</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
