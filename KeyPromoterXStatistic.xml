@@ -70,7 +70,7 @@
           <IdeaActionID>ConvertJavaToKotlin</IdeaActionID>
           <ShortCut>'⌥⇧⌘K'</ShortCut>
           <Description>Convert Java File to Kotlin File</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>962</Count>
+          <Count>971</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
