@@ -368,12 +368,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/DefaultUserTracking.kt" timestamp="1527264841193">
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/DefaultUserTracking.kt" timestamp="1527267003024">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="53" column="1" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/rest/ProviderService.kt" timestamp="1524502867511">
         <mark key="[" line="33" column="24" />
@@ -499,11 +498,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/DatabaseHandler.kt" timestamp="1527187167983">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="48" column="49" />
-        <mark key="." line="48" column="49" />
-        <mark key="^" line="48" column="49" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/DatabaseHandler.kt" timestamp="1527267076035">
+        <mark key="[" line="72" column="34" />
+        <mark key="]" line="72" column="7" />
+        <mark key="." line="72" column="7" />
+        <mark key="^" line="72" column="7" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1525873892694">
         <mark key="[" line="70" column="2" />
@@ -661,7 +660,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgamRiYyAgPSBKZGJjVGVtcGxhdGUoZGF0YVNvdXJjZSkK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="-" type="4">
         <text>UserTrackingUtil.parseInt(value)</text>
@@ -673,25 +672,25 @@
         <text encoding="base64">ICAgIHVzZXJzLnB1dCgiUHJvZHVjdCIsICIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgamRiYyAgPSBKZGJjVGVtcGxhdGUoZGF0YVNvdXJjZSkK</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8IS0tPGRlcGVuZGVuY3k+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXJ2aWNlQ29uZmlnUmVmZXJlbmNlLmdldCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8IS0tPC9kZXBlbmRlbmN5Pi0tPgo=</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJPCEtLTx2ZXJzaW9uPjIuNi4wPC92ZXJzaW9uPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgamRiYyAgPSBKZGJjVGVtcGxhdGUoZGF0YVNvdXJjZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJPCEtLTxhcnRpZmFjdElkPkhpa2FyaUNQPC9hcnRpZmFjdElkPi0tPgo=</text>
+        <text encoding="base64">CQk8IS0tPGRlcGVuZGVuY3k+LS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJPCEtLTxncm91cElkPmNvbS56YXh4ZXI8L2dyb3VwSWQ+LS0+Cg==</text>
+        <text encoding="base64">CQk8IS0tPC9kZXBlbmRlbmN5Pi0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8IS0tPGRlcGVuZGVuY3k+LS0+Cg==</text>
+        <text encoding="base64">CQkJPCEtLTx2ZXJzaW9uPjIuNi4wPC92ZXJzaW9uPi0tPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2632,10 +2631,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLm1pY3Jvc29mdC5zcWxzZXJ2ZXIvbXNzcWwtamRiYyAtLT4K</text>
+        <text encoding="base64">CQkJPCEtLTxhcnRpZmFjdElkPkhpa2FyaUNQPC9hcnRpZmFjdElkPi0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">CQkJPCEtLTxncm91cElkPmNvbS56YXh4ZXI8L2dyb3VwSWQ+LS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
