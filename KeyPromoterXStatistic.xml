@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Tests'">
@@ -318,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>946</Count>
+          <Count>947</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -446,7 +446,7 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild '&lt;default&gt;'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild ...'foundations-parent'">
@@ -550,7 +550,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AemBffServiceApplication'</Description>
-          <Count>7</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CustomerDAOImplTest'">
@@ -638,7 +638,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>198</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -646,7 +646,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -966,7 +966,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'AemBffServiceApplication'</Description>
-          <Count>38</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in iip-services-subscription'">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>345</Count>
+          <Count>346</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
