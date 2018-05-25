@@ -3,206 +3,45 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/cache/Ehcache.java" timestamp="1525118151946">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="107" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/FeedComparator.java" timestamp="1525120164181">
-        <mark key="[" line="77" column="80" />
-        <mark key="]" line="118" column="64" />
-        <mark key="^" line="118" column="64" />
-        <mark key="." line="118" column="64" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/RequestFilter.java" timestamp="1515600671881">
-        <mark key="[" line="44" column="24" />
-        <mark key="]" line="44" column="25" />
-        <mark key="." line="44" column="25" />
-        <mark key="^" line="44" column="25" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.0.6.RELEASE/spring-webflux-5.0.6.RELEASE.jar!/org/springframework/web/reactive/function/server/ServerRequest.class" timestamp="1527273417775" />
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/application_test.properties" timestamp="1525285925514">
-        <mark key="[" line="24" column="54" />
-        <mark key="]" line="24" column="54" />
-        <mark key="." line="24" column="54" />
-        <mark key="^" line="24" column="54" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/GetPromotionsServiceImpl.java" timestamp="1518029444717">
-        <mark key="[" line="86" column="78" />
-        <mark key="]" line="86" column="87" />
-        <mark key="." line="86" column="87" />
-        <mark key="^" line="86" column="87" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" timestamp="1518049708799">
-        <mark key="[" line="310" column="8" />
-        <mark key="]" line="310" column="8" />
-        <mark key="." line="310" column="8" />
-        <mark key="^" line="306" column="82" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/proxy/impl/ProxyServiceImpl.java" timestamp="1518024154322">
-        <mark key="[" line="56" column="53" />
-        <mark key="]" line="56" column="53" />
-        <mark key="." line="56" column="53" />
-        <mark key="^" line="56" column="12" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/application.properties" timestamp="1527264258625">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/operation-attache-api/src/main/kotlin/com/morningstar/ii/operationattache/news/NewsController.kt" timestamp="1525289597744">
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="23" column="28" />
-        <mark key="." line="23" column="28" />
-        <mark key="^" line="23" column="28" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/morningstar/osgi/lib/uim-client-sdk/1.5.0-SNAPSHOT/uim-client-sdk-1.5.0-20180406.210008-1.jar!/com/morningstar/uim/sdk/internal/services/utils/HttpClient.class" timestamp="1527275505407" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-usertracking-parent/service-usertracking-api/src/main/java/com/morningstar/servlets/usertracking/TrackingServlet.java" timestamp="1527177839801" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/handlers.kt" timestamp="1527273746610">
         <mark key="[" line="128" column="32" />
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/models/SecurityInfo.java" timestamp="1516922014952">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="5" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="125" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/repositories/ResearchBarometerRepository.java" timestamp="1515185300416">
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="30" />
-        <mark key="^" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-usertracking-parent/service-usertracking-api/src/main/java/com/morningstar/servlets/usertracking/EmailTrackingServlet.java" timestamp="1527169043248" />
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/IdServiceHelper.java" timestamp="1525816225303">
-        <mark key="[" line="40" column="92" />
-        <mark key="]" line="40" column="107" />
-        <mark key="." line="40" column="107" />
-        <mark key="^" line="40" column="107" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/JarvisConfig.xml" timestamp="1525209854923">
-        <mark key="[" line="122" column="31" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="14" column="27" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/database/datasource/DataSourceName.java" timestamp="1527192267991" />
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1524264252059">
-        <mark key="[" line="66" column="33" />
-        <mark key="]" line="67" column="25" />
-        <mark key="^" line="67" column="25" />
-        <mark key="." line="67" column="25" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.0.4.RELEASE/spring-webflux-5.0.4.RELEASE.jar!/org/springframework/web/reactive/function/server/ServerRequest.class" timestamp="1527183653893" />
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/userservice/impl/PostSubscriptionsServiceImpl.java" timestamp="1518047919212">
-        <mark key="[" line="84" column="72" />
-        <mark key="]" line="128" column="0" />
-        <mark key="^" line="128" column="1" />
-        <mark key="." line="128" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.0.4.RELEASE/spring-webflux-5.0.4.RELEASE-sources.jar!/org/springframework/web/reactive/function/server/ServerRequest.java" timestamp="1527184381015" />
+      <file name="$MAVEN_REPOSITORY$/com/morningstar/osgi/lib/uim-client-sdk/1.5.0-SNAPSHOT/uim-client-sdk-1.5.0-20180406.210008-1.jar!/com/morningstar/uim/sdk/client/IdentityGateway.class" timestamp="1527275151053" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/JdbcPasswordUtil.java" timestamp="1527262615335">
         <mark key="[" line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/initializers/SpringWebAppInitializer.java" timestamp="1515083959746">
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="28" column="39" />
-        <mark key="^" line="28" column="39" />
-        <mark key="." line="28" column="39" />
-      </file>
       <file name="/Router.kt" timestamp="1527174115143" />
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/bff/impl/BackendForFrontendServiceRepository.java" timestamp="1518024078656">
-        <mark key="[" line="29" column="55" />
-        <mark key="]" line="29" column="55" />
-        <mark key="." line="29" column="55" />
-        <mark key="^" line="29" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/InputstreamConnectionFactory.java" timestamp="1525203962463">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="22" />
-      </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/ConnectionTimeoutUtil.java" timestamp="1527275250607" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-parent/ux-web-design/src/content/jcr_root/apps/morningstar/osgiConfig/config.publish.qa/com.morningstar.database.datasource.impl.JdbcEncryptedPoolService-sqlserver.usertracking.morningstar.com.UserTrackingData.xml" timestamp="1527196267301" />
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchController.java" timestamp="1516921803423">
-        <mark key="[" line="64" column="56" />
-        <mark key="]" line="64" column="35" />
-        <mark key="." line="64" column="35" />
-        <mark key="^" line="64" column="35" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/ResponseImage.kt" timestamp="1527193453185">
         <mark key="[" line="18" column="73" />
         <mark key="]" line="14" column="34" />
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/TestLogger.java" timestamp="1515452213646">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="39" column="10" />
-        <mark key="." line="39" column="10" />
-        <mark key="^" line="39" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/main/java/com/morningstar/servlets/impl/GetUserDiscussionImpl.java" timestamp="1518036024331">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="48" column="84" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/Config.kt" timestamp="1527201854059">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/repositories/FakeBarometerRepository.java" timestamp="1515430505302">
-        <mark key="[" line="28" column="10" />
-        <mark key="]" line="28" column="10" />
-        <mark key="^" line="28" column="35" />
-        <mark key="." line="28" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/presenters/ProviderPresenterImpl.kt" timestamp="1524664164936">
-        <mark key="[" line="86" column="64" />
-        <mark key="]" line="86" column="64" />
-        <mark key="^" line="86" column="63" />
-        <mark key="." line="86" column="64" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/morningstar/osgi/lib/uim-client-sdk/1.5.0-SNAPSHOT/uim-client-sdk-1.5.0-20180406.210008-1.jar!/com/morningstar/uim/sdk/internal/services/utils/HttpClientPool.class" timestamp="1527275559980" />
+      <file name="$MAVEN_REPOSITORY$/com/morningstar/osgi/lib/uim-client-sdk/1.5.0-SNAPSHOT/uim-client-sdk-1.5.0-20180406.210008-1.jar!/com/morningstar/uim/sdk/internal/services/OpenAMServiceImpl.class" timestamp="1527275326785" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/AemBffServiceApplication.kt" timestamp="1527202127240">
         <mark key="[" line="13" column="58" />
         <mark key="]" line="16" column="15" />
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/config/PropertyResolverImpl.java" timestamp="1515083681588">
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="47" column="3" />
-        <mark key="^" line="47" column="3" />
-        <mark key="." line="47" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/test/java/com/morningstar/subscription/service/UserSurveyServiceImplTest.java" timestamp="1518048111843">
-        <mark key="[" line="54" column="52" />
-        <mark key="]" line="54" column="67" />
-        <mark key="." line="54" column="67" />
-        <mark key="^" line="54" column="67" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/XmlHelper.java" timestamp="1525873962447">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="209" column="83" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/DefaultRealTimeService.java" timestamp="1525290369265">
-        <mark key="[" line="53" column="17" />
-        <mark key="]" line="63" column="6" />
-        <mark key="^" line="63" column="6" />
-        <mark key="." line="63" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/portfolio/impl/PortfolioAccessTokenServiceImpl.java" timestamp="1518036062176">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="70" column="8" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient-osgi/4.4.1/httpclient-osgi-4.4.1.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.class" timestamp="1527275604467" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/repositories/FakeDataProvider.kt" timestamp="1527202585525">
         <mark key="[" line="12" column="23" />
       </file>
@@ -213,50 +52,20 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-parent/ux-web-design/src/content/jcr_root/apps/morningstar/osgiConfig/config.author.uat/com.morningstar.database.datasource.impl.JdbcEncryptedPoolService-sqlserver.usertracking.morningstar.com.UserTrackingData.xml" timestamp="1527262508254" />
-      <file name="$USER_HOME$/projects/morningstar/portfoliox/export/src/test/kotlin/Foo.kt" timestamp="1526671531752">
-        <mark key="[" line="44" column="68" />
-        <mark key="]" line="44" column="67" />
-        <mark key="." line="44" column="67" />
-        <mark key="^" line="44" column="67" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/dao/impl/CustomerDAOImpl.java" timestamp="1527267578246">
         <mark key="[" line="44" column="104" />
         <mark key="]" line="44" column="102" />
         <mark key="^" line="44" column="102" />
         <mark key="." line="44" column="102" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/Test.java" timestamp="1517946119234">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="15" column="55" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="11" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/android/tow-user/.circleci/config.yml" timestamp="1520698004428">
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="23" column="31" />
-        <mark key="." line="23" column="31" />
-        <mark key="^" line="23" column="31" />
-      </file>
       <file name="/fragment.kt" timestamp="1527269362692">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/operation-attache-api/src/test/kotlin/com/morningstar/ii/operationattache/news/repository/MyTest.kt" timestamp="1524835993320">
-        <mark key="[" line="45" column="20" />
-        <mark key="]" line="30" column="9" />
-        <mark key="." line="30" column="9" />
-        <mark key="^" line="30" column="9" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/pom.xml" timestamp="1527264528520">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
         <mark key="^" line="108" column="22" />
         <mark key="." line="113" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/model/SecurityInformation.java" timestamp="1525808365633">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/DefaultUserTracking.kt" timestamp="1527269469971">
         <mark key="'" line="207" column="0" />
@@ -265,63 +74,10 @@
         <mark key="." line="54" column="1" />
         <mark key="^" line="54" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/pom.xml" timestamp="1515005224844">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="8" />
-        <mark key="^" line="10" column="8" />
-        <mark key="." line="10" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-build/pom.xml" timestamp="1516821709490">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/aem-iip-dc-docker/README.md" timestamp="1517940151781">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="63" />
-        <mark key="^" line="11" column="63" />
-        <mark key="." line="11" column="63" />
-      </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/rest/RestService.kt" timestamp="1520206467699">
-        <mark key="[" line="55" column="87" />
-        <mark key="]" line="55" column="87" />
-        <mark key="^" line="55" column="86" />
-        <mark key="." line="55" column="87" />
-      </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/RegisterPhoneFragment.kt" timestamp="1524264346527">
-        <mark key="[" line="45" column="39" />
-        <mark key="]" line="45" column="38" />
-        <mark key="^" line="45" column="38" />
-        <mark key="." line="45" column="38" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/morningstar/uim/sdk/client/uim-client-sdk/1.5/uim-client-sdk-1.5.jar!/com/morningstar/uim/sdk/internal/services/utils/HttpClient.class" timestamp="1527276219699" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/Router.kt" timestamp="1527261550065" />
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/controllers/LogAppender.java" timestamp="1515451549572">
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="21" />
-        <mark key="^" line="20" column="21" />
-        <mark key="." line="20" column="21" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/TrackingService.java" timestamp="1527169268344">
         <mark key="[" line="0" column="60" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/log4j2.xml" timestamp="1515603598319">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/RealTimeRequestHandler.java" timestamp="1525203199305">
-        <mark key="[" line="75" column="27" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="66" column="42" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service-api/src/main/java/com/morningstar/servlets/utils/OptionIdValuesUtil.java" timestamp="1527105712049">
-        <mark key="[" line="119" column="79" />
-        <mark key="]" line="119" column="78" />
-        <mark key="^" line="119" column="78" />
-        <mark key="." line="119" column="78" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/UserTrackingException.kt" timestamp="1527267265724">
         <mark key="[" line="4" column="108" />
@@ -334,78 +90,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/utils/HttpUtilityFakeIdService.java" timestamp="1525887629167">
-        <mark key="[" line="21" column="214" />
-        <mark key="]" line="21" column="212" />
-        <mark key="^" line="21" column="212" />
-        <mark key="." line="21" column="212" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/DatabaseHandler.kt" timestamp="1527269738758">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527111706212">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1524326946388">
-        <mark key="[" line="150" column="47" />
-        <mark key="]" line="150" column="71" />
-        <mark key="." line="150" column="71" />
-        <mark key="^" line="150" column="71" />
-      </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/activities/SplashActivity.kt" timestamp="1520779464924">
-        <mark key="[" line="44" column="3" />
-        <mark key="]" line="44" column="3" />
-        <mark key="^" line="44" column="3" />
-        <mark key="." line="44" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/android/tow-user/build.gradle" timestamp="1520869471655">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="39" column="14" />
-        <mark key="^" line="39" column="14" />
-        <mark key="." line="39" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/util/UserTrackingUtil.kt" timestamp="1527193052797">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="27" column="39" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-usertracking-parent/service-usertracking-api/src/main/java/com/morningstar/servlets/usertracking/UserTrackingServlet.java" timestamp="1527183083171" />
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/filters/RequestFilterTest.java" timestamp="1515529123459">
-        <mark key="[" line="79" column="13" />
-        <mark key="]" line="79" column="12" />
-        <mark key="^" line="79" column="12" />
-        <mark key="." line="79" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ExceptionProcessor.java" timestamp="1515172199992">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/android/tow-user/.circleci/config.yaml" timestamp="1520639755448">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="6" />
-        <mark key="." line="12" column="6" />
-        <mark key="^" line="12" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_vanguard.json" timestamp="1515795946604">
-        <mark key="[" line="42" column="30" />
-        <mark key="]" line="41" column="23" />
-        <mark key="." line="41" column="23" />
-        <mark key="^" line="41" column="23" />
-      </file>
-      <file name="/fragment.java" timestamp="1527183218786">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="31" column="121" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchResource.java" />
@@ -2435,7 +2125,7 @@
         <text encoding="base64">ICAgIGZ1biBmaW5kQXNNb25vKHJlcTogU2VydmVyUmVxdWVzdCkgPQo=</text>
       </register>
       <register name=":" type="4">
-        <text>92</text>
+        <text>37</text>
       </register>
     </registers>
     <search>
@@ -2461,7 +2151,6 @@
         <entry>: String</entry>
       </history-search>
       <history-cmd>
-        <entry>40</entry>
         <entry>256</entry>
         <entry>456</entry>
         <entry>27</entry>
@@ -2481,6 +2170,7 @@
         <entry encoding="base64">JzwsJz4lcy92YWwvL2c=</entry>
         <entry encoding="base64">JzwsJz4lcy86IFN0cmluZy8vZw==</entry>
         <entry>92</entry>
+        <entry>37</entry>
       </history-cmd>
       <history-expr />
       <history-input />
