@@ -178,12 +178,19 @@
         <mark key="^" line="44" column="102" />
         <mark key="." line="44" column="102" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/sqlengine/sqlmart/SQLMartMetaServiceImpl.java" timestamp="1527289558073" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/pom.xml" timestamp="1527283801781">
         <mark key="[" line="115" column="27" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-ui-web/src/main/java/com/morningstar/cookie/parser/impl/UserParserImpl.java" timestamp="1527283072042" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/DefaultUserTracking.kt" timestamp="1527289665296">
+        <mark key="'" line="205" column="0" />
+        <mark key="[" line="70" column="99" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheServiceImpl.kt" timestamp="1527285268971">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -257,6 +264,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/DatabaseHandler.kt" timestamp="1527290050977">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/util/UserCookieParser.kt" timestamp="1527283086040">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -272,11 +284,10 @@
         <mark key="]" line="26" column="30" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/logging/EventField.kt" timestamp="1527288221347">
-        <mark key="[" line="2" column="71" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/logging/EventField.kt" timestamp="1527289773768">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/apiv2/src/test/java/com/morningstar/dataapi/api/controllers/PortfolioControllerIT.java" timestamp="1526416587499">
         <mark key="'" line="0" column="0" />
@@ -379,7 +390,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>user =</text>
@@ -391,25 +402,37 @@
         <text>*</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biBFdmVudEZpZWxkcygpOiA/Pz8ge30K</text>
+      <register name="2" type="4">
+        <text>catch (e: SQLException) {
+            val fields = EventFields(&quot;proc&quot;, proc,
+                &quot;http parameters&quot;, this.httpRequestParameterMap.toString(),
+                &quot;database parameters&quot;, mapSqlParamSource.toString())
+            
+
+//            LOGGER.error(LogEntry.createExceptionLog(e, 
+// EventSeverity.HIGH).setEventDescription(&quot;Error execute insert user tracking data into database&quot;)
+// .set(&quot;proc&quot;, proc)
+// .set(&quot;http parameters&quot;, 
+// this.httpRequestParameterMap.toString()).set(&quot;database parameters&quot;, 
+// getSqlParameters()).toString())
+            throw UserTrackingException(e)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbDxBbnk+KGNhY2hlTWFuYWdlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWFwT2Y6IE1hcDxTdHJpbmcsIEFueT4gPSBtYXBPZjxTdHJpbmc+KGtleXZhbHMpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biByZW1vdmUoa2V5OiBLKSB7Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBFdmVudEZpZWxkcygpOiA/Pz8ge30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbDxBbnk+KGNhY2hlTWFuYWdlcikK</text>
       </register>
       <register name="w" type="4">
         <keys>
