@@ -10,9 +10,20 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/application.properties" timestamp="1527264258625">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/morningstar/iip/dc/foundations-ui-web/4.15.0-SNAPSHOT/foundations-ui-web-4.15.0-20180522.070328-52.jar!/com/morningstar/cookie/impl/CookieServiceImpl.class" timestamp="1527282184328" />
       <file name="$MAVEN_REPOSITORY$/com/morningstar/osgi/lib/uim-client-sdk/1.5.0-SNAPSHOT/uim-client-sdk-1.5.0-20180406.210008-1.jar!/com/morningstar/uim/sdk/internal/services/utils/HttpClient.class" timestamp="1527275505407" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-usertracking-parent/service-usertracking-api/src/main/java/com/morningstar/servlets/usertracking/TrackingServlet.java" timestamp="1527177839801" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/handlers.kt" timestamp="1527429806174">
+        <mark key="[" line="82" column="8" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="67" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/UserTrackingService.kt" timestamp="1527169349375">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -31,7 +42,7 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/database/datasource/DataSourceName.java" timestamp="1527192267991" />
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/CacheControl.kt" timestamp="1527170519963">
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/CacheControl.kt" timestamp="1527429253831">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -216,7 +227,11 @@
       <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" timestamp="1526413498703">
         <mark key="'" line="135" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/Router.kt" timestamp="1527261550065" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/Router.kt" timestamp="1527428796057">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/serviceInterface/RealTimeQuoteService.java" timestamp="1525119254774">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -254,6 +269,11 @@
         <mark key="]" line="55" column="10" />
         <mark key="." line="55" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/models/User.kt" timestamp="1527169886979">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/AndroidManifest.xml" timestamp="1520606292902">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="48" column="0" />
@@ -264,7 +284,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/DatabaseHandler.kt" timestamp="1527290050977">
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/DatabaseHandler.kt" timestamp="1527428998787">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
@@ -390,10 +410,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>user =</text>
+        <text>LogEntry.createExceptionLog(e, EventSeverity.HIGH,</text>
       </register>
       <register name="/" type="4">
         <text>: String</text>
@@ -402,37 +422,25 @@
         <text>*</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>catch (e: SQLException) {
-            val fields = EventFields(&quot;proc&quot;, proc,
-                &quot;http parameters&quot;, this.httpRequestParameterMap.toString(),
-                &quot;database parameters&quot;, mapSqlParamSource.toString())
-            
-
-//            LOGGER.error(LogEntry.createExceptionLog(e, 
-// EventSeverity.HIGH).setEventDescription(&quot;Error execute insert user tracking data into database&quot;)
-// .set(&quot;proc&quot;, proc)
-// .set(&quot;http parameters&quot;, 
-// this.httpRequestParameterMap.toString()).set(&quot;database parameters&quot;, 
-// getSqlParameters()).toString())
-            throw UserTrackingException(e)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgKiBAc2luY2UgMjAxNC1PQ1QtMDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWFwT2Y6IE1hcDxTdHJpbmcsIEFueT4gPSBtYXBPZjxTdHJpbmc+KGtleXZhbHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAvKioK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBFdmVudEZpZWxkcygpOiA/Pz8ge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2Uuc2V0SGVhZGVyKCJDYWNoZS1Db250cm9sIiwgInByaXZhdGUsIG5vLWNhY2hlLCBuby1zdG9yZSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrTm90TnVsbDxBbnk+KGNhY2hlTWFuYWdlcikK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnNldChSRVRVUk5fQllURVNfUEFSQU1fTkFNRSwgcmV0dXJuQnl0ZXMpLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2372,11 +2380,12 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="8" type="4">
+        <text>&quot;MobileTrackingServlet.sendResponse fail!&quot; + e.message)
+//                .set(R</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
