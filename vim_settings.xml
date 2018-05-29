@@ -211,10 +211,10 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/util/UserCookieParser.kt" timestamp="1527283086040">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/util/UserCookieParser.kt" timestamp="1527608064430">
+        <mark key="[" line="33" column="42" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/api/SecurityQuoteExchangeConverter.java" timestamp="1525873892694">
         <mark key="[" line="70" column="2" />
@@ -231,10 +231,11 @@
         <mark key="]" line="26" column="30" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/logging/EventField.kt" timestamp="1527289773768">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/logging/EventField.kt" timestamp="1527608319583">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/apiv2/src/test/java/com/morningstar/dataapi/api/controllers/PortfolioControllerIT.java" timestamp="1526416587499">
         <mark key="'" line="0" column="0" />
@@ -319,7 +320,7 @@
       <file name="$USER_HOME$/projects/morningstar/apiv2/src/main/java/com/morningstar/dataapi/api/controllers/PortfolioController.java" timestamp="1525891956741">
         <mark key="'" line="180" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1527606453974">
+      <file name="/fragment.java" timestamp="1527607830755">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/service/handler.java" timestamp="1525112266232">
@@ -387,7 +388,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudG9TdHIK</text>
       </register>
       <register name="-" type="4">
         <text>LogEntry.createExceptionLog(e, EventSeverity.HIGH,</text>
@@ -399,25 +400,25 @@
         <text>*</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudG9TdHIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoQ2FjaGVLZXlzLkNBQ0hFX0FNU19VU0VSX0NBQ0hFKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoImRpc3RpbmN0VmFsdWVDYWNoZSIpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoQ2FjaGVLZXlzLkNBQ0hFX0FNU19VU0VSX0NBQ0hFKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoImRlcGVuZGVuY3lQYXJhbVZhbHVlc0NhY2hlIikK</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoImRpc3RpbmN0VmFsdWVDYWNoZSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoImRlcGVuZGVuY3lQYXJhbVRpbWVDb2RlQ2FjaGUiKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoImRlcGVuZGVuY3lQYXJhbVZhbHVlc0NhY2hlIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoImRlcGVuZGVuY3lQYXJhbUN1c3RvbUlucHV0Q2FjaGUiKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoImRlcGVuZGVuY3lQYXJhbVRpbWVDb2RlQ2FjaGUiKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2358,10 +2359,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoImRlcGVuZGVuY3lQYXJhbUNhY2hlIikK</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoImRlcGVuZGVuY3lQYXJhbUN1c3RvbUlucHV0Q2FjaGUiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoInRpbWVDb2RlVGFibGVDYWNoZSIpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbmZpZ3VyYWJsZUNhY2hlcy5hZGQoImRlcGVuZGVuY3lQYXJhbUNhY2hlIikK</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
