@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheHolder.kt" timestamp="1527699164884">
+        <mark key="[" line="9" column="35" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/services/impl/StatusCheckServiceImpl.java" timestamp="1518024047035">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -27,6 +30,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/CacheHolder.kt" timestamp="1527699312858">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+        <mark key="^" line="17" column="14" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/InputStreamConnectionFactory.java" timestamp="1525285687115">
         <mark key="[" line="10" column="0" />
@@ -98,12 +107,20 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheServiceImpl.kt" timestamp="1527699355501">
+        <mark key="[" line="44" column="54" />
+      </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/rest/ProviderService.kt" timestamp="1524502867511">
         <mark key="[" line="33" column="24" />
         <mark key="]" line="33" column="24" />
         <mark key="." line="33" column="24" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/TrackingService.kt" timestamp="1527192100631">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/stats/CacheStatistics.kt" timestamp="1527699502690">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -134,8 +151,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/CacheService.kt" timestamp="1527283423909">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/CacheService.kt" timestamp="1527699118796">
+        <mark key="[" line="10" column="29" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -402,10 +419,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>: String</text>
@@ -414,25 +431,25 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiaW1wbGVtZW50IG1lIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBkaGlsbCBvbiAxMS85LzE1Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2Uubm90Rm91bmQoKS5idWlsZCgpCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJvZHkgPSBuZXcgQ2xhc3NQYXRoUmVzb3VyY2UoInJlc3BvbnNlLnR4dCIsIEJ5dGVBcnJheSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgaW5zZXJ0ZXIgPSBCb2R5SW5zZXJ0ZXJzLmZyb21QdWJsaXNoZXI8U3RyaW5nLCBGbHV4PFN0cmluZz4+KFJlc3BvbnNlSW1hZ2UuaW1nQnl0ZXMsIEJ5dGVBcnJheS5jbGFzcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgUnVudGltZUV4Y2VwdGlvbigiZm9vIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnN5bmNCb2R5KHJldHVybkJ5dGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2Uubm90Rm91bmQoKS5idWlsZCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2373,10 +2390,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgSU9FeGNlcHRpb24oImZvbzEiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJvZHkgPSBuZXcgQ2xhc3NQYXRoUmVzb3VyY2UoInJlc3BvbnNlLnR4dCIsIEJ5dGVBcnJheSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5Db250cm9sbGVyQWR2aWNlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgaW5zZXJ0ZXIgPSBCb2R5SW5zZXJ0ZXJzLmZyb21QdWJsaXNoZXI8U3RyaW5nLCBGbHV4PFN0cmluZz4+KFJlc3BvbnNlSW1hZ2UuaW1nQnl0ZXMsIEJ5dGVBcnJheS5jbGFzcykK</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
