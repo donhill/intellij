@@ -211,6 +211,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.6.RELEASE/spring-web-5.0.6.RELEASE.jar!/org/springframework/web/server/WebExceptionHandler.class" timestamp="1527705471627" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/services/impl/StatusCheckServiceImplTest.java" timestamp="1518048156952">
         <mark key="[" line="55" column="10" />
         <mark key="]" line="55" column="10" />
@@ -349,8 +350,10 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/logging/RestExceptionHandler.kt" timestamp="1527704023721">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/logging/RestExceptionHandler.kt" timestamp="1527705726126">
+        <mark key="[" line="27" column="93" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/AemBffServiceApplication.kt" timestamp="1527702729745">
         <mark key="'" line="30" column="0" />
@@ -429,7 +432,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgUnVudGltZUV4Y2VwdGlvbigiZm9vIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>es</text>
@@ -447,19 +450,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBNb25vLmVycm9yKGV4KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpICs9IDIK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0aGlzLmFwcGVuZChrZXlWYWx1ZXNbaV0sIGtleVZhbHVlc1tpICsgMV0pCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGV4Y2hhbmdlLnJlc3BvbnNlLnNldENvbXBsZXRlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoaWxlIChrZXlWYWx1ZXMuc2l6ZSA+PSAyICYmIGkgPCBrZXlWYWx1ZXMuc2l6ZSkgewo=</text>
+        <text encoding="base64">ICAgICAgLy8gbWFya3MgdGhlIHJlc3BvbnNlIGFzIGNvbXBsZXRlIGFuZCBmb3JiaWRzIHdyaXRpbmcgdG8gaXQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2400,10 +2403,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhciBpID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhjaGFuZ2UucmVzcG9uc2Uuc3RhdHVzQ29kZSA9IEh0dHBTdGF0dXMuTk9UX0ZPVU5ECg==</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
