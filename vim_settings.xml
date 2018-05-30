@@ -56,10 +56,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/handlers.kt" timestamp="1527643223790">
-        <mark key="[" line="62" column="61" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/handlers.kt" timestamp="1527697848971">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/usertracking/services/DefaultUserTracking.kt" timestamp="1527628418015">
         <mark key="[" line="55" column="79" />
@@ -332,7 +332,7 @@
         <mark key="^" line="40" column="7" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1527696486101">
+      <file name="/fragment.java" timestamp="1527698038631">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/service/handler.java" timestamp="1525112266232">
@@ -402,7 +402,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJvZHkgPSBuZXcgQ2xhc3NQYXRoUmVzb3VyY2UoInJlc3BvbnNlLnR4dCIsIEJ5dGVBcnJheSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Exception</text>
@@ -414,25 +414,25 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiaW1wbGVtZW50IG1lIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJvZHkgPSBuZXcgQ2xhc3NQYXRoUmVzb3VyY2UoInJlc3BvbnNlLnR4dCIsIEJ5dGVBcnJheSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgaW5zZXJ0ZXIgPSBCb2R5SW5zZXJ0ZXJzLmZyb21QdWJsaXNoZXI8U3RyaW5nLCBGbHV4PFN0cmluZz4+KFJlc3BvbnNlSW1hZ2UuaW1nQnl0ZXMsIEJ5dGVBcnJheS5jbGFzcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgUnVudGltZUV4Y2VwdGlvbigiZm9vIikK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2Uubm90Rm91bmQoKS5idWlsZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnN5bmNCb2R5KHJldHVybkJ5dGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJvZHkgPSBuZXcgQ2xhc3NQYXRoUmVzb3VyY2UoInJlc3BvbnNlLnR4dCIsIEJ5dGVBcnJheSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgSU9FeGNlcHRpb24oImZvbzEiKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgaW5zZXJ0ZXIgPSBCb2R5SW5zZXJ0ZXJzLmZyb21QdWJsaXNoZXI8U3RyaW5nLCBGbHV4PFN0cmluZz4+KFJlc3BvbnNlSW1hZ2UuaW1nQnl0ZXMsIEJ5dGVBcnJheS5jbGFzcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5Db250cm9sbGVyQWR2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgUnVudGltZUV4Y2VwdGlvbigiZm9vIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnN5bmNCb2R5KHJldHVybkJ5dGVzKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2373,10 +2373,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgSU9FeGNlcHRpb24oImZvbzEiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcnVuKGFwcGxpY2F0aW9uKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5Db250cm9sbGVyQWR2aWNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
