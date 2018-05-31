@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/morningstar/dataapi/dataapi-common/1.17.9/dataapi-common-1.17.9.jar!/com/morningstar/dataapi/common/logging/OperationLogger.class" timestamp="1527792936093" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheHolder.kt" timestamp="1527699164884">
         <mark key="[" line="9" column="35" />
       </file>
@@ -303,11 +304,11 @@
         <mark key="." line="20" column="13" />
         <mark key="^" line="20" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/logging/LogbackFilter.kt" timestamp="1527789664274">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/logging/LogbackFilter.kt" timestamp="1527792924652">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/utils/IdServiceHelperTest.java" timestamp="1525887726586">
         <mark key="[" line="28" column="84" />
@@ -453,7 +454,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>dataapi</text>
@@ -462,28 +463,28 @@
         <text>: String</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgUnVudGltZUV4Y2VwdGlvbigiZm9vIikK</text>
+        <text encoding="base64">ICAgIHZhbCBzdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG1ldGhvZE5hbWUgPSBnZXRWYWxpZFN0cmluZ1ZhbHVlKG1ldGhvZE5hbWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29udGV4dCBhcz8gQXBwbGljYXRpb25Db250ZXh0Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzTmFtZSA9IGdldFZhbGlkU3RyaW5nVmFsdWUoY2xhc3NOYW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29udGV4dCA9IHNlcnZsZXRDb250ZXh0LmdldEF0dHJpYnV0ZShXZWJBcHBsaWNhdGlvbkNvbnRleHQuUk9PVF9XRUJfQVBQTElDQVRJT05fQ09OVEVYVF9BVFRSSUJVVEUpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGdldEV4aXN0aW5nUm9vdFdlYkFwcGxpY2F0aW9uQ29udGV4dChzZXJ2bGV0Q29udGV4dDogU2VydmxldENvbnRleHQpOiBBcHBsaWNhdGlvbkNvbnRleHQ/IHsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChkdXJhdGlvbiA9PSAwTCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2424,10 +2425,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHN1cGVyLm9uU3RhcnR1cChzZXJ2bGV0Q29udGV4dCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29udGV4dCBhcz8gQXBwbGljYXRpb25Db250ZXh0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
