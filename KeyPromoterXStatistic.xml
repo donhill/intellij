@@ -326,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1013</Count>
+          <Count>1014</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1230,7 +1230,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.morningstar.ii.aembffservice.AemBffServiceApplicationKt'</Description>
-          <Count>53</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tomcat'">
