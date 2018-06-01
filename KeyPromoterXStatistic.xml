@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Class...">
+        <Item>
+          <IdeaActionID>GotoClass</IdeaActionID>
+          <ShortCut>'⌘O'</ShortCut>
+          <Description>Class...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
@@ -65,6 +73,14 @@
           <Count>73</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Convert Java File to Kotlin File">
+        <Item>
+          <IdeaActionID>ConvertJavaToKotlin</IdeaActionID>
+          <ShortCut>'⌥⇧⌘K'</ShortCut>
+          <Description>Convert Java File to Kotlin File</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -78,7 +94,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -110,7 +126,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>14</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Tests'">
@@ -310,7 +326,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>910</Count>
+          <Count>1015</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -318,7 +342,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>26</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -366,7 +390,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'⇧⌘F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -398,7 +422,15 @@
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Open Module Settings</Description>
-          <Count>30</Count>
+          <Count>39</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Optimize Imports">
+        <Item>
+          <IdeaActionID>OptimizeImports</IdeaActionID>
+          <ShortCut>'⌃⌥O'</ShortCut>
+          <Description>Optimize Imports</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -422,7 +454,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -438,7 +470,7 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild '&lt;default&gt;'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild ...'foundations-parent'">
@@ -505,6 +537,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'⌥⌘L'</ShortCut>
+          <Description>Reformat Code</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Remove Module">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -534,7 +574,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'AemBffServiceApplication'</Description>
-          <Count>1</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CustomerDAOImplTest'">
@@ -601,6 +641,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.morningstar.ii.aembffservice.AemBffServiceApplicationKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.morningstar.ii.aembffservice.AemBffServiceApplicationKt'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'tomcat'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -622,7 +670,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>179</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -630,7 +678,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>11</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -646,6 +694,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ArticleLinkTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CacheServiceTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CacheServiceTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -727,6 +783,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ValidationBeanTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'build'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'build'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'checkTrialStatus()'">
@@ -897,6 +961,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Safe Delete...">
+        <Item>
+          <IdeaActionID>SafeDelete</IdeaActionID>
+          <ShortCut>'⌘⌦'</ShortCut>
+          <Description>Safe Delete...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Scratch File">
         <Item>
           <IdeaActionID>NewScratchFile</IdeaActionID>
@@ -918,7 +990,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>18</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -926,7 +998,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>281</Count>
+          <Count>289</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AbandonSubscriptionEmailImplTest'">
@@ -950,7 +1022,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'AemBffServiceApplication'</Description>
-          <Count>4</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in iip-services-subscription'">
@@ -1153,6 +1225,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.morningstar.ii.aembffservice.AemBffServiceApplicationKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.morningstar.ii.aembffservice.AemBffServiceApplicationKt'</Description>
+          <Count>60</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'tomcat'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1175,6 +1255,14 @@
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>Synchronize</IdeaActionID>
+          <ShortCut>'⌥⌘Y'</ShortCut>
+          <Description>Synchronize</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -1206,7 +1294,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>338</Count>
+          <Count>391</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
