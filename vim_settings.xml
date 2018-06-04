@@ -84,10 +84,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/logback.xml" timestamp="1527788870775">
-        <mark key="[" line="5" column="160" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/logback.xml" timestamp="1528125589802">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="^" line="2" column="51" />
       </file>
       <file name="/fragment.kt" timestamp="1527627490332">
         <mark key="[" line="0" column="0" />
@@ -123,11 +124,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheServiceImpl.kt" timestamp="1527893012714">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/rest/ProviderService.kt" timestamp="1524502867511">
         <mark key="[" line="33" column="24" />
@@ -477,11 +473,11 @@
       <jump line="44" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/aembffservice/logging/ExceptionConverterTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>data/tomcat-instances/midway/l</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>data/tomcat-instances/midway/l</text>
       </register>
       <register name="/" type="4">
         <text>: String</text>
