@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/logging/LogBuilderConverter.kt" timestamp="1528218493692">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/logback.xml" timestamp="1528218785788">
+        <mark key="[" line="3" column="86" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/DatabaseHandler.kt" timestamp="1528214357866">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -118,11 +130,11 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/pom.xml" timestamp="1528216459834">
-        <mark key="'" line="143" column="31" />
+        <mark key="'" line="148" column="31" />
         <mark key="[" line="45" column="87" />
-        <mark key="]" line="143" column="31" />
-        <mark key="." line="143" column="31" />
-        <mark key="^" line="143" column="31" />
+        <mark key="]" line="148" column="31" />
+        <mark key="." line="148" column="31" />
+        <mark key="^" line="148" column="31" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/AndroidManifest.xml" timestamp="1520606307087">
         <mark key="[" line="14" column="0" />
@@ -188,10 +200,6 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheHolder.kt" timestamp="1527699164884">
         <mark key="[" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/aembffservice/util/UserParserImplTest.kt" timestamp="1528148654980">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="203" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/services/impl/StatusCheckServiceImpl.java" timestamp="1518024047035">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -252,6 +260,11 @@
         <mark key="[" line="66" column="11" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/logging/LognbackEncoder.kt" timestamp="1528218549923">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/service/HttpRequestHandler.java" timestamp="1525112500183">
         <mark key="[" line="12" column="0" />
@@ -417,6 +430,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/logging/LogbackFilter.kt" timestamp="1528218885574">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/UserCookieParser.kt" timestamp="1528214402283">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -551,10 +569,11 @@
       <jump line="66" column="9" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/util/UserCookieParser.kt" />
       <jump line="23" column="2" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/services/caching/CacheServiceTest.kt" />
       <jump line="142" column="31" filename="$USER_HOME$/projects/morningstar/midway/pom.xml" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/logging/LogBuilderConverter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvcHJvcGVydGllcz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>HttpServletResponse</text>
@@ -566,25 +585,25 @@
         <text encoding="base64">ICAgIHZhbCBjb29raWVTdHJpbmcgPSAiVjYzMTRQNDlOTjRPNjIxTEtNTTBQTUs4TlAxMTNMTDBNMFAzOEw4NTAzNE42N1A0MjA1NDJOOTI3NDMxNDEzMzhNTU83ODA4MVA2OFA4MTM3MzI2NzE3NU1QMTdQTU02TU4wNE8xNkwzUEtLODdLUDNLMjcySzQ5ODM1NktNTTQ0MTE2NlA3SzY0MUwyNDI1MDVENDY0ODk3RDNFQUMxNEIxMkE1MEQ3MDVFQ0U1QzZDNiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvcHJvcGVydGllcz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9ycy50b0xpc3QK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkubG9nZ2luZy5FdmVudEZpZWxkcwo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20ubW9ybmluZ3N0YXIuaWkuYWVtYmZmc2VydmljZS5sb2dnaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkubG9nZ2luZy5FdmVudEZpZWxkcwo=</text>
+        <text encoding="base64">ICAgIDwvcHJvcGVydGllcz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkubG9nZ2luZy5FdmVudEZpZWxkcwo=</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkubG9nZ2luZy5FdmVudEZpZWxkcwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9ycy50b0xpc3QK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2525,10 +2544,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkubG9nZ2luZy5FdmVudEZpZWxkcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlcnZsZXQuaHR0cC5IdHRwU2VydmxldFJlc3BvbnNlCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkubG9nZ2luZy5FdmVudEZpZWxkcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
