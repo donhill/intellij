@@ -458,12 +458,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/handlers.kt" timestamp="1528399245320">
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/handlers.kt" timestamp="1528402345389">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="105" column="202" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="105" column="31" />
+        <mark key="[" line="30" column="64" />
+        <mark key="]" line="33" column="24" />
+        <mark key="." line="33" column="24" />
+        <mark key="^" line="33" column="24" />
       </file>
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
