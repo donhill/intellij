@@ -36,8 +36,8 @@
         <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/configuration/JarvisConfig.java" timestamp="1528298178051" />
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/logging/EventField.kt" timestamp="1528220198061">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/logging/EventField.kt" timestamp="1528382437589">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -171,6 +171,9 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/EventField.kt" timestamp="1528382294061">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" timestamp="1528319421608">
         <mark key="[" line="30" column="48" />
@@ -467,9 +470,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/AemBffServiceApplicationTest.kt" timestamp="1528215622893">
-        <mark key="[" line="10" column="15" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/logs/midway.log" timestamp="1528317901261">
         <mark key="'" line="4821" column="74" />
         <mark key="[" line="5171" column="1" />
@@ -487,10 +487,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/logging/LogbackFilter.kt" timestamp="1528218885574">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/logging/LogbackFilter.kt" timestamp="1528382464863">
+        <mark key="[" line="55" column="13" />
+        <mark key="]" line="55" column="13" />
+        <mark key="." line="55" column="13" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/UserCookieParser.kt" timestamp="1528304125661">
         <mark key="[" line="25" column="0" />
@@ -656,11 +656,11 @@
       <jump line="1" column="16" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/AemBffServiceApplication.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="&quot;" type="4">
+        <text>nse</text>
       </register>
       <register name="-" type="4">
-        <text>er</text>
+        <text>nse</text>
       </register>
       <register name="/" type="4">
         <text>: String</text>
