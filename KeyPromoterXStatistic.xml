@@ -113,6 +113,14 @@
           <Count>34</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
+          <Description>Cut</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Data Source Properties">
         <Item>
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
@@ -358,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1083</Count>
+          <Count>1086</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -934,6 +942,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'saveSubscriptionsT...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'should Return An I...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'should Return An I...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
