@@ -19,7 +19,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-usertracking-parent/service-usertracking/src/main/java/com/morningstar/usertracking/impl/UserTrackingServiceImpl.java" timestamp="1528493637778" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/DatabaseHandler.kt" timestamp="1528481244263">
         <mark key="'" line="125" column="51" />
         <mark key="[" line="23" column="11" />
@@ -69,11 +68,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/services/caching/CacheServiceTest.kt" timestamp="1528215467255">
-        <mark key="[" line="91" column="80" />
-        <mark key="]" line="91" column="15" />
-        <mark key="^" line="91" column="15" />
-        <mark key="." line="91" column="15" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/services/caching/CacheServiceTest.kt" timestamp="1528497331546">
+        <mark key="[" line="73" column="29" />
+        <mark key="]" line="75" column="5" />
+        <mark key="^" line="75" column="5" />
+        <mark key="." line="75" column="5" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/usertracking/ResponseImageTest.kt" timestamp="1528494130533">
         <mark key="[" line="9" column="15" />
@@ -369,7 +368,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/db-scripts/User Tracking Script.sql" timestamp="1528479350531" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/AemBffServiceApplicationTest.kt" timestamp="1528392546581">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -475,7 +473,6 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="85" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/2.0.2.RELEASE/spring-boot-test-2.0.2.RELEASE.jar!/org/springframework/boot/test/context/SpringBootTest.class" timestamp="1528472987580" />
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/fragments/RegistrationFragement.kt" timestamp="1524664477060">
         <mark key="[" line="202" column="0" />
         <mark key="]" line="202" column="0" />
