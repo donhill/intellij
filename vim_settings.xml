@@ -63,6 +63,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/midway/logs/midway.log" timestamp="1528732325741">
+        <mark key="'" line="1250" column="298" />
+      </file>
       <file name="$USER_HOME$/projects/oreilly-kotlin-course/advanced/src/main/kotlin/com/hadihariri/kotlincourse/generics/Repository.kt" timestamp="1525466774815">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -201,10 +204,10 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/EventField.kt" timestamp="1528382294061">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" timestamp="1528405082404">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" timestamp="1528732361120">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/register_phone_fragment.xml" timestamp="1520383270778">
         <mark key="[" line="38" column="40" />
@@ -773,6 +776,7 @@
       <jump line="37" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/ParameterProcessor.kt" />
       <jump line="17" column="1" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/logging/ExceptionConverterTest.kt" />
       <jump line="52" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/logging/ExceptionConverterTest.kt" />
+      <jump line="1250" column="298" filename="$USER_HOME$/projects/morningstar/aem-bff-service/midway/logs/midway.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -791,22 +795,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Ly8gIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDbGFzcy5mb3JOYW1lKGl0KSBhcyBDbGFzczxUaHJvd2FibGU+Cg==</text>
+        <text encoding="base64">Ly8gICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZ1biBmb3JOYW1lKGl0OiBTdHJpbmcpOiBDbGFzczxUaHJvd2FibGU+IHsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgLmluaXRpYWxpemVEYXRhU291cmNlQnVpbGRlcigpLmJ1aWxkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgcmVmPERhdGFTb3VyY2VQcm9wZXJ0aWVzPigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgYmVhbihpc1ByaW1hcnkgPSB0cnVlKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGV4Y2VwdGlvbnMpCg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2747,10 +2751,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuLm1hcCB7IGZvck5hbWUoaXQpIH0uZmlsdGVyIHsgaXQgaXMgVGhyb3dhYmxlIH0K</text>
+        <text encoding="base64">Ly8gICAgYmVhbjxEYXRhU291cmNlUHJvcGVydGllcz4oaXNQcmltYXJ5ID0gdHJ1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBleGNlcHRpb25zOiBMaXN0PENsYXNzPFRocm93YWJsZT4+ID0K</text>
+        <text encoding="base64">Ly8gIGZ1biBiZWFucygpID0gYmVhbnMoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
