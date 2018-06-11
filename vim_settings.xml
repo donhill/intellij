@@ -8,7 +8,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/test/java/com/morningstar/cache/http/CacheControlHeaderHelperTest.java" timestamp="1528732546175" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/UserTrackingException.kt" timestamp="1528741667032">
         <mark key="[" line="9" column="28" />
       </file>
@@ -78,7 +77,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/JarvisConfig.xml" timestamp="1528744196387" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/ParameterProcessorTest.kt" timestamp="1528493302874">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -132,7 +130,6 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.6.RELEASE/spring-test-5.0.6.RELEASE.jar!/org/springframework/mock/http/server/reactive/MockServerHttpRequest.class" timestamp="1528733488231" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/aembffservice/util/DESTest.kt" timestamp="1528144616009">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -143,7 +140,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.0.6.RELEASE/spring-webflux-5.0.6.RELEASE.jar!/org/springframework/web/reactive/function/server/DefaultServerResponseBuilder.class" timestamp="1528733216861" />
       <file name="$USER_HOME$/projects/morningstar/midway/pom.xml" timestamp="1528383622054">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -214,7 +210,6 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheHolder.kt" timestamp="1527699164884">
         <mark key="[" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/DefaultRealTimeService.java" timestamp="1528743928957" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/services/impl/StatusCheckServiceImpl.java" timestamp="1518024047035">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -285,7 +280,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.13.RELEASE/spring-jdbc-4.3.13.RELEASE.jar!/org/springframework/jdbc/core/simple/AbstractJdbcCall.class" timestamp="1528738528848" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/AemBffServiceApplicationTest.kt" timestamp="1528392546581">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -313,7 +307,6 @@
         <mark key="]" line="67" column="17" />
         <mark key="." line="67" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.13.RELEASE/spring-jdbc-4.3.13.RELEASE.jar!/org/springframework/jdbc/core/simple/SimpleJdbcCall.class" timestamp="1528738723383" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/UserTrackingRepository.kt" timestamp="1528741478376">
         <mark key="[" line="137" column="3" />
         <mark key="]" line="59" column="0" />
@@ -430,6 +423,9 @@
         <mark key="[" line="70" column="2" />
         <mark key="]" line="103" column="44" />
         <mark key="." line="103" column="44" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/UserTrackingUtil.kt" timestamp="1528750155787">
+        <mark key="[" line="77" column="19" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/logs/midway.log" timestamp="1528389312053">
         <mark key="'" line="5177" column="0" />
