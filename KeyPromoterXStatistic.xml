@@ -449,6 +449,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Global Settings">
+        <Item>
+          <IdeaActionID>ThePlugin.ShowGlobalSettings</IdeaActionID>
+          <ShortCut>'⇧⌘H'</ShortCut>
+          <Description>Global Settings</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Implementation(s)">
         <Item>
           <IdeaActionID>GotoImplementation</IdeaActionID>
@@ -519,6 +527,14 @@
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
           <Count>39</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Settings">
+        <Item>
+          <IdeaActionID>ThePlugin.ShowProjectSettings</IdeaActionID>
+          <ShortCut>'⇧⌘G'</ShortCut>
+          <Description>Project Settings</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
