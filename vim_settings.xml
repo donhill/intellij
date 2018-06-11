@@ -68,11 +68,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/services/caching/CacheServiceTest.kt" timestamp="1528497331546">
-        <mark key="[" line="73" column="29" />
-        <mark key="]" line="75" column="5" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/services/caching/CacheServiceTest.kt" timestamp="1528732067018">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
         <mark key="^" line="75" column="5" />
-        <mark key="." line="75" column="5" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/usertracking/ResponseImageTest.kt" timestamp="1528494130533">
         <mark key="[" line="9" column="15" />
@@ -775,8 +775,8 @@
       <jump line="52" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/logging/ExceptionConverterTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>assertThat</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>assertThat</text>
@@ -788,25 +788,25 @@
         <text encoding="base64">ICAgIHBhcmFtZXRlclByb2Nlc3Nvci5tYXBIb2xkZXIuaW50TWFwWyJoaXN0b3J5bGVuZ3RoIl0gc2hvdWxkQmUgOTgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBmdW4gY3JlYXRlRm9vdGVyUHJpbnQoKSA9IFRPRE8oImNyZWF0ZUZvb3RQcmludCIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biBjcmVhdGVvb3RlclByaW50KCk6IFN0cmluZwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBDbGFzcy5mb3JOYW1lKGl0KSBhcyBDbGFzczxUaHJvd2FibGU+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGZ1biBmb3JOYW1lKGl0OiBTdHJpbmcpOiBDbGFzczxUaHJvd2FibGU+IHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHByaW50KGV4Y2VwdGlvbnMpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2747,10 +2747,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuLm1hcCB7IGZvck5hbWUoaXQpIH0uZmlsdGVyIHsgaXQgaXMgVGhyb3dhYmxlIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBleGNlcHRpb25zOiBMaXN0PENsYXNzPFRocm93YWJsZT4+ID0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
