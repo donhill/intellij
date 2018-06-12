@@ -56,8 +56,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/usertracking/ResponseImageTest.kt" timestamp="1528494130533">
-        <mark key="[" line="9" column="15" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/usertracking/ResponseImageTest.kt" timestamp="1528817697551">
+        <mark key="[" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/mvnw" timestamp="1528231885088">
         <mark key="[" line="219" column="0" />
@@ -292,8 +292,8 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="27" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/ResponseImage.kt" timestamp="1528754343052">
-        <mark key="[" line="19" column="65" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/ResponseImage.kt" timestamp="1528816874465">
+        <mark key="[" line="10" column="6" />
         <mark key="]" line="19" column="43" />
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="43" />
@@ -325,6 +325,13 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/README.md" timestamp="1528817822078">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/rest/ProviderService.kt" timestamp="1524502867511">
         <mark key="[" line="33" column="24" />
@@ -364,12 +371,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/handlers.kt" timestamp="1528816162109">
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/handlers.kt" timestamp="1528817012315">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="32" column="16" />
-        <mark key="." line="32" column="16" />
-        <mark key="^" line="32" column="16" />
+        <mark key="[" line="86" column="25" />
+        <mark key="]" line="86" column="25" />
+        <mark key="." line="86" column="25" />
+        <mark key="^" line="86" column="33" />
       </file>
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
@@ -646,13 +653,14 @@
       <jump line="58" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/services/caching/http/CacheControlHeaderHelperTest.kt" />
       <jump line="41" column="9" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/usertracking/DatabaseParamBinderTest.kt" />
       <jump line="28" column="12" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/ParameterProcessor.kt" />
+      <jump line="0" column="9" filename="$USER_HOME$/projects/morningstar/aem-bff-service/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ResponseImage.imgBytes().size.toLong()</text>
       </register>
       <register name="-" type="4">
-        <text>DefaultUserTrackingService</text>
+        <text>ResponseImage.imgBytes().size.toLong()</text>
       </register>
       <register name="/" type="4">
         <text>: String</text>
