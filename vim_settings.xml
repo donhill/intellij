@@ -51,6 +51,12 @@
         <mark key="]" line="301" column="0" />
         <mark key="." line="301" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/extentions.kt" timestamp="1528834387814">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/oreilly-kotlin-course/advanced/src/main/kotlin/com/hadihariri/kotlincourse/generics/Repository.kt" timestamp="1525466774815">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -401,12 +407,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/logging/ExceptionConverterTest.kt" timestamp="1528833462470">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="30" column="75" />
-        <mark key="]" line="30" column="73" />
-        <mark key="." line="30" column="73" />
-        <mark key="^" line="30" column="73" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/logging/ExceptionConverterTest.kt" timestamp="1528834498431">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="29" column="26" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/test/java/com/morningstar/monitor/services/impl/StatusCheckServiceImplTest.java" timestamp="1518048156952">
         <mark key="[" line="55" column="10" />
@@ -449,7 +455,12 @@
         <mark key="]" line="103" column="44" />
         <mark key="." line="103" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/UserTrackingUtil.kt" timestamp="1528832718907" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/UserTrackingUtil.kt" timestamp="1528834603002">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="1" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/resources/wiremock/realtime_service_goog_ibm_2_feeds.json" timestamp="1525195272243">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="26" column="30" />
@@ -473,7 +484,7 @@
       <file name="/Dummy.txt" timestamp="1528736424712">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/LogbackFilter.kt" timestamp="1528833705424">
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/LogbackFilter.kt" timestamp="1528834130060">
         <mark key="[" line="79" column="1" />
         <mark key="]" line="79" column="0" />
         <mark key="^" line="37" column="22" />
@@ -645,13 +656,14 @@
       <jump line="41" column="9" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/usertracking/DatabaseParamBinderTest.kt" />
       <jump line="28" column="12" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/ParameterProcessor.kt" />
       <jump line="0" column="9" filename="$USER_HOME$/projects/morningstar/aem-bff-service/README.md" />
+      <jump line="38" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/UserTrackingUtil.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Instant.now().</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
@@ -660,25 +672,25 @@
         <text encoding="base64">ICAgIHZlcmlmeShqZGJjQ2FsbCwgdGltZXMoMTgpKS5hZGREZWNsYXJlZFBhcmFtZXRlcihBcmd1bWVudE1hdGNoZXJzLmFueSgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyNmUyMjI3NGU4Njk1NDkwMDZlMmQ3ZWY2YTNmMjhmYTdjYWM2NTQ1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAyNmUyMjI3NGU4Njk1NDkwMDZlMmQ3ZWY2YTNmMjhmYTdjYWM2NTQ1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFZhbHVlOiAhSm9pbiBbIiIsIFsiaHR0cDovLyIsICFHZXRBdHQgRUxCLkROU05hbWUsICIvYXBwLnBocCJdXQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIFZhbHVlOiAhSm9pbiBbIiIsIFsiaHR0cDovLyIsICFHZXRBdHQgRUxCLkROU05hbWUsICIvYXBwLnBocCJdXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyNmUyMjI3NGU4Njk1NDkwMDZlMmQ3ZWY2YTNmMjhmYTdjYWM2NTQ1Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2619,10 +2631,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAyNmUyMjI3NGU4Njk1NDkwMDZlMmQ3ZWY2YTNmMjhmYTdjYWM2NTQ1Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjICAgICAgVGltZW91dDogUFQyTQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
