@@ -51,6 +51,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-usertracking-parent/service-usertracking-api/src/main/java/com/morningstar/servlets/usertracking/EmailTrackingServlet.java" timestamp="1528819827477" />
       <file name="$USER_HOME$/projects/oreilly-kotlin-course/advanced/src/main/kotlin/com/hadihariri/kotlincourse/generics/Repository.kt" timestamp="1525466774815">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -292,7 +293,7 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="27" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/ResponseImage.kt" timestamp="1528816874465">
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/ResponseImage.kt" timestamp="1528819369345">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="19" column="43" />
         <mark key="^" line="19" column="43" />
@@ -542,7 +543,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1528815367493">
+      <file name="/fragment.java" timestamp="1528819554071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/service/handler.java" timestamp="1525112266232">
