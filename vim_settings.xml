@@ -23,6 +23,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/UserTrackingRepository.kt" timestamp="1528822594013" />
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/MainPresenterImpl.kt" timestamp="1522878147930">
         <mark key="[" line="89" column="48" />
         <mark key="]" line="90" column="0" />
@@ -98,6 +99,7 @@
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-usertracking-parent/service-usertracking-api/src/main/java/com/morningstar/servlets/usertracking/MobileTrackingServlet.java" timestamp="1528820568782" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/config/DataSourceConfig.java" timestamp="1527796719116">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -131,6 +133,12 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/MidwayServiceApplicationTest.kt" timestamp="1528820747405">
+        <mark key="[" line="35" column="61" />
+        <mark key="]" line="35" column="61" />
+        <mark key="." line="35" column="61" />
+        <mark key="^" line="35" column="775" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/aembffservice/util/DESTest.kt" timestamp="1528144616009">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -140,6 +148,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/RestExceptionHandler.kt" timestamp="1528821689865">
+        <mark key="[" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/pom.xml" timestamp="1528383622054">
         <mark key="[" line="50" column="0" />
@@ -153,6 +164,12 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/EventField.kt" timestamp="1528382294061">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" timestamp="1528821588587">
+        <mark key="[" line="20" column="60" />
+        <mark key="]" line="20" column="62" />
+        <mark key="^" line="20" column="62" />
+        <mark key="." line="20" column="62" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/register_phone_fragment.xml" timestamp="1520383270778">
         <mark key="[" line="38" column="40" />
@@ -317,8 +334,8 @@
         <mark key="]" line="67" column="17" />
         <mark key="." line="67" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/UserTrackingRepository.kt" timestamp="1528741478376">
-        <mark key="[" line="137" column="3" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/UserTrackingRepository.kt" timestamp="1528822311267">
+        <mark key="[" line="22" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
@@ -415,6 +432,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/services/ErrorCodes.kt" timestamp="1528822805773">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/RealTimeServiceImpl.java" timestamp="1528298009454">
         <mark key="[" line="159" column="48" />
       </file>
@@ -481,16 +503,17 @@
       <file name="/Dummy.txt" timestamp="1528736424712">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/LogbackFilter.kt" timestamp="1528741634564">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/LogbackFilter.kt" timestamp="1528821671838">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="37" column="22" />
+        <mark key="." line="37" column="22" />
+        <mark key="^" line="37" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/DefaultUserTracking.kt" timestamp="1528737049898">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/DefaultUserTracking.kt" timestamp="1528822570711">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/utils/IdServiceHelperTest.java" timestamp="1525887726586">
         <mark key="[" line="28" column="84" />
@@ -657,11 +680,11 @@
       <jump line="0" column="9" filename="$USER_HOME$/projects/morningstar/aem-bff-service/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ResponseImage.imgBytes().size.toLong()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ResponseImage.imgBytes().size.toLong()</text>
+        <text encoding="base64">YUNOPU1vemlsbGEmYU1WPSZhTj1OZXRzY2FwZSZhVj01LjAlMjAoTWFjaW50b3NoOyUyMEludGVsJTIwTWFjJTIwT1MlMjBYJTIwMTBfMTNfNCklMjBBcHBsZVdlYktpdC81MzcuMzYlMjAoS0hUTUwsJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZS82Ni4wLjMzNTkuMTgxJTIwU2FmYXJpLzUzNy4zNiZiTD1lbi1VUyZjRT0mY0M9JmpFPSZvTD0mcGw9TWFjSW50ZWwmc0w9JnVMPSZ1QT1Nb3ppbGxhLzUuMCUyMChNYWNpbnRvc2g7JTIwSW50ZWwlMjBNYWMlMjBPUyUyMFglMjAxMF8xM180KSUyMEFwcGxlV2ViS2l0LzUzNy4zNiUyMChLSFRNTCwlMjBsaWtlJTIwR2Vja28pJTIwQ2hyb21lLzY2LjAuMzM1OS4xODElMjBTYWZhcmkvNTM3LjM2JnBEPXd3dy5tb3JuaW5nc3Rhci5jb20mcFU9aHR0cDovL3d3dy5tb3JuaW5nc3Rhci5jb20vbWFya2V0cy5odG1sJnJlPWh0dHA6Ly93d3cubW9ybmluZ3N0YXIuY29tLyZ0aT1GaW5hbmNpYWwlMjBNYXJrZXRzOiUyMFN0b2NrJTIwYW5kJTIwQm9uZCUyMEluZGV4ZXMlMjBhbmQlMjBQZXJmb3JtYW5jZSUyMHwlMjBNb3JuaW5nc3RhciZjVT1odHRwOi8vd3d3Lm1vcm5pbmdzdGFyLmNvbS9tYXJrZXRzLmh0bWwmaFM9d3d3Lm1vcm5pbmdzdGFyLmNvbSZwYT0vbWFya2V0cy5odG1sJnBvPSZxUz0maEw9MyZlblQ9MTUyODQwNTQ2NjQzNCZ0Tz0tMzAwJnRWPTIwMTQwNjEyJmJGPTAmZXhUPTE1Mjg0MDU0Njc4MTAmcGVyZj0i</text>
       </register>
       <register name="/" type="4">
         <text>: String</text>
@@ -673,22 +696,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBmcXUgb24gOS8yOS8xNC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZ1biBtYWtlQXN5bmNVc2VyVHJhY2tpbmdDYWxsKG1hcDogTWFwPFN0cmluZywgU3RyaW5nPiwgdXNlcjogTXN0YXJDb29rRGF0YSkgewo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgTG9nQnVpbGRlcigpLmV4Y2VwdGlvbihlKS4K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL0BiZXRhZmxhZwo=</text>
+        <text encoding="base64">ICAgIHdlYkNsaWVudC5nZXQoKS51cmkoIi9zZXJ2aWNlcy91c2VydHJhY2tpbmcvdXNlci9hYmMueHl6P2Zvbz1iYXIiKS5leGNoYW5nZSgpLmV4cGVjdFN0YXR1cygpLmlzT2sK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2629,13 +2652,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAYXV0aG9yIGRwcmljZQo=</text>
+        <text encoding="base64">ICBmdW4gYHNob3VsZCByZXNwb25kIHRvIGFiY2dpZiBidXQgd2lsbCB0aHJvdyBhIGRhdGFiYXNlIGV4Y2VwdGlvbiBpbiB0aGUgbG9nc2AoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>27</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2678,9 +2701,9 @@
         <entry>92</entry>
         <entry>37</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>55</entry>
         <entry>27</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
