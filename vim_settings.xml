@@ -533,11 +533,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/MstarCookDataTest.kt" timestamp="1528903064619">
-        <mark key="[" line="14" column="70" />
-        <mark key="]" line="14" column="65" />
-        <mark key="^" line="14" column="65" />
-        <mark key="." line="14" column="65" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/MstarCookDataTest.kt" timestamp="1528906869929">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/utils/IdServiceHelperTest.java" timestamp="1525887726586">
         <mark key="[" line="28" column="84" />
@@ -700,8 +700,8 @@
       <jump line="33" column="4" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/UserTrackingUtil.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UserTrackingUtil</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>UserTrackingUtil</text>
@@ -716,13 +716,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRGF0ZVRpbWVGb3JtYXRzLnVzZXJUcmFja2luZ0Zvcm1hdCh0aW1lLCB0aW1lem9uZU9mZnNldFZhbHVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmdW4gZ2V0Rm9ybWF0dGVkVGltZSh0aW1lOiBMb25nLCB0aW1lem9uZU9mZnNldFZhbHVlOiBTdHJpbmcpID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2672,10 +2672,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRGF0ZVRpbWVGb3JtYXRzLnVzZXJUcmFja2luZ0Zvcm1hdCh0aW1lLCB0aW1lem9uZU9mZnNldFZhbHVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>20</text>
