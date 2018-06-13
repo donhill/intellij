@@ -52,10 +52,10 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/EventField.kt" timestamp="1528382294061">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" timestamp="1528918545839">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" timestamp="1528924829823">
+        <mark key="[" line="15" column="93" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/MidwayServiceApplication.kt" timestamp="1528917962350">
         <mark key="[" line="18" column="0" />
