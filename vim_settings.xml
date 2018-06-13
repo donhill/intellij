@@ -413,12 +413,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/handlers.kt" timestamp="1528912428130">
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/handlers.kt" timestamp="1528912580054">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="31" column="104" />
-        <mark key="]" line="31" column="46" />
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="6" />
         <mark key="^" line="31" column="46" />
-        <mark key="." line="31" column="46" />
+        <mark key="." line="32" column="6" />
       </file>
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
@@ -703,7 +703,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">ICB2YWwgcyA9IHJlcS5jb29raWVzKCkuZ2V0T3JEZWZhdWx0KCJtc3RhciIsIEh0dHBDb29raWUoIiIsICIiKSkKLy8gICAgICBzCi8vICAgIH0gZWxzZSB7Ci8vCi8vICAgIH0KLy8gICAgICAgIC50YWtlSWYgewovLyAgICAgICAgICBpdC5jb250YWluc0tleSgibXN0YXIiKX0KCi8vICAgIGNvb2tpZVsibXN0YXIiXS5vckVtcHR5KCkub3JFbXB0eSgpCgovLyAgICB9CgovLyAgICAgICAgLmNvbnRhaW5zS2V5KCJtc3RhciIpCi8vICAgICAgICAuY290IFsibXN0YXIiXT8uZmlyc3QoKSA/OiBIdHRwQ29va2llKCJtc3RhciIsICIiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -714,8 +714,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZlcmlmeShqZGJjQ2FsbCwgdGltZXMoMTgpKS5hZGREZWNsYXJlZFBhcmFtZXRlcihBcmd1bWVudE1hdGNoZXJzLmFueSgpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICB2YWwgcyA9IHJlcS5jb29raWVzKCkuZ2V0T3JEZWZhdWx0KCJtc3RhciIsIEh0dHBDb29raWUoIiIsICIiKSkKLy8gICAgICBzCi8vICAgIH0gZWxzZSB7Ci8vCi8vICAgIH0KLy8gICAgICAgIC50YWtlSWYgewovLyAgICAgICAgICBpdC5jb250YWluc0tleSgibXN0YXIiKX0KCi8vICAgIGNvb2tpZVsibXN0YXIiXS5vckVtcHR5KCkub3JFbXB0eSgpCgovLyAgICB9CgovLyAgICAgICAgLmNvbnRhaW5zS2V5KCJtc3RhciIpCi8vICAgICAgICAuY290IFsibXN0YXIiXT8uZmlyc3QoKSA/OiBIdHRwQ29va2llKCJtc3RhciIsICIiKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -2674,10 +2674,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRGF0ZVRpbWVGb3JtYXRzLnVzZXJUcmFja2luZ0Zvcm1hdCh0aW1lLCB0aW1lem9uZU9mZnNldFZhbHVlKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>20</text>
