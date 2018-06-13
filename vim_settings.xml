@@ -412,12 +412,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/handlers.kt" timestamp="1528908585560">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="78" column="33" />
-        <mark key="]" line="78" column="35" />
-        <mark key="^" line="78" column="35" />
-        <mark key="." line="78" column="35" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/handlers.kt" timestamp="1528910480173">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="33" column="63" />
+        <mark key="]" line="33" column="42" />
+        <mark key="^" line="33" column="42" />
+        <mark key="." line="33" column="42" />
       </file>
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
@@ -701,11 +701,11 @@
       <jump line="33" column="4" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/UserTrackingUtil.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>UserTrackingUtil</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
