@@ -35,7 +35,7 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" timestamp="1528302329828">
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-base/src/main/java/com/morningstar/util/WebClientUtil.java" timestamp="1528915322630">
         <mark key="[" line="284" column="43" />
         <mark key="]" line="284" column="0" />
         <mark key="." line="284" column="0" />
@@ -53,6 +53,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-ui-web/src/main/java/com/morningstar/cookie/impl/CookieServiceImpl.java" timestamp="1528915340960" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/UserTrackingService.kt" timestamp="1527169349375">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -333,7 +334,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1528908419112">
+      <file name="/fragment.kt" timestamp="1528914929786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/pom.xml" timestamp="1528826615411">
@@ -357,6 +358,7 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-foundations-parent/foundations-ui-web/src/main/java/com/morningstar/cookie/parser/impl/UserParserImpl.java" timestamp="1528915464985" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheServiceImpl.kt" timestamp="1528212516446">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -413,12 +415,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/handlers.kt" timestamp="1528912580054">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="32" column="6" />
-        <mark key="]" line="32" column="6" />
-        <mark key="^" line="31" column="46" />
-        <mark key="." line="32" column="6" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/handlers.kt" timestamp="1528915541815">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
@@ -702,8 +704,8 @@
       <jump line="33" column="4" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/UserTrackingUtil.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICB2YWwgcyA9IHJlcS5jb29raWVzKCkuZ2V0T3JEZWZhdWx0KCJtc3RhciIsIEh0dHBDb29raWUoIiIsICIiKSkKLy8gICAgICBzCi8vICAgIH0gZWxzZSB7Ci8vCi8vICAgIH0KLy8gICAgICAgIC50YWtlSWYgewovLyAgICAgICAgICBpdC5jb250YWluc0tleSgibXN0YXIiKX0KCi8vICAgIGNvb2tpZVsibXN0YXIiXS5vckVtcHR5KCkub3JFbXB0eSgpCgovLyAgICB9CgovLyAgICAgICAgLmNvbnRhaW5zS2V5KCJtc3RhciIpCi8vICAgICAgICAuY290IFsibXN0YXIiXT8uZmlyc3QoKSA/OiBIdHRwQ29va2llKCJtc3RhciIsICIiKQo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -714,17 +716,17 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZlcmlmeShqZGJjQ2FsbCwgdGltZXMoMTgpKS5hZGREZWNsYXJlZFBhcmFtZXRlcihBcmd1bWVudE1hdGNoZXJzLmFueSgpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICB2YWwgcyA9IHJlcS5jb29raWVzKCkuZ2V0T3JEZWZhdWx0KCJtc3RhciIsIEh0dHBDb29raWUoIiIsICIiKSkKLy8gICAgICBzCi8vICAgIH0gZWxzZSB7Ci8vCi8vICAgIH0KLy8gICAgICAgIC50YWtlSWYgewovLyAgICAgICAgICBpdC5jb250YWluc0tleSgibXN0YXIiKX0KCi8vICAgIGNvb2tpZVsibXN0YXIiXS5vckVtcHR5KCkub3JFbXB0eSgpCgovLyAgICB9CgovLyAgICAgICAgLmNvbnRhaW5zS2V5KCJtc3RhciIpCi8vICAgICAgICAuY290IFsibXN0YXIiXT8uZmlyc3QoKSA/OiBIdHRwQ29va2llKCJtc3RhciIsICIiKQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh1c2VyICE9IG51bGwpIHsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICB2YWwgcyA9IHJlcS5jb29raWVzKCkuZ2V0T3JEZWZhdWx0KCJtc3RhciIsIEh0dHBDb29raWUoIiIsICIiKSkKLy8gICAgICBzCi8vICAgIH0gZWxzZSB7Ci8vCi8vICAgIH0KLy8gICAgICAgIC50YWtlSWYgewovLyAgICAgICAgICBpdC5jb250YWluc0tleSgibXN0YXIiKX0KCi8vICAgIGNvb2tpZVsibXN0YXIiXS5vckVtcHR5KCkub3JFbXB0eSgpCgovLyAgICB9CgovLyAgICAgICAgLmNvbnRhaW5zS2V5KCJtc3RhciIpCi8vICAgICAgICAuY290IFsibXN0YXIiXT8uZmlyc3QoKSA/OiBIdHRwQ29va2llKCJtc3RhciIsICIiKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2677,7 +2679,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>20</text>
