@@ -66,6 +66,7 @@
         <mark key="^" line="15" column="60" />
         <mark key="." line="15" column="60" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/oswald/config/config.properties" timestamp="1528997882612" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/usertracking/ResponseImageTest.kt" timestamp="1528817697551">
         <mark key="[" line="9" column="28" />
       </file>
@@ -122,6 +123,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="27" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/oswald/config/passwords.properties" timestamp="1528997909288" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/service/RealTimeServiceImpl.java" timestamp="1528298009454">
         <mark key="[" line="159" column="48" />
       </file>
