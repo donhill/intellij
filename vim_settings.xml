@@ -9,6 +9,11 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/UserTrackingException.kt" timestamp="1528752922679">
         <mark key="[" line="9" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/fairmarketvalue/impl/FairMarketValueServiceImpl.java" timestamp="1529007397500">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/CacheHolder.kt" timestamp="1527699312858">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="14" />
@@ -26,6 +31,7 @@
         <mark key="]" line="284" column="0" />
         <mark key="." line="284" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-parent/ux-web-design/src/content/jcr_root/apps/morningstar/osgiConfig/config.author.uat/com.morningstar.database.datasource.impl.JdbcEncryptedPoolService-sqlserver.rtquote.morningstar.com.SecurityHistoryData.xml" timestamp="1529007431614" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/handlers.kt" timestamp="1527790486317">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -67,6 +73,7 @@
         <mark key="." line="15" column="60" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/oswald/config/config.properties" timestamp="1528997882612" />
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/fairmarketvalue/config/impl/FairMarketValueServiceConfigurationImpl.java" timestamp="1529007080733" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/usertracking/ResponseImageTest.kt" timestamp="1528817697551">
         <mark key="[" line="9" column="28" />
       </file>
@@ -90,6 +97,7 @@
         <mark key="." line="35" column="67" />
         <mark key="^" line="35" column="67" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-ux-web-parent/ux-web-design/src/content/jcr_root/apps/morningstar/osgiConfig/config.author.stage/com.morningstar.database.datasource.impl.JdbcEncryptedPoolService-sqlserver.rtquote.morningstar.com.SecurityHistoryData.xml" timestamp="1529007676808" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/CacheServiceTest.kt" timestamp="1527618484932">
         <mark key="[" line="85" column="59" />
         <mark key="]" line="85" column="0" />
@@ -108,6 +116,7 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/RoutingConfigurationTest.kt" timestamp="1528394521340">
         <mark key="[" line="31" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer-api/src/main/java/com/morningstar/servlets/markets/fairmarketvalue/FairMarketValueServlet.java" timestamp="1529007847430" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/application.properties" timestamp="1527796574874">
         <mark key="[" line="7" column="21" />
       </file>
@@ -271,7 +280,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkudXRpbC5nZXRPckRlZmF1bHQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5sb2dnZXIuTG9nRW50cnk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>foo</text>
@@ -283,25 +292,25 @@
         <text encoding="base64">ICAgIHZhbCBzdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkudXRpbC5nZXRPckRlZmF1bHQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5sb2dnZXIuTG9nRW50cnk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkudXRpbC5nZXRPckRlZmF1bHQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5sb2dnZXIuRXZlbnRTZXZlcml0eTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkudXRpbC5wYXJzZUludAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5leGNlcHRpb24uUEhYRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkudXRpbC5MT0dHRVIK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5kYXRhYmFzZS5kYXRhc291cmNlLkRhdGFTb3VyY2VOYW1lOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkudXRpbC5nZXRPckRlZmF1bHQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5kYXRhYmFzZS5kYXRhc291cmNlLkRhdGFTb3VyY2VGYWN0b3J5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5kYXRhYmFzZS5jb3JlLkpkYmNPcGVyYXRvcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHByb3BlcnR5U291cmNlc1BsYWNlaG9sZGVyQ29uZmlndXJlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5jb21tb24uc2VydmljZS5pbXBsLkRhdGFTb3VyY2VFbmFibGVkU2VydmljZUltcGw7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2242,10 +2251,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJvcGVydHlTb3VyY2VzUGxhY2Vob2xkZXJDb25maWd1cmVyLnNldFByb3BlcnRpZXMoeWFtbC5gb2JqZWN0YCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5jb21tb24uc2VydmljZS5TZXJ2aWNlUmVzdWx0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgeWFtbC5zZXRSZXNvdXJjZXMoQ2xhc3NQYXRoUmVzb3VyY2UoeWFtbEZpbGUpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkudXRpbC5nZXRPckRlZmF1bHQK</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
