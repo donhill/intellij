@@ -260,6 +260,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/extensions.kt" timestamp="1529422876462">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/AndroidManifest.xml" timestamp="1520606292902">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="48" column="0" />
@@ -274,6 +280,12 @@
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/RestExceptionHandler.kt" timestamp="1529423567345">
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+        <mark key="^" line="25" column="4" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/util/UserCookieParser.kt" timestamp="1527805436325">
         <mark key="[" line="156" column="15" />
@@ -301,8 +313,16 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/services/caching/http/CacheControlHeaderHelperTest.kt" timestamp="1529423178999">
+        <mark key="[" line="83" column="28" />
+        <mark key="]" line="83" column="28" />
+        <mark key="." line="83" column="28" />
+      </file>
       <file name="/Dummy.txt" timestamp="1529169118076">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/LogbackFilter.kt" timestamp="1529423572875">
+        <mark key="[" line="34" column="31" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/register_phone_fragment.xml" timestamp="1520383270778">
         <mark key="[" line="38" column="40" />
@@ -325,6 +345,9 @@
         <mark key="[" line="39" column="17" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/MstarCookDataTest.kt" timestamp="1529423077016">
+        <mark key="[" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/utils/IdServiceHelperTest.java" timestamp="1525887726586">
         <mark key="[" line="28" column="84" />
@@ -479,10 +502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNsYXNzaWMuc3BpLklMb2dnaW5nRXZlbnQK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>//To change body of created functions use File | Settings | File Templates.</text>
       </register>
       <register name="/" type="4">
         <text>: String</text>
@@ -491,25 +514,25 @@
         <text encoding="base64">ICAgIHZhbCBzdGFydFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNsYXNzaWMuc3BpLklMb2dnaW5nRXZlbnQK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oYW1jcmVzdC50ZXh0LklzRW1wdHlTdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICBleGNoYW5nZS5yZXNwb25zZS5zdGF0dXNDb2RlID0gSHR0cFN0YXR1cy5CQURfUkVRVUVTVAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgc2xmNGpMb2dnZXIuaW5mbyhyZXF1ZXN0Py5tZXRob2Q/Lm5hbWUsIGxvZ0l0ZW1zKQo=</text>
+        <text encoding="base64">ICAgICAgaXMgUnVudGltZUV4Y2VwdGlvbiAtPiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuYWxzbyB7IHByaW50KGl0LmphdmFDbGFzcykgfQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA0ZDJlODRlNGVlZTNiMGE0YTFmZTJiZWE5YWM2MjFhMTg0N2E4NzkzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbHNvIHsgcHJpbnQoIiRpdCBcbiIpIH0K</text>
+        <text encoding="base64">ICBnZXQoKSA9IHRoaXMuaGVhZGVycygpLmhvc3QoKS5hZGRyZXNzPy5ob3N0QWRkcmVzcyA/OiBJbmV0QWRkcmVzcy5nZXRMb2NhbEhvc3QoKS5ob3N0TmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXF1ZXN0ID0gZXhjaGFuZ2U/LnJlcXVlc3QK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2450,13 +2473,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZE5hbWUgPSBnZXRWYWxpZFN0cmluZ1ZhbHVlKG1ldGhvZE5hbWUpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>37</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2495,13 +2518,13 @@
         <entry>63</entry>
         <entry>w</entry>
         <entry>190</entry>
-        <entry>wq</entry>
         <entry>312</entry>
         <entry>31</entry>
         <entry encoding="base64">JzwsJz4lcy92YWwvL2c=</entry>
         <entry encoding="base64">JzwsJz4lcy86IFN0cmluZy8vZw==</entry>
         <entry>92</entry>
         <entry>37</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
