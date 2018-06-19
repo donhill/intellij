@@ -60,7 +60,7 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/ehcache.xml" timestamp="1527616799427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/application.properties" timestamp="1527624225922">
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/application.properties" timestamp="1529425219291">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -104,10 +104,10 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/pom.xml" timestamp="1527702986449">
-        <mark key="[" line="118" column="17" />
-        <mark key="]" line="344" column="0" />
-        <mark key="." line="344" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/pom.xml" timestamp="1529425186196">
+        <mark key="[" line="176" column="17" />
+        <mark key="]" line="349" column="0" />
+        <mark key="." line="349" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/MstarCookData.kt" timestamp="1529343790378">
         <mark key="[" line="6" column="19" />
@@ -121,6 +121,9 @@
         <mark key="[" line="67" column="17" />
         <mark key="]" line="67" column="17" />
         <mark key="." line="67" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/midway/logs/midway.log" timestamp="1529425324341">
+        <mark key="'" line="9" column="94" />
       </file>
       <file name="$USER_HOME$/projects/oreilly-kotlin-course/advanced/src/main/kotlin/com/hadihariri/kotlincourse/generics/Repository.kt" timestamp="1525466774815">
         <mark key="[" line="2" column="0" />
@@ -499,6 +502,7 @@
       <jump line="39" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/logging/LogbackFilter.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/AemBffServiceApplication.kt" />
       <jump line="44" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/aembffservice/logging/ExceptionConverterTest.kt" />
+      <jump line="9" column="94" filename="$USER_HOME$/projects/morningstar/aem-bff-service/midway/logs/midway.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
