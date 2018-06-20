@@ -4,6 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/fairmarketvalue/impl/FairMarketValueServiceImpl.java" timestamp="1529508265538" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolder.kt" timestamp="1529512782065">
+        <mark key="[" line="22" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/MainPresenterImpl.kt" timestamp="1522878147930">
         <mark key="[" line="89" column="48" />
         <mark key="]" line="90" column="0" />
@@ -283,6 +286,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/BreakerType.kt" timestamp="1529512676238">
+        <mark key="[" line="13" column="53" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/oswald/src/main/java/com/morningstar/dataapi/oswald/cache/services/EhCacheServiceImpl.java" timestamp="1517598890393">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -393,7 +402,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1529426066409">
+      <file name="/fragment.java" timestamp="1529512899721">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/service/handler.java" timestamp="1525112266232">
