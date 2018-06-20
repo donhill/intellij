@@ -150,12 +150,12 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheHolder.kt" timestamp="1527699164884">
         <mark key="[" line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvalue/FairMarket.kt" timestamp="1529510326378">
-        <mark key="'" line="51" column="89" />
-        <mark key="[" line="10" column="54" />
-        <mark key="]" line="10" column="52" />
-        <mark key="." line="10" column="52" />
-        <mark key="^" line="10" column="52" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvalue/FairMarket.kt" timestamp="1529511634233">
+        <mark key="'" line="52" column="89" />
+        <mark key="[" line="33" column="50" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-all-parent/service-all/src/main/java/com/morningstar/monitor/services/impl/StatusCheckServiceImpl.java" timestamp="1518024047035">
         <mark key="[" line="34" column="0" />
@@ -475,34 +475,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGFpcjxMb2NhbERhdGUsIERvdWJsZT4+</text>
+        <text>AllTimeHigh</text>
       </register>
       <register name="/" type="4">
         <text>.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB3ZWVrNTJMb3cgPSBWYWx1ZURhdGUoTG9jYWxUaW1lLm5vdygpLCAxLjQ0CSkK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdmFsIEFMTF9USU1FX0hJR0ggPSAiQWxsVGltZUhpZ2giCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHdlZWs1MkhpZ2ggPSB3ZWVrNTJIaWdoLCB3ZWVrNTJMb3cgPSB3ZWVrNTJMb3csIHRvZGF5UmF0aW8gPSB0b2RheVJhdGlvKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGZhaXJNYXJrZXQgPSBjcmVhdGUoIkVuZXJneSIsIG1hcE9mKGFsbFRpbWVIaWdoID0gYWxsVGltZUhpZ2gsIGFsbFRpbWVMb3cgPSBhbGxUaW1lTG93LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0b2RheVJhdGlvID0gRmFpck1hcmtldEZhY3RvcnkuY3JlYXRlKExvY2FsRGF0ZS5wYXJzZSgiMjAxOC0wMy0wMiIpIHRvIDAuOQkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB3ZWVrNTJMb3cgPSBGYWlyTWFya2V0RmFjdG9yeS5jcmVhdGUoTG9jYWxEYXRlLnBhcnNlKCIyMDE3LTA2LTIwIikgdG8gMC44MwkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB3ZWVrNTJIaWdoID0gRmFpck1hcmtldEZhY3RvcnkuY3JlYXRlKExvY2FsRGF0ZS5wYXJzZSgiMjAxOC0wMS0yNSIpIHRvIDEuMjMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBhbGxUaW1lTG93ID0gRmFpck1hcmtldEZhY3RvcnkuY3JlYXRlKExvY2FsRGF0ZS5wYXJzZSgiMjAwOC0xMC0xMCIpIHRvIDAuNDMJKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2442,11 +2442,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBMb2NhbERhdGUucGFyc2UoIjIwMTYtMDQtMjcgIikgdG8gMS40NCwKICAgIExvY2FsRGF0ZS5wYXJzZSgiMjAwOC0xMC0xMCIpIHRvIDAuNDMJLAogICAgTG9jYWxEYXRlLnBhcnNlKCIyMDE4LTAxLTI1IikgdG8gMS4yMywKICAgIExvY2FsRGF0ZS5wYXJzZSgiMjAxNy0wNi0yMCIpIHRvIDAuODMJLAogICAgTG9jYWxEYXRlLnBhcnNlKCIyMDE4LTAzLTAyIikgdG8gMC45CSws</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhbCBhbGxUaW1lSGlnaCA9IEZhaXJNYXJrZXRGYWN0b3J5LmNyZWF0ZShMb2NhbERhdGUucGFyc2UoIjIwMTYtMDQtMjcgIikgdG8gMS40NAkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
