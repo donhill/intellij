@@ -47,6 +47,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/driver_incident_list_item_request.xml" timestamp="1529503461198" />
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/MainPresenterImpl.kt" timestamp="1522878147930">
         <mark key="[" line="89" column="48" />
         <mark key="]" line="90" column="0" />
@@ -59,6 +60,9 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/ehcache.xml" timestamp="1527616799427">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/adapters/IncidentViewHolder.kt" timestamp="1529503665240">
+        <mark key="[" line="232" column="53" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/application.properties" timestamp="1527624225922">
         <mark key="[" line="10" column="0" />
@@ -75,6 +79,9 @@
         <mark key="]" line="53" column="0" />
         <mark key="^" line="64" column="22" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1529504116573">
+        <mark key="[" line="66" column="26" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/usertracking/services/DefaultUserTracking.kt" timestamp="1527628418015">
         <mark key="[" line="55" column="79" />
@@ -244,6 +251,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/IncidentViewFragment.kt" timestamp="1529503578169" />
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/application.properties" timestamp="1527796574874">
         <mark key="[" line="7" column="21" />
       </file>
@@ -298,7 +306,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529169118076">
+      <file name="/Dummy.txt" timestamp="1529503580899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/register_phone_fragment.xml" timestamp="1520383270778">
