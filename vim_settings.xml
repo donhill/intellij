@@ -108,18 +108,24 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheServiceImpl.kt" timestamp="1527699355501">
         <mark key="[" line="44" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" timestamp="1529604341013">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="52" column="19" />
-        <mark key="]" line="22" column="90" />
-        <mark key="." line="22" column="90" />
-        <mark key="^" line="22" column="90" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" timestamp="1529605820919">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="76" column="57" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="76" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/ApiComponent.kt" timestamp="1529425572022">
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/DateTimeFormats.kt" timestamp="1529441499377">
         <mark key="[" line="33" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-rt.properties" timestamp="1529605540926">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/authentication/IdentityGatewayFactory.java" timestamp="1527795787838">
         <mark key="[" line="34" column="46" />
@@ -211,10 +217,11 @@
       <jump line="28" column="0" filename="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.properties" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.properties" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.properties" />
+      <jump line="24" column="0" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUaHJvd3MoU1FMRXhjZXB0aW9uOjpjbGFzcykK</text>
+        <text encoding="base64">cnRRdW90ZS5kYXRhc291cmNlLmRyaXZlckNsYXNzTmFtZT1jb20ubWljcm9zb2Z0LnNxbHNlcnZlci5qZGJjLlNRTFNlcnZlckRyaXZlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>dataSource</text>
@@ -226,25 +233,25 @@
         <text encoding="base64">ICBAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4ID0gInVzZXJ0cmFja2luZy5kYXRhc291cmNlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUaHJvd3MoU1FMRXhjZXB0aW9uOjpjbGFzcykK</text>
+        <text encoding="base64">cnRRdW90ZS5kYXRhc291cmNlLmRyaXZlckNsYXNzTmFtZT1jb20ubWljcm9zb2Z0LnNxbHNlcnZlci5qZGJjLlNRTFNlcnZlckRyaXZlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUaHJvd3MoU1FMRXhjZXB0aW9uOjpjbGFzc2RkKQo=</text>
+        <text encoding="base64">cnRRdW90ZS5kYXRhc291cmNlLnVybD1qZGJjOnNxbHNlcnZlcjovL3dlYnRyYWZmaWNzdGFnaW5nLmNpZjN2Z2pycDN2My51cy1lYXN0LTEucmRzLmFtYXpvbmF3cy5jb206MTQzMztkYXRhYmFzZU5hbWU9V2ViVHJhZmZpY1N0YWdpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5RdWFsaWZpZXIK</text>
+        <text encoding="base64">I2ZhaXIgbWFya2V0IHZhbHVlIGZvciBzZWN0b3IK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgbGF0ZWluaXQgdmFyIGRyaXZlckNsYXNzTmFtZTogU3RyaW5nCg==</text>
+        <text encoding="base64">dXNlci50cmFja2luZy5kYXRhc291cmNlLmhpa2FyaS5jb25uZWN0aW9uLXRpbWVvdXQ9MzAwMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlci50cmFja2luZy5kYXRhc291cmNlLmhpa2FyaS5pZGxlLXRpbWVvdXQ9NTAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
+        <text encoding="base64">dXNlci50cmFja2luZy5kYXRhc291cmNlLmhpa2FyaS5tYXhpbXVtLXBvb2wtc2l6ZT0xMDAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2185,21 +2192,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
+        <text encoding="base64">I3VzZXIudHJhY2tpbmcuZGF0YXNvdXJjZS5oaWthcmkuamRiYzQtY29ubmVjdGlvbi10ZXN0PWZhbHNlCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlci50cmFja2luZy5kYXRhc291cmNlLmhpa2FyaS5taW5pbXVtLWlkbGU9NQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
