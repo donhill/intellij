@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="vim_settings.xml" timestamp="1527625172248">
@@ -51,14 +51,15 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/ehcache.xml" timestamp="1527616799427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.properties" timestamp="1529531280283">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.properties" timestamp="1529597508643">
+        <mark key="'" line="14" column="62" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1529525380542">
-        <mark key="'" line="328" column="2" />
+      <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1529597387415">
+        <mark key="'" line="4508" column="0" />
         <mark key="[" line="501" column="28" />
         <mark key="]" line="501" column="28" />
         <mark key="." line="501" column="28" />
@@ -86,7 +87,7 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvalue/SectorComponent.kt" timestamp="1529426334830">
         <mark key="[" line="2" column="21" />
       </file>
-      <file name="/fragment.kt" timestamp="1529524415882">
+      <file name="/fragment.kt" timestamp="1529597154264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/MstarCookData.kt" timestamp="1529343790378">
@@ -107,11 +108,11 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheServiceImpl.kt" timestamp="1527699355501">
         <mark key="[" line="44" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" timestamp="1529594785724">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="24" column="14" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" timestamp="1529597222799">
+        <mark key="[" line="63" column="51" />
+        <mark key="]" line="63" column="4" />
+        <mark key="." line="63" column="4" />
+        <mark key="^" line="63" column="4" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/ApiComponent.kt" timestamp="1529425572022">
         <mark key="[" line="2" column="0" />
@@ -201,10 +202,12 @@
       <jump line="328" column="2" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/morningstar/midway/logs/midway.log" />
       <jump line="25" column="7" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" />
+      <jump line="13" column="62" filename="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.properties" />
+      <jump line="4508" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJ1c2VyLnRyYWNraW5nLmRhdGFzb3VyY2UiKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>user.tracking.jpa.show-sql=true</text>
@@ -216,25 +219,31 @@
         <text encoding="base64">ICBAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4ID0gInVzZXJ0cmFja2luZy5kYXRhc291cmNlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJ1c2VyLnRyYWNraW5nLmRhdGFzb3VyY2UiKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJ1c2VydHJhY2tpbmcuZGF0YXNvdXJjZSIpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>class Credentials {
+    private val authMethod: String? = null
+    private val username: String? = null
+    private val password: String? = null
+
+    // standard getters and setters
+  }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBhZGRpdGlvbmFsSGVhZGVyczogTWFwPFN0cmluZywgU3RyaW5nPj8gPSBudWxsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBkZWZhdWx0UmVjaXBpZW50czogTGlzdDxTdHJpbmc+PyA9IG51bGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBjcmVkZW50aWFsczogQ3JlZGVudGlhbHM/ID0gbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIEhpa2FyaURhdGFTb3VyY2UodGhpcykgYXMgRGF0YVNvdXJjZQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBmcm9tOiBTdHJpbmc/ID0gbnVsbAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2175,10 +2184,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGZvbyA9IERhdGFTb3VyY2VQcm9wZXJ0aWVzKCkuaW5pdGlhbGl6ZURhdGFTb3VyY2VCdWlsZGVyKCkuYnVpbGQoKQo=</text>
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBkYXRhU291cmNlKCk6IERhdGFTb3VyY2Ugewo=</text>
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuaW5pdGlhbGl6ZT1mYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
