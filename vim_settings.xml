@@ -23,8 +23,8 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/RouterConfiguration.kt" timestamp="1529516613809">
         <mark key="[" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/IncidentViewFragment.kt" timestamp="1529534967188">
-        <mark key="[" line="217" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/IncidentViewFragment.kt" timestamp="1529535665161">
+        <mark key="[" line="323" column="13" />
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
       </file>
@@ -49,10 +49,11 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/ehcache.xml" timestamp="1527616799427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/adapters/IncidentViewHolder.kt" timestamp="1529534920537">
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="." line="265" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/adapters/IncidentViewHolder.kt" timestamp="1529535968178">
+        <mark key="[" line="196" column="8" />
+        <mark key="]" line="196" column="8" />
+        <mark key="." line="196" column="8" />
+        <mark key="^" line="196" column="68" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.properties" timestamp="1529531280283">
         <mark key="[" line="19" column="0" />
@@ -206,11 +207,11 @@
       <jump line="25" column="7" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkcml2ZXJzTmFtZS52aXNpYmlsaXR5ID0gVmlldy5HT05FCg==</text>
+      <register name="&quot;" type="4">
+        <text>convertView</text>
       </register>
       <register name="-" type="4">
-        <text>user.tracking.jpa.show-sql=true</text>
+        <text>convertView</text>
       </register>
       <register name="/" type="4">
         <text>.</text>
