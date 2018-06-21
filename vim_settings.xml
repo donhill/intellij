@@ -6,11 +6,6 @@
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/logging/ExceptionConverterTest.kt" timestamp="1529519846645">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorHandler.kt" timestamp="1529611983291">
         <mark key="[" line="35" column="35" />
         <mark key="]" line="28" column="64" />
@@ -48,6 +43,9 @@
         <mark key="^" line="43" column="11" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/UserTrackingRepository.kt" timestamp="1529616711337">
+        <mark key="[" line="43" column="83" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvalue/services/SectorValuation.kt" timestamp="1529612525675">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -77,18 +75,13 @@
         <mark key="]" line="501" column="28" />
         <mark key="." line="501" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/util/DesTest.kt" timestamp="1529514758902">
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="28" column="9" />
-        <mark key="." line="28" column="9" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/UserTrackingRepository.kt" timestamp="1529614816191">
         <mark key="[" line="25" column="115" />
         <mark key="]" line="24" column="5" />
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529169118076">
+      <file name="/Dummy.txt" timestamp="1529616592662">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/usertracking/services/DefaultUserTracking.kt" timestamp="1527628418015">
@@ -116,8 +109,8 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/services/ServicesComponent.kt" timestamp="1529425630366">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/midway/logs/midway.log" timestamp="1529435378873">
-        <mark key="'" line="12978" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/midway/logs/midway.log" timestamp="1529616161519">
+        <mark key="'" line="1329" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/MstarCookDataTest.kt" timestamp="1529423077016">
         <mark key="[" line="7" column="10" />
@@ -156,11 +149,17 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/authentication/IdentityGatewayFactory.java" timestamp="1527795787838">
         <mark key="[" line="34" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1529512899721">
+      <file name="/fragment.java" timestamp="1529616592680">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/logs/midway.log" timestamp="1529526147794">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/handlers.kt" timestamp="1529617120385">
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -248,10 +247,11 @@
       <jump line="39202" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="39353" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="39343" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
+      <jump line="1329" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/midway/logs/midway.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>m</text>
@@ -263,25 +263,25 @@
         <text encoding="base64">dXNlci50cmFja2luZy5wcm9jZWR1cmUudXNlcj1BZGRQYWdlVmlld0luZm8yCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgQFZhbHVlKCJcJHt1c2VyLnRyYWNraW5nLnByb2NlZHVyZS51c2VyfSIpCiAgcHJpdmF0ZQogIGxhdGVpbml0IHZhciB1c2VyU3RvcmVkUHJvY2VkdXJlOiBTdHJpbmcKCgogIG92ZXJyaWRlIGZ1biBleGVjdXRlKHNlY3RvcnM6IExpc3Q8U3RyaW5nPik6IE11dGFibGVNYXA8U3RyaW5nLCBBbnk+IHsKICAgIHZhbCBtYXBTcWxQYXJhbVNvdXJjZSA9IE1hcFNxbFBhcmFtZXRlclNvdXJjZSgpCiAgICB2YWwgc3FsUGFyYW0gPSBzZWN0b3JzLmpvaW5Ub1N0cmluZygpCiAgICB0cnkgewogICAgICB2YWwgamRiY0NhbGwgPSBTaW1wbGVKZGJjQ2FsbChkYXRhU291cmNlKQogICAgICAgICAgLndpdGhQcm9jZWR1cmVOYW1lKHVzZXJTdG9yZWRQcm9jZWR1cmUpCgogICAgICBqZGJjQ2FsbC5hZGREZWNsYXJlZFBhcmFtZXRlcihTcWxJbk91dFBhcmFtZXRlcigicF9TZWN0b3JMaXN0IiwgVHlwZXMuVkFSQ0hBUikpCiAgICAgIG1hcFNxbFBhcmFtU291cmNlLmFkZFZhbHVlKCJwX1NlY3Rvckxpc3QiLCBzcWxQYXJhbSkKCiAgICAgIHZhbCByZXN1bHQgPSBqZGJjQ2FsbC5leGVjdXRlKG1hcFNxbFBhcmFtU291cmNlKQogICAgICBwcmludChyZXN1bHQpCiAgICAgIHJldHVybiByZXN1bHQKICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewovLyAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgdmFsIGZpZWxkcyA9IEV2ZW50RmllbGRzKCJwcm9jIiB0byB1c2VyU3RvcmVkUHJvY2VkdXJlLAogICAgICAgICAgImRhdGFiYXNlIHBhcmFtZXRlcnMiIHRvIHNxbFBhcmFtKQogICAgICBMT0dHRVIuZXJyb3IoIkVycm9yIGV4ZWN1dGUgaW5zZXJ0IHVzZXIgdHJhY2tpbmcgZGF0YSBpbnRvIGRhdGFiYXNlIiwgZmllbGRzKQoKICAgICAgdGhyb3cgVXNlclRyYWNraW5nRXhjZXB0aW9uKGUpCiAgICB9CiAgfQoKICBjb21wYW5pb24gb2JqZWN0IHsKICAgIHByaXZhdGUgdmFsIExPR0dFUiA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKFVzZXJUcmFja2luZ1JlcG9zaXRvcnk6OmNsYXNzLmphdmEpCiAgfQ==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgQFZhbHVlKCJcJHt1c2VyLnRyYWNraW5nLnByb2NlZHVyZS51c2VyfSIpCiAgcHJpdmF0ZQogIGxhdGVpbml0IHZhciB1c2VyU3RvcmVkUHJvY2VkdXJlOiBTdHJpbmcKCgogIG92ZXJyaWRlIGZ1biBleGVjdXRlKHNlY3RvcnM6IExpc3Q8U3RyaW5nPik6IE11dGFibGVNYXA8U3RyaW5nLCBBbnk+IHsKICAgIHZhbCBtYXBTcWxQYXJhbVNvdXJjZSA9IE1hcFNxbFBhcmFtZXRlclNvdXJjZSgpCiAgICB2YWwgc3FsUGFyYW0gPSBzZWN0b3JzLmpvaW5Ub1N0cmluZygpCiAgICB0cnkgewogICAgICB2YWwgamRiY0NhbGwgPSBTaW1wbGVKZGJjQ2FsbChkYXRhU291cmNlKQogICAgICAgICAgLndpdGhQcm9jZWR1cmVOYW1lKHVzZXJTdG9yZWRQcm9jZWR1cmUpCgogICAgICBqZGJjQ2FsbC5hZGREZWNsYXJlZFBhcmFtZXRlcihTcWxJbk91dFBhcmFtZXRlcigicF9TZWN0b3JMaXN0IiwgVHlwZXMuVkFSQ0hBUikpCiAgICAgIG1hcFNxbFBhcmFtU291cmNlLmFkZFZhbHVlKCJwX1NlY3Rvckxpc3QiLCBzcWxQYXJhbSkKCiAgICAgIHZhbCByZXN1bHQgPSBqZGJjQ2FsbC5leGVjdXRlKG1hcFNxbFBhcmFtU291cmNlKQogICAgICBwcmludChyZXN1bHQpCiAgICAgIHJldHVybiByZXN1bHQKICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewovLyAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgdmFsIGZpZWxkcyA9IEV2ZW50RmllbGRzKCJwcm9jIiB0byB1c2VyU3RvcmVkUHJvY2VkdXJlLAogICAgICAgICAgImRhdGFiYXNlIHBhcmFtZXRlcnMiIHRvIHNxbFBhcmFtKQogICAgICBMT0dHRVIuZXJyb3IoIkVycm9yIGV4ZWN1dGUgaW5zZXJ0IHVzZXIgdHJhY2tpbmcgZGF0YSBpbnRvIGRhdGFiYXNlIiwgZmllbGRzKQoKICAgICAgdGhyb3cgVXNlclRyYWNraW5nRXhjZXB0aW9uKGUpCiAgICB9CiAgfQoKICBjb21wYW5pb24gb2JqZWN0IHsKICAgIHByaXZhdGUgdmFsIExPR0dFUiA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKFVzZXJUcmFja2luZ1JlcG9zaXRvcnk6OmNsYXNzLmphdmEpCiAgfQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">bQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBmdW4gPFQgOiBBbnk+IGV4ZWN1dGUobWFwSG9sZGVyOiBUKSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2225,7 +2225,7 @@
         <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJ1c2VydHJhY2tpbmciKQo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBmdW4gPFQgOiBBbnk+IGV4ZWN1dGUobWFwSG9sZGVyOiBUKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
