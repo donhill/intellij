@@ -69,8 +69,6 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/ParameterProcessor.kt" timestamp="1529678497005">
         <mark key="[" line="22" column="39" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/fairmarketvalue/config/impl/FairMarketValueServiceConfigurationImpl.java" timestamp="1529611713695" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/ParamBuilderTest.kt" timestamp="1529676348823">
@@ -117,13 +115,16 @@
         <mark key="^" line="43" column="11" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvalue/services/SectorValuation.kt" timestamp="1529612525675">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="37" column="78" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvalue/services/SectorValuation.kt" timestamp="1529693100804">
+        <mark key="^" line="32" column="78" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/kotlintest/kotlintest/2.0.7/kotlintest-2.0.7-sources.jar!/io/kotlintest/matchers/Matchers.kt" timestamp="1529620960560" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/application.yml" timestamp="1529693309910">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.6.RELEASE/spring-test-5.0.6.RELEASE.jar!/org/springframework/mock/web/reactive/function/server/MockServerRequest.class" timestamp="1529619733943" />
       <file name="$USER_HOME$/projects/morningstar/midway/pom.xml" timestamp="1529691760771">
         <mark key="[" line="95" column="0" />
@@ -254,7 +255,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkudXNlcnRyYWNraW5nLk1hcEhvbGRlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>b</text>
@@ -266,25 +267,25 @@
         <text encoding="base64">dXNlci50cmFja2luZy5wcm9jZWR1cmUudXNlcj1BZGRQYWdlVmlld0luZm8yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkudXNlcnRyYWNraW5nLk1hcEhvbGRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvbG9nZ2VyPgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iQVNZTkNfbWlkd2F5IiAvPgo=</text>
+        <text encoding="base64">ICAgIDwvbG9nZ2VyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0ib3JnLnNwcmluZ2ZyYW1ld29yay5qZGJjIiBsZXZlbD0iZGVidWciPgo=</text>
+        <text encoding="base64">ICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iQVNZTkNfbWlkd2F5IiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0ib3JnLnNwcmluZ2ZyYW1ld29yay5qZGJjIiBsZXZlbD0iZGVidWciPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2225,7 +2226,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
