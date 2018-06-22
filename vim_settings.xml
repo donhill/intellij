@@ -79,14 +79,18 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/services/ServicesComponent.kt" timestamp="1529425630366">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/ParameterProcessor.kt" timestamp="1529622600649">
+        <mark key="[" line="45" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/midway/logs/midway.log" timestamp="1529616161519">
         <mark key="'" line="1329" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/fairmarketvalue/config/impl/FairMarketValueServiceConfigurationImpl.java" timestamp="1529611713695" />
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/ParamBuilderTest.kt" timestamp="1529622279887">
-        <mark key="[" line="72" column="31" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/ParamBuilderTest.kt" timestamp="1529623090710">
+        <mark key="[" line="76" column="60" />
+        <mark key="]" line="76" column="58" />
+        <mark key="." line="76" column="58" />
+        <mark key="^" line="76" column="58" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheServiceImpl.kt" timestamp="1527699355501">
         <mark key="[" line="44" column="54" />
@@ -260,11 +264,11 @@
       <jump line="1329" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/midway/logs/midway.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>ParameterProcessor.dbString2HttpMap</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFwT2Y8U3RyaW5nLCBTdHJpbmc+KCJmb28iIHRvICJiYXIiKQ==</text>
+        <text>ParameterProcessor.dbString2HttpMap</text>
       </register>
       <register name="/" type="4">
         <text>sector\.value</text>
@@ -273,25 +277,25 @@
         <text encoding="base64">dXNlci50cmFja2luZy5wcm9jZWR1cmUudXNlcj1BZGRQYWdlVmlld0luZm8yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGlvLnN3YWdnZXIudXRpbC5QYXJhbWV0ZXJQcm9jZXNzb3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbmV0ID0gSW5ldEFkZHJlc3MuZ2V0TG9jYWxIb3N0KCkK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbmV0QWRkcmVzcyA9IEluZXRBZGRyZXNzLmdldExvY2FsSG9zdCgpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBpbmV0ID0gSW5ldEFkZHJlc3MuZ2V0TG9jYWxIb3N0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBpbmV0QWRkcmVzcyA9IEluZXRBZGRyZXNzLmdldExvY2FsSG9zdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGluZXRBZGRyZXNzPSBJbiAgICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmdW4gc2V0VXAoKSB7Cg==</text>
+        <text encoding="base64">ICAgIGluZXRBZGRyZXNzPSBJbiAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAQmVmb3JlCg==</text>
+        <text encoding="base64">ICBmdW4gc2V0VXAoKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2232,10 +2236,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZC5xdWVyeVBhcmFtKCJmb28iLCAiYmFyIikK</text>
+        <text encoding="base64">ICBAQmVmb3JlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZC5xdWVyeVBhcmFtKCJmb28iLCAiYmFyIikK</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
