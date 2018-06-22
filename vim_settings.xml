@@ -47,12 +47,6 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/ehcache.xml" timestamp="1527616799427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1529611954775">
-        <mark key="'" line="39343" column="0" />
-        <mark key="[" line="501" column="28" />
-        <mark key="]" line="501" column="28" />
-        <mark key="." line="501" column="28" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/util/DesTest.kt" timestamp="1529514758902">
         <mark key="[" line="28" column="9" />
         <mark key="]" line="28" column="9" />
@@ -169,12 +163,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/time/temporal/ChronoField.java" timestamp="1529443223600">
         <mark key="'" line="544" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" timestamp="1529609647313">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="70" column="35" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvalue/SectorMarketService.kt" timestamp="1529610173035">
         <mark key="[" line="3" column="48" />
         <mark key="]" line="3" column="52" />
@@ -184,7 +172,7 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/authentication/IdentityGatewayFactory.java" timestamp="1527795787838">
         <mark key="[" line="34" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1529618140115">
+      <file name="/fragment.java" timestamp="1529679557803">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/logs/midway.log" timestamp="1529526147794">
