@@ -84,8 +84,10 @@
       <file name="/Dummy.txt" timestamp="1529774108075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1529774123724">
-        <mark key="[" line="66" column="26" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1529784903828">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/usertracking/services/DefaultUserTracking.kt" timestamp="1527628418015">
         <mark key="[" line="55" column="79" />
@@ -216,8 +218,8 @@
       <jump line="25" column="7" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>convertView</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>convertView</text>
@@ -229,25 +231,25 @@
         <text encoding="base64">ICBAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4ID0gInVzZXJ0cmFja2luZy5kYXRhc291cmNlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkcml2ZXJzTmFtZS52aXNpYmlsaXR5ID0gVmlldy5HT05FCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluY2lkZW50UmVzcG9uc2UuaXNBY2NlcHRlZCgpIC0+IGNhbmNlbEJ1dHRvbi52aXNpYmlsaXR5ID0gVmlldy5HT05FCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJ1c2VydHJhY2tpbmcuZGF0YXNvdXJjZSIpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBkcml2ZXJzTmFtZS52aXNpYmlsaXR5ID0gVmlldy5HT05FCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluY2lkZW50UmVzcG9uc2UuaXNBY2NlcHRlZCgpIC0+IGNhbmNlbEJ1dHRvbi52aXNpYmlsaXR5ID0gVmlldy5HT05FCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJ1c2VydHJhY2tpbmcuZGF0YXNvdXJjZSIpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2188,10 +2190,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIEhpa2FyaURhdGFTb3VyY2UodGhpcykgYXMgRGF0YVNvdXJjZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGZvbyA9IERhdGFTb3VyY2VQcm9wZXJ0aWVzKCkuaW5pdGlhbGl6ZURhdGFTb3VyY2VCdWlsZGVyKCkuYnVpbGQoKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
