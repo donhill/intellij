@@ -120,11 +120,11 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/DateTimeFormats.kt" timestamp="1529441499377">
         <mark key="[" line="33" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/MidwaySectorValueTest.kt" timestamp="1529954177240">
-        <mark key="[" line="14" column="69" />
-        <mark key="]" line="14" column="27" />
-        <mark key="^" line="14" column="27" />
-        <mark key="." line="14" column="27" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/MidwaySectorValueTest.kt" timestamp="1529964937900">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="27" />
+        <mark key="^" line="26" column="38" />
+        <mark key="." line="26" column="27" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-usertracking.yaml" timestamp="1529694321251">
         <mark key="[" line="27" column="0" />
@@ -346,11 +346,11 @@
       <jump line="67427" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ImZvbyAke2l0LnJldHVyblJlc3VsdDxGYWlyTWFya2V0PigpfSI=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Error execute sector valuation call from database&quot;, fields</text>
+        <text encoding="base64">ImZvbyAke2l0LnJldHVyblJlc3VsdDxGYWlyTWFya2V0PigpfSI=</text>
       </register>
       <register name="/" type="4">
         <text>sector\.value</text>
