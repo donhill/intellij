@@ -217,6 +217,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'should respond ect...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'should respond ect...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'should respond to ...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -390,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1193</Count>
+          <Count>1198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -414,7 +422,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>43</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -993,6 +1001,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'contextLoads()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'contextLoads()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'createThenDeletePo...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1321,6 +1337,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MidwaySectorValueTest.should respond ector values'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MidwaySectorValueTest.should respond ector values'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MidwayServiceApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1606,7 +1630,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>541</Count>
+          <Count>547</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
