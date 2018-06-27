@@ -69,11 +69,16 @@
         <mark key="^" line="104" column="20" />
         <mark key="." line="104" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationResponse.kt" timestamp="1530130970244">
-        <mark key="[" line="12" column="45" />
-        <mark key="]" line="11" column="44" />
-        <mark key="." line="11" column="44" />
-        <mark key="^" line="11" column="44" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationResponse.kt" timestamp="1530137671382">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+        <mark key="^" line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1530136964806">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/util/DesTest.kt" timestamp="1529514758902">
         <mark key="[" line="28" column="9" />
@@ -186,7 +191,7 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/CorsFilter.kt" timestamp="1530129851698">
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/CorsFilter.kt" timestamp="1530137017480">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -218,7 +223,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/sector-response.json" timestamp="1530130478322">
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/sector-response.json" timestamp="1530137390727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/MidwayServiceApplication.kt" timestamp="1530114457568">
@@ -328,7 +333,6 @@
       <jump line="544" column="4" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/time/temporal/ChronoField.java" />
       <jump line="55" column="89" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvalue/FairMarket.kt" />
       <jump line="55" column="0" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvalue/services/SectorValuation.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="91" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="34" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="99" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
@@ -363,40 +367,43 @@
       <jump line="67472" column="2" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="68465" column="102" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="68504" column="78" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
+      <jump line="68789" column="74" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
+      <jump line="70114" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly9dCg==</text>
       </register>
       <register name="-" type="4">
-        <text>UserTrackingService</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>sector\.value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFsbFRpbWVIaWdoID0gc2VjdG9yVmFsdWF0aW9uLmFsbFRpbWVIaWdoLnZhbHVlCg==</text>
+        <text encoding="base64">ICBASnNvblByb3BlcnR5KCJTZWN0b3JOYW1lIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly9dCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly99Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Ly8gICJBbGxUaW1lSGlnaCI6IDEuMTQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRvZGF5UmF0aW8gPSBzZWN0b3JWYWx1YXRpb24ud2VlazUySGlnaC52YWx1ZSAgCg==</text>
+        <text encoding="base64">Ly8gICJBbGxUaW1lTG93IjogMC41NCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFdlZWs1MkxvdyA9IHNlY3RvclZhbHVhdGlvbi53ZWVrNTJIaWdoLnZhbHVlCg==</text>
+        <text encoding="base64">Ly8gICJUb2RheVJhdGlvRGF0ZSI6ICJKdW4gMjYsIDIwMTggMTI6MDA6MDAgQU0iLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFdlZWs1MkhpZ2ggPSBzZWN0b3JWYWx1YXRpb24ud2VlazUySGlnaC52YWx1ZQo=</text>
+        <text encoding="base64">Ly8gICJTZWN0b3JOYW1lIjogIkFsbCBSYXRlZCBTdG9jayIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFsbFRpbWVMb3cgPSBzZWN0b3JWYWx1YXRpb24uYWxsVGltZUxvdy52YWx1ZQo=</text>
+        <text encoding="base64">Ly8gICJXZWVrNTJIaWdoIjogMS4xMSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2337,10 +2344,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFsbFRpbWVIaWdoID0gc2VjdG9yVmFsdWF0aW9uLmFsbFRpbWVIaWdoLnZhbHVlCg==</text>
+        <text encoding="base64">Ly8gICJBbGxUaW1lTG93RGF0ZSI6ICJOb3YgMjAsIDIwMDggMTI6MDA6MDAgQU0iLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNlY3Rvck5hbWUgPSBzZWN0b3JWYWx1YXRpb24ubmFtZQo=</text>
+        <text encoding="base64">Ly8gICJUb2RheVJhdGlvIjogMS4wMSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
