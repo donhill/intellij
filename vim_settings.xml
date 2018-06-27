@@ -69,8 +69,11 @@
         <mark key="^" line="104" column="20" />
         <mark key="." line="104" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1530114444710">
-        <mark key="'" line="68504" column="78" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationResponse.kt" timestamp="1530130970244">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="11" column="44" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/util/DesTest.kt" timestamp="1529514758902">
         <mark key="[" line="28" column="9" />
@@ -90,13 +93,6 @@
       </file>
       <file name="/fragment.kt" timestamp="1530114884827">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/RouterConfigurationSt.kt" timestamp="1530114494290">
-        <mark key="'" line="18" column="1" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="18" column="106" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/MstarCookData.kt" timestamp="1529343790378">
         <mark key="[" line="6" column="19" />
@@ -133,6 +129,7 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/DateTimeFormats.kt" timestamp="1529441499377">
         <mark key="[" line="33" column="50" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.0.6.RELEASE/spring-webflux-5.0.6.RELEASE.jar!/org/springframework/web/reactive/config/CorsRegistration.class" timestamp="1530129912389" />
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/MidwaySectorValueTest.kt" timestamp="1530113448159">
         <mark key="[" line="27" column="46" />
         <mark key="]" line="30" column="10" />
@@ -183,12 +180,16 @@
         <mark key="." line="76" column="22" />
         <mark key="^" line="76" column="22" />
       </file>
-      <file name="/FairMarketValue.kt" timestamp="1530118991433" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/application.yml" timestamp="1529693309910">
         <mark key="[" line="23" column="35" />
         <mark key="]" line="27" column="18" />
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/CorsFilter.kt" timestamp="1530129851698">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/pom.xml" timestamp="1529691760771">
         <mark key="[" line="95" column="0" />
@@ -217,11 +218,14 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/sector-response.json" timestamp="1530130478322">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/MidwayServiceApplication.kt" timestamp="1530114457568">
         <mark key="[" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/util/DateTimeFormats.kt" timestamp="1530123002238">
-        <mark key="[" line="64" column="78" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/util/DateTimeFormats.kt" timestamp="1530129640283">
+        <mark key="[" line="64" column="76" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
@@ -239,7 +243,6 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/MstarCookDataTest.kt" timestamp="1529423077016">
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvalue/DefaultSectorValuationService.kt" timestamp="1530118453844" />
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvalue/FairMarketValue.kt" timestamp="1530123712695">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
@@ -254,6 +257,12 @@
       </file>
       <file name="/fragment.java" timestamp="1530127398319">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationHandler.kt" timestamp="1530130870938">
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="36" column="29" />
+        <mark key="^" line="36" column="29" />
+        <mark key="." line="36" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -356,8 +365,8 @@
       <jump line="68504" column="78" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UserTrackingService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>UserTrackingService</text>
@@ -366,28 +375,28 @@
         <text>sector\.value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZhaXJNYXJrZXQuYWxsVGltZUhpZ2guZGF0ZSBzaG91bGRCZSBEYXRlVGltZUZvcm1hdHMuZm9ybWF0RGF0ZVplcm9Ib3VycygiMjAxNi0wNC0yNyAwMDowMDowMCIpCg==</text>
+        <text encoding="base64">ICAgIEFsbFRpbWVIaWdoID0gc2VjdG9yVmFsdWF0aW9uLmFsbFRpbWVIaWdoLnZhbHVlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgQFRlc3QKICBmdW4gc2hvdWxkQWx3YXlzUmV0dXJuSG9zdEFuZElwQWRkcmVzcygpIHsKCiAgICB2YWwgc2VydmVyUmVxdWVzdDogU2VydmVyUmVxdWVzdCA9IE1vY2tTZXJ2ZXJSZXF1ZXN0LmJ1aWxkZXIoKQogICAgICAgIC5oZWFkZXIoImtleSIsICJ2YWx1ZSIpCiAgICAgICAgLmhlYWRlcigiaG9zdCIsIGhvc3ROYW1lKS5idWlsZCgpCgogICAgdmFsIHVzZXJUcmFja2luZ0hhbmRsZXIgPSBVc2VyVHJhY2tpbmdIYW5kbGVyKG1vY2s8VXNlclRyYWNraW5nU2VydmljZT4oKSkKICAgIHZhbCByZXN1bHQgPSB1c2VyVHJhY2tpbmdIYW5kbGVyLmJ1aWxkUGFyYW1NYXAoc2VydmVyUmVxdWVzdCkKICAgIHZhbCBleHBlY3RlZCA9IG1hcE9mPFN0cmluZywgU3RyaW5nPigiaG9zdGlwIiB0byBpbmV0QWRkcmVzcy5ob3N0QWRkcmVzcywKICAgICAgICAiaG9zdG5hbWUiIHRvIGhvc3ROYW1lKQoKICAgIHJlc3VsdCBzaG91bGRCZSBleHBlY3RlZAogIH0KCiAgQFRlc3QKICBmdW4gc2hvdWxkQWx3YXlzUmV0dXJuSG9zdEFuZElwQWRkcmVzc1dpdGhDb29raWUoKSB7CgogICAgdmFsIHNlcnZlclJlcXVlc3Q6IFNlcnZlclJlcXVlc3QgPSBNb2NrU2VydmVyUmVxdWVzdC5idWlsZGVyKCkKICAgICAgICAuaGVhZGVyKCJrZXkiLCAidmFsdWUiKQogICAgICAgIC5oZWFkZXIoImhvc3QiLCBob3N0TmFtZSkKICAgICAgICAucXVlcnlQYXJhbSgia2V5IiwgInZhbHVlIikKICAgICAgICAuY29va2llKEh0dHBDb29raWUoIm1zdGFyIiwgInVzZXJJZFRva2VuIikpCiAgICAgICAgLmJ1aWxkKCkKCiAgICB2YWwgdXNlclRyYWNraW5nSGFuZGxlciA9IFVzZXJUcmFja2luZ0hhbmRsZXIobW9jazxVc2VyVHJhY2tpbmdTZXJ2aWNlPigpKQogICAgdmFsIHJlc3VsdCA9IHVzZXJUcmFja2luZ0hhbmRsZXIuYnVpbGRQYXJhbU1hcChzZXJ2ZXJSZXF1ZXN0KQogICAgdmFsIGV4cGVjdGVkPSBtYXBPZjxTdHJpbmcsIFN0cmluZz4oImhvc3RpcCIgdG8gaW5ldEFkZHJlc3MuaG9zdEFkZHJlc3MsCiAgICAgICAgImtleSIgdG8gInZhbHVlIiwKICAgICAgICAiaG9zdG5hbWUiIHRvIGhvc3ROYW1lLAogICAgICAgICJjb29raWUtbXN0YXIiIHRvICJ1c2VySWRUb2tlbiIpCgogICAgcmVzdWx0IHNob3VsZEJlIGV4cGVjdGVkCiAgfQoKICBAVGVzdAogIGZ1biBgc2hvdWxkIGFsd2F5cyByZXR1cm4gcmVxdWVzdCBwYXJhbXMgKyBjb29raWUsIGhvc3RuYW1lLCBhZGRyZXNzYCgpIHsKCiAgICB2YWwgbWFwOk11bHRpVmFsdWVNYXA8U3RyaW5nLCBTdHJpbmc+ID0gTGlua2VkTXVsdGlWYWx1ZU1hcDxTdHJpbmcsIFN0cmluZz4oIDEwKQogICAgdmFsIHBhcmFtZXRlcnMgPSBQYXJhbWV0ZXJQcm9jZXNzb3IKICAgICAgICAuZGJTdHJpbmdDb2x1bW5Ub0h0dHBQYXJhbS5tYXAgewogICAgICAgIG1hcFtpdC5rZXldID0gaXQudmFsdWUKICAgIH0KICAgIHZhbCBzZXJ2ZXJSZXF1ZXN0OiBTZXJ2ZXJSZXF1ZXN0ID0gTW9ja1NlcnZlclJlcXVlc3QuYnVpbGRlcigpCiAgICAgICAgLnF1ZXJ5UGFyYW1zKG1hcCkKICAgICAgICAuaGVhZGVyKCJob3N0IiwgaG9zdE5hbWUpCiAgICAgICAgLmNvb2tpZShIdHRwQ29va2llKCJtc3RhciIsICJ1c2VySWRUb2tlbiIpKQogICAgICAgIC5idWlsZCgpCgogICAgdmFsIHVzZXJUcmFja2luZ0hhbmRsZXIgPSBVc2VyVHJhY2tpbmdIYW5kbGVyKG1vY2s8VXNlclRyYWNraW5nU2VydmljZT4oKSkKICAgIHZhbCByZXN1bHQgPSB1c2VyVHJhY2tpbmdIYW5kbGVyLmJ1aWxkUGFyYW1NYXAoc2VydmVyUmVxdWVzdCkKCiAgICByZXN1bHQuc2l6ZSBzaG91bGRCZSBwYXJhbWV0ZXJzLnNpemUgKyAzCiAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UGFyYW1CdWlsZGVyVGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gZmFpbGVkIHRvIHBhcnNlIHRoZSBpbnB1dCBzZWN0b3JOYW1lcwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRvZGF5UmF0aW8gPSBzZWN0b3JWYWx1YXRpb24ud2VlazUySGlnaC52YWx1ZSAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGRhdGFzb3VyY2U6CiAgICAgIGRyaXZlckNsYXNzTmFtZTogY29tLm1pY3Jvc29mdC5zcWxzZXJ2ZXIuamRiYy5TUUxTZXJ2ZXJEcml2ZXIKICAgICAgaGlrYXJpOgogICAgICAgIGNvbm5lY3Rpb24tdGVzdC1xdWVyeTogc2VsZWN0IDEKICAgICAgICBjb25uZWN0aW9uLXRpbWVvdXQ6IDMwMDAKICAgICAgICBpZGxlLXRpbWVvdXQ6IDUwCiAgICAgICAgbWF4aW11bS1wb29sLXNpemU6IDExMQogICAgICAgIG1pbmltdW0taWRsZTogNQogICAgICBwYXNzd29yZDogV2ViVXNlcgogICAgICB1cmw6IGpkYmM6c3Fsc2VydmVyOi8vUlRRQURCODE6MTQzNDtkYXRhYmFzZU5hbWU9U2VjdXJpdHlIaXN0b3J5RGF0YQogICAgICB1c2VybmFtZTogV2ViVXNlcgogICAganBhOgogICAgICBzaG93LXNxbDogdHJ1ZQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFdlZWs1MkxvdyA9IHNlY3RvclZhbHVhdGlvbi53ZWVrNTJIaWdoLnZhbHVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFdlZWs1MkhpZ2ggPSBzZWN0b3JWYWx1YXRpb24ud2VlazUySGlnaC52YWx1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFsbFRpbWVMb3cgPSBzZWN0b3JWYWx1YXRpb24uYWxsVGltZUxvdy52YWx1ZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2328,10 +2337,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFsbFRpbWVIaWdoID0gc2VjdG9yVmFsdWF0aW9uLmFsbFRpbWVIaWdoLnZhbHVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9UZWNobm9sb2d5CTIwMDQtMDEtMTUgMDA6MDA6MDAJMS40NwkyMDA4LTExLTIwIDAwOjAwOjAwCTAuNTEJMjAxOC0wMS0yMyAwMDowMDowMAkxLjE2CTIwMTgtMDItMTIgMDA6MDA6MDAJMC45OQkyMDE4LTAzLTAyIDAwOjAwOjAwCTEuMDQK</text>
+        <text encoding="base64">ICAgIFNlY3Rvck5hbWUgPSBzZWN0b3JWYWx1YXRpb24ubmFtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
