@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Tests'">
@@ -398,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1204</Count>
+          <Count>1205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -782,6 +782,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SubscriptionsControllerTest.testGetSubscriptionBySubscriptionId'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Test'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1663,6 +1671,14 @@
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Vim Emulator">
+        <Item>
+          <IdeaActionID>VimPluginToggle</IdeaActionID>
+          <ShortCut>'⌥⌘V'</ShortCut>
+          <Description>Vim Emulator</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
