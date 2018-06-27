@@ -26,7 +26,6 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/RouterConfiguration.kt" timestamp="1529516613809">
         <mark key="[" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/content/privacy.html" timestamp="1529785925785" />
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/IncidentViewFragment.kt" timestamp="1529845462868">
         <mark key="[" line="137" column="51" />
         <mark key="]" line="137" column="49" />
@@ -86,7 +85,7 @@
       <file name="/Dummy.txt" timestamp="1529844182443">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1529845093695">
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1530126589646">
         <mark key="[" line="65" column="26" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -115,14 +114,8 @@
         <mark key="^" line="45" column="39" />
         <mark key="." line="45" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/aem-bff-service/midway/logs/midway.log" timestamp="1529435378873">
-        <mark key="'" line="12978" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/MstarCookDataTest.kt" timestamp="1529423077016">
         <mark key="[" line="7" column="10" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/time/temporal/ChronoField.java" timestamp="1529443223600">
-        <mark key="'" line="544" column="4" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheServiceImpl.kt" timestamp="1527699355501">
         <mark key="[" line="44" column="54" />
@@ -139,7 +132,6 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/DateTimeFormats.kt" timestamp="1529441499377">
         <mark key="[" line="33" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/rest/RestService.kt" timestamp="1529788735802" />
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/authentication/IdentityGatewayFactory.java" timestamp="1527795787838">
         <mark key="[" line="34" column="46" />
       </file>
@@ -159,9 +151,6 @@
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/services/FirebaseBackgroundService.kt" timestamp="1529785888973">
         <mark key="[" line="140" column="48" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/logs/midway.log" timestamp="1529526147794">
-        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
