@@ -78,10 +78,10 @@
         <mark key="^" line="104" column="20" />
         <mark key="." line="104" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationResponse.kt" timestamp="1530286746565">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationResponse.kt" timestamp="1530289527984">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1530287833836">
         <mark key="'" line="14615" column="2" />
@@ -450,8 +450,8 @@
       <jump line="14615" column="2" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>datasource</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gIHRvZG86IGRhdGV0aW1lIHJlc3VsdCBzaG91bGQgaGF2ZSAxMjo6YW0K</text>
       </register>
       <register name="-" type="4">
         <text>datasource</text>
@@ -463,28 +463,28 @@
         <text encoding="base64">ICAgIHZhbCBzZWN0b3JEYXRlRm9ybWF0dGVyID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5LU1NLWRkIEhIOm1tOnNzLlMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gIHRvZG86IGRhdGV0aW1lIHJlc3VsdCBzaG91bGQgaGF2ZSAxMjo6YW0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9dCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly99Cg==</text>
+        <text encoding="base64">Ly9dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICJBbGxUaW1lSGlnaCI6IDEuMTQK</text>
+        <text encoding="base64">Ly99Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICJBbGxUaW1lTG93IjogMC41NCwK</text>
+        <text encoding="base64">Ly8gICJBbGxUaW1lSGlnaCI6IDEuMTQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICJUb2RheVJhdGlvRGF0ZSI6ICJKdW4gMjYsIDIwMTggMTI6MDA6MDAgQU0iLAo=</text>
+        <text encoding="base64">Ly8gICJBbGxUaW1lTG93IjogMC41NCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICJTZWN0b3JOYW1lIjogIkFsbCBSYXRlZCBTdG9jayIsCg==</text>
+        <text encoding="base64">Ly8gICJUb2RheVJhdGlvRGF0ZSI6ICJKdW4gMjYsIDIwMTggMTI6MDA6MDAgQU0iLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2425,10 +2425,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICJXZWVrNTJIaWdoIjogMS4xMSwK</text>
+        <text encoding="base64">Ly8gICJTZWN0b3JOYW1lIjogIkFsbCBSYXRlZCBTdG9jayIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICJBbGxUaW1lTG93RGF0ZSI6ICJOb3YgMjAsIDIwMDggMTI6MDA6MDAgQU0iLAo=</text>
+        <text encoding="base64">Ly8gICJXZWVrNTJIaWdoIjogMS4xMSwK</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
