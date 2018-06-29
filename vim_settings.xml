@@ -100,10 +100,11 @@
       <file name="/Dummy.txt" timestamp="1530281706516">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1530281353421">
-        <mark key="[" line="59" column="56" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1530301811659">
+        <mark key="[" line="78" column="38" />
+        <mark key="]" line="71" column="25" />
+        <mark key="." line="71" column="25" />
+        <mark key="^" line="71" column="25" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/usertracking/services/DefaultUserTracking.kt" timestamp="1527628418015">
         <mark key="[" line="55" column="79" />
@@ -261,7 +262,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLkNyYXNobHl0aWNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk5hbWUgIm9wZXJhdG9yLWJldGEtJHt2ZXJzaW9uQ29kZX0iCg==</text>
       </register>
       <register name="-" type="4">
         <text>incidentResponse</text>
@@ -270,7 +271,7 @@
         <text>.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4ID0gInVzZXJ0cmFja2luZy5kYXRhc291cmNlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk5hbWUgIm9wZXJhdG9yLWJldGEtJHt2ZXJzaW9uQ29kZX0iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLkNyYXNobHl0aWNzCg==</text>
