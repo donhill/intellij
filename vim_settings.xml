@@ -114,6 +114,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/local.properties" timestamp="1530543006225" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/BreakerType.kt" timestamp="1529512676238">
         <mark key="[" line="13" column="53" />
         <mark key="]" line="13" column="29" />
@@ -174,6 +175,12 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/MstarCookDataTest.kt" timestamp="1529423077016">
         <mark key="[" line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/local.properties" timestamp="1530543791944">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" timestamp="1529531305127">
         <mark key="[" line="29" column="0" />
@@ -277,16 +284,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29tcGlsZSA=</text>
+        <text>sdk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29tcGlsZSA=</text>
+        <text>sdk</text>
       </register>
       <register name="/" type="4">
         <text>.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk5hbWUgIm9wZXJhdG9yLWJldGEtJHt2ZXJzaW9uQ29kZX0iCg==</text>
+        <text encoding="base64">c2RrLmRpciA9IC9Vc2Vycy9kaGlsbC9MaWJyYXJ5L0FuZHJvaWQvc2RrCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLkNyYXNobHl0aWNzCg==</text>
