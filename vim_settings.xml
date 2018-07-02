@@ -16,11 +16,11 @@
         <mark key="." line="10" column="67" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-barometer-parent/service-barometer/src/main/java/com/morningstar/fairmarketvalue/exception/NotFoundSectorNameException.java" timestamp="1530283651683" />
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/TestEmbedded.kt" timestamp="1530561147376">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="122" column="16" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/TestEmbedded.kt" timestamp="1530563408189">
+        <mark key="[" line="137" column="20" />
+        <mark key="]" line="137" column="13" />
+        <mark key="." line="137" column="13" />
+        <mark key="^" line="137" column="13" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheHolder.kt" timestamp="1527699164884">
         <mark key="[" line="9" column="35" />
@@ -270,7 +270,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/pom.xml" timestamp="1530544134585" />
+      <file name="$USER_HOME$/projects/morningstar/midway/pom.xml" timestamp="1530562814972">
+        <mark key="[" line="116" column="15" />
+        <mark key="]" line="119" column="17" />
+        <mark key="^" line="119" column="17" />
+        <mark key="." line="119" column="17" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/AemBffServiceApplicationTest.kt" timestamp="1529958809061">
         <mark key="[" line="13" column="8" />
         <mark key="]" line="13" column="46" />
@@ -471,41 +476,43 @@
       <jump line="12557" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>rs.addRow(5, sector.week52High.value)
+        rs.addRow(6, sector.week52High.date)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>sector\.value</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGpkYmNDYWxsLnByb2NlZHVyZU5hbWUgPSAiR2V0X01lZGlhbkZWSGlnaExvd1RvZGF5UmF0aW8iCg==</text>
+      <register name="0" type="4">
+        <text>rs.addRow(5, sector.week52High.value)
+        rs.addRow(6, sector.week52High.date)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBycy5hZGRDb2x1bW4oIkFsbFRpbWVIaWdoIiwgVHlwZXMuRE9VQkxFLCAyNTUsIDApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBycy5hZGRDb2x1bW4oIkFsbFRpbWVIaWdoIiwgVHlwZXMuRE9VQkxFLCAyNTUsIDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBycy5hZGRDb2x1bW4oIkFsbFRpbWVIaWdoIiwgVHlwZXMuRE9VQkxFLCAyNTUsIDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBycy5hZGRDb2x1bW4oIkFsbFRpbWVIaWdoIiwgVHlwZXMuRE9VQkxFLCAyNTUsIDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Li4uCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLi4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaW1wb3J0IG9yZy5oMi50b29scy5TaW1wbGVSZXN1bHRTZXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2446,10 +2453,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name=":" type="4">
         <text>84</text>
