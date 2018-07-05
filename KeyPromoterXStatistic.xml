@@ -398,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1254</Count>
+          <Count>1255</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1095,6 +1095,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'should respond to ...()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'should respond wit...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'should respond wit...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'shouldFailOnParsin...()'">
