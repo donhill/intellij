@@ -173,11 +173,10 @@
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1530821921562">
-        <mark key="[" line="23" column="49" />
-        <mark key="]" line="40" column="7" />
-        <mark key="." line="40" column="7" />
-        <mark key="^" line="40" column="7" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1530823130725">
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="34" />
+        <mark key="." line="44" column="34" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/logging/ExceptionConverterTest.kt" timestamp="1529519846645">
         <mark key="[" line="42" column="0" />
@@ -400,11 +399,11 @@
       <jump line="88" column="0" filename="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationServiceTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGB3aGVuYChqZGJjQ2FsbC5qZGJjVGVtcGxhdGUpLnRoZW5SZXR1cm4oamRiY1RlbXBsYXRlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>jdbcTemplate</text>
       </register>
       <register name="-" type="4">
-        <text>jdbcCall.jdbcTemplate.dataSource</text>
+        <text>jdbcTemplate</text>
       </register>
       <register name="/" type="4">
         <text>sector\.value</text>
@@ -413,13 +412,13 @@
         <text encoding="base64">ICAgIGB3aGVuYChqZGJjQ2FsbC5qZGJjVGVtcGxhdGUpLnRoZW5SZXR1cm4oamRiY1RlbXBsYXRlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBqZGJjVGVtcGxhdGUgPSBKZGJjVGVtcGxhdGUoZGF0YXNvdXJjZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBqZGJjVGVtcGxhdGUgPSBKZGJjVGVtcGxhdGUoZGF0YXNvdXJjZSkK</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRhc291cmNlID0gbW9jazxEYXRhU291cmNlPigpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -428,13 +427,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBdIiIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIlRvZGF5UmF0aW8iOiAwLjk5Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBqZGJjVGVtcGxhdGUgPSBKZGJjVGVtcGxhdGUoZGF0YXNvdXJjZSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2375,10 +2374,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIlRvZGF5UmF0aW9EYXRlIjogIk1hciAwMiwgMjAxOCAxMjowMDowMCBBTSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIldlZWs1Mkxvd0RhdGUiOiAiQXVnIDI0LCAyMDE3IDEyOjAwOjAwIEFNIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>84</text>
