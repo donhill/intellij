@@ -113,8 +113,10 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/api/sectorvaluation/SectorConfigTest.kt" timestamp="1530806126518">
-        <mark key="[" line="20" column="9" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/api/sectorvaluation/SectorConfigTest.kt" timestamp="1530808142574">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/MidwaySectorValueTest.kt" timestamp="1530806566597">
         <mark key="[" line="41" column="18" />
@@ -144,8 +146,10 @@
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1530724369065">
-        <mark key="[" line="64" column="54" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1530808422005">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/logging/ExceptionConverterTest.kt" timestamp="1529519846645">
         <mark key="[" line="42" column="0" />
@@ -190,7 +194,6 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/MstarCookDataTest.kt" timestamp="1529423077016">
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/UserTrackingConfig.kt" timestamp="1530806261804" />
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-uat.yml" timestamp="1530629539067">
         <mark key="[" line="96" column="42" />
         <mark key="]" line="103" column="0" />
@@ -345,23 +348,23 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PHNlY3RvclZhbHVhdGlvbkNhY2hlIG1heEVsZW1lbnRzSW5NZW1vcnk9IjEwMCIKICAgICAgZXRlcm5hbD0iZmFsc2UiCiAgICAgIHRpbWVUb0lkbGVTZWNvbmRzPSIxMjAiCiAgICAgIHRpbWVUb0xpdmVTZWNvbmRzPSIzMDAiCiAgICAgIG92ZXJmbG93VG9EaXNrPSJ0cnVlIiAvPgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGltZVRvTGl2ZVNlY29uZHM9IjMwMCIK</text>
+        <text encoding="base64">Pj4+Pj4+PiAyZmIxZWRjOTUyNDZlNWNiNDA0MzU2YzI1NGQyZWUwYjkyYWYyYjQ4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcG8udXNlclN0b3JlZFByb2NlZHVyZSA9ICJmb28iCg==</text>
+        <text encoding="base64">ICBASW5qZWN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcG8uZXhlY3V0ZShzZWN0b3JzVG93KQo=</text>
+        <text encoding="base64">ICBsYXRlaW5pdCB2YXIgcnRRdW90ZTogRGF0YVNvdXJjZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcG8udXNlclN0b3JlZFByb2NlZHVyZSA9ICJmb28iCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGB3aGVuYChkYXRhc291cmNlLmNvbm5lY3Rpb24pLnRoZW5UaHJvdyhSdW50aW1lRXhjZXB0aW9uKCJmb28iKSkK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2302,10 +2305,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcG8udXNlclN0b3JlZFByb2NlZHVyZSA9ICJmb28iCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAyZmIxZWRjOTUyNDZlNWNiNDA0MzU2YzI1NGQyZWUwYjkyYWYyYjQ4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>84</text>
