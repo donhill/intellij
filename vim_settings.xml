@@ -50,11 +50,18 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationFixture.kt" timestamp="1530720385342">
         <mark key="[" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1530629872453">
+        <mark key="'" line="39400" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/util/DesTest.kt" timestamp="1529514758902">
         <mark key="[" line="28" column="9" />
         <mark key="]" line="28" column="9" />
         <mark key="." line="28" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/UserTrackingRepository.kt" timestamp="1530814583736" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/usertracking/services/DefaultUserTracking.kt" timestamp="1527628418015">
         <mark key="[" line="55" column="79" />
       </file>
@@ -71,7 +78,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1530624954246">
+      <file name="/fragment.kt" timestamp="1530814798345">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/RouterConfigurationSt.kt" timestamp="1530220241649">
@@ -107,22 +114,22 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/DateTimeFormats.kt" timestamp="1529441499377">
         <mark key="[" line="33" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationService.kt" timestamp="1530806610359">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="28" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationService.kt" timestamp="1530814497511">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/api/sectorvaluation/SectorConfigTest.kt" timestamp="1530808142574">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/MidwaySectorValueTest.kt" timestamp="1530806566597">
-        <mark key="[" line="41" column="18" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="28" column="1" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/MidwaySectorValueTest.kt" timestamp="1530814847253">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="46" />
+        <mark key="^" line="31" column="46" />
+        <mark key="." line="31" column="46" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1530806628309">
         <mark key="[" line="38" column="0" />
@@ -134,7 +141,9 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepository.kt" timestamp="1530806676237" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepository.kt" timestamp="1530815129929">
+        <mark key="[" line="56" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/midway/README.md" timestamp="1530806823421">
         <mark key="[" line="7" column="75" />
       </file>
@@ -145,11 +154,6 @@
       </file>
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1530808422005">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/logging/ExceptionConverterTest.kt" timestamp="1529519846645">
         <mark key="[" line="42" column="0" />
@@ -169,10 +173,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationServiceTest.kt" timestamp="1530720402129">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationServiceTest.kt" timestamp="1530812577912">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1530292821844">
         <mark key="[" line="0" column="0" />
@@ -185,6 +190,12 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/MidwayServiceApplication.kt" timestamp="1530114457568">
         <mark key="[" line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/config/DatasourceConfigTest.kt" timestamp="1530629444220">
+        <mark key="'" line="53" column="6" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/UserHandlerTest.kt" timestamp="1529678614521">
         <mark key="[" line="34" column="0" />
@@ -218,6 +229,11 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/authentication/IdentityGatewayFactory.java" timestamp="1527795787838">
         <mark key="[" line="34" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationHandler.kt" timestamp="1530815054692">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1530720352660">
         <mark key="[" line="0" column="0" />
       </file>
@@ -228,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="2" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/PropertyPlaceholderConfigurerTest.java" />
       <jump line="44" column="52" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/config/EnvResolvingPropertySourceTest.java" />
       <jump line="58" column="90" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/service/InputStreamConnectionFactoryTest.java" />
       <jump line="41" column="44" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/test/java/com/morningstar/individual/api/SecurityQuoteExchangeConverterTestIT.java" />
@@ -328,10 +343,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/config/DatasourceConfigTest.kt" />
       <jump line="53" column="6" filename="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/config/DatasourceConfigTest.kt" />
       <jump line="39400" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
+      <jump line="88" column="0" filename="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationServiceTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="-" type="4">
         <text>jdbcCall</text>
@@ -343,28 +359,28 @@
         <text encoding="base64">ICAgIGNhY2hlSG9sZGVyLmNvbnRhaW5zS2V5KGNhY2hlS2V5Mikgc2hvdWxkQmUgIGZhbHNlCiAgICByZXBvLmV4ZWN1dGUoc2VjdG9yc1RvdykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzZWN0b3JzID0gaWYgKHNlY3RvclBhcmFtcy5pc1ByZXNlbnQgJiYgc2VjdG9yUGFyYW1zLmdldCgpLmlzTm90RW1wdHkoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyZmIxZWRjOTUyNDZlNWNiNDA0MzU2YzI1NGQyZWUwYjkyYWYyYjQ4Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBASW5qZWN0Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBsYXRlaW5pdCB2YXIgcnRRdW90ZTogRGF0YVNvdXJjZQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICBERUZBVUxUX1NFQ1RPUl9OQU1FCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgZWxzZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Ly8gICAgICBzZWN0b3JQYXJhbXMuZ2V0KCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2305,10 +2321,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyZmIxZWRjOTUyNDZlNWNiNDA0MzU2YzI1NGQyZWUwYjkyYWYyYjQ4Cg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>84</text>
