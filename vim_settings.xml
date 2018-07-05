@@ -23,8 +23,8 @@
       <file name="$USER_HOME$/projects/android/BrainTreeDemo/app/src/main/AndroidManifest.xml" timestamp="1530540020661">
         <mark key="[" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/adapters/truck/ServiceRequestAdapter.kt" timestamp="1530797991694">
-        <mark key="[" line="76" column="79" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/adapters/truck/ServiceRequestAdapter.kt" timestamp="1530802169864">
+        <mark key="[" line="76" column="52" />
         <mark key="]" line="76" column="33" />
         <mark key="^" line="76" column="33" />
         <mark key="." line="76" column="33" />
@@ -180,6 +180,9 @@
         <mark key="]" line="45" column="39" />
         <mark key="^" line="45" column="39" />
         <mark key="." line="45" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/IncidentsListFragment.kt" timestamp="1530802477601">
+        <mark key="[" line="93" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/MstarCookDataTest.kt" timestamp="1529423077016">
         <mark key="[" line="7" column="10" />
@@ -2269,7 +2272,7 @@
         <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>84</text>
+        <text>95</text>
       </register>
     </registers>
     <search>
@@ -2296,8 +2299,6 @@
         <entry>.</entry>
       </history-search>
       <history-cmd>
-        <entry>456</entry>
-        <entry>27</entry>
         <entry>82</entry>
         <entry>56</entry>
         <entry>152</entry>
@@ -2316,6 +2317,8 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>84</entry>
+        <entry>45</entry>
+        <entry>95</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -2341,6 +2344,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
