@@ -23,6 +23,12 @@
       <file name="$USER_HOME$/projects/android/BrainTreeDemo/app/src/main/AndroidManifest.xml" timestamp="1530540020661">
         <mark key="[" line="11" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/adapters/truck/ServiceRequestAdapter.kt" timestamp="1530797991694">
+        <mark key="[" line="76" column="79" />
+        <mark key="]" line="76" column="33" />
+        <mark key="^" line="76" column="33" />
+        <mark key="." line="76" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolder.kt" timestamp="1529512782065">
         <mark key="[" line="22" column="27" />
       </file>
@@ -155,7 +161,7 @@
         <mark key="]" line="494" column="0" />
         <mark key="." line="494" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530281706516">
+      <file name="/Dummy.txt" timestamp="1530797941963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/LogbackFilter.kt" timestamp="1529423572875">
