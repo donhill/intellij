@@ -138,6 +138,10 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/services/FirebaseBackgroundService.kt" timestamp="1529773866054">
         <mark key="[" line="148" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/debug/AndroidManifest.xml" timestamp="1530906362508">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="99" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/jarvis_api/src/main/resources/application.properties" timestamp="1527796574874">
         <mark key="[" line="7" column="21" />
       </file>
@@ -294,8 +298,8 @@
       <jump line="25" column="7" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sdk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iY29tLmdvb2dsZS5hbmRyb2lkLmdtcy53YWxsZXQuYXBpLmVuYWJsZWQiIGFuZHJvaWQ6dmFsdWU9InRydWUiIC8+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>sdk</text>
@@ -304,7 +308,7 @@
         <text>.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2RrLmRpciA9IC9Vc2Vycy9kaGlsbC9MaWJyYXJ5L0FuZHJvaWQvc2RrCg==</text>
+        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iY29tLmdvb2dsZS5hbmRyb2lkLmdtcy53YWxsZXQuYXBpLmVuYWJsZWQiIGFuZHJvaWQ6dmFsdWU9InRydWUiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLkNyYXNobHl0aWNzCg==</text>
