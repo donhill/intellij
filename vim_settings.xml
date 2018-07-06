@@ -55,11 +55,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepository.kt" timestamp="1530896259780">
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepository.kt" timestamp="1530897358485">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="47" column="19" />
-        <mark key="]" line="47" column="29" />
-        <mark key="." line="47" column="29" />
+        <mark key="[" line="28" column="159" />
+        <mark key="]" line="47" column="19" />
+        <mark key="." line="47" column="19" />
         <mark key="^" line="47" column="29" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/README.md" timestamp="1530806823421">
@@ -174,7 +174,7 @@
         <mark key="]" line="28" column="9" />
         <mark key="." line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/UserTrackingRepository.kt" timestamp="1530814583736" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/UserTrackingRepository.kt" timestamp="1530897865207" />
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/SectorValuationService.kt" timestamp="1530221175191">
         <mark key="[" line="24" column="5" />
         <mark key="]" line="24" column="0" />
@@ -219,8 +219,8 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1530896068264">
-        <mark key="[" line="66" column="60" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1530897532441">
+        <mark key="[" line="56" column="124" />
         <mark key="]" line="66" column="58" />
         <mark key="." line="66" column="58" />
         <mark key="^" line="66" column="58" />
@@ -239,9 +239,9 @@
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1530892521654">
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1530897429356">
         <mark key="'" line="69" column="0" />
-        <mark key="[" line="40" column="27" />
+        <mark key="[" line="39" column="74" />
         <mark key="]" line="47" column="0" />
         <mark key="^" line="45" column="76" />
         <mark key="." line="47" column="0" />
@@ -416,11 +416,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWN0b3JGCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>(.MIN_VALUE))</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>sector\.value</text>
