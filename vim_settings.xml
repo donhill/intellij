@@ -70,10 +70,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepository.kt" timestamp="1530888869782">
-        <mark key="[" line="41" column="35" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepository.kt" timestamp="1530891327765">
+        <mark key="[" line="75" column="149" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/README.md" timestamp="1530806823421">
         <mark key="[" line="7" column="75" />
@@ -92,13 +92,20 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="34" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/SectorMarketValueTest.kt" timestamp="1530889392965">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="14" column="6" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/SectorMarketValueTest.kt" timestamp="1530891498869">
+        <mark key="[" line="42" column="133" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.13.RELEASE/spring-jdbc-4.3.13.RELEASE-sources.jar!/org/springframework/jdbc/core/CallableStatementCreatorFactory.java" timestamp="1530881957855" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.yml" timestamp="1530629657846">
+        <mark key="'" line="12" column="48" />
+        <mark key="[" line="96" column="16" />
+        <mark key="]" line="85" column="3" />
+        <mark key="." line="85" column="3" />
+        <mark key="^" line="85" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/sector-response.json" timestamp="1530137390727">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,8 +163,11 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/ehcache.xml" timestamp="1527616799427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationFixture.kt" timestamp="1530889138384">
-        <mark key="[" line="9" column="88" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationFixture.kt" timestamp="1530891809681">
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="21" column="134" />
+        <mark key="." line="21" column="134" />
+        <mark key="^" line="21" column="134" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/util/DesTest.kt" timestamp="1529514758902">
         <mark key="[" line="28" column="9" />
@@ -170,7 +180,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1530888848721">
+      <file name="/fragment.kt" timestamp="1530891191697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -228,12 +238,12 @@
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1530889522876">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="74" column="84" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="33" column="48" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1530892521654">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="45" column="76" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-production.yml" timestamp="1530566682321">
         <mark key="[" line="12" column="24" />
@@ -242,8 +252,8 @@
         <mark key="." line="17" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.13.RELEASE/spring-jdbc-4.3.13.RELEASE-sources.jar!/org/springframework/jdbc/core/metadata/CallMetaDataContext.java" timestamp="1530826498140" />
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/models/SectorValuation.kt" timestamp="1530819685449">
-        <mark key="[" line="8" column="27" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/models/SectorValuation.kt" timestamp="1530891419660">
+        <mark key="[" line="7" column="74" />
         <mark key="]" line="8" column="26" />
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
@@ -400,40 +410,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYHdoZW5gKGZhY3RvcnkuY3JlYXRlKCkpLnRoZW5SZXR1cm4oamRiY0NhbGwpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>(.MIN_VALUE))</text>
       </register>
       <register name="/" type="4">
         <text>sector\.value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGB3aGVuYChjYWxsYWJsZVN0YXRlbWVudC5nZXRTdHJpbmcoQXJndW1lbnRNYXRjaGVycy5hbnlTdHJpbmcoKSkpLnRoZW5SZXR1cm4oImZvbyIpCg==</text>
+        <text encoding="base64">ICAgIGdpdmVuKGpkYmNDYWxsLndpdGhQcm9jZWR1cmVOYW1lKEFyZ3VtZW50TWF0Y2hlcnMuYW55KCkpKS53aWxsUmV0dXJuKGpkYmNDYWxsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYHdoZW5gKGZhY3RvcnkuY3JlYXRlKCkpLnRoZW5SZXR1cm4oamRiY0NhbGwpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYHdoZW5gKGpkYmNDYWxsLmV4ZWN1dGUoTWFwU3FsUGFyYW1ldGVyU291cmNlOjpjbGFzcy5qYXZhKSkudGhlblRocm93KFJ1bnRpbWVFeGNlcHRpb24oIk5vIGhvc3QgYXZhaWxhYmxlIikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGB3aGVuYChqZGJjQ2FsbC5leGVjdXRlKCkpLnRoZW5SZXR1cm4oZW1wdHlNYXAoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgYHdoZW5gKGRhdGFTb3VyY2UuY29ubmVjdGlvbikudGhlblJldHVybihjb25uZWN0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgYHdoZW5gKGNvbm5lY3Rpb24ubWV0YURhdGEpLnRoZW5SZXR1cm4obW9jazxEYXRhYmFzZU1ldGFEYXRhPigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgYHdoZW5gKGNvbm5lY3Rpb24ucHJlcGFyZUNhbGwoQXJndW1lbnRNYXRjaGVycy5hbnkoKSkpLnRoZW5SZXR1cm4oY2FsbGFibGVTdGF0ZW1lbnQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2374,10 +2384,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgYHdoZW5gKGNhbGxhYmxlU3RhdGVtZW50LmV4ZWN1dGVRdWVyeSgpKS50aGVuUmV0dXJuKG1vY2s8UmVzdWx0U2V0PigpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgYHdoZW5gKGNhbGxhYmxlU3RhdGVtZW50LmdldFN0cmluZyhBcmd1bWVudE1hdGNoZXJzLmFueVN0cmluZygpKSkudGhlblJldHVybigiZm9vIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>84</text>
