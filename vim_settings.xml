@@ -62,10 +62,10 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/ehcache.xml" timestamp="1527616799427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerConfig.kt" timestamp="1531242000790">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerConfig.kt" timestamp="1531248323813">
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="42" column="8" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationFixture.kt" timestamp="1530891809681">
         <mark key="[" line="42" column="32" />
@@ -166,9 +166,11 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531247534057">
-        <mark key="[" line="52" column="7" />
-        <mark key="^" line="71" column="43" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531249439780">
+        <mark key="[" line="55" column="103" />
+        <mark key="]" line="55" column="103" />
+        <mark key="^" line="55" column="114" />
+        <mark key="." line="55" column="103" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-usertracking.yaml" timestamp="1529694321251">
         <mark key="[" line="27" column="0" />
@@ -447,8 +449,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4ID0gInJ0LnF1b3RlLmNpcmN1aXRicmVha2luZyIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>circuitBreakerHolder</text>
       </register>
       <register name="-" type="4">
         <text>circuitBreakerHolder</text>
