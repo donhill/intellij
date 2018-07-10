@@ -56,6 +56,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/MidwayServiceApplicationTest.kt" timestamp="1531243306788">
+        <mark key="[" line="17" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/ehcache.xml" timestamp="1527616799427">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,10 +89,10 @@
         <mark key="]" line="28" column="9" />
         <mark key="." line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/UserTrackingRepository.kt" timestamp="1530898546258">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/UserTrackingRepository.kt" timestamp="1531243281398">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/usertracking/services/DefaultUserTracking.kt" timestamp="1527628418015">
         <mark key="[" line="55" column="79" />
@@ -107,7 +110,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1531239207259">
+      <file name="/fragment.kt" timestamp="1531243182572">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -162,8 +165,8 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531242788053">
-        <mark key="[" line="70" column="32" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531243048694">
+        <mark key="[" line="54" column="102" />
         <mark key="]" line="70" column="32" />
         <mark key="." line="70" column="32" />
         <mark key="^" line="70" column="43" />
@@ -173,9 +176,9 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepository.kt" timestamp="1530898893471">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="47" column="106" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepository.kt" timestamp="1531243392893">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="49" column="19" />
         <mark key="]" line="28" column="132" />
         <mark key="^" line="28" column="132" />
         <mark key="." line="28" column="132" />
@@ -446,10 +449,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>circuitBreakerConfig</text>
+        <text>older</text>
       </register>
       <register name="-" type="4">
-        <text>circuitBreakerConfig</text>
+        <text>older</text>
       </register>
       <register name="/" type="4">
         <text>sector\.value</text>
