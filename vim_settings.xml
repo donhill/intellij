@@ -166,11 +166,9 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531244333436">
-        <mark key="[" line="53" column="98" />
-        <mark key="]" line="53" column="98" />
-        <mark key="." line="53" column="98" />
-        <mark key="^" line="70" column="43" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531247534057">
+        <mark key="[" line="52" column="7" />
+        <mark key="^" line="71" column="43" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-usertracking.yaml" timestamp="1529694321251">
         <mark key="[" line="27" column="0" />
@@ -449,8 +447,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>circuitBreakerHolder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4ID0gInJ0LnF1b3RlLmNpcmN1aXRicmVha2luZyIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>circuitBreakerHolder</text>
@@ -459,7 +457,7 @@
         <text>sector\.value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBleGNlcHRpb25OYW1lczogTGlzdDxTdHJpbmc+Cg==</text>
+        <text encoding="base64">ICBAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4ID0gInJ0LnF1b3RlLmNpcmN1aXRicmVha2luZyIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
