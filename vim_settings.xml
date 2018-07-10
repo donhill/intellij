@@ -74,7 +74,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolder.kt" timestamp="1531230559978" />
       <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1530894419937">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="0" />
@@ -323,7 +322,6 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/authentication/IdentityGatewayFactory.java" timestamp="1527795787838">
         <mark key="[" line="34" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/PredicateTranslator.kt" timestamp="1531230500072" />
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationHandler.kt" timestamp="1530893686178">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -2498,7 +2496,7 @@
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
-      <key-repeat enabled="true" />
+      <key-repeat enabled="false" />
     </editor>
   </component>
 </application>
