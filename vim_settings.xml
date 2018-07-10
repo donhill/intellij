@@ -84,6 +84,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolder.kt" timestamp="1531245088568" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/util/DesTest.kt" timestamp="1529514758902">
         <mark key="[" line="28" column="9" />
         <mark key="]" line="28" column="9" />
@@ -165,10 +166,10 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531243048694">
-        <mark key="[" line="54" column="102" />
-        <mark key="]" line="70" column="32" />
-        <mark key="." line="70" column="32" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531244333436">
+        <mark key="[" line="53" column="98" />
+        <mark key="]" line="53" column="98" />
+        <mark key="." line="53" column="98" />
         <mark key="^" line="70" column="43" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-usertracking.yaml" timestamp="1529694321251">
@@ -186,11 +187,11 @@
       <file name="$USER_HOME$/projects/morningstar/midway/README.md" timestamp="1530806823421">
         <mark key="[" line="7" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/application.yml" timestamp="1531240249410">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="141" column="0" />
-        <mark key="^" line="141" column="3" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/application.yml" timestamp="1531246159121">
+        <mark key="[" line="133" column="25" />
+        <mark key="]" line="137" column="0" />
+        <mark key="^" line="137" column="3" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/usertracking/handlers.kt" timestamp="1529677231905">
         <mark key="[" line="58" column="0" />
@@ -200,12 +201,12 @@
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1530901243553">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="23" column="56" />
-        <mark key="^" line="23" column="56" />
-        <mark key="." line="23" column="56" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1531244048053">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="37" column="12" />
+        <mark key="^" line="77" column="4" />
+        <mark key="." line="37" column="7" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/logging/ExceptionConverterTest.kt" timestamp="1529519846645">
         <mark key="[" line="42" column="0" />
@@ -326,7 +327,7 @@
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/authentication/IdentityGatewayFactory.java" timestamp="1527795787838">
         <mark key="[" line="34" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/PredicateTranslator.kt" timestamp="1531242460625">
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/PredicateTranslator.kt" timestamp="1531245155531">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -449,10 +450,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>older</text>
+        <text>circuitBreakerHolder</text>
       </register>
       <register name="-" type="4">
-        <text>older</text>
+        <text>circuitBreakerHolder</text>
       </register>
       <register name="/" type="4">
         <text>sector\.value</text>
