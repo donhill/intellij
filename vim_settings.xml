@@ -59,9 +59,10 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/ehcache.xml" timestamp="1527616799427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerConfig.kt" timestamp="1531232018714">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="43" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerConfig.kt" timestamp="1531242000790">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationFixture.kt" timestamp="1530891809681">
         <mark key="[" line="42" column="32" />
@@ -106,7 +107,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1531234082071">
+      <file name="/fragment.kt" timestamp="1531239207259">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
@@ -161,11 +162,11 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531234660788">
-        <mark key="[" line="74" column="18" />
-        <mark key="]" line="74" column="18" />
-        <mark key="." line="74" column="18" />
-        <mark key="^" line="74" column="19" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531242788053">
+        <mark key="[" line="70" column="32" />
+        <mark key="]" line="70" column="32" />
+        <mark key="." line="70" column="32" />
+        <mark key="^" line="70" column="43" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-usertracking.yaml" timestamp="1529694321251">
         <mark key="[" line="27" column="0" />
@@ -182,8 +183,8 @@
       <file name="$USER_HOME$/projects/morningstar/midway/README.md" timestamp="1530806823421">
         <mark key="[" line="7" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/application.yml" timestamp="1531231320779">
-        <mark key="[" line="141" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/application.yml" timestamp="1531240249410">
+        <mark key="[" line="44" column="8" />
         <mark key="]" line="141" column="0" />
         <mark key="^" line="141" column="3" />
         <mark key="." line="141" column="0" />
@@ -203,7 +204,6 @@
         <mark key="^" line="23" column="56" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerConfigTest.kt" timestamp="1531236654054" />
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/logging/ExceptionConverterTest.kt" timestamp="1529519846645">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="45" column="0" />
@@ -259,12 +259,12 @@
       <file name="/Dummy.txt" timestamp="1530893579178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.yml" timestamp="1531232955996">
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.yml" timestamp="1531239865653">
         <mark key="'" line="12" column="48" />
-        <mark key="[" line="119" column="21" />
-        <mark key="]" line="134" column="8" />
-        <mark key="." line="134" column="8" />
-        <mark key="^" line="109" column="3" />
+        <mark key="[" line="105" column="11" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="105" column="3" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/sector-response.json" timestamp="1530137390727">
         <mark key="[" line="0" column="0" />
@@ -322,6 +322,11 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/phoenix/work/aem-iip-dc-services-parent/service-user-service-parent/service-user-service/src/main/java/com/morningstar/authentication/IdentityGatewayFactory.java" timestamp="1527795787838">
         <mark key="[" line="34" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/PredicateTranslator.kt" timestamp="1531242460625">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationHandler.kt" timestamp="1530893686178">
         <mark key="[" line="36" column="0" />
@@ -441,40 +446,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>breakerConfig: BreakConfig</text>
+        <text>circuitBreakerConfig</text>
       </register>
       <register name="-" type="4">
-        <text>breakerConfig: BreakConfig</text>
+        <text>circuitBreakerConfig</text>
       </register>
       <register name="/" type="4">
         <text>sector\.value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4ID0gInJ0LnF1b3RlLmNpcmN1aXRicmVha2luZyIpCg==</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBleGNlcHRpb25OYW1lczogTGlzdDxTdHJpbmc+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBxdW90ZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cnQ6Cg==</text>
+        <text encoding="base64">Ly9jbGFzcyBTZWN0b3JDaXJjdWl0QnJlYWtlckNvbmZpZzogQ2lyY3VpdEJyZWFrZXJDb25maWcoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9ATmFtZWQK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CnJ0OgogIHF1b3RlOgogICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly9AQ29uZmlndXJhdGlvblByb3BlcnRpZXMocHJlZml4ID0gInJ0LnF1b3RlLmNpcmN1aXRicmVha2VyIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJjaXJjdWl0YnJlYWtpbmciKQo=</text>
+        <text encoding="base64">Ly9AQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly99Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50WyJ1c2VyLnRyYWNraW5nLmRhdGFzb3VyY2UudXJsIl0gc2hvdWxkQmUgImpkYmM6c3Fsc2VydmVyOi8vd2VidHJhZmZpY3N0YWdpbmcuY2lmM3ZnanJwM3YzLnVzLWVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbToxNDMzO2RhdGFiYXNlTmFtZT1XZWJUcmFmZmljU3RhZ2luZyIK</text>
+        <text encoding="base64">Ly8gIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2415,10 +2420,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50WyJydC5xdW90ZS5kYXRhc291cmNlLnVybCJdIHNob3VsZEJlICJqZGJjOnNxbHNlcnZlcjovL1JUUUFEQjgxLm1vcm5pbmdzdGFyLmNvbToxNDM0O2RhdGFiYXNlTmFtZT1TZWN1cml0eUhpc3RvcnlEYXRhIgo=</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIGNiYwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEFjdGl2ZVByb2ZpbGVzKCJkZXYiKQo=</text>
+        <text encoding="base64">Ly8gICAgY2JjLmJyZWFrQ29uZmlnID0gYnJlYWtlckNvbmZpZwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
