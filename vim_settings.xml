@@ -165,7 +165,7 @@
         <mark key="]" line="494" column="0" />
         <mark key="." line="494" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530797941963">
+      <file name="/Dummy.txt" timestamp="1531316926786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/LogbackFilter.kt" timestamp="1529423572875">
@@ -220,6 +220,7 @@
         <mark key="]" line="24" column="27" />
         <mark key="." line="24" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/java/com/braintreepayments/demo/MainActivity.java" timestamp="1531316968400" />
       <file name="/fragment.java" timestamp="1529512899721">
         <mark key="[" line="0" column="0" />
       </file>
