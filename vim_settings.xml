@@ -84,8 +84,8 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1530894419937">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1531322052327">
+        <mark key="'" line="42" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -175,9 +175,9 @@
         <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531315819599">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-usertracking.yaml" timestamp="1529694321251">
         <mark key="[" line="27" column="0" />
@@ -353,7 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="42" filename="$USER_HOME$/projects/morningstar/apiv2/src/main/java/com/morningstar/dataapi/api/controllers/PortfolioController.java" />
       <jump line="135" column="44" filename="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/controller/SubscriptionsController.java" />
       <jump line="157" column="42" filename="$USER_HOME$/projects/morningstar/apiv2/src/test/java/com/morningstar/dataapi/api/controllers/PortfolioControllerIT.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/morningstar/apiv2/src/test/java/com/morningstar/dataapi/api/controllers/PortfolioControllerIT.java" />
@@ -453,6 +452,7 @@
       <jump line="25" column="62" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
