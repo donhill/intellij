@@ -174,11 +174,10 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531262828769">
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="74" column="65" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="76" column="31" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531315819599">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-usertracking.yaml" timestamp="1529694321251">
         <mark key="[" line="27" column="0" />
@@ -457,7 +456,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0KGNsYXNzZXMgPSBhcnJheU9mKFNlY3RvclZhbHVhdGlvbkNvbmZpZzo6Y2xhc3MpKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>circuitBreakerHolder</text>
@@ -469,28 +468,28 @@
         <text encoding="base64">Ly8gIEBDb25maWd1cmF0aW9uUHJvcGVydGllcyhwcmVmaXggPSAicnQucXVvdGUuY2lyY3VpdGJyZWFraW5nIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0KGNsYXNzZXMgPSBhcnJheU9mKFNlY3RvclZhbHVhdGlvbkNvbmZpZzo6Y2xhc3MpKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEltcG9ydChTZWN0b3JWYWx1YXRpb25Db25maWc6OmNsYXNzKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyOjpjbGFzcykK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0KGNsYXNzZXMgPSBhcnJheU9mKFNlY3RvclZhbHVhdGlvbkNvbmZpZzo6Y2xhc3MpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QEltcG9ydChTZWN0b3JWYWx1YXRpb25Db25maWc6OmNsYXNzKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb3V0YWdlUXVldWVVcmw6IGh0dHBzOi8vc3FzLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tLzk2NTk4NjYyMzEyMC9DaXJjdWl0QnJlYWtlci1TVEcuZmlmbwo=</text>
+        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyOjpjbGFzcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhhbGZPcGVuRGVsYXk6IFBUNU0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4ZWN1dGlvblRpbWVvdXQ6IFBUMzBTCg==</text>
+        <text encoding="base64">ICAgICAgb3V0YWdlUXVldWVVcmw6IGh0dHBzOi8vc3FzLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tLzk2NTk4NjYyMzEyMC9DaXJjdWl0QnJlYWtlci1TVEcuZmlmbwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2431,10 +2430,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0aW9uTmFtZXM6IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGhhbGZPcGVuRGVsYXk6IFBUNU0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZGljYXRlTmFtZXM6IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4ZWN1dGlvblRpbWVvdXQ6IFBUMzBTCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
