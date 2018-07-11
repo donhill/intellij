@@ -21,8 +21,8 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-stg.yml" timestamp="1530629524824">
-        <mark key="[" line="98" column="16" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-stg.yml" timestamp="1531344990910">
+        <mark key="[" line="105" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
@@ -40,8 +40,8 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/ehcache.xml" timestamp="1530724979078">
         <mark key="[" line="73" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-prod.yml" timestamp="1530723983046">
-        <mark key="[" line="96" column="16" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-prod.yml" timestamp="1531345018546">
+        <mark key="[" line="105" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
@@ -59,20 +59,18 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/MidwayServiceApplicationTest.kt" timestamp="1531243306788">
         <mark key="[" line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/StatusMessenger.kt" timestamp="1531260425534">
-        <mark key="[" line="37" column="14" />
-        <mark key="]" line="37" column="13" />
-        <mark key="^" line="37" column="13" />
-        <mark key="." line="37" column="13" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/StatusMessenger.kt" timestamp="1531343754266">
+        <mark key="[" line="34" column="54" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/ehcache.xml" timestamp="1527616799427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerConfig.kt" timestamp="1531325520004">
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="40" column="5" />
-        <mark key="." line="40" column="5" />
-        <mark key="^" line="40" column="5" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerConfig.kt" timestamp="1531342739540">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationFixture.kt" timestamp="1530891809681">
         <mark key="[" line="42" column="32" />
@@ -85,16 +83,18 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1531331158769">
-        <mark key="'" line="99138" column="44" />
+      <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1531344748975">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolder.kt" timestamp="1531337517807">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolder.kt" timestamp="1531343290244">
+        <mark key="'" line="119" column="40" />
+        <mark key="[" line="83" column="11" />
+        <mark key="]" line="119" column="40" />
+        <mark key="." line="119" column="40" />
+        <mark key="^" line="119" column="40" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/midway/util/DesTest.kt" timestamp="1529514758902">
         <mark key="[" line="28" column="9" />
@@ -147,6 +147,9 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/usertracking/ParameterProcessor.kt" timestamp="1529678497005">
         <mark key="[" line="22" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-qa.yml" timestamp="1531344967162">
+        <mark key="[" line="105" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/ParamBuilderTest.kt" timestamp="1529676348823">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -167,18 +170,24 @@
         <mark key="^" line="24" column="28" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/DefaultCircuitBreakerHolder.kt" timestamp="1531343119755">
+        <mark key="[" line="21" column="76" />
+        <mark key="]" line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/api/sectorvaluation/SectorConfigTest.kt" timestamp="1531263017921">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/MidwaySectorValueTest.kt" timestamp="1530819599112">
-        <mark key="[" line="87" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/MidwaySectorValueTest.kt" timestamp="1531344219464">
+        <mark key="[" line="84" column="11" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531326137340">
-        <mark key="[" line="30" column="52" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/SectorValuationConf.kt" timestamp="1531344480397">
+        <mark key="[" line="56" column="99" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
@@ -187,19 +196,18 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepository.kt" timestamp="1531337052066">
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepository.kt" timestamp="1531344725900">
         <mark key="'" line="61" column="0" />
-        <mark key="[" line="48" column="19" />
-        <mark key="]" line="28" column="132" />
-        <mark key="^" line="28" column="132" />
-        <mark key="." line="28" column="132" />
+        <mark key="[" line="16" column="61" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/README.md" timestamp="1530806823421">
         <mark key="[" line="7" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/application.yml" timestamp="1531336983453">
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/application.yml" timestamp="1531344335574">
         <mark key="'" line="115" column="6" />
-        <mark key="[" line="143" column="0" />
+        <mark key="[" line="128" column="21" />
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
@@ -211,12 +219,14 @@
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1531338825143">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="60" column="41" />
-        <mark key="]" line="60" column="116" />
-        <mark key="." line="60" column="116" />
-        <mark key="^" line="60" column="116" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" timestamp="1531343504401">
+        <mark key="'" line="29" column="61" />
+        <mark key="[" line="29" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerConfigTest.kt" timestamp="1531342615226">
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/logging/ExceptionConverterTest.kt" timestamp="1529519846645">
         <mark key="[" line="42" column="0" />
@@ -229,8 +239,9 @@
         <mark key="^" line="17" column="29" />
         <mark key="." line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolderTest.kt" timestamp="1531233838767">
-        <mark key="[" line="23" column="35" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolderTest.kt" timestamp="1531343555375">
+        <mark key="'" line="85" column="54" />
+        <mark key="^" line="93" column="32" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/models/SectorValuation.kt" timestamp="1530894160919">
         <mark key="[" line="6" column="181" />
@@ -246,6 +257,11 @@
         <mark key="]" line="20" column="4" />
         <mark key="." line="20" column="4" />
         <mark key="^" line="20" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolderFixture.kt" timestamp="1531344166585">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/api/usertracking/UserTrackingConfigTest.kt" timestamp="1530628166936">
         <mark key="[" line="18" column="0" />
@@ -267,9 +283,9 @@
       <file name="/Dummy.txt" timestamp="1530893579178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.yml" timestamp="1531336946821">
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.yml" timestamp="1531344958397">
         <mark key="'" line="12" column="48" />
-        <mark key="[" line="130" column="0" />
+        <mark key="[" line="115" column="21" />
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
@@ -306,8 +322,8 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/MstarCookDataTest.kt" timestamp="1529423077016">
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-uat.yml" timestamp="1530629539067">
-        <mark key="[" line="96" column="42" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application-uat.yml" timestamp="1531345006640">
+        <mark key="[" line="105" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
@@ -350,9 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="3" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/DefaultUserTracking.kt" />
-      <jump line="206" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/DefaultUserTracking.kt" />
-      <jump line="30" column="44" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheHolder.kt" />
       <jump line="134" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java" />
       <jump line="46" column="20" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheHolder.kt" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/Router.kt" />
@@ -434,7 +447,6 @@
       <jump line="88" column="0" filename="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationServiceTest.kt" />
       <jump line="71" column="0" filename="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" />
       <jump line="57" column="0" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepository.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="58167" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="25" column="62" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
@@ -450,43 +462,47 @@
       <jump line="98316" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="99138" column="44" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="115" column="6" filename="$USER_HOME$/projects/morningstar/midway/src/test/resources/application.yml" />
+      <jump line="32" column="61" filename="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/sectorvaluation/services/SectorValuationRepositoryTest.kt" />
+      <jump line="119" column="40" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolder.kt" />
+      <jump line="89" column="54" filename="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolderTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>emptyMap()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>emptyMap()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sector\.value</text>
+        <text>30000</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gIEBDb25maWd1cmF0aW9uUHJvcGVydGllcyhwcmVmaXggPSAicnQucXVvdGUuY2lyY3VpdGJyZWFraW5nIikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gbm9EZWxheUNvbmZpZygKICAgICAgcmV0cnlQcmVkaWNhdGVzOiBTdHJpbmcgPSAiIiwKICAgICAgcmV0cnlFeGNlcHRpb25zOiBTdHJpbmcgPSAiXCJjb20ubW9ybmluZ3N0YXIuaWkubWlkd2F5LmNpcmN1aXRicmVha2luZy5SZXRyeUV4Y2VwdGlvblwiIiwKICAgICAgYWJvcnRQcmVkaWNhdGVzOiBTdHJpbmcgPSAiIiwKICAgICAgYWJvcnRFeGNlcHRpb25zOiBTdHJpbmcgPSAiIiwKICAgICAgZmFpbFByZWRpY2F0ZXM6IFN0cmluZyA9ICIiLAogICAgICByZXRyaWVzOiBJbnQgPSAwLAogICAgICBicmVha0ZhaWx1cmVDb3VudDogSW50ID0gOSwKICAgICAgaGFsZk9wZW5EZWxheTogU3RyaW5nID0gIlBUMC4wMDVTIiwKICAgICAgbWF4UmV0cnlEdXJhdGlvbjogU3RyaW5nID0gIlwiUFQxU1wiIiwKICAgICAgcmV0cnlEZWxheTogU3RyaW5nID0gIlwiUFQwLjAwMVNcIiIsCiAgICAgIGZhaWxFeGNlcHRpb25zOiBTdHJpbmcgPSAiIiIKICAgICAgICAgICAgImNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkuY2lyY3VpdGJyZWFraW5nLkFib3J0RXhjZXB0aW9uIiwKICAgICAgICAgICAgImNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkuY2lyY3VpdGJyZWFraW5nLlJldHJ5RXhjZXB0aW9uIiwKICAgICAgICAgICAgImNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkuY2lyY3VpdGJyZWFraW5nLk90aGVyRmFpbEV4Y2VwdGlvbiIKICAgICAgICAgICAgIiIiCgogICkgPSByZWFkQ29uZmlnKCIiInsKICAgICAgInJldHJ5Q29uZmlnIjogewogICAgICAgICJyZXRyeUNvbmRpdGlvbnMiOiB7CiAgICAgICAgICAiZXhjZXB0aW9uTmFtZXMiOiBbJHJldHJ5RXhjZXB0aW9uc10sCiAgICAgICAgICAicHJlZGljYXRlTmFtZXMiOiBbJHJldHJ5UHJlZGljYXRlc10KICAgICAgICB9LAogICAgICAgICJhYm9ydENvbmRpdGlvbnMiOiB7CiAgICAgICAgICAiZXhjZXB0aW9uTmFtZXMiOiBbJGFib3J0RXhjZXB0aW9uc10sCiAgICAgICAgICAicHJlZGljYXRlTmFtZXMiOiBbJGFib3J0UHJlZGljYXRlc10KICAgICAgICB9LAogICAgICAgICJtYXhSZXRyaWVzIjogJHJldHJpZXMsCiAgICAgICAgImRlbGF5TGVuZ3RoIjogJHJldHJ5RGVsYXksCiAgICAgICAgInJldHJ5VGltZW91dCI6ICRtYXhSZXRyeUR1cmF0aW9uCiAgICAgIH0sCiAgICAgICJicmVha0NvbmZpZyI6IHsKICAgICAgICAiYnJlYWtUcmlnZ2VyIjogewogICAgICAgICAgInBlcmNlbnRhZ2VOZWVkZWQiOjMwLAogICAgICAgICAgIm91dE9mVG90YWwiOiAkYnJlYWtGYWlsdXJlQ291bnQKICAgICAgICB9LAogICAgICAgICJyZXN1bWVUcmlnZ2VyIjogewogICAgICAgICAgInBlcmNlbnRhZ2VOZWVkZWQiOjgwLAogICAgICAgICAgIm91dE9mVG90YWwiOiAxMAogICAgICAgIH0sCiAgICAgICAgImZhaWx1cmVEZWZpbml0aW9uIjogewogICAgICAgICAgImV4Y2VwdGlvbk5hbWVzIjogWyRmYWlsRXhjZXB0aW9uc10sCiAgICAgICAgICAgICJwcmVkaWNhdGVOYW1lcyI6IFskZmFpbFByZWRpY2F0ZXNdCiAgICAgICAgfSwKICAgICAgICAiZXhlY3V0aW9uVGltZW91dCI6ICJQVDAuMDA1UyIsCiAgICAgICAgImhhbGZPcGVuRGVsYXkiOiAiJGhhbGZPcGVuRGVsYXkiCiAgICAgIH0sCiAgICAgICJuYW1lIjogIiRicmVha2VyTmFtZSIKICAgIH0iIiIpCgogIHByaXZhdGUgdmFsIHJlYWRlcjogT2JqZWN0UmVhZGVyID0gT2JqZWN0TWFwcGVyKCkKICAgICAgLnJlZ2lzdGVyTW9kdWxlKEphdmFUaW1lTW9kdWxlKCkpCiAgICAgIC5yZWdpc3Rlck1vZHVsZShLb3RsaW5Nb2R1bGUoKSkKICAgICAgLnJlYWRlckZvcihDaXJjdWl0QnJlYWtlckNvbmZpZzo6Y2xhc3MuamF2YSkKCiAgcHJpdmF0ZSBmdW4gcmVhZENvbmZpZyhjb25maWdTdHJpbmc6IFN0cmluZyk6IENpcmN1aXRCcmVha2VyQ29uZmlnIHsKICAgIHZhbCBjb25maWc6IENpcmN1aXRCcmVha2VyQ29uZmlnID0gcmVhZGVyLnJlYWRWYWx1ZShjb25maWdTdHJpbmcpCiAgICByZXR1cm4gY29uZmlnCiAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG91dGFnZVF1ZXVlVXJsOiBodHRwczovL3Nxcy51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS85NjU5ODY2MjMxMjAvQ2lyY3VpdEJyZWFrZXItU1RHLmZpZm8K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5taWR3YXkuY2lyY3VpdGJyZWFraW5nLkNpcmN1aXRCcmVha2VySG9sZGVyCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3V0YWdlUXVldWVVcmw6IGh0dHBzOi8vc3FzLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tLzk2NTk4NjYyMzEyMC9DaXJjdWl0QnJlYWtlci1TVEcuZmlmbwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBmdW4gPFQ+IGV4ZWN1dGVXaXRoRmFsbGJhY2soYWN0aW9uOiAoKSAtPiBULCBmYWxsYmFjazogKCkgLT4gVCk6IFQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aGlrYXRpbQo=</text>
+        <text encoding="base64">ICBmdW4gPFQ+IGV4ZWN1dGUoYWN0aW9uOiAoKSAtPiBUKTogVAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9ATmFtZWQK</text>
+        <text encoding="base64">aW50ZXJmYWNlIENpcmN1aXRCcmVha2VySG9sZGVyIHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2427,19 +2443,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEltcG9ydChTZWN0b3JDaXJjdWl0QnJlYWtlckNvbmZpZzo6Y2xhc3MpCg==</text>
+        <text encoding="base64">Ly9ATmFtZWQK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gIEBDb25maWd1cmF0aW9uUHJvcGVydGllcyhwcmVmaXggPSAicnQucXVvdGUuIikK</text>
+      <register name="9" type="4">
+        <text encoding="base64">dmFsIGNvbmZpZ1N0cmluZyA9ICIiIgogICAgbmFtZTogVGVzdEJyZWFrZXIKICAgIHJldHJ5Q29uZmlnOgogICAgICByZXRyeUNvbmRpdGlvbnM6CiAgICAgICAgcHJlZGljYXRlTmFtZXM6CiAgICAgICAgLSA1eHhSZXNwb25zZQogICAgICAgIGV4Y2VwdGlvbk5hbWVzOgogICAgICAgIC0gY29tLm1vcm5pbmdzdGFyLmlpLm1pZHdheS5jaXJjdWl0YnJlYWtpbmcuVGVzdEV4Y2VwdGlvbgogICAgICBhYm9ydENvbmRpdGlvbnM6CiAgICAgICAgcHJlZGljYXRlTmFtZXM6CiAgICAgICAgLSA0eHhSZXNwb25zZQogICAgICAgIGV4Y2VwdGlvbk5hbWVzOiBbXQogICAgICBtYXhSZXRyaWVzOiAwCiAgICAgIGRlbGF5TGVuZ3RoOiBQVDEuNzc3UwogICAgICByZXRyeVRpbWVvdXQ6IFBUMU0KICAgIGJyZWFrQ29uZmlnOgogICAgICBicmVha1RyaWdnZXI6CiAgICAgICAgcGVyY2VudGFnZU5lZWRlZDogMzAKICAgICAgICBvdXRPZlRvdGFsOiAzCiAgICAgIHJlc3VtZVRyaWdnZXI6CiAgICAgICAgcGVyY2VudGFnZU5lZWRlZDogODAKICAgICAgICBvdXRPZlRvdGFsOiAxMAogICAgICBmYWlsdXJlRGVmaW5pdGlvbjoKICAgICAgICBwcmVkaWNhdGVOYW1lczoKICAgICAgICAtIDR4eFJlc3BvbnNlCiAgICAgICAgLSA1eHhSZXNwb25zZQogICAgICAgIGV4Y2VwdGlvbk5hbWVzOgogICAgICAgIC0gY29tLm1vcm5pbmdzdGFyLmlpLm1pZHdheS5jaXJjdWl0YnJlYWtpbmcuVGVzdEV4Y2VwdGlvbgogICAgICAgIC0gamF2YS5pby5JT0V4Y2VwdGlvbgogICAgICBleGVjdXRpb25UaW1lb3V0OiBQVDAuNVMKICAgICAgaGFsZk9wZW5EZWxheTogUFQ5MFMKICAgICAgICAiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>sector\.value</last-search>
+      <last-search>30000</last-search>
       <last-offset />
-      <last-pattern>sector\.value</last-pattern>
+      <last-pattern>30000</last-pattern>
       <last-replace>rtQuote</last-replace>
       <last-substitute>sector\.value</last-substitute>
       <last-dir>1</last-dir>
@@ -2459,6 +2475,7 @@
         <entry>: String</entry>
         <entry>.</entry>
         <entry>sector\.value</entry>
+        <entry>30000</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
