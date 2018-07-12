@@ -89,8 +89,8 @@
         <mark key="." line="35" column="81" />
         <mark key="^" line="35" column="81" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1531344748975">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1531412756367">
+        <mark key="'" line="27734" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -382,8 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="20" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheHolder.kt" />
-      <jump line="45" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/api/Router.kt" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/AemBffServiceApplication.kt" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/logging/LogbackFilter.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/AemBffServiceApplication.kt" />
@@ -482,6 +480,8 @@
       <jump line="89" column="54" filename="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolderTest.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="101" column="8" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerConfig.kt" />
+      <jump line="17421" column="129" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
+      <jump line="27734" column="2" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
