@@ -220,8 +220,10 @@
         <mark key="]" line="24" column="27" />
         <mark key="." line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/java/com/braintreepayments/demo/MainActivity.java" timestamp="1531317108429" />
-      <file name="/fragment.java" timestamp="1529512899721">
+      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/java/com/braintreepayments/demo/MainActivity.java" timestamp="1531353629350">
+        <mark key="'" line="315" column="17" />
+      </file>
+      <file name="/fragment.java" timestamp="1531353216357">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -297,6 +299,7 @@
       <jump line="328" column="2" filename="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/morningstar/midway/logs/midway.log" />
       <jump line="25" column="7" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" />
+      <jump line="315" column="17" filename="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/java/com/braintreepayments/demo/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
