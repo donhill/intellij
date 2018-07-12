@@ -159,7 +159,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/CorsFilter.kt" timestamp="1531428335494" />
+      <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/sectorvalue/CorsFilter.kt" timestamp="1531431072114">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="32" column="70" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/CorsFilter.kt" timestamp="1531427711703">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="5" />
@@ -343,64 +348,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkuQ29yc1dlYkZpbHRlcgo=</text>
+        <text encoding="base64">Ly8gICAgICByZXNwb25zZS5oZWFkZXJzLmFkZCgiQ29ubmVjdGlvbiIsICJrZWVwLWFsaXZlIikK</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>Accept,Origin,Content-Type,X-Requested-With,x-request-id</text>
       </register>
       <register name="/" type="4">
         <text>30000</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNpcmN1aXRCcmVha2VyQ29uZmlnLnJldHJ5Q29uZmlnLmRlbGF5TGVuZ3RoIHNob3VsZEJlIER1cmF0aW9uLnBhcnNlKCJQVDVTIikK</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uc2UuaGVhZGVycy5hZGQoSHR0cEhlYWRlcnMuQUNDRVNTX0NPTlRST0xfUkVRVUVTVF9IRUFERVJTLCAiQWNjZXB0LE9yaWdpbixDb250ZW50LVR5cGUsUmVmZXJlcixVc2VyLUFnZW50LFgtUmVxdWVzdGVkLVdpdGgsWC1BUEktUkVBTFRJTUUtRSx4LXJlcXVlc3QtaWQseC1yZXF1ZXN0ZWQtd2l0aCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkuQ29yc1dlYkZpbHRlcgo=</text>
+        <text encoding="base64">Ly8gICAgICByZXNwb25zZS5oZWFkZXJzLmFkZCgiQ29ubmVjdGlvbiIsICJrZWVwLWFsaXZlIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkuQ29yc1dlYkZpbHRlcgo=</text>
+        <text encoding="base64">Ly8gICAgICByZXNwb25zZS5oZWFkZXJzLmFkZCgiQ29ubmVjdGlvbiIsICJrZWVwLWFsaXZlIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkuV2ViRmx1eENvcnNDb25maWcK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkuQ29yc1dlYkZpbHRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkuQ29yc1dlYkZpbHRlcgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y2lyY3VpdGJyZWFraW5nOgogICAgICBuYW1lOiBTZWN0b3JWYWx1YXRpb25GdXNlCiAgICAgIHRyYW5zbGF0b3I6IFNpbXBsZQogICAgICByZXRyeUNvbmZpZzoKICAgICAgICByZXRyeUNvbmRpdGlvbnM6CiAgICAgICAgICBwcmVkaWNhdGVOYW1lczogW10KICAgICAgICAgIGV4Y2VwdGlvbk5hbWVzOiBbXQogICAgICAgIGFib3J0Q29uZGl0aW9uczoKICAgICAgICAgIHByZWRpY2F0ZU5hbWVzOiBbXQogICAgICAgICAgZXhjZXB0aW9uTmFtZXM6IFtdCiAgICAgICAgbWF4UmV0cmllczogMAogICAgICAgIGRlbGF5TGVuZ3RoOiBQVDVTCiAgICAgICAgcmV0cnlUaW1lb3V0OiBQVDFNCiAgICAgIGJyZWFrQ29uZmlnOgogICAgICAgIGJyZWFrVHJpZ2dlcjoKICAgICAgICAgIHBlcmNlbnRhZ2VOZWVkZWQ6IDUwCiAgICAgICAgICBvdXRPZlRvdGFsOiAxMAogICAgICAgIHJlc3VtZVRyaWdnZXI6CiAgICAgICAgICBwZXJjZW50YWdlTmVlZGVkOiAxMDAKICAgICAgICAgIG91dE9mVG90YWw6IDUKICAgICAgICBmYWlsdXJlRGVmaW5pdGlvbjoKICAgICAgICAgIHByZWRpY2F0ZU5hbWVzOiBbXQogICAgICAgICAgZXhjZXB0aW9uTmFtZXM6IFtdCiAgICAgICAgZXhlY3V0aW9uVGltZW91dDogUFQyUwogICAgICAgIGhhbGZPcGVuRGVsYXk6IFBUNU0K</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkuV2ViRmx1eENvcnNDb25maWcK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text>circuitbreaking:
-      name: SectorValuationFuse
-      translator: Simple
-      retryConfig:
-        retryConditions:
-          predicateNames: []
-          exceptionNames: []
-        abortConditions:
-          predicateNames: []
-          exceptionNames: []
-        maxRetries: 0
-        delayLength: PT5S
-        retryTimeout: PT1M
-      breakConfig:
-        breakTrigger:
-          percentageNeeded: 50
-          outOfTotal: 10
-        resumeTrigger:
-          percentageNeeded: 100
-          outOfTotal: 5
-        failureDefinition:
-          predicateNames: []
-          exceptionNames: []
-        executionTimeout: PT2S
-        halfOpenDelay: PT5M</text>
+        <text encoding="base64">Y2lyY3VpdGJyZWFraW5nOgogICAgICBuYW1lOiBTZWN0b3JWYWx1YXRpb25GdXNlCiAgICAgIHRyYW5zbGF0b3I6IFNpbXBsZQogICAgICByZXRyeUNvbmZpZzoKICAgICAgICByZXRyeUNvbmRpdGlvbnM6CiAgICAgICAgICBwcmVkaWNhdGVOYW1lczogW10KICAgICAgICAgIGV4Y2VwdGlvbk5hbWVzOiBbXQogICAgICAgIGFib3J0Q29uZGl0aW9uczoKICAgICAgICAgIHByZWRpY2F0ZU5hbWVzOiBbXQogICAgICAgICAgZXhjZXB0aW9uTmFtZXM6IFtdCiAgICAgICAgbWF4UmV0cmllczogMAogICAgICAgIGRlbGF5TGVuZ3RoOiBQVDVTCiAgICAgICAgcmV0cnlUaW1lb3V0OiBQVDFNCiAgICAgIGJyZWFrQ29uZmlnOgogICAgICAgIGJyZWFrVHJpZ2dlcjoKICAgICAgICAgIHBlcmNlbnRhZ2VOZWVkZWQ6IDUwCiAgICAgICAgICBvdXRPZlRvdGFsOiAxMAogICAgICAgIHJlc3VtZVRyaWdnZXI6CiAgICAgICAgICBwZXJjZW50YWdlTmVlZGVkOiAxMDAKICAgICAgICAgIG91dE9mVG90YWw6IDUKICAgICAgICBmYWlsdXJlRGVmaW5pdGlvbjoKICAgICAgICAgIHByZWRpY2F0ZU5hbWVzOiBbXQogICAgICAgICAgZXhjZXB0aW9uTmFtZXM6IFtdCiAgICAgICAgZXhlY3V0aW9uVGltZW91dDogUFQyUwogICAgICAgIGhhbGZPcGVuRGVsYXk6IFBUNU0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2341,10 +2322,34 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGNpcmN1aXRicmVha2luZzoKICAgICAgbmFtZTogU2VjdG9yVmFsdWF0aW9uRnVzZQogICAgICB0cmFuc2xhdG9yOiBTaW1wbGUKICAgICAgcmV0cnlDb25maWc6CiAgICAgICAgcmV0cnlDb25kaXRpb25zOgogICAgICAgICAgcHJlZGljYXRlTmFtZXM6IFtdCiAgICAgICAgICBleGNlcHRpb25OYW1lczogW10KICAgICAgICBhYm9ydENvbmRpdGlvbnM6CiAgICAgICAgICBwcmVkaWNhdGVOYW1lczogW10KICAgICAgICAgIGV4Y2VwdGlvbk5hbWVzOiBbXQogICAgICAgIG1heFJldHJpZXM6IDAKICAgICAgICBkZWxheUxlbmd0aDogUFQ1UwogICAgICAgIHJldHJ5VGltZW91dDogUFQxTQogICAgICBicmVha0NvbmZpZzoKICAgICAgICBicmVha1RyaWdnZXI6CiAgICAgICAgICBwZXJjZW50YWdlTmVlZGVkOiA1MAogICAgICAgICAgb3V0T2ZUb3RhbDogMTAKICAgICAgICByZXN1bWVUcmlnZ2VyOgogICAgICAgICAgcGVyY2VudGFnZU5lZWRlZDogMTAwCiAgICAgICAgICBvdXRPZlRvdGFsOiA1CiAgICAgICAgZmFpbHVyZURlZmluaXRpb246CiAgICAgICAgICBwcmVkaWNhdGVOYW1lczogW10KICAgICAgICAgIGV4Y2VwdGlvbk5hbWVzOiBbXQogICAgICAgIGV4ZWN1dGlvblRpbWVvdXQ6IFBUMlMKICAgICAgICBoYWxmT3BlbkRlbGF5OiBQVDVN</text>
+        <text>circuitbreaking:
+      name: SectorValuationFuse
+      translator: Simple
+      retryConfig:
+        retryConditions:
+          predicateNames: []
+          exceptionNames: []
+        abortConditions:
+          predicateNames: []
+          exceptionNames: []
+        maxRetries: 0
+        delayLength: PT5S
+        retryTimeout: PT1M
+      breakConfig:
+        breakTrigger:
+          percentageNeeded: 50
+          outOfTotal: 10
+        resumeTrigger:
+          percentageNeeded: 100
+          outOfTotal: 5
+        failureDefinition:
+          predicateNames: []
+          exceptionNames: []
+        executionTimeout: PT2S
+        halfOpenDelay: PT5M</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
