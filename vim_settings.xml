@@ -53,7 +53,7 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/java/com/braintreepayments/demo/BaseActivity.java" timestamp="1531407800133" />
+      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/java/com/braintreepayments/demo/BaseActivity.java" timestamp="1531494529503" />
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/menu/activity_main_drawer.xml" timestamp="1530279795370">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -70,11 +70,11 @@
         <mark key="^" line="23" column="57" />
         <mark key="." line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1530301811659">
-        <mark key="[" line="78" column="38" />
-        <mark key="]" line="71" column="25" />
-        <mark key="." line="71" column="25" />
-        <mark key="^" line="71" column="25" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1531494737328">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/usertracking/services/DefaultUserTracking.kt" timestamp="1527628418015">
         <mark key="[" line="55" column="79" />
@@ -167,7 +167,12 @@
         <mark key="]" line="494" column="0" />
         <mark key="." line="494" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531407565668">
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531494940517">
+        <mark key="[" line="32" column="100" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1531493775738">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/logging/LogbackFilter.kt" timestamp="1529423572875">
@@ -222,7 +227,8 @@
         <mark key="]" line="24" column="27" />
         <mark key="." line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/java/com/braintreepayments/demo/MainActivity.java" timestamp="1531404543492">
+      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/build.gradle" timestamp="1531493589826" />
+      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/java/com/braintreepayments/demo/MainActivity.java" timestamp="1531494486868">
         <mark key="'" line="315" column="17" />
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
@@ -308,37 +314,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sdk</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iY29tLmdvb2dsZS5hbmRyb2lkLmdtcy53YWxsZXQuYXBpLmVuYWJsZWQiIGFuZHJvaWQ6dmFsdWU9InRydWUiIC8+Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zOnBsYXktc2VydmljZXMtbG9jYXRpb246JGZpcmViYXNlX3ZlcnNpb24iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBzCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLkNyYXNobHl0aWNzCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGlubmVyIGNsYXNzIFNtc1JlY2VpdmVyIDogQnJvYWRjYXN0UmVjZWl2ZXIoKSB7CiAgICAgICAgb3ZlcnJpZGUgZnVuIG9uUmVjZWl2ZShjb250ZXh0OiBDb250ZXh0LCBpbnRlbnQ6IEludGVudCkgewogICAgICAgICAgICBkZWJ1ZyggIk9uUmVjZWl2ZSBjYWxsZWQiKQogICAgICAgICAgICBpZiAoaW50ZW50LmFjdGlvbi5lcXVhbHMoSU5URU5UX0FDVElPTl9GSUxMX1BJTiwgaWdub3JlQ2FzZSA9IHRydWUpKSB7CiAgICAgICAgICAgICAgICB2YWwgcGluID0gaW50ZW50LmV4dHJhcy5nZXRTdHJpbmcoRVhUUkFfUElOX05VTUJFUikKICAgICAgICAgICAgICAgIHBpbk51bWJlci5zZXRUZXh0KHBpbikKICAgICAgICAgICAgICAgIExvZy5kKCJTTVNWZXJpZnkgTWVzc2FnZXMiLCBpbnRlbnQuZXh0cmFzLnRvU3RyaW5nKCkpCiAgICAgICAgICAgICAgICB2YWwgZW1haWxBZGRyZXNzID0gQWNjb3VudFV0aWwuZ2V0RW1haWxGcm9tRGV2aWNlKGFjdGl2aXR5KQoKICAgICAgICAgICAgICAgIG1lbnUuc2V0SWNvbihSLmRyYXdhYmxlLmljX2NoZWNrX2dyZWVuXzQ4ZHApCi8vICAgICAgICAgICAgICAgIHZlcmlmeVBpblByZXNlbnRlci52ZXJpZnlQaW4ocGluLCBwcmVmZXJlbmNlcy50b2tlbigpLCBlbWFpbEFkZHJlc3MpCi8vICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KGFjdGl2aXR5LCBlbWFpbEFkZHJlc3MsIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCkKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KGFjdGl2aXR5LCAiSW50ZW50IGFjdGlvbiA9OiIgKyBpbnRlbnQuYWN0aW9uLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLkNyYXNobHl0aWNzCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZU9wdGlvbnNNZW51KG1lbnUsIGluZmxhdGVyKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lbnUgPSBtZW51LmdldEl0ZW0oMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBpbmZsYXRlci5pbmZsYXRlKFIubWVudS5tZW51X3ZlcmlmeV9waW4sIG1lbnUpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2279,10 +2285,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgICBtZW51LmNsZWFyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZU9wdGlvbnNNZW51KG1lbnU6IE1lbnUsIGluZmxhdGVyOiBNZW51SW5mbGF0ZXIpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
