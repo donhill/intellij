@@ -95,6 +95,12 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/services/ServicesComponent.kt" timestamp="1529425630366">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/adapters/CompanyAdapter.kt" timestamp="1531497093349">
+        <mark key="[" line="55" column="20" />
+        <mark key="]" line="47" column="21" />
+        <mark key="^" line="47" column="21" />
+        <mark key="." line="47" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/java/com/braintreepayments/demo/internal/ApiClient.java" timestamp="1531438426184" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheServiceImpl.kt" timestamp="1527699355501">
         <mark key="[" line="44" column="54" />
@@ -194,6 +200,9 @@
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/WelcomeActivity.kt" timestamp="1531495802072">
         <mark key="[" line="165" column="67" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/DriverMapFragment.kt" timestamp="1531497205479">
+        <mark key="[" line="174" column="40" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/build.gradle" timestamp="1530281341489">
         <mark key="[" line="22" column="56" />
