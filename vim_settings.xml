@@ -66,7 +66,6 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/AndroidManifest.xml" timestamp="1531520035036" />
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/menu/activity_main_drawer.xml" timestamp="1531495886558">
         <mark key="[" line="53" column="35" />
         <mark key="]" line="53" column="35" />
@@ -87,11 +86,10 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/adapters/IncidentsAdapter.kt" timestamp="1531521429810">
         <mark key="[" line="23" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1531578242490">
-        <mark key="[" line="108" column="79" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1531582139922">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/usertracking/services/DefaultUserTracking.kt" timestamp="1527628418015">
         <mark key="[" line="55" column="79" />
@@ -225,7 +223,7 @@
         <mark key="." line="36" column="1" />
         <mark key="^" line="36" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531520690911">
+      <file name="/Dummy.txt" timestamp="1531581987413">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/adapters/DriverColorAdapter.kt" timestamp="1531502286221">
@@ -381,7 +379,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxtZXRhLWRhdGEgYW5kcm9pZDpuYW1lPSJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zLndhbGxldC5hcGkuZW5hYmxlZCIgYW5kcm9pZDp2YWx1ZT0idHJ1ZSIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>?</text>
@@ -393,25 +391,25 @@
         <text encoding="base64">PFRleHRWaWV3Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxtZXRhLWRhdGEgYW5kcm9pZDpuYW1lPSJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zLndhbGxldC5hcGkuZW5hYmxlZCIgYW5kcm9pZDp2YWx1ZT0idHJ1ZSIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsYXRlaW5pdCBpbnRlcm5hbCB2YXIgdmVyaWZ5UGluUHJlc2VudGVyOiBWZXJpZnlQaW5QcmVzZW50ZXIK</text>
+        <text encoding="base64">ICAgIC8vICAgIGltcGxlbWVudGF0aW9uICdjb20uYnJhaW50cmVlcGF5bWVudHMuYXBpOmRyb3AtaW46Mi4zLjgnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBASW5qZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIChhY3Rpdml0eSBhcyBSZWdpc3RlckFjdGl2aXR5KS5zdXBwb3J0QWN0aW9uQmFyPy50aXRsZSA9ICJQaG9uZSBWZXJpZmljYXRpb24iCg==</text>
+        <text encoding="base64">ICAgIC8vICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLnNxdWFyZXVwLmxlYWtjYW5hcnk6bGVha2NhbmFyeS1hbmRyb2lkLW5vLW9wOjEuNS4xJwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vICAgIHJlbGVhc2VDb21waWxlICdjb20uc3F1YXJldXAubGVha2NhbmFyeTpsZWFrY2FuYXJ5LWFuZHJvaWQtbm8tb3A6MS41LjEnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2352,10 +2350,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vICAgIGRlYnVnQ29tcGlsZSAnY29tLnNxdWFyZXVwLmxlYWtjYW5hcnk6bGVha2NhbmFyeS1hbmRyb2lkOjEuNS4xJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWcoICIkYXJndW1lbnRzIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
