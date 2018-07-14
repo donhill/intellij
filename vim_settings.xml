@@ -149,6 +149,9 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/adapters/OperatorAdapter.kt" timestamp="1531502310777">
         <mark key="[" line="26" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/rest/RestService.kt" timestamp="1531603770520">
+        <mark key="[" line="61" column="84" />
+      </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/RegisterPhoneFragment.kt" timestamp="1531501707872">
         <mark key="[" line="102" column="68" />
         <mark key="]" line="102" column="20" />
@@ -158,7 +161,7 @@
       <file name="$USER_HOME$/projects/android/tow-user/content/FAQ.html" timestamp="1529785761491">
         <mark key="[" line="126" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1531601288260" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1531603908824" />
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/services/FirebaseBackgroundService.kt" timestamp="1529785888973">
         <mark key="[" line="140" column="48" />
       </file>
@@ -224,11 +227,16 @@
         <mark key="." line="69" column="75" />
         <mark key="^" line="69" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531603111348">
-        <mark key="[" line="42" column="43" />
-        <mark key="]" line="42" column="43" />
-        <mark key="." line="42" column="43" />
-        <mark key="^" line="42" column="50" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/ioc/ApplicationComponent.kt" timestamp="1531603950002">
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531604211219">
+        <mark key="[" line="86" column="18" />
+        <mark key="]" line="86" column="25" />
+        <mark key="." line="86" column="25" />
+        <mark key="^" line="86" column="25" />
       </file>
       <file name="/Dummy.txt" timestamp="1531601186158">
         <mark key="[" line="0" column="0" />
@@ -257,7 +265,7 @@
       <file name="$USER_HOME$/projects/android/tow-user/build.gradle" timestamp="1531588827425">
         <mark key="[" line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/presenters/IncidentDetailPresenterImpl.kt" timestamp="1529844978812">
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/presenters/IncidentDetailPresenterImpl.kt" timestamp="1531603841253">
         <mark key="[" line="45" column="39" />
         <mark key="]" line="45" column="39" />
         <mark key="^" line="45" column="39" />
@@ -390,16 +398,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eyJ2ZXJzaW9uIjoyLCJhdXRob3JpemF0aW9uRmluZ2VycHJpbnQiOiI5NTcxMGUzODA5YjE5ZDViODdhZGQ3ZmRkZDFmNDQyMWQ4ZDhmZDRlM2FlOTM5NjE1MDg1MmMyMDdmY2NhY2FlfGNyZWF0ZWRfYXQ9MjAxOC0wNy0xM1QxNzo1NjoyNC44OTE5MTI2NTYrMDAwMFx1MDAyNm1lcmNoYW50X2lkPTQ3cGNkZ255czljajR4bm1cdTAwMjZwdWJsaWNfa2V5PTJ5cTdkdDQyZHhkdGJ0ZjMiLCJjb25maWdVcmwiOiJodHRwczovL2FwaS5zYW5kYm94LmJyYWludHJlZWdhdGV3YXkuY29tOjQ0My9tZXJjaGFudHMvNDdwY2RnbnlzOWNqNHhubS9jbGllbnRfYXBpL3YxL2NvbmZpZ3VyYXRpb24iLCJjaGFsbGVuZ2VzIjpbXSwiZW52aXJvbm1lbnQiOiJzYW5kYm94IiwiY2xpZW50QXBpVXJsIjoiaHR0cHM6Ly9hcGkuc2FuZGJveC5icmFpbnRyZWVnYXRld2F5LmNvbTo0NDMvbWVyY2hhbnRzLzQ3cGNkZ255czljajR4bm0vY2xpZW50X2FwaSIsImFzc2V0c1VybCI6Imh0dHBzOi8vYXNzZXRzLmJyYWludHJlZWdhdGV3YXkuY29tIiwiYXV0aFVybCI6Imh0dHBzOi8vYXV0aC52ZW5tby5zYW5kYm94LmJyYWludHJlZWdhdGV3YXkuY29tIiwiYW5hbHl0aWNzIjp7InVybCI6Imh0dHBzOi8vb3JpZ2luLWFuYWx5dGljcy1zYW5kLnNhbmRib3guYnJhaW50cmVlLWFwaS5jb20vNDdwY2RnbnlzOWNqNHhubSJ9LCJ0aHJlZURTZWN1cmVFbmFibGVkIjp0cnVlLCJwYXlwYWxFbmFibGVkIjp0cnVlLCJwYXlwYWwiOnsiZGlzcGxheU5hbWUiOiJHZW1sb2dpYywgSW5jLiIsImNsaWVudElkIjpudWxsLCJwcml2YWN5VXJsIjoiaHR0cDovL2V4YW1wbGUuY29tL3BwIiwidXNlckFncmVlbWVudFVybCI6Imh0dHA6Ly9leGFtcGxlLmNvbS90b3MiLCJiYXNlVXJsIjoiaHR0cHM6Ly9hc3NldHMuYnJhaW50cmVlZ2F0ZXdheS5jb20iLCJhc3NldHNVcmwiOiJodHRwczovL2NoZWNrb3V0LnBheXBhbC5jb20iLCJkaXJlY3RCYXNlVXJsIjpudWxsLCJhbGxvd0h0dHAiOnRydWUsImVudmlyb25tZW50Tm9OZXR3b3JrIjp0cnVlLCJlbnZpcm9ubWVudCI6Im9mZmxpbmUiLCJ1bnZldHRlZE1lcmNoYW50IjpmYWxzZSwiYnJhaW50cmVlQ2xpZW50SWQiOiJtYXN0ZXJjbGllbnQzIiwiYmlsbGluZ0FncmVlbWVudHNFbmFibGVkIjp0cnVlLCJtZXJjaGFudEFjY291bnRJZCI6ImdlbWxvZ2ljaW5jIiwiY3VycmVuY3lJc29Db2RlIjoiVVNEIn0sIm1lcmNoYW50SWQiOiI0N3BjZGdueXM5Y2o0eG5tIiwidmVubW8iOiJvZmYifQ==</text>
+        <text>incidentViewHolder</text>
       </register>
       <register name="-" type="4">
-        <text>eyJ2ZXJzaW9uIjoyLCJhdXRob3JpemF0aW9uRmluZ2VycHJpbnQiOiI5NTcxMGUzODA5YjE5ZDViODdhZGQ3ZmRkZDFmNDQyMWQ4ZDhmZDRlM2FlOTM5NjE1MDg1MmMyMDdmY2NhY2FlfGNyZWF0ZWRfYXQ9MjAxOC0wNy0xM1QxNzo1NjoyNC44OTE5MTI2NTYrMDAwMFx1MDAyNm1lcmNoYW50X2lkPTQ3cGNkZ255czljajR4bm1cdTAwMjZwdWJsaWNfa2V5PTJ5cTdkdDQyZHhkdGJ0ZjMiLCJjb25maWdVcmwiOiJodHRwczovL2FwaS5zYW5kYm94LmJyYWludHJlZWdhdGV3YXkuY29tOjQ0My9tZXJjaGFudHMvNDdwY2RnbnlzOWNqNHhubS9jbGllbnRfYXBpL3YxL2NvbmZpZ3VyYXRpb24iLCJjaGFsbGVuZ2VzIjpbXSwiZW52aXJvbm1lbnQiOiJzYW5kYm94IiwiY2xpZW50QXBpVXJsIjoiaHR0cHM6Ly9hcGkuc2FuZGJveC5icmFpbnRyZWVnYXRld2F5LmNvbTo0NDMvbWVyY2hhbnRzLzQ3cGNkZ255czljajR4bm0vY2xpZW50X2FwaSIsImFzc2V0c1VybCI6Imh0dHBzOi8vYXNzZXRzLmJyYWludHJlZWdhdGV3YXkuY29tIiwiYXV0aFVybCI6Imh0dHBzOi8vYXV0aC52ZW5tby5zYW5kYm94LmJyYWludHJlZWdhdGV3YXkuY29tIiwiYW5hbHl0aWNzIjp7InVybCI6Imh0dHBzOi8vb3JpZ2luLWFuYWx5dGljcy1zYW5kLnNhbmRib3guYnJhaW50cmVlLWFwaS5jb20vNDdwY2RnbnlzOWNqNHhubSJ9LCJ0aHJlZURTZWN1cmVFbmFibGVkIjp0cnVlLCJwYXlwYWxFbmFibGVkIjp0cnVlLCJwYXlwYWwiOnsiZGlzcGxheU5hbWUiOiJHZW1sb2dpYywgSW5jLiIsImNsaWVudElkIjpudWxsLCJwcml2YWN5VXJsIjoiaHR0cDovL2V4YW1wbGUuY29tL3BwIiwidXNlckFncmVlbWVudFVybCI6Imh0dHA6Ly9leGFtcGxlLmNvbS90b3MiLCJiYXNlVXJsIjoiaHR0cHM6Ly9hc3NldHMuYnJhaW50cmVlZ2F0ZXdheS5jb20iLCJhc3NldHNVcmwiOiJodHRwczovL2NoZWNrb3V0LnBheXBhbC5jb20iLCJkaXJlY3RCYXNlVXJsIjpudWxsLCJhbGxvd0h0dHAiOnRydWUsImVudmlyb25tZW50Tm9OZXR3b3JrIjp0cnVlLCJlbnZpcm9ubWVudCI6Im9mZmxpbmUiLCJ1bnZldHRlZE1lcmNoYW50IjpmYWxzZSwiYnJhaW50cmVlQ2xpZW50SWQiOiJtYXN0ZXJjbGllbnQzIiwiYmlsbGluZ0FncmVlbWVudHNFbmFibGVkIjp0cnVlLCJtZXJjaGFudEFjY291bnRJZCI6ImdlbWxvZ2ljaW5jIiwiY3VycmVuY3lJc29Db2RlIjoiVVNEIn0sIm1lcmNoYW50SWQiOiI0N3BjZGdueXM5Y2o0eG5tIiwidmVubW8iOiJvZmYifQ==</text>
+        <text>incidentViewHolder</text>
       </register>
       <register name="/" type="4">
         <text>.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zOnBsYXktc2VydmljZXMtcGxhY2VzOiRmaXJlYmFzZV92ZXJzaW9uIgo=</text>
+        <text encoding="base64">ICAgIGZ1biBpbmplY3QoaW5jaWRlbnRWaWV3SG9sZGVyOiBJbmNpZGVudFZpZXdIb2xkZXIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5icmFpbnRyZWVwYXltZW50cy5hcGkuUGF5UGFsCg==</text>
