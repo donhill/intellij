@@ -86,11 +86,11 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/adapters/IncidentsAdapter.kt" timestamp="1531521429810">
         <mark key="[" line="23" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1531585282029">
-        <mark key="[" line="174" column="76" />
-        <mark key="]" line="174" column="74" />
-        <mark key="." line="174" column="74" />
-        <mark key="^" line="174" column="74" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/build.gradle" timestamp="1531591159421">
+        <mark key="[" line="110" column="65" />
+        <mark key="]" line="117" column="35" />
+        <mark key="." line="117" column="35" />
+        <mark key="^" line="117" column="35" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/usertracking/services/DefaultUserTracking.kt" timestamp="1527628418015">
         <mark key="[" line="55" column="79" />
@@ -125,17 +125,17 @@
         <mark key="^" line="22" column="37" />
         <mark key="." line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/adapters/truck/FirebaseAdapter.kt" timestamp="1531503152297">
-        <mark key="[" line="25" column="41" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/adapters/truck/FirebaseAdapter.kt" timestamp="1531590701165">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="18" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/aembffservice/services/caching/EhCacheServiceImpl.kt" timestamp="1527699355501">
         <mark key="[" line="44" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/MessageFragment.kt" timestamp="1531501544316">
-        <mark key="[" line="139" column="28" />
-        <mark key="]" line="139" column="8" />
-        <mark key="^" line="139" column="8" />
-        <mark key="." line="139" column="8" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/MessageFragment.kt" timestamp="1531590623209">
+        <mark key="[" line="116" column="40" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/ApiComponent.kt" timestamp="1529425572022">
         <mark key="[" line="2" column="0" />
@@ -220,13 +220,13 @@
         <mark key="." line="69" column="75" />
         <mark key="^" line="69" column="75" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531583298665">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="36" column="1" />
-        <mark key="." line="36" column="1" />
-        <mark key="^" line="36" column="1" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531591405001">
+        <mark key="[" line="67" column="47" />
+        <mark key="]" line="67" column="45" />
+        <mark key="." line="67" column="45" />
+        <mark key="^" line="67" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531585153880">
+      <file name="/Dummy.txt" timestamp="1531590740392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/adapters/DriverColorAdapter.kt" timestamp="1531502286221">
@@ -244,8 +244,11 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/WelcomeActivity.kt" timestamp="1531502131488">
         <mark key="[" line="253" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/DriverMapFragment.kt" timestamp="1531497205479">
-        <mark key="[" line="174" column="40" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/DriverMapFragment.kt" timestamp="1531590046377">
+        <mark key="[" line="273" column="36" />
+        <mark key="]" line="273" column="34" />
+        <mark key="^" line="273" column="34" />
+        <mark key="." line="273" column="34" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/build.gradle" timestamp="1531588827425">
         <mark key="[" line="11" column="53" />
@@ -382,7 +385,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zOnBsYXktc2VydmljZXMtcGxhY2VzOiRmaXJlYmFzZV92ZXJzaW9uIgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5icmFpbnRyZWVwYXltZW50cy5hcGkuUGF5UGFsCg==</text>
       </register>
       <register name="-" type="4">
         <text>?</text>
@@ -394,25 +397,25 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zOnBsYXktc2VydmljZXMtcGxhY2VzOiRmaXJlYmFzZV92ZXJzaW9uIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5icmFpbnRyZWVwYXltZW50cy5hcGkuUGF5UGFsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5maXJlYmFzZS51aS5kYXRhYmFzZS5GaXJlYmFzZUxpc3RBZGFwdGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB6emQocDA6IEludGVudD8pIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGltcGxlbWVudGF0aW9uICdjb20uYnJhaW50cmVlcGF5bWVudHMuYXBpOmRyb3AtaW46Mi4zLjgnCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB6emQocDA6IEludGVudD8pIHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLnNxdWFyZXVwLmxlYWtjYW5hcnk6bGVha2NhbmFyeS1hbmRyb2lkLW5vLW9wOjEuNS4xJwo=</text>
+        <text encoding="base64">ICAgIC8vICAgIGltcGxlbWVudGF0aW9uICdjb20uYnJhaW50cmVlcGF5bWVudHMuYXBpOmRyb3AtaW46Mi4zLjgnCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2356,7 +2359,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHJlbGVhc2VDb21waWxlICdjb20uc3F1YXJldXAubGVha2NhbmFyeTpsZWFrY2FuYXJ5LWFuZHJvaWQtbm8tb3A6MS41LjEnCg==</text>
+        <text encoding="base64">ICAgIC8vICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLnNxdWFyZXVwLmxlYWtjYW5hcnk6bGVha2NhbmFyeS1hbmRyb2lkLW5vLW9wOjEuNS4xJwo=</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
