@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/projects/android/tow-user/content/TC_ResQ.html" timestamp="1529785875029">
         <mark key="[" line="128" column="121" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/adapters/ServicesRecyclerViewAdapter.kt" timestamp="1531498253684">
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/adapters/ServicesRecyclerViewAdapter.kt" timestamp="1531605184549">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="102" column="52" />
         <mark key="^" line="102" column="52" />
@@ -44,6 +44,11 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolder.kt" timestamp="1529512782065">
         <mark key="[" line="22" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/add_payment_fragment_blank.xml" timestamp="1531605557857">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/ehcache.xml" timestamp="1527616799427">
         <mark key="[" line="0" column="0" />
@@ -101,7 +106,12 @@
       <file name="/fragment.kt" timestamp="1529844918768">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/fragments/VerifyPinFragment.kt" timestamp="1531503164771">
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/fragment_blank.xml" timestamp="1531604685812">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/fragments/VerifyPinFragment.kt" timestamp="1531605109772">
         <mark key="'" line="83" column="48" />
         <mark key="[" line="135" column="38" />
         <mark key="]" line="91" column="0" />
@@ -232,13 +242,14 @@
         <mark key="]" line="48" column="15" />
         <mark key="." line="48" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531604211219">
-        <mark key="[" line="86" column="18" />
-        <mark key="]" line="86" column="25" />
-        <mark key="." line="86" column="25" />
-        <mark key="^" line="86" column="25" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531605451444">
+        <mark key="'" line="66" column="38" />
+        <mark key="[" line="66" column="38" />
+        <mark key="]" line="66" column="23" />
+        <mark key="." line="66" column="23" />
+        <mark key="^" line="66" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531601186158">
+      <file name="/Dummy.txt" timestamp="1531605171992">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/adapters/DriverColorAdapter.kt" timestamp="1531502286221">
@@ -307,12 +318,6 @@
         <mark key="]" line="44" column="58" />
         <mark key="^" line="41" column="49" />
         <mark key="." line="44" column="48" />
-      </file>
-      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/java/com/braintreepayments/demo/MainActivity.java" timestamp="1531505048285">
-        <mark key="'" line="315" column="17" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1531353216357">
         <mark key="[" line="0" column="0" />
@@ -395,10 +400,11 @@
       <jump line="25" column="7" filename="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/usertracking/RouterConfiguration.kt" />
       <jump line="315" column="17" filename="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/java/com/braintreepayments/demo/MainActivity.java" />
       <jump line="83" column="48" filename="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/fragments/VerifyPinFragment.kt" />
+      <jump line="65" column="38" filename="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>incidentViewHolder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>incidentViewHolder</text>
@@ -410,25 +416,25 @@
         <text encoding="base64">ICAgIGZ1biBpbmplY3QoaW5jaWRlbnRWaWV3SG9sZGVyOiBJbmNpZGVudFZpZXdIb2xkZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5icmFpbnRyZWVwYXltZW50cy5hcGkuUGF5UGFsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5maXJlYmFzZS51aS5kYXRhYmFzZS5GaXJlYmFzZUxpc3RBZGFwdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGl2YXRpb25fY29udGFpbmVyIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB6emQocDA6IEludGVudD8pIHsK</text>
+        <text encoding="base64">ICAgIDxWaWV3Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGltcGxlbWVudGF0aW9uICdjb20uYnJhaW50cmVlcGF5bWVudHMuYXBpOmRyb3AtaW46Mi4zLjgnCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2369,10 +2375,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLnNxdWFyZXVwLmxlYWtjYW5hcnk6bGVha2NhbmFyeS1hbmRyb2lkLW5vLW9wOjEuNS4xJwo=</text>
+        <text encoding="base64">ICAgICAgcHJvZ3Jlc3NEaWFsb2cuc2hvdygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
