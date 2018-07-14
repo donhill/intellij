@@ -45,10 +45,10 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolder.kt" timestamp="1529512782065">
         <mark key="[" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/add_payment_fragment_blank.xml" timestamp="1531605557857">
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/add_payment_fragment_blank.xml" timestamp="1531606084728">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/resources/ehcache.xml" timestamp="1527616799427">
         <mark key="[" line="0" column="0" />
@@ -159,8 +159,8 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/adapters/OperatorAdapter.kt" timestamp="1531502310777">
         <mark key="[" line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/rest/RestService.kt" timestamp="1531603770520">
-        <mark key="[" line="61" column="84" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/rest/RestService.kt" timestamp="1531606227347">
+        <mark key="[" line="64" column="10" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/RegisterPhoneFragment.kt" timestamp="1531501707872">
         <mark key="[" line="102" column="68" />
@@ -171,7 +171,6 @@
       <file name="$USER_HOME$/projects/android/tow-user/content/FAQ.html" timestamp="1529785761491">
         <mark key="[" line="126" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/MainActivity.kt" timestamp="1531603908824" />
       <file name="$USER_HOME$/projects/android/tow-user/app/src/truck/java/net/gemlogic/towapp/services/FirebaseBackgroundService.kt" timestamp="1529785888973">
         <mark key="[" line="140" column="48" />
       </file>
@@ -242,9 +241,9 @@
         <mark key="]" line="48" column="15" />
         <mark key="." line="48" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531605451444">
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531606326602">
         <mark key="'" line="66" column="38" />
-        <mark key="[" line="66" column="38" />
+        <mark key="[" line="180" column="1" />
         <mark key="]" line="66" column="23" />
         <mark key="." line="66" column="23" />
         <mark key="^" line="66" column="23" />
@@ -288,7 +287,6 @@
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/usertracking/MstarCookDataTest.kt" timestamp="1529423077016">
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-database/3.3.1/16c551d3030bed30906ec65b84b78e3ea7bcc936/firebase-ui-database-3.3.1-sources.jar!/com/firebase/ui/database/FirebaseListAdapter.java" timestamp="1531602070602" />
       <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/local.properties" timestamp="1530915865002">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="8" column="0" />
@@ -404,10 +402,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiIgLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>incidentViewHolder</text>
+        <text>tools:context=&quot;.fragments.BlankFragment&quot;</text>
       </register>
       <register name="/" type="4">
         <text>.</text>
@@ -416,25 +414,25 @@
         <text encoding="base64">ICAgIGZ1biBpbmplY3QoaW5jaWRlbnRWaWV3SG9sZGVyOiBJbmNpZGVudFZpZXdIb2xkZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Igo=</text>
+        <text encoding="base64">ICAgIDxCdXR0b24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGl2YXRpb25fY29udGFpbmVyIgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxWaWV3Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIvPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Igo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2375,10 +2373,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGl2YXRpb25fY29udGFpbmVyIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJvZ3Jlc3NEaWFsb2cuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgIDxWaWV3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>95</text>
