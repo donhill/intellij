@@ -103,7 +103,7 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvalue/SectorComponent.kt" timestamp="1529426334830">
         <mark key="[" line="2" column="21" />
       </file>
-      <file name="/fragment.kt" timestamp="1531607088051">
+      <file name="/fragment.kt" timestamp="1531660293568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/fragment_blank.xml" timestamp="1531604685812">
@@ -230,8 +230,8 @@
         <mark key="^" line="35" column="3" />
         <mark key="." line="35" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/AndroidManifest.xml" timestamp="1531520052198">
-        <mark key="[" line="14" column="108" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/AndroidManifest.xml" timestamp="1531660623916">
+        <mark key="[" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CompanyListFragment.kt" timestamp="1531498397063">
         <mark key="[" line="72" column="56" />
@@ -244,12 +244,12 @@
         <mark key="]" line="48" column="15" />
         <mark key="." line="48" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531657793927">
-        <mark key="'" line="61" column="38" />
-        <mark key="[" line="124" column="25" />
-        <mark key="]" line="144" column="66" />
-        <mark key="." line="144" column="66" />
-        <mark key="^" line="144" column="66" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531661078461">
+        <mark key="'" line="62" column="38" />
+        <mark key="[" line="108" column="31" />
+        <mark key="]" line="116" column="54" />
+        <mark key="." line="116" column="54" />
+        <mark key="^" line="116" column="54" />
       </file>
       <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/res/layout/main_activity.xml" timestamp="1531607425454" />
       <file name="/Dummy.txt" timestamp="1531605171992">
