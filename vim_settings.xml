@@ -159,8 +159,8 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/adapters/OperatorAdapter.kt" timestamp="1531502310777">
         <mark key="[" line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/rest/RestService.kt" timestamp="1531657479138">
-        <mark key="[" line="69" column="33" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/rest/RestService.kt" timestamp="1531671711773">
+        <mark key="[" line="66" column="27" />
         <mark key="]" line="68" column="8" />
         <mark key="^" line="68" column="8" />
         <mark key="." line="68" column="8" />
@@ -244,12 +244,12 @@
         <mark key="]" line="48" column="15" />
         <mark key="." line="48" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531661078461">
-        <mark key="'" line="62" column="38" />
-        <mark key="[" line="108" column="31" />
-        <mark key="]" line="116" column="54" />
-        <mark key="." line="116" column="54" />
-        <mark key="^" line="116" column="54" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531671773210">
+        <mark key="'" line="64" column="38" />
+        <mark key="[" line="90" column="37" />
+        <mark key="]" line="118" column="54" />
+        <mark key="." line="118" column="54" />
+        <mark key="^" line="118" column="54" />
       </file>
       <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/res/layout/main_activity.xml" timestamp="1531607425454" />
       <file name="/Dummy.txt" timestamp="1531605171992">
