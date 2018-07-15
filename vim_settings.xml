@@ -103,7 +103,7 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/sectorvalue/SectorComponent.kt" timestamp="1529426334830">
         <mark key="[" line="2" column="21" />
       </file>
-      <file name="/fragment.kt" timestamp="1529844918768">
+      <file name="/fragment.kt" timestamp="1531607088051">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/res/layout/fragment_blank.xml" timestamp="1531604685812">
@@ -241,13 +241,14 @@
         <mark key="]" line="48" column="15" />
         <mark key="." line="48" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531606326602">
-        <mark key="'" line="66" column="38" />
-        <mark key="[" line="180" column="1" />
-        <mark key="]" line="66" column="23" />
-        <mark key="." line="66" column="23" />
-        <mark key="^" line="66" column="23" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531607119265">
+        <mark key="'" line="61" column="38" />
+        <mark key="[" line="123" column="45" />
+        <mark key="]" line="123" column="43" />
+        <mark key="." line="123" column="43" />
+        <mark key="^" line="123" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/res/layout/main_activity.xml" timestamp="1531607425454" />
       <file name="/Dummy.txt" timestamp="1531605171992">
         <mark key="[" line="0" column="0" />
       </file>
