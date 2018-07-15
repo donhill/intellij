@@ -159,11 +159,11 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/adapters/OperatorAdapter.kt" timestamp="1531502310777">
         <mark key="[" line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/rest/RestService.kt" timestamp="1531671711773">
-        <mark key="[" line="66" column="27" />
-        <mark key="]" line="68" column="8" />
-        <mark key="^" line="68" column="8" />
-        <mark key="." line="68" column="8" />
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/rest/RestService.kt" timestamp="1531675586578">
+        <mark key="[" line="70" column="27" />
+        <mark key="]" line="72" column="8" />
+        <mark key="^" line="72" column="8" />
+        <mark key="." line="72" column="8" />
       </file>
       <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/RegisterPhoneFragment.kt" timestamp="1531501707872">
         <mark key="[" line="102" column="68" />
@@ -244,12 +244,12 @@
         <mark key="]" line="48" column="15" />
         <mark key="." line="48" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531671773210">
+      <file name="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" timestamp="1531676148690">
         <mark key="'" line="64" column="38" />
-        <mark key="[" line="90" column="37" />
-        <mark key="]" line="118" column="54" />
-        <mark key="." line="118" column="54" />
-        <mark key="^" line="118" column="54" />
+        <mark key="[" line="170" column="35" />
+        <mark key="]" line="89" column="55" />
+        <mark key="." line="89" column="55" />
+        <mark key="^" line="89" column="55" />
       </file>
       <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/res/layout/main_activity.xml" timestamp="1531607425454" />
       <file name="/Dummy.txt" timestamp="1531605171992">
@@ -405,11 +405,11 @@
       <jump line="65" column="38" filename="$USER_HOME$/projects/android/tow-user/app/src/driver/java/net/gemlogic/towapp/fragments/CollectPaymentMethodFragment.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IiIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>UUID.randomUUID().toString()</text>
       </register>
       <register name="-" type="4">
-        <text>tools:context=&quot;.fragments.BlankFragment&quot;</text>
+        <text>UUID.randomUUID().toString()</text>
       </register>
       <register name="/" type="4">
         <text>.</text>
