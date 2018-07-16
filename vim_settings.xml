@@ -80,6 +80,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/midway/pom.xml" timestamp="1531753486872">
+        <mark key="[" line="347" column="20" />
+        <mark key="]" line="341" column="0" />
+        <mark key="." line="341" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/config/SectorValuationCircuitBreakerTest.kt" timestamp="1531424834893">
         <mark key="[" line="35" column="82" />
         <mark key="]" line="35" column="81" />
@@ -127,10 +132,10 @@
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/resources/application.yml" timestamp="1531510500918">
         <mark key="'" line="12" column="48" />
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="36" column="10" />
-        <mark key="." line="36" column="10" />
-        <mark key="^" line="36" column="10" />
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="10" />
+        <mark key="^" line="32" column="10" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/resources/test.ddl" timestamp="1530806351877">
         <mark key="[" line="0" column="101" />
@@ -350,7 +355,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVudi5lbmFibGVkOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>Accept,Origin,Content-Type,X-Requested-With,x-request-id</text>
@@ -362,7 +367,7 @@
         <text encoding="base64">ICAgIGVudi5lbmFibGVkOiB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICByZXNwb25zZS5oZWFkZXJzLmFkZCgiQ29ubmVjdGlvbiIsICJrZWVwLWFsaXZlIikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -371,19 +376,19 @@
         <text encoding="base64">Ly8gICAgICByZXNwb25zZS5oZWFkZXJzLmFkZCgiQ29ubmVjdGlvbiIsICJrZWVwLWFsaXZlIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkuQ29yc1dlYkZpbHRlcgo=</text>
+        <text encoding="base64">Ly8gICAgICByZXNwb25zZS5oZWFkZXJzLmFkZCgiQ29ubmVjdGlvbiIsICJrZWVwLWFsaXZlIikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkuQ29yc1dlYkZpbHRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkuV2ViRmx1eENvcnNDb25maWcK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkuQ29yc1dlYkZpbHRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb3JuaW5nc3Rhci5paS5hcGkuV2ViRmx1eENvcnNDb25maWcK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Y2lyY3VpdGJyZWFraW5nOgogICAgICBuYW1lOiBTZWN0b3JWYWx1YXRpb25GdXNlCiAgICAgIHRyYW5zbGF0b3I6IFNpbXBsZQogICAgICByZXRyeUNvbmZpZzoKICAgICAgICByZXRyeUNvbmRpdGlvbnM6CiAgICAgICAgICBwcmVkaWNhdGVOYW1lczogW10KICAgICAgICAgIGV4Y2VwdGlvbk5hbWVzOiBbXQogICAgICAgIGFib3J0Q29uZGl0aW9uczoKICAgICAgICAgIHByZWRpY2F0ZU5hbWVzOiBbXQogICAgICAgICAgZXhjZXB0aW9uTmFtZXM6IFtdCiAgICAgICAgbWF4UmV0cmllczogMAogICAgICAgIGRlbGF5TGVuZ3RoOiBQVDVTCiAgICAgICAgcmV0cnlUaW1lb3V0OiBQVDFNCiAgICAgIGJyZWFrQ29uZmlnOgogICAgICAgIGJyZWFrVHJpZ2dlcjoKICAgICAgICAgIHBlcmNlbnRhZ2VOZWVkZWQ6IDUwCiAgICAgICAgICBvdXRPZlRvdGFsOiAxMAogICAgICAgIHJlc3VtZVRyaWdnZXI6CiAgICAgICAgICBwZXJjZW50YWdlTmVlZGVkOiAxMDAKICAgICAgICAgIG91dE9mVG90YWw6IDUKICAgICAgICBmYWlsdXJlRGVmaW5pdGlvbjoKICAgICAgICAgIHByZWRpY2F0ZU5hbWVzOiBbXQogICAgICAgICAgZXhjZXB0aW9uTmFtZXM6IFtdCiAgICAgICAgZXhlY3V0aW9uVGltZW91dDogUFQyUwogICAgICAgIGhhbGZPcGVuRGVsYXk6IFBUNU0K</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2323,35 +2328,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y2lyY3VpdGJyZWFraW5nOgogICAgICBuYW1lOiBTZWN0b3JWYWx1YXRpb25GdXNlCiAgICAgIHRyYW5zbGF0b3I6IFNpbXBsZQogICAgICByZXRyeUNvbmZpZzoKICAgICAgICByZXRyeUNvbmRpdGlvbnM6CiAgICAgICAgICBwcmVkaWNhdGVOYW1lczogW10KICAgICAgICAgIGV4Y2VwdGlvbk5hbWVzOiBbXQogICAgICAgIGFib3J0Q29uZGl0aW9uczoKICAgICAgICAgIHByZWRpY2F0ZU5hbWVzOiBbXQogICAgICAgICAgZXhjZXB0aW9uTmFtZXM6IFtdCiAgICAgICAgbWF4UmV0cmllczogMAogICAgICAgIGRlbGF5TGVuZ3RoOiBQVDVTCiAgICAgICAgcmV0cnlUaW1lb3V0OiBQVDFNCiAgICAgIGJyZWFrQ29uZmlnOgogICAgICAgIGJyZWFrVHJpZ2dlcjoKICAgICAgICAgIHBlcmNlbnRhZ2VOZWVkZWQ6IDUwCiAgICAgICAgICBvdXRPZlRvdGFsOiAxMAogICAgICAgIHJlc3VtZVRyaWdnZXI6CiAgICAgICAgICBwZXJjZW50YWdlTmVlZGVkOiAxMDAKICAgICAgICAgIG91dE9mVG90YWw6IDUKICAgICAgICBmYWlsdXJlRGVmaW5pdGlvbjoKICAgICAgICAgIHByZWRpY2F0ZU5hbWVzOiBbXQogICAgICAgICAgZXhjZXB0aW9uTmFtZXM6IFtdCiAgICAgICAgZXhlY3V0aW9uVGltZW91dDogUFQyUwogICAgICAgIGhhbGZPcGVuRGVsYXk6IFBUNU0K</text>
       </register>
-      <register name="9" type="4">
-        <text>circuitbreaking:
-      name: SectorValuationFuse
-      translator: Simple
-      retryConfig:
-        retryConditions:
-          predicateNames: []
-          exceptionNames: []
-        abortConditions:
-          predicateNames: []
-          exceptionNames: []
-        maxRetries: 0
-        delayLength: PT5S
-        retryTimeout: PT1M
-      breakConfig:
-        breakTrigger:
-          percentageNeeded: 50
-          outOfTotal: 10
-        resumeTrigger:
-          percentageNeeded: 100
-          outOfTotal: 5
-        failureDefinition:
-          predicateNames: []
-          exceptionNames: []
-        executionTimeout: PT2S
-        halfOpenDelay: PT5M</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
