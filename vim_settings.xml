@@ -171,6 +171,7 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/midway/usertracking/services/UserTrackingException.kt" timestamp="1531834607562">
         <mark key="[" line="5" column="135" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/apiv2/src/main/resources/version.properties" timestamp="1531930815836" />
       <file name="$USER_HOME$/projects/morningstar/midway/src/test/kotlin/com/morningstar/ii/midway/circuitbreaking/CircuitBreakerHolderTest.kt" timestamp="1531412059205">
         <mark key="'" line="85" column="54" />
         <mark key="[" line="2" column="0" />
