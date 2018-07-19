@@ -327,6 +327,11 @@
       <file name="$USER_HOME$/projects/android/tow-user/app/src/main/java/net/gemlogic/towapp/fragments/IncidentItemFragment.kt" timestamp="1531502434361">
         <mark key="[" line="41" column="55" />
       </file>
+      <file name="$USER_HOME$/projects/android/stripe-android/example/src/main/java/com/stripe/example/module/RetrofitFactory.java" timestamp="1532008543956">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="31" column="121" filename="$USER_HOME$/projects/morningstar/jarvis_api/src/main/java/com/morningstar/individual/controllers/ResearchResource.java" />
@@ -406,10 +411,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UUID.randomUUID().toString()</text>
+        <text>put your url here</text>
       </register>
       <register name="-" type="4">
-        <text>UUID.randomUUID().toString()</text>
+        <text>put your url here</text>
       </register>
       <register name="/" type="4">
         <text>.</text>
