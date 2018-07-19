@@ -153,6 +153,11 @@
       <file name="$USER_HOME$/projects/morningstar/midway/src/main/kotlin/com/morningstar/ii/api/ApiComponent.kt" timestamp="1529425572022">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/stripe-android/samplestore/src/main/java/com/stripe/samplestore/RetrofitFactory.java" timestamp="1532009233776">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/util/DateTimeFormats.kt" timestamp="1529441499377">
         <mark key="[" line="33" column="50" />
       </file>
@@ -411,10 +416,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>put your url here</text>
+        <text>put your base url here</text>
       </register>
       <register name="-" type="4">
-        <text>put your url here</text>
+        <text>put your base url here</text>
       </register>
       <register name="/" type="4">
         <text>.</text>
