@@ -180,6 +180,7 @@
       <file name="vim_settings.xml" timestamp="1527625172248">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/android/stripe-android/example/local.properties" timestamp="1532007716528" />
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/main/kotlin/com/morningstar/ii/midway/circuitbreaking/BreakerType.kt" timestamp="1529512676238">
         <mark key="[" line="13" column="53" />
         <mark key="]" line="13" column="29" />
@@ -251,7 +252,6 @@
         <mark key="." line="89" column="55" />
         <mark key="^" line="89" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/android/braintree-android-drop-in/Demo/src/main/res/layout/main_activity.xml" timestamp="1531607425454" />
       <file name="/Dummy.txt" timestamp="1531605171992">
         <mark key="[" line="0" column="0" />
       </file>
