@@ -51,6 +51,12 @@
         <mark key="'" line="100" column="8" />
         <mark key="[" line="143" column="19" />
       </file>
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/test/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceControllerTest.java" timestamp="1532012952328">
+        <mark key="[" line="91" column="43" />
+        <mark key="]" line="91" column="19" />
+        <mark key="." line="91" column="19" />
+        <mark key="^" line="91" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/morningstar/midway/midway/logs/midway.log" timestamp="1531510092743">
         <mark key="'" line="29925" column="0" />
         <mark key="[" line="0" column="0" />
@@ -100,7 +106,7 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" timestamp="1531861818070">
+      <file name="$USER_HOME$/projects/morningstar/iip-services-parent/iip-services-subscription/src/main/java/com/morningstar/iip/services/subscription/v2/controller/SubscriptionsServiceController.java" timestamp="1532009931583">
         <mark key="[" line="91" column="41" />
       </file>
       <file name="$USER_HOME$/projects/morningstar/aem-bff-service/src/test/kotlin/com/morningstar/ii/api/ParamBuilderTest.kt" timestamp="1529676348823">
@@ -384,7 +390,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFyIG1kOiBNZXNzYWdlRGlnZXN0PyA9IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>environment: Environment</text>
@@ -393,31 +399,31 @@
         <text>30000</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QENhdGVnb3J5KEludGVncmF0aW9uVGVzdDo6Y2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodHJ1ZSwgaXMoZGF0YS5nZXRTdWNjZXNzZnVsKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFyIG1kOiBNZXNzYWdlRGlnZXN0PyA9IG51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBqID0gMAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBqID0gMAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFyIG1kOiBNZXNzYWdlRGlnZXN0PyA9IG51bGwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhciBqID0gMAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRpbWUgPSBpdGVtc1tDVVJSRU5UX1RJTUVdCg==</text>
+        <text encoding="base64">ICAgIHZhciBqID0gMAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciB0aW1lem9uZU9mZnNldFN0cjogU3RyaW5nID0gIiIK</text>
+        <text encoding="base64">ICAgICAgdmFsIHRpbWUgPSBpdGVtc1tDVVJSRU5UX1RJTUVdCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2358,10 +2364,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudGVzdC5jb250ZXh0Lmp1bml0NC5TcHJpbmdSdW5uZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciB0aW1lem9uZU9mZnNldFN0cjogU3RyaW5nID0gIiIK</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
